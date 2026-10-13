@@ -1,0 +1,139 @@
+{
+ "id": "h05",
+ "leerdoelen": [
+  "expliquer qu'une antenne fonctionne dans <b>les deux sens</b> : du signal électrique vers l'onde radio et inversement.",
+  "expliquer pourquoi les antennes HF sont beaucoup plus <b>grandes</b> que les antennes VHF, alors qu'elles fonctionnent de la même façon.",
+  "calculer la longueur d'un <b>dipôle</b> et d'un <b>quart d'onde</b> à partir de la fréquence.",
+  "reconnaître un <b>dipôle, un quart d'onde, une ground plane, une 5/8 λ, une yagi</b> et un <b>long fil</b> sur un dessin ou une photo.",
+  "dire quelles antennes sont <b>omnidirectionnelles</b> et pourquoi une yagi a du <b>gain</b>.",
+  "déduire la <b>polarisation</b> de la position de l'antenne.",
+  "calculer la <b>PAR</b> (ERP).",
+  "expliquer la structure d'un <b>câble coaxial</b> et reconnaître les connecteurs <b>PL259</b> et <b>BNC</b>.",
+  "expliquer ce que font le <b>ROS</b> et une <b>boîte d'accord</b>, et où chercher le défaut en cas de ROS élevé.",
+  "expliquer la différence entre <b>symétrique</b> et <b>asymétrique</b> et dire à quoi sert un <b>balun</b>.",
+  "expliquer ce qu'est une <b>charge fictive</b> (dummy load)."
+ ],
+ "doelstellingen": [
+  "5a.1",
+  "5a.2",
+  "5b.1",
+  "5b.2",
+  "5c.1",
+  "5c.2",
+  "5c.3",
+  "5c.4",
+  "5c.5",
+  "5d.1",
+  "5e.1",
+  "5e.2",
+  "5f.1",
+  "8f.2"
+ ],
+ "paginas": [
+  "b01-antenne",
+  "b02-dipool",
+  "b03-verticaal",
+  "b04-yagi",
+  "b05-polarisatie",
+  "b06-erp",
+  "b07-coax",
+  "b08-swr",
+  "b09-atu",
+  "b10-balun",
+  "b11-dummyload",
+  "m01-lengte",
+  "formules"
+ ],
+ "flashcards": [
+  {
+   "voor": "Que fait une antenne ?",
+   "achter": "Elle transforme un signal électrique en onde radio (émission) et une onde radio en signal électrique (réception)."
+  },
+  {
+   "voor": "Fréquence de résonance",
+   "achter": "La fréquence sur laquelle l'antenne fonctionne le mieux. Antenne plus longue = fréquence plus basse."
+  },
+  {
+   "voor": "Pourquoi une antenne HF est-elle plus grande qu'une antenne VHF ?",
+   "achter": "Les dimensions dépendent de la longueur d'onde. Le principe de fonctionnement est le même."
+  },
+  {
+   "voor": "Longueur d'un dipôle",
+   "achter": "Environ une demi-longueur d'onde : λ/2 = 150 ÷ f (f en MHz, longueur en m)."
+  },
+  {
+   "voor": "Quart d'onde (λ/4)",
+   "achter": "Un demi-dipôle sur un plan de sol. Le plan de sol est le miroir qui crée l'autre moitié."
+  },
+  {
+   "voor": "Ground plane",
+   "achter": "Quart d'onde sur un mât avec des radians (λ/4 chacun) descendant en oblique, à environ 45°."
+  },
+  {
+   "voor": "Antenne 5/8 λ",
+   "achter": "Brin vertical plus long avec une bobine à la base. Meilleure en VHF/UHF."
+  },
+  {
+   "voor": "Yagi",
+   "achter": "Réflecteur (plus long), élément rayonnant (alimenté), directeurs (plus courts). Rayonne vers les directeurs. Gain par concentration."
+  },
+  {
+   "voor": "Omnidirectionnelle",
+   "achter": "Dipôle vertical, ground plane, 5/8 λ. Pas : dipôle horizontal, yagi, long fil."
+  },
+  {
+   "voor": "Polarisation",
+   "achter": "Même direction que l'antenne. Antenne horizontale = polarisation horizontale."
+  },
+  {
+   "voor": "PAR (ERP)",
+   "achter": "Puissance fournie à l'antenne × gain de l'antenne. 10 W × 4 = 40 W."
+  },
+  {
+   "voor": "Pourquoi du coaxial ?",
+   "achter": "Bon blindage : il ne rayonne pas et ne capte pas de perturbations."
+  },
+  {
+   "voor": "Couches du coaxial",
+   "achter": "Conducteur central, diélectrique, blindage (tresse), gaine."
+  },
+  {
+   "voor": "PL259 et BNC",
+   "achter": "PL259 : bague à visser, HF. BNC : baïonnette, pousser et tourner d'un quart de tour."
+  },
+  {
+   "voor": "ROS-mètre",
+   "achter": "Montre si le système d'antenne est adapté à l'émetteur (le moins de puissance réfléchie possible)."
+  },
+  {
+   "voor": "ROS élevé",
+   "achter": "Défaut dans l'antenne ou la ligne de transmission, pas dans l'émetteur. Peut endommager l'étage final."
+  },
+  {
+   "voor": "Boîte d'accord (ATU)",
+   "achter": "Permet à l'émetteur de délivrer sa puissance dans une antenne qui n'est pas à la bonne dimension. Ne change rien à l'antenne."
+  },
+  {
+   "voor": "Symétrique / asymétrique",
+   "achter": "Symétrique : dipôle, yagi. Asymétrique : ground plane, 5/8 λ, long fil, coaxial."
+  },
+  {
+   "voor": "Balun",
+   "achter": "Transition du symétrique (dipôle) vers l'asymétrique (coaxial). Empêche le coaxial de rayonner."
+  },
+  {
+   "voor": "Charge fictive (dummy load)",
+   "achter": "Résistance blindée : l'émetteur fonctionne, mais rien n'est rayonné."
+  }
+ ],
+ "samenvatting": [
+  "Une antenne transforme des signaux électriques en ondes radio et inversement. La taille dépend de la longueur d'onde, le principe est toujours le même.",
+  "Dipôle = environ une demi-longueur d'onde (150 ÷ f). Quart d'onde = la moitié de cela, sur un plan de sol.",
+  "Omnidirectionnelles : dipôle vertical, ground plane, 5/8 λ. Antenne directive avec gain : yagi.",
+  "Polarisation = direction de l'antenne. PAR (ERP) = puissance × gain.",
+  "Du coaxial pour son blindage, avec de vrais connecteurs RF (PL259, BNC, N) et le blindage bien fixé.",
+  "ROS-mètre : l'antenne est-elle adaptée ? ROS élevé = défaut dans l'antenne ou le câble. Boîte d'accord : l'émetteur voit 1 : 1, l'antenne ne change pas.",
+  "Dipôle sur coaxial : avec un balun. Tester un émetteur sans rayonner : charge fictive."
+ ],
+ "opmerking": null
+}
