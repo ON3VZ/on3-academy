@@ -1,0 +1,38 @@
+{
+ "id": "h07",
+ "leerdoelen": [
+  "uitleggen wat <b>EMC</b> betekent.",
+  "uitleggen dat een zender toestellen <b>in de buurt</b> kan storen, en dat een ontvanger gestoord kan worden.",
+  "opsommen <b>langs welke draden</b> storing binnenkomt, en wat <b>directe instraling</b> is.",
+  "zeggen hoe je de kans op storing <b>verkleint</b>: plaats en soort antenne, vermogen, modulatie.",
+  "uitleggen wat <b>immuniteit</b> is en waar je een <b>filter</b> of <b>ferrietring</b> plaatst.",
+  "uitleggen waarom zelfgebouwde filters op het <b>lichtnet</b> gevaarlijk kunnen zijn.",
+  "uitleggen waarvoor een <b>RF-aarding</b> dient.",
+  "zeggen hoe je een storingsklacht van de buren aanpakt en wat de rol van het <b>BIPT</b> is."
+ ],
+ "doelstellingen": ["7a.1", "7a.2", "7a.3", "7a.4", "7b.1", "7b.2", "7c.1", "7c.2", "7c.3", "7d.1"],
+ "paginas": ["b01-emc", "b02-voorkomen", "b03-immuniteit", "b04-aarding", "b05-buren", "m01-opsporen", "formules"],
+ "flashcards": [
+  {"voor": "EMC", "achter": "Elektromagnetische compatibiliteit: vermijden dat elektronische toestellen elkaar storen."},
+  {"voor": "Wie kan wie storen?", "achter": "Jouw zender kan toestellen in de buurt storen. Toestellen in de buurt kunnen soms jouw ontvanger storen."},
+  {"voor": "Langs waar komt storing binnen?", "achter": "Draden die als antenne werken: elektriciteitsnet, tv-antennekabel, luidspreker- en telefoonkabels."},
+  {"voor": "Directe instraling", "achter": "De golf komt rechtstreeks in het toestel. Vooral op VHF/UHF, als de zender dichtbij staat."},
+  {"voor": "Antenne en storing", "achter": "Zo ver mogelijk van huizen en zo hoog mogelijk. Op HF symmetrisch (dipool) beter dan een eindgevoede langedraad."},
+  {"voor": "Vermogen en storing", "achter": "Meer vermogen = meer kans op storing. Vermogen verlagen helpt."},
+  {"voor": "Modulatie en storing", "achter": "SSB geeft de meeste kans. FM, CW en bepaalde datamodes veel minder."},
+  {"voor": "Immuniteit", "achter": "Een toestel werkt correct, ook in de buurt van sterke radiogolven."},
+  {"voor": "Waar plaats je een filter?", "achter": "In de kabel waarlangs de storing binnenkomt, zo dicht mogelijk bij het gestoorde toestel."},
+  {"voor": "Filters op het lichtnet", "achter": "Moeten daarvoor geschikt zijn. Zelfbouw kan gevaarlijk zijn (ferrietringen niet)."},
+  {"voor": "RF-aarding", "achter": "Rechtstreekse weg naar de aarde voor HF-stromen, zodat ze niet via de aarding van het lichtnet storen."},
+  {"voor": "Buur klaagt over storing", "achter": "Samen bekijken en samen een oplossing zoeken. Lukt het niet: advies vragen aan het BIPT."}
+ ],
+ "samenvatting": [
+  "EMC = toestellen storen elkaar niet. Een zender kan toestellen in de buurt storen, en omgekeerd.",
+  "Storing komt binnen via draden (net, antennekabel, luidspreker, telefoon) en op VHF/UHF ook rechtstreeks.",
+  "Minder kans: antenne ver en hoog, symmetrisch, minder vermogen, geen SSB maar FM of CW.",
+  "Immuniteit verbeteren met filters of ferrietringen, zo dicht mogelijk bij het gestoorde toestel. Filters op 230 V moeten daarvoor geschikt zijn.",
+  "RF-aarding: korte eigen weg naar de aarde voor HF-stromen.",
+  "Bij klachten: vriendelijk en samen zoeken, dan UBA, dan het BIPT."
+ ],
+ "opmerking": null
+}

@@ -1,0 +1,40 @@
+{
+ "id": "h09",
+ "leerdoelen": [
+  "uitleggen dat <b>hoge spanning</b> elektrocutie geeft en <b>grote stroom</b> brand.",
+  "uitleggen waarom toestellen op het lichtnet een <b>veiligheidsaarding</b> nodig hebben, en het symbool herkennen.",
+  "uitleggen waarvoor een <b>zekering</b> dient, waarom de waarde juist moet zijn, en het symbool herkennen.",
+  "zeggen waarom je een <b>centrale noodschakelaar</b> nodig hebt.",
+  "een netsnoer juist aansluiten: <b>bruin, blauw, geel-groen</b>.",
+  "zeggen wat je <b>als eerste</b> doet bij een ongeval met elektriciteit.",
+  "de veiligheidsregels voor <b>kabels, antennes, elektriciteitslijnen en bliksem</b> opsommen.",
+  "uitleggen waarom je je <b>gehoor</b> moet beschermen."
+ ],
+ "doelstellingen": ["9a.1", "9a.2", "9a.3", "9a.4", "9a.5", "9a.6", "9b.1", "9c.1", "9c.2", "9c.3", "9c.4", "9c.5", "9c.6", "9d.1"],
+ "paginas": ["b01-gevaren", "b02-aarding", "b03-zekering", "b04-netsnoer", "b05-ongeval", "b06-opstelling", "b07-hoofdtelefoon", "m01-checklist", "formules"],
+ "flashcards": [
+  {"voor": "Hoge spanning", "achter": "Gevaar voor elektrocutie."},
+  {"voor": "Grote stroom", "achter": "Gevaar voor oververhitting en brand."},
+  {"voor": "Veiligheidsaarding", "achter": "Bij een defect gaat de stroom via de aarding en niet door jou: voorkomt elektrocutie."},
+  {"voor": "Zekering", "achter": "Onderbreekt bij te grote stroom: voorkomt oververhitting en brand. Altijd de juiste waarde."},
+  {"voor": "Zekering te groot", "achter": "Springt zelfs bij een defect niet: gevaarlijk."},
+  {"voor": "Centrale noodschakelaar", "achter": "Om in nood alle toestellen snel en zeker uit te schakelen."},
+  {"voor": "Werken in een toestel", "achter": "Eerst de stekker uittrekken."},
+  {"voor": "Kleuren netsnoer", "achter": "Bruin = fase, blauw = nul, geel-groen = aarding."},
+  {"voor": "Ongeval met elektriciteit", "achter": "Eerst de spanning uit. Pas dan het slachtoffer aanraken. Dan 112."},
+  {"voor": "Rondslingerende kabels", "achter": "Struikelgevaar en beschadigde isolatie."},
+  {"voor": "Antenne opzetten", "achter": "Stevig vast, ver van elektriciteitslijnen, met hulp en minstens één volwassene."},
+  {"voor": "Antenne tijdens zenden", "achter": "Niet aanraken. Zo opstellen dat toevallig aanraken onmogelijk is."},
+  {"voor": "Hoge antenne", "achter": "Bliksembeveiliging."},
+  {"voor": "Hoofdtelefoon", "achter": "Te luid volume kan je gehoor blijvend beschadigen."}
+ ],
+ "samenvatting": [
+  "Hoge spanning = elektrocutie. Grote stroom = oververhitting en brand.",
+  "Veiligheidsaarding tegen elektrocutie, zekering van de juiste waarde tegen brand, centrale noodschakelaar voor noodgevallen.",
+  "Werken in een toestel: stekker uit. Netsnoer: bruin fase, blauw nul, geel-groen aarding.",
+  "Ongeval: eerst spanning uit, pas dan aanraken, dan 112.",
+  "Geen kabels op de grond, antennes stevig en ver van elektriciteitslijnen, nooit alleen, niet aanraken tijdens zenden, bliksembeveiliging.",
+  "Hoofdtelefoon niet te luid."
+ ],
+ "opmerking": null
+}

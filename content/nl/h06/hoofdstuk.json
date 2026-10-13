@@ -1,0 +1,38 @@
+{
+ "id": "h06",
+ "leerdoelen": [
+  "uitleggen dat een radiogolf <b>rechtdoor</b> gaat, tenzij ze <b>weerkaatst</b> of <b>afgebogen</b> wordt, en onderweg <b>zwakker</b> wordt.",
+  "uitleggen waarom er op VHF en UHF <b>schaduwzones</b> zijn achter heuvels en gebouwen.",
+  "zeggen waar je binnen het best ontvangt en waarom een <b>buitenantenne</b> beter is.",
+  "opsommen waarvan het <b>bereik op VHF en UHF</b> afhangt, en waarom een <b>hogere antenne</b> beter is dan meer vermogen.",
+  "uitleggen wat de <b>ionosfeer</b> is en op welke hoogte ze ligt.",
+  "uitleggen hoe HF via de ionosfeer de <b>wereld rond</b> gaat.",
+  "opsommen waarvan de HF-condities afhangen: <b>frequentie, uur, seizoen en zonnevlekkencyclus</b>."
+ ],
+ "doelstellingen": ["6a.1", "6a.2", "6a.3", "6a.4", "6a.5", "6b.1", "6b.2"],
+ "paginas": ["b01-basis", "b02-schaduw", "b03-bereik", "b04-ionosfeer", "b05-condities", "m01-hf-vhf", "formules"],
+ "flashcards": [
+  {"voor": "Propagatie", "achter": "Hoe een radiogolf zich verplaatst van zender naar ontvanger."},
+  {"voor": "Hoe reist een radiogolf?", "achter": "Rechtdoor, tenzij ze weerkaatst of afgebogen wordt. Ze wordt onderweg altijd zwakker."},
+  {"voor": "Grens HF en VHF", "achter": "Ongeveer 30 MHz."},
+  {"voor": "Schaduwzone", "achter": "Gebied achter een heuvel of groot gebouw met zwak of geen signaal. Op VHF en UHF, niet op HF."},
+  {"voor": "Portofoon binnen", "achter": "Best dicht bij een raam: glas laat door, beton niet."},
+  {"voor": "Bereik VHF/UHF", "achter": "Niet veel verder dan de optische horizon. Hangt af van antennehoogte, vrij zicht, vermogen en frequentie."},
+  {"voor": "Antenne hoger of meer vermogen?", "achter": "Antenne hoger: beter bij zenden én ontvangen. Meer vermogen: alleen bij zenden."},
+  {"voor": "Hogere frequentie op VHF/UHF", "achter": "Kleiner bereik."},
+  {"voor": "Ionosfeer", "achter": "Lagen geïoniseerd gas op 70 tot 400 km hoogte. Kaatst HF terug."},
+  {"voor": "HF over grote afstand", "achter": "Door reflectie in de ionosfeer. 14 MHz over 15 000 km kan, 144 MHz niet."},
+  {"voor": "Waarvan hangen HF-condities af?", "achter": "Frequentie, uur van de dag, seizoen en zonnevlekkencyclus. Niet van de modulatie."},
+  {"voor": "Zonnevlekkencyclus", "achter": "Ongeveer 11 jaar. Veel zonnevlekken = ionosfeer kaatst beter terug."},
+  {"voor": "D-laag", "achter": "Onderste laag, alleen overdag. Slokt lage frequenties op (160 m, 80 m)."},
+  {"voor": "F-laag", "achter": "Bovenste laag, kaatst HF terug. 's Nachts dunner."}
+ ],
+ "samenvatting": [
+  "Een radiogolf gaat rechtdoor tenzij ze weerkaatst of afgebogen wordt, en wordt onderweg zwakker.",
+  "VHF en UHF: schaduwzones achter heuvels en gebouwen, glas laat door, beton niet, buitenantenne is beter.",
+  "VHF en UHF: bereik tot ongeveer de horizon. Hogere antenne helpt zenden en ontvangen, meer vermogen alleen zenden. Hogere frequentie = kleiner bereik.",
+  "HF: via de ionosfeer (70 tot 400 km) de wereld rond.",
+  "HF-condities: frequentie, uur, seizoen en zonnevlekkencyclus (ongeveer 11 jaar)."
+ ],
+ "opmerking": null
+}

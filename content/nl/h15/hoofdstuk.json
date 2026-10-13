@@ -1,0 +1,313 @@
+{
+ "id": "h15",
+ "leerdoelen": [
+  "de <b>structuur</b> van de wetgeving uitleggen: de wet van 13 juni 2005 (deel 1) en het KB van 18 december 2009 (deel 2), en hun <b>rangorde</b>.",
+  "per artikel de <b>inhoud</b>, de <b>formulering</b> en de <b>impact</b> voor een radioamateur kennen.",
+  "alle <b>definities</b> uit de wet (art. 2) en het KB (art. 1) herkennen, ook als de antwoorden sterk op elkaar lijken.",
+  "de taken van het <b>BIPT</b> en de rol van de <b>Koning</b> uit elkaar houden.",
+  "de <b>vergunningsplicht</b>, de regels voor <b>apparatuur</b>, <b>verkoop</b>, <b>geheimhouding</b> en <b>storing</b> en de <b>straffen</b> uit de wet kennen.",
+  "de regels uit het KB kennen voor <b>vergunning</b>, <b>plichten</b>, <b>schorsing</b>, <b>bedieningscertificaat</b>, <b>examen</b>, <b>verenigingen</b>, <b>stationsvergunning</b>, <b>uitzendingen</b>, <b>frequenties</b>, <b>dossierrecht</b>, <b>jaarlijks recht</b> en <b>controle</b>.",
+  "alle <b>termijnen, leeftijden en bedragen</b> uit elkaar houden.",
+  "<b>situatievragen</b> oplossen die wetgeving en techniek combineren."
+ ],
+ "doelstellingen": [],
+ "paginas": [
+  "s01-structuur",
+  "w01-definities",
+  "w02-bipt",
+  "w03-vergunningsplicht",
+  "w04-storing",
+  "w05-apparatuur",
+  "w06-geheim",
+  "w07-verkoop",
+  "w08-rechten-veiligheid",
+  "w09-straffen",
+  "k01-definities",
+  "k02-categorieen",
+  "k03-technisch",
+  "k04-vergunning",
+  "k05-plichten",
+  "k06-schorsing",
+  "k07-certificaat",
+  "k08-verenigingen",
+  "k09-station",
+  "k10-uitzendingen",
+  "k11-frequenties",
+  "k12-dossierrecht",
+  "k13-jaarlijks",
+  "k14-houders",
+  "k15-controle",
+  "o00-definities",
+  "o01-getallen",
+  "o02-wie-wat",
+  "o03-situaties",
+  "formules"
+ ],
+ "flashcards": [
+  {
+   "voor": "Radiogolven / hertzgolven (wet 2, 31°)",
+   "achter": "Elektromagnetische golven die zich in de ruimte voortplanten zonder kunstmatige geleider, frequentie onder 3000 GHz."
+  },
+  {
+   "voor": "Radiofrequenties (wet 2, 32°)",
+   "achter": "De frequenties van radiogolven."
+  },
+  {
+   "voor": "Radiospectrum (wet 2, 33°)",
+   "achter": "Het geheel van de radiofrequenties."
+  },
+  {
+   "voor": "Spectrumtoewijzing (wet 2, 33/1°)",
+   "achter": "Aanwijzing van een specifieke frequentieband voor een of meer soorten radiocommunicatiediensten."
+  },
+  {
+   "voor": "Radiocommunicatie (wet 2, 34°)",
+   "achter": "Elke overbrenging door radiogolven van inlichtingen van alle aard, behalve de exclusieve transmissie van audiovisuele mediadiensten."
+  },
+  {
+   "voor": "Zendtoestel (wet 2, 35°)",
+   "achter": "Iedere generator van elektromagnetische trillingen gebouwd om radiocommunicatie uit te zenden."
+  },
+  {
+   "voor": "Zend- en ontvangtoestel (wet 2, 36°)",
+   "achter": "Iedere generator en ontvanger, gebouwd om uit te zenden en te ontvangen."
+  },
+  {
+   "voor": "Ontvangtoestel (wet 2, 37°)",
+   "achter": "Iedere ontvanger, gebouwd om radiocommunicatie te ontvangen."
+  },
+  {
+   "voor": "Radiostation (wet 2, 38°)",
+   "achter": "Het geheel: toestel, de ermee verbonden antennes en alle onderdelen nodig om het geheel te laten functioneren."
+  },
+  {
+   "voor": "Radiocommunicatienetwerk (wet 2, 38/1°)",
+   "achter": "Eenheid van een aantal stations die met elkaar kunnen communiceren binnen een vergunning of gebruiksrecht."
+  },
+  {
+   "voor": "Schadelijke storing (wet 2, 39°)",
+   "achter": "Brengt radionavigatie of andere veiligheidsdiensten in gevaar, of verslechtert, hindert of onderbreekt herhaaldelijk ernstig een dienst die volgens de voorschriften werkt."
+  },
+  {
+   "voor": "Wet (KB 1, 1°)",
+   "achter": "De wet van 13 juni 2005 betreffende de elektronische communicatie."
+  },
+  {
+   "voor": "Instituut (KB 1, 2°)",
+   "achter": "Het Belgisch Instituut voor postdiensten en telecommunicatie (BIPT)."
+  },
+  {
+   "voor": "Vast radiostation (KB 1, 3°)",
+   "achter": "Bestendig op een bepaalde plaats opgesteld."
+  },
+  {
+   "voor": "Transportabel radiostation (KB 1, 4°)",
+   "achter": "Kan worden verplaatst, maar enkel gebruikt wanneer het stilstaat."
+  },
+  {
+   "voor": "Mobiel radiostation (KB 1, 5°)",
+   "achter": "Ingebouwd in een voertuig, gebruikt in beweging of stilstaand op om het even welke plaats."
+  },
+  {
+   "voor": "Draagbaar radiostation (KB 1, 6°)",
+   "achter": "Los van een voertuig, gebruikt in beweging of stilstaand op om het even welke plaats."
+  },
+  {
+   "voor": "Zendinstallatie (KB 1, 7°)",
+   "achter": "Het geheel gekoppeld aan de ingang van de antennekabel: zendtoestel en eventueel filters, verzwakkers, splitters, caviteiten."
+  },
+  {
+   "voor": "Uitgangsvermogen zendinstallatie (KB 1, 8°)",
+   "achter": "Gemiddeld vermogen van de niet-gemoduleerde draaggolf aan de uitgang van de zendinstallatie."
+  },
+  {
+   "voor": "Vermogen afgeleverd aan de antenne (KB 1, 9°)",
+   "achter": "Gemiddeld vermogen van de niet-gemoduleerde draaggolf aan de ingang van de antenne."
+  },
+  {
+   "voor": "ERP (KB 1, 10°)",
+   "achter": "Vermogen aan de antenne × antennewinst ten opzichte van een dipoolantenne."
+  },
+  {
+   "voor": "EIRP (KB 1, 10°/1)",
+   "achter": "Vermogen aan de antenne × antennewinst ten opzichte van een isotrope antenne."
+  },
+  {
+   "voor": "Staat van kenmerkende gegevens (KB 1, 11°)",
+   "achter": "Bondige beschrijving: gebruik en plaats, uitgangsvermogen, vermogen aan de antenne, ERP, frequenties, antenneversterking, modulatietype."
+  },
+  {
+   "voor": "Roepnaam (KB 1, 12°)",
+   "achter": "Combinatie van letters of van letters en cijfers die een radiostation of zijn gebruiker identificeert."
+  },
+  {
+   "voor": "Vergunning voor een radiostation (KB 1, 17°)",
+   "achter": "De vergunning om een radiostation te doen werken."
+  },
+  {
+   "voor": "Gebruiksrecht (KB 1, 18°)",
+   "achter": "Het recht om radiofrequenties te gebruiken."
+  },
+  {
+   "voor": "Exclusieve frequentie (KB 1, 19°)",
+   "achter": "In een bepaalde zone voor één enkele houder."
+  },
+  {
+   "voor": "Gemeenschappelijke frequentie (KB 1, 20°)",
+   "achter": "In een zelfde zone voor verscheidene houders, rekening houdend met de dichtheid van de bezetting."
+  },
+  {
+   "voor": "Collectieve frequentie (KB 1, 21°)",
+   "achter": "In om het even welke zone voor verscheidene houders, zonder rekening te houden met de dichtheid van de bezetting."
+  },
+  {
+   "voor": "Niet-essentiële uitstraling (KB 1, 22°)",
+   "achter": "Uitstraling buiten de toegewezen frequentie, te verminderen zonder de kwaliteit aan te tasten."
+  },
+  {
+   "voor": "Op storingsvrije en onbeschermde basis (KB 1, 25°)",
+   "achter": "Geen schadelijke storing veroorzaken, en geen aanspraak op bescherming tegen storing door rechtmatige diensten."
+  },
+  {
+   "voor": "CEPT (KB 1, 29°)",
+   "achter": "Europese Conferentie van de administraties van Posterijen en Telecommunicatie, met het ERC en het ECC."
+  },
+  {
+   "voor": "Rangorde",
+   "achter": "Wet, KB, MB, besluit van de Raad van het BIPT."
+  },
+  {
+   "voor": "Frequenties toewijzen",
+   "achter": "Volgorde van ontvangst, noodzaak, beschikbaarheid (KB art. 18)."
+  },
+  {
+   "voor": "Taken BIPT (wet art. 13)",
+   "achter": "Beheer, onderzoek van aanvragen (niet omroep), coördinatie nationaal en internationaal, controle."
+  },
+  {
+   "voor": "Vergunningsplicht (wet art. 13/1)",
+   "achter": "Zend- of ontvangtoestel houden, station aanleggen en doen werken: schriftelijke vergunning."
+  },
+  {
+   "voor": "5e categorie",
+   "achter": "Radioamateurs: individuele opleiding, technische berichtenwisseling en studies."
+  },
+  {
+   "voor": "Buitenlandse amateur",
+   "achter": "Minder dan 3 maanden, vergunning volgens T/R 61-01 of (05)06: geen Belgische vergunning nodig."
+  },
+  {
+   "voor": "Leeftijd 5e categorie",
+   "achter": "Ouder dan 12 jaar. Andere vergunningen: ouder dan 18."
+  },
+  {
+   "voor": "Onverwacht bezit",
+   "achter": "Maximum 60 dagen om een vergunning aan te vragen."
+  },
+  {
+   "voor": "Weigeren aanvraag",
+   "achter": "Eerdere schorsing of intrekking, niet betaald, of minder dan 2 werkdagen vooraf."
+  },
+  {
+   "voor": "Vergunning bij controle",
+   "achter": "Onmiddellijk, in origineel. Kopie zonder waarde zonder voorafgaand schriftelijk akkoord."
+  },
+  {
+   "voor": "Bedieningscertificaat",
+   "achter": "5 jaar geldig vanaf afgifte, verlengbaar. Wijziging of verlies niet gemeld: onbestaande."
+  },
+  {
+   "voor": "Klassen",
+   "achter": "A = HAREC (T/R 61-02), B = ECC (05)06, C = ECC-rapport 89."
+  },
+  {
+   "voor": "Gezakt",
+   "achter": "Na 1 maand opnieuw inschrijven."
+  },
+  {
+   "voor": "Bedrog op examen",
+   "achter": "Nietig, 3 jaar geen BIPT-examen, certificaten ingetrokken."
+  },
+  {
+   "voor": "Erkende vereniging",
+   "achter": "Vzw, vaste stations in 5 provincies (of 4 + Brussel), opleiding zonder lidmaatschap, 2 gevolmachtigden klasse A."
+  },
+  {
+   "voor": "Stationsvergunning persoon",
+   "achter": "Eerst certificaat. Eén vast + mobiel + draagbaar. Remote enkel klasse A. Onbemand niet, behalve APRS."
+  },
+  {
+   "voor": "Clubstation verplaatsen",
+   "achter": "Max. 1 week, BIPT vooraf inlichten, geen aanpassing vergunning."
+  },
+  {
+   "voor": "Inhoud uitzendingen",
+   "achter": "Duidelijke taal, technische onderzoekingen. Geen reclame, niets voor derden."
+  },
+  {
+   "voor": "Encryptie",
+   "achter": "Enkel beheer van automatisch of remote station (na toestemming), of bij crisis op verzoek van de autoriteiten."
+  },
+  {
+   "voor": "Zenden vanuit vliegtuig of schip",
+   "achter": "Voorafgaande schriftelijke toestemming van de boordcommandant."
+  },
+  {
+   "voor": "Zelfbouw",
+   "achter": "Enkel hoogste vergunning (klasse A): bouwpakketten, ombouw voor eigen gebruik, zelfbouw voor experimenten."
+  },
+  {
+   "voor": "Verkoop zendtoestel",
+   "achter": "Enkel aan iemand met vergunning. Toevallig: aangifte binnen 10 dagen. Handelaar: maandelijks."
+  },
+  {
+   "voor": "Toevallig opgevangen bericht",
+   "achter": "Niet weergeven, niet meedelen, niet gebruiken, zelfs het bestaan niet bekendmaken."
+  },
+  {
+   "voor": "Storing oplossen",
+   "achter": "Op eenvoudig verzoek schorsen. Max. 30 dagen. Daarna buiten werking."
+  },
+  {
+   "voor": "Schorsen of intrekken (KB art. 10)",
+   "achter": "Het BIPT kan: voorwaarden niet nageleefd, weigert storing op te heffen, niet betaald, frequentie inpalmen."
+  },
+  {
+   "voor": "Onrechtmatig gebruik (KB art. 11)",
+   "achter": "Ook door een ander: onmiddellijke intrekking."
+  },
+  {
+   "voor": "Zonder vergunning (wet art. 145 § 2)",
+   "achter": "200 tot 2 000 EUR en/of 8 dagen tot 1 jaar."
+  },
+  {
+   "voor": "Dossierrecht te laat",
+   "achter": "< 20 werkdagen × 2, < 5 werkdagen × 5. Tijdelijk: 5 en 2."
+  },
+  {
+   "voor": "Vrijstelling dossierrecht",
+   "achter": "65-plussers, minderjarigen, min. 12 punten zelfredzaamheid, verdienvermogen ≤ 1/3."
+  },
+  {
+   "voor": "Jaarlijks recht",
+   "achter": "In dienst op 1 januari: heel jaar. In de loop van het jaar: naar rata, min. 30 dagen."
+  },
+  {
+   "voor": "Opzegging",
+   "achter": "Effectief op de datum van opzegging, creditnota, min. 30 dagen verschuldigd. Dossierrecht blijft verschuldigd."
+  }
+ ],
+ "samenvatting": [
+  "Twee teksten: wet van 13 juni 2005 en KB van 18 december 2009. Rangorde: wet, KB, MB, besluit van de Raad van het BIPT.",
+  "Definities: radiogolven onder 3000 GHz zonder kunstmatige geleider; radiostation met antennes en onderdelen; schadelijke storing = gevaar of ernstige hinder voor een radiodienst.",
+  "Stations: vast, transportabel (enkel stilstaand), mobiel (voertuig), draagbaar (los, ook in beweging). ERP t.o.v. dipool, EIRP t.o.v. isotroop.",
+  "Amateurbanden zijn collectief: geen bescherming, uitzendingen kort houden.",
+  "Vergunningsplicht voor houden én gebruiken. Radioamateurs = 5e categorie, vanaf ouder dan 12 jaar.",
+  "Certificaat 5 jaar. Gezakt: 1 maand wachten. Bedrog: 3 jaar uitgesloten.",
+  "Stationsvergunning: eerst certificaat, één vast plus mobiel en draagbaar, jaarlijks recht.",
+  "Duidelijke taal, technische onderwerpen, geen reclame, niets voor derden, roepnaam begin, einde en om de 5 minuten.",
+  "Storing verboden; op eenvoudig verzoek stoppen, max. 30 dagen om op te lossen.",
+  "BIPT kan schorsen of intrekken; onrechtmatig gebruik = onmiddellijke intrekking. Dossierrecht × 2 of × 5 bij laattijdige aanvraag."
+ ],
+ "opmerking": "Bron: hoofdstuk 15 van het UBA-handboek (wet van 13 juni 2005 en KB van 18 december 2009), zoals de UBA het als examenstof uitgeeft."
+}

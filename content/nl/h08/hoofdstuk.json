@@ -1,0 +1,45 @@
+{
+ "id": "h08",
+ "leerdoelen": [
+  "uitleggen waarom je <b>eerst luistert</b> en vraagt of de frequentie vrij is.",
+  "een correcte <b>CQ</b>-oproep doen.",
+  "uitleggen waarom je op VHF/UHF de <b>oproepfrequentie</b> verlaat na het contact.",
+  "elk woord met het <b>internationale spellingsalfabet</b> spellen.",
+  "uitleggen wat een <b>repeater</b>, de <b>shift</b>, de <b>1750 Hz-toon</b> en <b>CTCSS</b> zijn.",
+  "een <b>bandplan</b> lezen en zeggen waar je met een bepaalde mode mag zenden.",
+  "een microfoon of ander audiotoestel juist aansluiten (<b>PTT</b>, juiste sterkte).",
+  "een FM- en een HF-toestel bedienen, de <b>S-meter</b> aflezen en een <b>rapport</b> geven.",
+  "een station aansluiten, de <b>SWR</b> meten en een <b>dipool afregelen</b>."
+ ],
+ "doelstellingen": ["8a.1", "8a.2", "8a.3", "8a.4", "8b.1", "8c.1", "8d.1", "8e.1", "8e.2", "8e.3", "8e.4", "8e.5", "8f.1", "8f.2"],
+ "paginas": ["b01-qso", "b02-spellen", "b03-repeater", "b04-bandplan-14", "b05-bandplan-144", "b06-microfoon", "b07-fm-toestel", "b08-hf-ssb", "b09-aansluiten", "m01-proef", "formules"],
+ "flashcards": [
+  {"voor": "Eerst luisteren, waarom?", "achter": "Om andere stations niet te storen."},
+  {"voor": "Correcte CQ", "achter": "CQ CQ CQ, dit is ON3XYZ (een paar keer) ... die roept en luistert."},
+  {"voor": "Oproepfrequentie VHF/UHF", "achter": "Alleen om contact te maken. Daarna QSY, zodat anderen ze kunnen gebruiken. FM 2 m: 145,500 MHz."},
+  {"voor": "A B C D E F G", "achter": "Alfa Bravo Charlie Delta Echo Foxtrot Golf"},
+  {"voor": "H I J K L M N", "achter": "Hotel India Juliett Kilo Lima Mike November"},
+  {"voor": "O P Q R S T U", "achter": "Oscar Papa Quebec Romeo Sierra Tango Uniform"},
+  {"voor": "V W X Y Z", "achter": "Victor Whiskey X-ray Yankee Zulu (uitspraak zoe-loe)"},
+  {"voor": "Repeater", "achter": "Herhaalt signalen vanaf een hoge plaats. Vooral om het bereik van mobiele stations te vergroten."},
+  {"voor": "Shift", "achter": "Frequentieverschil tussen ingang en uitgang van een repeater. 2 m: 600 kHz."},
+  {"voor": "1750 Hz en CTCSS", "achter": "Tonen om een repeater te activeren. CTCSS: 67 tot 254 Hz."},
+  {"voor": "Bandplan", "achter": "Verdeelt een band tussen de modes, zodat ze elkaar niet storen."},
+  {"voor": "20 m: CW en fonie", "achter": "CW 14 000 tot 14 099 (contest tot 14 060). Bakens 14 099 tot 14 101. Fonie vanaf 14 101 (contest 14 125 tot 14 300)."},
+  {"voor": "2 m: waar zend je naar een repeater?", "achter": "Op de ingang: 144 990 tot 145 194 kHz, bijvoorbeeld 145,100 MHz."},
+  {"voor": "S-meter", "achter": "S1 tot S9. Elk S-punt = 2 × de spanning. S9 = 256 × S1."},
+  {"voor": "Rapport 59", "achter": "5 = perfect verstaanbaar, 9 = zeer sterk."},
+  {"voor": "Squelch", "achter": "Zet de ruis af als er geen signaal is. Instellen tot de ruis net wegvalt."},
+  {"voor": "RIT / clarifier", "achter": "Ontvangstfrequentie fijn bijregelen zonder je zendfrequentie te veranderen."}
+ ],
+ "samenvatting": [
+  "Eerst luisteren en vragen of de frequentie vrij is. CQ eindigt met 'die roept en luistert'.",
+  "Op VHF/UHF verlaat je de oproepfrequentie zodra je contact hebt.",
+  "Spellen met Alfa, Bravo, Charlie ... Zulu. Nooit eigen woorden.",
+  "Repeater: hoog geplaatst, voor mobiele stations. Shift = frequentieverschil. Openen met 1750 Hz of CTCSS.",
+  "Bandplan = band verdeeld tussen modes. Leer de 20 m- en 2 m-tabel.",
+  "Rapport: verstaanbaarheid (1 tot 5) en sterkte (1 tot 9). S-meter: elk punt 2 × de spanning.",
+  "Praktisch: squelch, volume, RIT, microfoonversterking, ATU, polariteit, SWR meten en dipool afregelen."
+ ],
+ "opmerking": null
+}
