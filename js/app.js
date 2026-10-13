@@ -137,17 +137,25 @@
     return k;
   }
 
+  function frMelding() {
+    const m = el("div", { class: "modal" }, `<div class="box"><h2>${T("fr_titel")}</h2><div class="disc-big"><p style="margin:0">${T("fr_melding")}</p></div><p style="margin-top:18px"><button class="btn pri">${T("fr_ok")}</button></p></div>`);
+    m.querySelector("button").onclick = () => { S.frGezien = true; save(); m.remove(); };
+    document.body.append(m);
+  }
+
   function home() {
     nav("home");
     app.innerHTML = `<div class="hero"><div class="eyebrow">${T("home_eyebrow")}</div><h1>${T("home_titel")}</h1><p style="color:var(--head-text);margin:0">${T("home_intro")}</p></div>`;
+    if (S.taal === "fr") app.append(el("div", { class: "card impact" }, `<h3 style="margin-top:0">${T("fr_titel")}</h3><p>${T("fr_melding")}</p>`));
     const ik = installKaart(); if (ik) app.append(ik);
     const grid = el("div", { class: "chapters" });
     taal().hoofdstukken.forEach((h) => {
+      if (h.info) { grid.append(el("div", { class: "chap off info" }, `<div class="band">${h.band ? h.band + " · " : ""}${T("hfst")} ${h.nummer}</div><h3>${h.titel}</h3><p>${h.ondertitel}</p><div class="meta"><span class="tag">${T("zie_handboek")}</span></div>`)); return; }
       const st = h.beschikbaar ? hoofdstukStats(h.id) : null;
       const a = el("a", { class: "chap" + (h.beschikbaar ? "" : " off"), href: `#/h/${h.id}` },
         `<div class="band">${h.band ? h.band + " · " : ""}${h.nummer ? T("hfst") + " " + h.nummer : ""}</div><h3>${h.titel}</h3><p>${h.ondertitel}</p>` +
-        (st ? `<div class="bar"><i style="width:${st.pct}%"></i></div><div class="meta"><span>${st.goed} / ${st.totaal} ${T("juist_kort")}</span><span>${h.uba_ref || ""}</span></div>`
-            : `<div class="meta"><span class="tag">${T("binnenkort")}</span><span>${h.uba_ref || ""}</span></div>`));
+        (st ? `<div class="bar"><i style="width:${st.pct}%"></i></div><div class="meta"><span>${st.goed} / ${st.totaal} ${T("juist_kort")}</span></div>`
+            : `<div class="meta"><span class="tag">${T("binnenkort")}</span></div>`));
       grid.append(a);
     });
     app.append(grid);
@@ -175,7 +183,7 @@
     const deelKop = (p, i) => (p.p && p.p.deel && (i === 0 || !paginas[i - 1].p || paginas[i - 1].p.deel !== p.p.deel)) ? `<li class="deel">${p.p.deel}</li>` : "";
     const lijst = paginas.map((p, i) => deelKop(p, i) + `<li class="${i === pi ? "cur" : ""} ${klaar(p) ? "done" : ""}"><a href="#/h/${hid}/${i}"><span class="nr">${i === 0 ? "•" : i}</span>${p.kort}${klaar(p) ? ' <span class="ok">✓</span>' : ""}</a></li>`).join("");
     app.innerHTML = `<nav class="crumbs"><a href="#/">${T("nav_home")}</a><span>›</span><a href="#/h/${hid}/0">${meta.nummer ? T("Hfst") + " " + meta.nummer + " " : ""}${meta.titel}</a><span>›</span><b>${cur.kort}</b></nav>
-      <div class="hero compact"><div class="eyebrow">${[meta.nummer ? T("Hfst") + " " + meta.nummer : T("starten"), meta.band, meta.uba_ref ? "UBA " + meta.uba_ref : ""].filter(Boolean).join(" · ")}</div><h1>${meta.titel}</h1>
+      <div class="hero compact"><div class="eyebrow">${[meta.nummer ? T("Hfst") + " " + meta.nummer : T("starten"), meta.band].filter(Boolean).join(" · ")}</div><h1>${meta.titel}</h1>
       <details class="paglijst"><summary>${F("pagina_van", { i: pi + 1, n: paginas.length })}: <b>${cur.kort}</b> <span class="toon">${T("alle_paginas")} ▾</span></summary><ol>${lijst}</ol></details>
       <div class="prog"><span>${nKlaar} / ${paginas.length} ${T("klaar_kort")}</span><div class="track"><div class="fill" style="width:${pct}%"></div></div><span>${pct} %</span></div></div>`;
     const art = el("div", { class: "article" }); app.append(art);
@@ -218,7 +226,7 @@
 
   function scorePagina(art, hid, paginas) {
     art.innerHTML = `<div class="eyebrow">${T("sk_eyebrow")}</div><h2>${T("sk_titel")}</h2><div class="card" id="rows"></div>
-      <div class="eyebrow" style="margin-top:30px">Quiz</div><h2>${T("quiz_titel")}</h2>
+      <div class="eyebrow" style="margin-top:30px">Quiz</div><h2>${F("quiz_titel", { n: Math.min(10, hoofdstukVragen(hid).filter((i) => !i.startsWith("C-")).length || hoofdstukVragen(hid).length) })}</h2>
       <div class="disc-big">${T("ex_disc")}</div><p><button class="btn pri" id="qs">${T("quiz_start")}</button></p><div id="qb"></div>
       <div class="eyebrow" style="margin-top:30px">${T("hr_eyebrow")}</div><p class="ref">${T("hr_info")}</p><p><button class="btn" id="hreset">${T("hr_knop")}</button></p>`;
     $("#hreset", art).onclick = () => { if (!confirm(T("hr_bevestig"))) return; hoofdstukVragen(hid).forEach((i) => { delete S.antwoorden[i]; delete S.fouten[i]; }); save(); smeter(); toast(T("hr_toast")); hoofdstuk(hid, paginas.length - 1); };
@@ -229,7 +237,7 @@
       rows.append(el("div", { class: "score-row" }, `<span>${pg.kort}</span><span>${g} / ${ids.length} ${T("juist_kort")}${d.length < ids.length ? " · " + (ids.length - d.length) + " " + T("open") : ""}</span>`));
     });
     $("#qs", art).onclick = () => {
-      const pool = shuffle(hoofdstukVragen(hid).filter((i) => !i.startsWith("C-"))).slice(0, 10);
+      let pool = shuffle(hoofdstukVragen(hid).filter((i) => !i.startsWith("C-"))).slice(0, 10); if (!pool.length) pool = shuffle(hoofdstukVragen(hid)).slice(0, 10);
       const box = $("#qb", art); let i = 0, goed = 0; const fout = [];
       const volgende = () => {
         box.innerHTML = "";
@@ -323,7 +331,7 @@
     nav("voortgang");
     app.innerHTML = `<div class="hero compact"><div class="eyebrow">${T("nav_voortgang")}</div><h1>${T("vg_titel")}</h1></div><div class="article" id="va"></div>`;
     const a = $("#va");
-    const rows = taal().hoofdstukken.filter((h) => h.beschikbaar).map((h) => { const s = hoofdstukStats(h.id); return `<div class="score-row"><span>${h.band} · ${h.titel}</span><span>${s.goed} / ${s.totaal} ${T("juist_kort")} · ${s.pct} %</span></div>`; }).join("");
+    const rows = taal().hoofdstukken.filter((h) => h.beschikbaar && !h.info).map((h) => { const s = hoofdstukStats(h.id); return `<div class="score-row"><span>${h.band} · ${h.titel}</span><span>${s.goed} / ${s.totaal} ${T("juist_kort")} · ${s.pct} %</span></div>`; }).join("");
     const ex = S.examens.length ? Math.max(...S.examens.map((e) => e.score)) : null;
     a.innerHTML = `<div class="stats"><div class="stat"><div class="n">${Object.keys(S.antwoorden).length}</div><div class="c">${T("vg_beantwoord")}</div></div>
       <div class="stat"><div class="n">${Object.keys(S.fouten).length}</div><div class="c">${T("vg_infout")}</div></div>
@@ -358,11 +366,13 @@
   document.querySelectorAll(".lang button").forEach((b) => b.onclick = () => {
     if (b.dataset.l === "fr" && !(C.talen.fr && C.talen.fr.hoofdstukken.length)) { toast(T("fr_toast")); return; }
     S.taal = b.dataset.l; save(); document.querySelectorAll(".lang button").forEach((x) => x.classList.toggle("on", x === b)); vertaalStatisch(); route();
+    if (S.taal === "fr" && !S.frGezien) frMelding();
   });
   document.querySelectorAll(".lang button").forEach((x) => x.classList.toggle("on", x.dataset.l === S.taal));
   vertaalStatisch();
   if (!S.disc) $("#discModal").classList.remove("hidden");
-  $("#discOk").onclick = () => { S.disc = new Date().toISOString(); save(); $("#discModal").classList.add("hidden"); };
+  $("#discOk").onclick = () => { S.disc = new Date().toISOString(); save(); $("#discModal").classList.add("hidden"); if (S.taal === "fr" && !S.frGezien) frMelding(); };
+  if (S.disc && S.taal === "fr" && !S.frGezien) frMelding();
   window.addEventListener("hashchange", route);
   smeter(); route();
   if ("serviceWorker" in navigator && location.protocol.startsWith("http")) navigator.serviceWorker.register("sw.js").catch(() => {});

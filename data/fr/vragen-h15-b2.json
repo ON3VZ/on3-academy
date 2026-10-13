@@ -1,0 +1,1447 @@
+[
+ {
+  "id": "E-h15-078",
+  "vraag": "En dehors d'une crise, quand un titulaire d'autorisation peut-il utiliser des messages cryptés ?",
+  "opties": [
+   "jamais",
+   "après autorisation de l'IBPT, pour la gestion de sa station automatique ou commandée à distance",
+   "toujours, si le destinataire a la clé",
+   "uniquement en VHF"
+  ],
+  "uitleg": "Uniquement après autorisation, et uniquement pour la gestion d'une station automatique ou commandée à distance.",
+  "waarom_fout": {
+   "A": "il existe une exception.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "chiffrement"
+ },
+ {
+  "id": "E-h15-079",
+  "vraag": "Vous voulez participer à un exercice d'un service de secours belge et communiquer à son sujet. Que faut-il ?",
+  "opties": [
+   "rien",
+   "un accord préalable de l'IBPT",
+   "une demande des autorités de gestion de crise",
+   "l'autorisation de l'UBA"
+  ],
+  "uitleg": "Lors d'exercices organisés par un service de secours belge : moyennant accord préalable de l'Institut.",
+  "waarom_fout": {
+   "A": "non.",
+   "C": "cela vaut pour une vraie crise.",
+   "D": "non."
+  },
+  "onderwerp": "exercice"
+ },
+ {
+  "id": "E-h15-080",
+  "vraag": "Que peut faire un radioamateur lors d'une crise, sur demande des autorités compétentes en matière de gestion de crise ?",
+  "opties": [
+   "uniquement écouter",
+   "transmettre des messages cryptés ou codés, utiliser toute station de 5e catégorie moyennant accord du titulaire de l'autorisation, et communiquer sur des sujets relatifs aux activités des services de secours",
+   "émettre sur toutes les fréquences, même en dehors des bandes radioamateurs",
+   "émettre avec plus de 1500 W"
+  ],
+  "uitleg": "Ce sont les trois possibilités de l'art. 17/7.",
+  "waarom_fout": {
+   "A": "il peut faire plus.",
+   "C": "ce n'est pas dans le texte.",
+   "D": "ce n'est pas dans le texte."
+  },
+  "onderwerp": "crise"
+ },
+ {
+  "id": "E-h15-081",
+  "vraag": "Un voisin vous demande de transmettre par votre station un message à sa famille à l'étranger. Est-ce permis ?",
+  "opties": [
+   "oui, toujours",
+   "non, il est interdit d'émettre des radiocommunications pour le compte ou au profit de tiers (l'IBPT peut accorder des dérogations)",
+   "oui, si c'est gratuit",
+   "oui, si c'est en langage clair"
+  ],
+  "uitleg": "Émettre pour le compte ou au profit de tiers est interdit.",
+  "waarom_fout": {
+   "A": "non.",
+   "C": "même gratuitement, c'est interdit.",
+   "D": "cela ne suffit pas."
+  },
+  "onderwerp": "tiers"
+ },
+ {
+  "id": "E-h15-082",
+  "vraag": "Pendant un QSO, vous mentionnez la boutique en ligne de votre entreprise. Est-ce permis ?",
+  "opties": [
+   "oui, brièvement",
+   "non, il est interdit de diffuser des émissions à caractère publicitaire",
+   "oui, si vous ne citez pas de prix",
+   "oui, en HF"
+  ],
+  "uitleg": "Il est interdit de diffuser des émissions à caractère publicitaire.",
+  "waarom_fout": {
+   "A": "non.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "publicité"
+ },
+ {
+  "id": "E-h15-083",
+  "vraag": "Qui assume la responsabilité de toute utilisation d'une station ?",
+  "opties": [
+   "l'utilisateur du moment, seul",
+   "le titulaire de l'autorisation ou son responsable",
+   "l'IBPT",
+   "le vendeur de l'appareil"
+  ],
+  "uitleg": "Le titulaire (ou son responsable) assume la responsabilité de toute utilisation.",
+  "waarom_fout": {
+   "A": "le titulaire reste responsable.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "titulaire"
+ },
+ {
+  "id": "E-h15-084",
+  "vraag": "Un ami sans certificat veut émettre sur votre station. Que dit l'AR ?",
+  "opties": [
+   "c'est permis si vous êtes à côté de lui",
+   "non, le titulaire doit vérifier que l'utilisateur est bien titulaire du certificat d'opérateur approprié",
+   "c'est permis sur 2 m",
+   "c'est permis s'il utilise votre indicatif d'appel"
+  ],
+  "uitleg": "Le titulaire doit vérifier que l'utilisateur a le certificat d'opérateur approprié, et empêcher l'usage par des personnes non autorisées.",
+  "waarom_fout": {
+   "A": "l'AR ne prévoit pas cette exception.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "titulaire"
+ },
+ {
+  "id": "E-h15-085",
+  "vraag": "Quel indicatif d'appel utilisez-vous sur la station d'un autre radioamateur ?",
+  "opties": [
+   "toujours l'indicatif du propriétaire",
+   "l'indicatif attaché à votre propre certificat d'opérateur ou celui de l'autorisation de la station utilisée",
+   "aucun indicatif",
+   "un indicatif au choix"
+  ],
+  "uitleg": "L'indicatif attaché à votre certificat d'opérateur ou à l'autorisation de la station utilisée.",
+  "waarom_fout": {
+   "A": "le vôtre est aussi permis.",
+   "C": "l'identification est obligatoire.",
+   "D": "non."
+  },
+  "onderwerp": "indicatif d'appel"
+ },
+ {
+  "id": "E-h15-086",
+  "vraag": "En morse, vous transmettez votre indicatif d'appel :",
+  "opties": [
+   "toujours très lentement",
+   "à la vitesse de transmission utilisée durant la liaison",
+   "toujours à 25 mots par minute",
+   "en phonie"
+  ],
+  "uitleg": "En télégraphie, à la vitesse de la liaison.",
+  "waarom_fout": {
+   "A": "non.",
+   "C": "non.",
+   "D": "en morse, vous le transmettez en morse."
+  },
+  "onderwerp": "indicatif d'appel"
+ },
+ {
+  "id": "E-h15-087",
+  "vraag": "Une émission dure douze minutes. Combien de fois au minimum devez-vous donner votre indicatif d'appel ?",
+  "opties": [
+   "uniquement au début",
+   "au début, à la fin et au moins une fois toutes les cinq minutes",
+   "uniquement à la fin",
+   "toutes les dix minutes"
+  ],
+  "uitleg": "Au début et à la fin, et au moins une fois toutes les cinq minutes.",
+  "waarom_fout": {
+   "A": "aussi à la fin et toutes les cinq minutes.",
+   "C": "aussi au début et entre les deux.",
+   "D": "toutes les cinq minutes."
+  },
+  "onderwerp": "indicatif d'appel"
+ },
+ {
+  "id": "E-h15-088",
+  "vraag": "Vous émettez avec une puissance plus élevée que celle reprise dans votre état signalétique. Que dit l'AR ?",
+  "opties": [
+   "c'est permis si personne n'est perturbé",
+   "c'est interdit : utiliser la station émettrice en dehors des conditions reprises dans son état signalétique",
+   "c'est permis la nuit",
+   "c'est permis pendant un concours"
+  ],
+  "uitleg": "Il est interdit d'utiliser la station en dehors des conditions reprises dans son état signalétique.",
+  "waarom_fout": {
+   "A": "non.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "état signalétique"
+ },
+ {
+  "id": "E-h15-089",
+  "vraag": "Votre station est installée chez un ami. Que doit permettre cet ami ?",
+  "opties": [
+   "rien",
+   "donner aux autorités de contrôle un accès permanent à la station, en garantissant leur sécurité",
+   "donner accès uniquement après une lettre recommandée",
+   "donner accès uniquement les jours ouvrables"
+  ],
+  "uitleg": "Le tiers donne aux autorités de contrôle un accès permanent, et vous devez l'informer de cette obligation.",
+  "waarom_fout": {
+   "A": "non.",
+   "C": "accès permanent.",
+   "D": "accès permanent."
+  },
+  "onderwerp": "tiers"
+ },
+ {
+  "id": "E-h15-090",
+  "vraag": "Que doit pouvoir faire le titulaire d'une autorisation à la demande des autorités de contrôle ?",
+  "opties": [
+   "montrer son carnet de trafic",
+   "arrêter les émissions de sa station",
+   "remettre son appareil",
+   "demander un nouvel indicatif d'appel"
+  ],
+  "uitleg": "Il prend les mesures appropriées pour pouvoir arrêter immédiatement les émissions à la demande des autorités de contrôle.",
+  "waarom_fout": {
+   "A": "ce n'est pas dans cette disposition ; il s'agit de pouvoir arrêter les émissions.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "arrêter"
+ },
+ {
+  "id": "E-h15-091",
+  "vraag": "Comme radioamateur, vous vendez occasionnellement votre ancien émetteur-récepteur. Dans quel délai faites-vous la déclaration à l'IBPT ?",
+  "opties": [
+   "dans les dix jours suivant la vente",
+   "dans les trente jours",
+   "dans les soixante jours",
+   "vous ne devez faire aucune déclaration"
+  ],
+  "uitleg": "Un vendeur occasionnel fait la déclaration dans les dix jours suivant l'opération.",
+  "waarom_fout": {
+   "B": "non.",
+   "C": "non.",
+   "D": "même occasionnellement, la déclaration est obligatoire."
+  },
+  "onderwerp": "déclaration"
+ },
+ {
+  "id": "E-h15-095",
+  "vraag": "Comment un commerçant en appareils émetteurs déclare-t-il ses ventes ?",
+  "opties": [
+   "dans les dix jours après chaque vente",
+   "tous les mois à l'aide d'un relevé récapitulatif, dans les dix premiers jours du mois suivant",
+   "une fois par an",
+   "jamais"
+  ],
+  "uitleg": "Tous les mois, dans les dix premiers jours du mois suivant.",
+  "waarom_fout": {
+   "A": "cela vaut pour un vendeur occasionnel.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "commerçant"
+ },
+ {
+  "id": "E-h15-099",
+  "vraag": "Un ON3 veut modifier son émetteur-récepteur commercial pour émettre en dehors des bandes radioamateurs. Est-ce permis ?",
+  "opties": [
+   "oui",
+   "non, seule la classe A peut transformer des équipements, et émettre en dehors des bandes autorisées n'est jamais permis",
+   "oui, s'il ne le vend pas",
+   "oui, avec un autocollant CE"
+  ],
+  "uitleg": "La classe C utilise uniquement des équipements commerciaux sans modification. En plus, vous n'émettez que dans les bandes autorisées.",
+  "waarom_fout": {
+   "A": "non.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "classe C"
+ },
+ {
+  "id": "E-h15-101",
+  "vraag": "Une autorisation de détention couvre-t-elle l'utilisation des appareils ?",
+  "opties": [
+   "oui, toujours",
+   "non, sauf pour en montrer le fonctionnement à un acquéreur en possession d'une autorisation d'essai et de détention provisoire",
+   "oui, sur les bandes radioamateurs",
+   "oui, si la puissance est inférieure à 5 W"
+  ],
+  "uitleg": "Une autorisation de détention ne couvre pas l'utilisation, avec cette seule exception.",
+  "waarom_fout": {
+   "A": "non.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "autorisation de détention"
+ },
+ {
+  "id": "E-h15-108",
+  "vraag": "Les services de contrôle vous demandent de suspendre vos émissions perturbatrices. Quand devez-vous le faire ?",
+  "opties": [
+   "après une lettre recommandée",
+   "sur simple demande",
+   "après trente jours",
+   "après un jugement"
+  ],
+  "uitleg": "Le titulaire suspend les émissions perturbatrices sur simple demande.",
+  "waarom_fout": {
+   "A": "une simple demande suffit.",
+   "C": "non, immédiatement.",
+   "D": "non."
+  },
+  "onderwerp": "brouillage"
+ },
+ {
+  "id": "E-h15-109",
+  "vraag": "Vous ne résolvez pas un brouillage dans le délai. Que font les services de contrôle ?",
+  "opties": [
+   "rien",
+   "la mise hors service de la station",
+   "modifier votre indicatif d'appel",
+   "annuler votre examen"
+  ],
+  "uitleg": "À défaut ou en cas de récidive, ils procèdent à la mise hors service de la station.",
+  "waarom_fout": {
+   "A": "non.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "récidive"
+ },
+ {
+  "id": "E-h15-110",
+  "vraag": "Quand la mise hors service de votre station est-elle levée ?",
+  "opties": [
+   "automatiquement après trente jours",
+   "après le réglage efficace de l'émetteur et la constatation de la disparition de la perturbation par les services de contrôle",
+   "après le paiement d'une amende",
+   "quand le voisin retire sa plainte"
+  ],
+  "uitleg": "Seulement après le réglage de l'émetteur et la constatation que la perturbation a disparu.",
+  "waarom_fout": {
+   "A": "non.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "levée"
+ },
+ {
+  "id": "E-h15-111",
+  "vraag": "Où introduisez-vous une plainte pour perturbation de radiocommunications ?",
+  "opties": [
+   "à la police",
+   "à l'IBPT",
+   "à l'UBA",
+   "à la commune"
+  ],
+  "uitleg": "Les plaintes relatives aux perturbations de radiocommunications sont introduites auprès de l'Institut.",
+  "waarom_fout": {
+   "A": "non.",
+   "C": "l'UBA aide, mais n'est pas compétente.",
+   "D": "non."
+  },
+  "onderwerp": "plainte"
+ },
+ {
+  "id": "E-h15-112",
+  "vraag": "Quelle cause de perturbation oblige l'usager responsable à faire lui-même les réparations à ses frais ?",
+  "opties": [
+   "un défaut de conception ou de construction, une modification, un mauvais entretien ou usage, ou une défectuosité",
+   "uniquement une défectuosité",
+   "uniquement la foudre",
+   "uniquement une erreur de l'IBPT"
+  ],
+  "uitleg": "Les quatre : défaut de conception ou de construction (y compris une modification), mauvais entretien ou usage, ou défectuosité.",
+  "waarom_fout": {
+   "B": "trop limité.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "causes"
+ },
+ {
+  "id": "E-h15-114",
+  "vraag": "Quels équipements de mesure les services de contrôle de l'IBPT utilisent-ils ?",
+  "opties": [
+   "uniquement des équipements de l'UBA",
+   "les équipements de mesure qu'ils jugent appropriés, avec les méthodes généralement admises",
+   "uniquement un S-mètre",
+   "uniquement les équipements du plaignant"
+  ],
+  "uitleg": "Les équipements qu'ils jugent appropriés, et ils peuvent aussi accepter les résultats de mesures d'autres organismes.",
+  "waarom_fout": {
+   "A": "non.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "contrôle"
+ },
+ {
+  "id": "E-h15-115",
+  "vraag": "Un contrôleur de l'IBPT veut visiter votre station. Que devez-vous faire ?",
+  "opties": [
+   "refuser sans mandat de perquisition",
+   "lui fournir l'accès et faciliter sa tâche, tout en garantissant sa sécurité",
+   "appeler d'abord votre avocat",
+   "donner accès uniquement après un rendez-vous de trente jours"
+  ],
+  "uitleg": "Chaque titulaire d'une autorisation ou utilisateur fournit l'accès et facilite le contrôle.",
+  "waarom_fout": {
+   "A": "non.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "accès"
+ },
+ {
+  "id": "E-h15-116",
+  "vraag": "Votre station ne perturbe pas seulement des radios mais aussi un autre appareil électrique. Les services de contrôle peuvent-ils intervenir ?",
+  "opties": [
+   "non, uniquement en cas de brouillage de stations de radiocommunications",
+   "oui, en cas de brouillages dans la réception d'autres stations ou dans le fonctionnement de toute autre installation électrique",
+   "uniquement si l'appareil porte le marquage CE",
+   "uniquement si le voisin porte plainte auprès de l'UBA"
+  ],
+  "uitleg": "L'art. 51 vaut aussi pour les brouillages de toute autre installation électrique.",
+  "waarom_fout": {
+   "A": "aussi d'autres installations électriques.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "arrêter un brouillage"
+ },
+ {
+  "id": "E-h15-117",
+  "vraag": "Quel motif ne figure PAS dans la liste pour suspendre ou révoquer une autorisation ?",
+  "opties": [
+   "ne pas respecter les conditions de l'autorisation",
+   "refuser d'appliquer des mesures contre des perturbations",
+   "ne pas payer les redevances dans les délais",
+   "ne pas être membre d'une association reconnue"
+  ],
+  "uitleg": "L'affiliation n'est jamais obligatoire. Les trois autres sont des motifs (avec le fait de s'emparer d'une fréquence).",
+  "waarom_fout": {
+   "A": "c'est bien un motif.",
+   "B": "c'est bien un motif.",
+   "C": "c'est bien un motif."
+  },
+  "onderwerp": "motifs"
+ },
+ {
+  "id": "E-h15-118",
+  "vraag": "Vous ne payez pas votre redevance annuelle dans le délai. Que peut-il se passer ?",
+  "opties": [
+   "rien",
+   "l'IBPT peut suspendre ou révoquer votre autorisation",
+   "votre autorisation est automatiquement convertie en classe C",
+   "vous devez repasser l'examen"
+  ],
+  "uitleg": "L'IBPT peut suspendre ou révoquer si vous ne payez pas les redevances à temps.",
+  "waarom_fout": {
+   "A": "non.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "redevance annuelle"
+ },
+ {
+  "id": "E-h15-119",
+  "vraag": "L'IBPT doit-il vous entendre avant de suspendre votre autorisation ?",
+  "opties": [
+   "jamais",
+   "oui, à moins qu'une suspension immédiate ne se justifie, par exemple en cas d'urgence ou si les faits sont incontestables",
+   "oui, toujours, sans exception",
+   "uniquement si vous avez un avocat"
+  ],
+  "uitleg": "L'utilisateur est entendu, à moins qu'une suspension immédiate ne se justifie.",
+  "waarom_fout": {
+   "A": "non.",
+   "C": "il y a des exceptions.",
+   "D": "non."
+  },
+  "onderwerp": "être entendu"
+ },
+ {
+  "id": "E-h15-120",
+  "vraag": "Que peut décider l'IBPT après vous avoir entendu à la suite d'une suspension ?",
+  "opties": [
+   "uniquement lever la suspension",
+   "lever la suspension, la confirmer pour une durée déterminée ou révoquer l'autorisation",
+   "uniquement infliger une amende",
+   "uniquement modifier votre indicatif d'appel"
+  ],
+  "uitleg": "Trois possibilités : lever, confirmer pour une durée déterminée ou révoquer.",
+  "waarom_fout": {
+   "A": "il y a plus de possibilités.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "après la suspension"
+ },
+ {
+  "id": "E-h15-121",
+  "vraag": "Votre autorisation est révoquée. Les redevances payées vous sont-elles remboursées ?",
+  "opties": [
+   "oui, entièrement",
+   "non : aucune indemnisation, aucun remboursement et aucune annulation",
+   "oui, au prorata",
+   "oui, après trente jours"
+  ],
+  "uitleg": "Aucune indemnisation, aucun remboursement des redevances payées, aucune annulation des redevances dues.",
+  "waarom_fout": {
+   "A": "non.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "remboursement"
+ },
+ {
+  "id": "E-h15-125",
+  "vraag": "Une demande arrive moins de cinq jours ouvrables avant la date souhaitée. Qu'en est-il du droit de dossier ?",
+  "opties": [
+   "doublé",
+   "quintuplé",
+   "réduit de moitié",
+   "inchangé"
+  ],
+  "uitleg": "Moins de cinq jours ouvrables : quintuplé.",
+  "waarom_fout": {
+   "A": "c'est pour moins de vingt jours ouvrables.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "trop tard"
+ },
+ {
+  "id": "E-h15-126",
+  "vraag": "Quels délais s'appliquent à la majoration du droit de dossier pour une autorisation temporaire ?",
+  "opties": [
+   "20 et 5 jours ouvrables",
+   "5 et 2 jours ouvrables",
+   "10 et 3 jours ouvrables",
+   "30 et 10 jours"
+  ],
+  "uitleg": "Pour les autorisations temporaires : 5 et 2 jours ouvrables.",
+  "waarom_fout": {
+   "A": "c'est la règle ordinaire.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "temporaire"
+ },
+ {
+  "id": "E-h15-127",
+  "vraag": "Que coûte une demande de modification d'une autorisation ?",
+  "opties": [
+   "le droit de dossier complet",
+   "la moitié du droit de dossier",
+   "le double du droit de dossier",
+   "rien"
+  ],
+  "uitleg": "La moitié du droit de dossier.",
+  "waarom_fout": {
+   "A": "non.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "modification"
+ },
+ {
+  "id": "E-h15-128",
+  "vraag": "Quelle date est prise en considération pour une demande par courrier ?",
+  "opties": [
+   "la date de réception",
+   "la date du cachet postal",
+   "la date de la lettre",
+   "la date de traitement"
+  ],
+  "uitleg": "Par courrier, c'est le cachet postal. Par fax ou courriel, la date de réception.",
+  "waarom_fout": {
+   "A": "cela vaut pour le fax et le courriel.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "date"
+ },
+ {
+  "id": "E-h15-129",
+  "vraag": "Vous retirez votre demande. Qu'en est-il du droit de dossier ?",
+  "opties": [
+   "il vous est remboursé",
+   "il reste dû",
+   "on vous en rembourse la moitié",
+   "il est converti en redevance annuelle"
+  ],
+  "uitleg": "En cas de retrait de la demande ou de renonciation, les droits de dossier restent dus.",
+  "waarom_fout": {
+   "A": "non.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "renonciation"
+ },
+ {
+  "id": "E-h15-130",
+  "vraag": "Votre station est en service le 1er janvier. Pour quelle période payez-vous la redevance annuelle ?",
+  "opties": [
+   "pour l'année entière",
+   "par mois",
+   "au prorata des jours",
+   "uniquement pour le premier semestre"
+  ],
+  "uitleg": "Stations en service le 1er janvier : redevance pour l'année entière, au plus tard 30 jours après la facture.",
+  "waarom_fout": {
+   "B": "non.",
+   "C": "cela vaut pour une mise en service en cours d'année.",
+   "D": "non."
+  },
+  "onderwerp": "redevance annuelle"
+ },
+ {
+  "id": "E-h15-131",
+  "vraag": "Votre station est mise en service le 15 décembre. Quelle redevance annuelle est due ?",
+  "opties": [
+   "pour l'année entière",
+   "au prorata des jours jusqu'au 31 décembre, mais avec un minimum de trente jours",
+   "rien, l'année est presque finie",
+   "pour seize jours"
+  ],
+  "uitleg": "Au prorata jusqu'au 31 décembre, avec un minimum de trente jours. Donc trente jours, car il en reste moins.",
+  "waarom_fout": {
+   "A": "non.",
+   "C": "non.",
+   "D": "le minimum est de trente jours."
+  },
+  "onderwerp": "redevance annuelle"
+ },
+ {
+  "id": "E-h15-132",
+  "vraag": "Dans quel délai payez-vous la facture de la redevance annuelle ?",
+  "opties": [
+   "10 jours",
+   "30 jours",
+   "60 jours",
+   "1 an"
+  ],
+  "uitleg": "Au plus tard trente jours après la réception de la facture.",
+  "waarom_fout": {
+   "A": "non.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "paiement"
+ },
+ {
+  "id": "E-h15-133",
+  "vraag": "Vous résiliez votre autorisation. Que dit l'AR sur la redevance annuelle ?",
+  "opties": [
+   "vous payez l'année entière",
+   "la mise hors service est effective à la date de la résiliation ; vous recevez une note de crédit pour les jours restants, un minimum de trente jours restant dû",
+   "on vous rembourse tout",
+   "vous payez encore une année supplémentaire"
+  ],
+  "uitleg": "Effective à la date de résiliation, note de crédit, minimum de trente jours dû.",
+  "waarom_fout": {
+   "A": "non.",
+   "C": "un minimum de trente jours reste dû.",
+   "D": "non."
+  },
+  "onderwerp": "résiliation"
+ },
+ {
+  "id": "E-h15-134",
+  "vraag": "Vous résiliez votre autorisation seulement le 3 mai, et pas au plus tard le 30 avril. Qu'est-ce qui s'applique ?",
+  "opties": [
+   "la station est considérée comme en service pendant le mois de mai",
+   "la station est hors service à partir du 1er mai",
+   "vous payez encore l'année entière",
+   "la résiliation n'est pas valable"
+  ],
+  "uitleg": "Pas résiliée au plus tard le dernier jour du mois : considérée comme en service pendant le mois suivant. Loi actuelle : la règle de la fin du mois n'existe plus (art. 43 de l'AR remplacé).",
+  "waarom_fout": {
+   "B": "non.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "résiliation"
+ },
+ {
+  "id": "E-h15-135",
+  "vraag": "Quand les montants de l'AR sont-ils adaptés à l'indice ?",
+  "opties": [
+   "chaque année le 1er janvier",
+   "tous les cinq ans",
+   "chaque année le 1er juillet",
+   "jamais"
+  ],
+  "uitleg": "Chaque année le 1er janvier, sur base de l'indice d'octobre.",
+  "waarom_fout": {
+   "B": "non.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "indice"
+ },
+ {
+  "id": "E-h15-136",
+  "vraag": "Votre station est couverte par des autorisations de deux catégories. Quelle redevance annuelle payez-vous ?",
+  "opties": [
+   "uniquement la plus élevée",
+   "les redevances de chaque catégorie",
+   "uniquement celle de la 5e catégorie",
+   "aucune, il y a une exonération"
+  ],
+  "uitleg": "Les redevances relatives aux différentes catégories sont dues.",
+  "waarom_fout": {
+   "A": "non.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "plusieurs catégories"
+ },
+ {
+  "id": "E-h15-137",
+  "vraag": "Pour quelle demande AUCUN droit de dossier n'est-il dû selon l'art. 35 ?",
+  "opties": [
+   "inscription à un examen",
+   "délivrance d'un certificat d'opérateur",
+   "changement d'un certificat d'opérateur",
+   "une plainte pour perturbation"
+  ],
+  "uitleg": "Une plainte pour perturbation ne figure pas dans la liste de l'art. 35.",
+  "waarom_fout": {
+   "A": "bien un droit de dossier.",
+   "B": "bien un droit de dossier.",
+   "C": "bien un droit de dossier."
+  },
+  "onderwerp": "droit de dossier"
+ },
+ {
+  "id": "E-h15-138",
+  "vraag": "À quoi sert la redevance annuelle ?",
+  "opties": [
+   "à l'organisation des examens",
+   "à la mise à disposition des fréquences et aux frais de contrôle et de surveillance",
+   "à l'affiliation à l'UBA",
+   "au service QSL"
+  ],
+  "uitleg": "Pour les fréquences, ainsi que pour le contrôle et la surveillance.",
+  "waarom_fout": {
+   "A": "non ; pour l'inscription à l'examen vous payez un droit de dossier (art. 35), la redevance annuelle sert aux fréquences et au contrôle.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "redevance annuelle"
+ },
+ {
+  "id": "E-h15-139",
+  "vraag": "Quelle combinaison est correcte ?",
+  "opties": [
+   "certificat 5 ans, réinscription après 1 mois, exclusion après fraude 3 ans",
+   "certificat 3 ans, réinscription après 1 mois, exclusion après fraude 5 ans",
+   "certificat 5 ans, réinscription après 3 mois, exclusion après fraude 1 an",
+   "certificat 1 an, réinscription après 1 mois, exclusion après fraude 3 ans"
+  ],
+  "uitleg": "Validité de 5 ans, attente de 1 mois après un échec, exclusion de 3 ans après une fraude.",
+  "waarom_fout": {
+   "B": "3 et 5 inversés.",
+   "C": "réinscription après 1 mois, exclusion de 3 ans.",
+   "D": "certificat 5 ans."
+  },
+  "onderwerp": "chiffres"
+ },
+ {
+  "id": "E-h15-140",
+  "vraag": "Quel délai est exprimé en jours OUVRABLES ?",
+  "opties": [
+   "entrée inopinée en possession d'une station",
+   "demande tardive : droit de dossier doublé",
+   "délai pour résoudre une perturbation",
+   "paiement de la facture"
+  ],
+  "uitleg": "La majoration du droit de dossier (20 et 5) se calcule en jours ouvrables.",
+  "waarom_fout": {
+   "A": "soixante jours.",
+   "C": "trente jours.",
+   "D": "trente jours."
+  },
+  "onderwerp": "chiffres"
+ },
+ {
+  "id": "E-h15-141",
+  "vraag": "Combien de mandataires titulaires de la classe A une association reconnue de radioamateurs doit-elle avoir au minimum ?",
+  "opties": [
+   "1",
+   "2",
+   "3",
+   "5"
+  ],
+  "uitleg": "Au moins deux.",
+  "waarom_fout": {
+   "A": "non.",
+   "C": "non.",
+   "D": "cinq est le nombre de provinces."
+  },
+  "onderwerp": "chiffres"
+ },
+ {
+  "id": "E-h15-142",
+  "vraag": "Un radioamateur étranger peut émettre sans autorisation belge s'il séjourne en Belgique :",
+  "opties": [
+   "moins d'un mois",
+   "moins de trois mois",
+   "moins de six mois",
+   "moins d'un an"
+  ],
+  "uitleg": "Moins de trois mois, avec une autorisation selon la T/R 61-01 ou la (05)06.",
+  "waarom_fout": {
+   "A": "non.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "chiffres"
+ },
+ {
+  "id": "E-h15-143",
+  "vraag": "Qui organise les formations des candidats aux examens de la 5e catégorie ?",
+  "opties": [
+   "l'IBPT",
+   "les associations reconnues de radioamateurs",
+   "les communes",
+   "l'IARU"
+  ],
+  "uitleg": "C'est une condition pour être reconnue.",
+  "waarom_fout": {
+   "A": "l'IBPT organise les examens, pas les formations.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "qui"
+ },
+ {
+  "id": "E-h15-144",
+  "vraag": "Qui établit et publie le règlement des examens ?",
+  "opties": [
+   "l'UBA",
+   "l'IBPT",
+   "le Roi",
+   "le ministre des Télécommunications"
+  ],
+  "uitleg": "L'Institut établit le règlement des examens, y compris les modalités et les conditions de participation.",
+  "waarom_fout": {
+   "A": "non.",
+   "C": "le Roi peut imposer l'examen, l'IBPT règle l'organisation pratique.",
+   "D": "non."
+  },
+  "onderwerp": "qui"
+ },
+ {
+  "id": "E-h15-145",
+  "vraag": "Qu'est-ce qui est correct ?",
+  "opties": [
+   "l'IBPT doit révoquer une autorisation à chaque infraction",
+   "l'IBPT peut suspendre ou révoquer une autorisation, et toute utilisation illicite entraîne la révocation immédiate",
+   "l'IBPT ne peut jamais révoquer une autorisation",
+   "seul un juge peut révoquer une autorisation"
+  ],
+  "uitleg": "Art. 10 : l'IBPT peut. Art. 11 : une utilisation illicite entraîne la révocation immédiate.",
+  "waarom_fout": {
+   "A": "c'est une possibilité, pas une obligation.",
+   "C": "il le peut bel et bien.",
+   "D": "l'IBPT peut le faire lui-même."
+  },
+  "onderwerp": "peut ou doit"
+ },
+ {
+  "id": "E-h15-146",
+  "vraag": "Qu'est-ce qui est correct au sujet de l'autorisation de détention ?",
+  "opties": [
+   "elle couvre la détention et l'utilisation",
+   "elle couvre la détention, mais pas l'utilisation (sauf démonstration à un acquéreur muni de l'autorisation adéquate)",
+   "elle couvre uniquement l'utilisation",
+   "elle n'existe plus"
+  ],
+  "uitleg": "Une autorisation de détention ne couvre pas l'utilisation, avec cette seule exception.",
+  "waarom_fout": {
+   "A": "pas l'utilisation.",
+   "C": "non.",
+   "D": "elle existe bel et bien."
+  },
+  "onderwerp": "détention"
+ },
+ {
+  "id": "E-h15-147",
+  "vraag": "Vous réglez votre émetteur-récepteur sur 14,350 MHz en USB. Est-ce permis avec la classe C ?",
+  "opties": [
+   "oui, 14,350 MHz est encore dans la bande",
+   "non, en USB votre signal se trouve au-dessus de la fréquence affichée et donc hors de la bande (jusqu'à 14,350 MHz)",
+   "oui, si vous utilisez moins de 25 W",
+   "non, la classe C ne peut pas émettre sur 20 m"
+  ],
+  "uitleg": "En USB, le signal s'étend jusqu'à environ 3 kHz au-dessus de la fréquence affichée, donc hors de la bande. Même piège en LSB au bas d'une bande.",
+  "waarom_fout": {
+   "A": "le signal n'occupe pas une seule fréquence.",
+   "C": "la puissance n'y change rien.",
+   "D": "le 20 m est bien autorisé (14,000 à 14,350 MHz)."
+  },
+  "onderwerp": "bande"
+ },
+ {
+  "id": "E-h15-148",
+  "vraag": "Que signifie ON3XYZ/AM ?",
+  "opties": [
+   "la station émet en modulation d'amplitude",
+   "la station émet depuis un aéronef, avec le consentement écrit préalable du commandant de bord",
+   "la station émet le matin",
+   "la station est une station de radio-club"
+  ],
+  "uitleg": "/AM = mobile aéronautique. Il vous faut le consentement écrit préalable du commandant de bord.",
+  "waarom_fout": {
+   "A": "AM ne désigne pas ici une modulation.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "suffixe"
+ },
+ {
+  "id": "E-h15-153",
+  "vraag": "Une entreprise avec un réseau radio privé fait faillite et un nouvel exploitant reprend l'activité. Les stations peuvent-elles continuer à fonctionner ?",
+  "opties": [
+   "non, arrêt immédiat",
+   "oui, provisoirement sous le couvert de l'ancienne autorisation, si la régularisation est demandée dans les soixante jours et si les conditions sont respectées",
+   "oui, sans limite sous l'ancienne autorisation",
+   "uniquement après un nouvel examen"
+  ],
+  "uitleg": "Provisoirement sous l'ancienne autorisation, avec une demande dans les soixante jours et le respect des conditions.",
+  "waarom_fout": {
+   "A": "il existe un régime transitoire.",
+   "C": "seulement provisoirement.",
+   "D": "non."
+  },
+  "onderwerp": "décès"
+ },
+ {
+  "id": "E-h15-154",
+  "vraag": "Quel indicatif d'appel utilise une station de 6e catégorie (aviation) ?",
+  "opties": [
+   "un indicatif au choix",
+   "l'indicatif d'appel de la station, pour chaque communication",
+   "aucun indicatif",
+   "l'indicatif du pilote"
+  ],
+  "uitleg": "Pour les 4e et 6e catégories, l'indicatif d'appel de la station est utilisé pour chaque communication.",
+  "waarom_fout": {
+   "A": "non.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "indicatif d'appel"
+ },
+ {
+  "id": "E-h15-155",
+  "vraag": "Pour quelles stations aucune redevance annuelle n'est-elle due selon l'art. 37 ?",
+  "opties": [
+   "les stations des radioamateurs de plus de 65 ans",
+   "les stations installées à bord d'un navire ou d'un aéronef comme équipement de bord généralement accepté",
+   "toutes les stations de 5e catégorie",
+   "les stations de radio-club"
+  ],
+  "uitleg": "L'équipement de bord des navires et des avions est exonéré de la redevance annuelle.",
+  "waarom_fout": {
+   "A": "les plus de 65 ans sont exonérés du droit de dossier, pas de la redevance annuelle.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "équipement de bord"
+ },
+ {
+  "id": "E-h15-156",
+  "vraag": "Vous résiliez votre autorisation et vendez votre émetteur-récepteur. Quelle obligation reste ?",
+  "opties": [
+   "plus rien",
+   "déclarer à l'IBPT la destination donnée à la station mise hors service",
+   "rendre l'appareil à l'IBPT",
+   "détruire l'appareil"
+  ],
+  "uitleg": "La résiliation ne vous dispense pas de déclarer la destination de la station.",
+  "waarom_fout": {
+   "A": "la déclaration reste due.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "résiliation"
+ },
+ {
+  "id": "E-h15-158",
+  "vraag": "Une personne de 70 ans demande une autorisation pour sa station individuelle de 5e catégorie. Que ne paie-t-elle pas ?",
+  "opties": [
+   "la redevance annuelle",
+   "le droit de dossier",
+   "les deux",
+   "rien, elle paie les deux"
+  ],
+  "uitleg": "Les personnes de plus de 65 ans sont exonérées du droit de dossier pour les stations individuelles de 5e catégorie. La redevance annuelle reste due.",
+  "waarom_fout": {
+   "A": "l'exonération porte sur le droit de dossier.",
+   "C": "uniquement le droit de dossier.",
+   "D": "elle est bien exonérée du droit de dossier."
+  },
+  "onderwerp": "exonération"
+ },
+ {
+  "id": "E-h15-159",
+  "vraag": "Les commerçants en appareils de radiocommunications doivent-ils donner accès à leurs appareils aux services de contrôle ?",
+  "opties": [
+   "non",
+   "oui, aux appareils qu'ils détiennent à des fins commerciales",
+   "uniquement avec un mandat de perquisition",
+   "uniquement s'ils ont une autorisation de détention"
+  ],
+  "uitleg": "Les constructeurs, importateurs, vendeurs et loueurs sont tenus aux mêmes obligations d'accès.",
+  "waarom_fout": {
+   "A": "non.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "commerçants"
+ },
+ {
+  "id": "E-h15-160",
+  "vraag": "Vous avez réussi un examen à l'étranger. Que fait l'IBPT de votre demande de certificat d'opérateur belge ?",
+  "opties": [
+   "il donne automatiquement la classe A",
+   "il détermine la classe ou rejette la demande, et peut demander une traduction par un traducteur juré à vos frais",
+   "il refuse toujours",
+   "il vous fait repasser l'examen"
+  ],
+  "uitleg": "L'IBPT détermine la classe ou rejette ; les frais de traduction sont à charge du demandeur.",
+  "waarom_fout": {
+   "A": "non.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "étranger"
+ },
+ {
+  "id": "E-h15-162",
+  "vraag": "Une autorisation pour une station utilisée pour des essais ou des tests relève de la :",
+  "opties": [
+   "5e catégorie",
+   "7e catégorie",
+   "8e catégorie",
+   "9e catégorie"
+  ],
+  "uitleg": "La 9e catégorie : essais ou tests, appareils visés à l'art. 33, § 2, de la loi (brouilleurs), autres radars et tout le reste.",
+  "waarom_fout": {
+   "A": "radioamateurs.",
+   "B": "autorisations de détention.",
+   "C": "opérateurs."
+  },
+  "onderwerp": "9e catégorie"
+ },
+ {
+  "id": "E-h15-169",
+  "vraag": "« L'autorisation de faire fonctionner une station de radiocommunications » est, selon l'AR :",
+  "opties": [
+   "un droit d'utilisation",
+   "une autorisation pour une station de radiocommunications",
+   "un certificat d'opérateur",
+   "une autorisation de détention"
+  ],
+  "uitleg": "Autorisation pour une station de radiocommunications (AR art. 1er, 17°).",
+  "waarom_fout": {
+   "A": "le droit d'utilisation des radiofréquences.",
+   "C": "le droit, comme personne, d'utiliser une station.",
+   "D": "couvre la détention, pas l'utilisation."
+  },
+  "onderwerp": "définitions"
+ },
+ {
+  "id": "E-h15-170",
+  "vraag": "Une fréquence assignée dans une même zone à plusieurs titulaires, en tenant compte de la densité d'occupation, est une :",
+  "opties": [
+   "fréquence exclusive",
+   "fréquence commune",
+   "fréquence collective",
+   "fréquence secondaire"
+  ],
+  "uitleg": "Commune : même zone, plusieurs titulaires, en tenant compte de la densité d'occupation.",
+  "waarom_fout": {
+   "A": "un seul titulaire.",
+   "C": "n'importe quelle zone, sans tenir compte de la densité d'occupation.",
+   "D": "ce n'est pas un type de fréquence de l'AR."
+  },
+  "onderwerp": "définitions"
+ },
+ {
+  "id": "E-h15-171",
+  "vraag": "Qu'est-ce qu'une station de radiocommunications fixe selon l'AR ?",
+  "opties": [
+   "une station de radiocommunications installée à demeure en un lieu déterminé",
+   "une station de radiocommunications qui ne peut être utilisée qu'à l'arrêt",
+   "une station de radiocommunications avec une fréquence fixe",
+   "une station de radiocommunications installée dans un bâtiment, même si elle est déplacée"
+  ],
+  "uitleg": "Fixe : installée à demeure en un lieu déterminé.",
+  "waarom_fout": {
+   "B": "c'est la station transportable.",
+   "C": "la fréquence ne joue aucun rôle.",
+   "D": "déplaçable n'est pas fixe."
+  },
+  "onderwerp": "définitions"
+ },
+ {
+  "id": "E-h15-172",
+  "vraag": "Quelle définition contient les mots « relié à l'entrée du câble d'antenne » ?",
+  "opties": [
+   "station de radiocommunications",
+   "installation d'émission",
+   "puissance fournie à l'antenne",
+   "état signalétique"
+  ],
+  "uitleg": "L'installation d'émission est l'ensemble relié à l'entrée du câble d'antenne.",
+  "waarom_fout": {
+   "A": "la station de radiocommunications comprend aussi les antennes.",
+   "C": "mesurée à l'entrée de l'antenne.",
+   "D": "une description de la station."
+  },
+  "onderwerp": "définitions"
+ },
+ {
+  "id": "E-h15-174",
+  "vraag": "« Le produit de la puissance fournie à l'antenne et du gain de l'antenne par rapport à une antenne isotrope » est :",
+  "opties": [
+   "la puissance de sortie de l'installation d'émission",
+   "la puissance apparente rayonnée",
+   "la puissance isotrope rayonnée équivalente",
+   "la puissance fournie à l'antenne"
+  ],
+  "uitleg": "PIRE (en anglais EIRP) : par rapport à une antenne isotrope.",
+  "waarom_fout": {
+   "A": "sans gain d'antenne, à la sortie de l'installation d'émission.",
+   "B": "PAR (en anglais ERP) : par rapport à une antenne dipôle.",
+   "D": "sans gain d'antenne."
+  },
+  "onderwerp": "définitions"
+ },
+ {
+  "id": "E-h15-176",
+  "vraag": "Selon la définition, quels organes font partie de la CEPT ?",
+  "opties": [
+   "l'UIT et l'IARU",
+   "l'ERC et l'ECC",
+   "l'IBPT et l'UBA",
+   "l'ETSI et l'UIT-R"
+  ],
+  "uitleg": "La CEPT comprend le Comité européen des radiocommunications (ERC) et le Comité des communications électroniques (ECC).",
+  "waarom_fout": {
+   "A": "pas dans la définition.",
+   "C": "des institutions belges.",
+   "D": "pas dans la définition."
+  },
+  "onderwerp": "définitions"
+ },
+ {
+  "id": "E-h15-177",
+  "vraag": "Un rayonnement en dehors de la fréquence assignée, dont le niveau peut être réduit sans affecter la qualité, s'appelle :",
+  "opties": [
+   "brouillage préjudiciable",
+   "rayonnement non essentiel",
+   "puissance apparente rayonnée",
+   "attribution de spectre"
+  ],
+  "uitleg": "Rayonnement non essentiel (par exemple les harmoniques).",
+  "waarom_fout": {
+   "A": "le brouillage préjudiciable porte sur l'effet sur les services.",
+   "C": "une puissance.",
+   "D": "la désignation d'une bande."
+  },
+  "onderwerp": "définitions"
+ },
+ {
+  "id": "E-h15-178",
+  "vraag": "À quoi renvoie « la loi » dans l'AR ?",
+  "opties": [
+   "la loi du 17 janvier 2003",
+   "la loi du 13 juin 2005 relative aux communications électroniques",
+   "la loi du 21 juin 1985",
+   "le Code pénal"
+  ],
+  "uitleg": "AR art. 1er, 1° : loi = la loi du 13 juin 2005.",
+  "waarom_fout": {
+   "A": "règle le statut de l'IBPT.",
+   "C": "conditions techniques des véhicules.",
+   "D": "non."
+  },
+  "onderwerp": "définitions"
+ },
+ {
+  "id": "E-h15-179",
+  "vraag": "Selon l'AR, quelle combinaison forme un indicatif d'appel ?",
+  "opties": [
+   "uniquement des chiffres",
+   "des lettres, ou des lettres et des chiffres",
+   "uniquement des lettres, toujours trois",
+   "le nom et le prénom du titulaire"
+  ],
+  "uitleg": "Une combinaison de lettres ou de lettres et de chiffres.",
+  "waarom_fout": {
+   "A": "non.",
+   "C": "pas toujours trois, et des chiffres sont permis.",
+   "D": "non."
+  },
+  "onderwerp": "définitions"
+ },
+ {
+  "id": "E-h15-180",
+  "vraag": "Vous ne payez pas dans le délai la redevance annuelle de votre autorisation de station. Que peut-il se passer ?",
+  "opties": [
+   "votre autorisation est automatiquement et immédiatement révoquée",
+   "l'IBPT peut suspendre ou révoquer votre autorisation",
+   "il ne se passe rien, le montant est simplement facturé l'année suivante",
+   "l'IBPT doit suspendre votre autorisation pendant un mois"
+  ],
+  "uitleg": "Ne pas payer à temps est un motif pour lequel l'IBPT peut suspendre ou révoquer. C'est une possibilité, pas un automatisme.",
+  "waarom_fout": {
+   "A": "la révocation immédiate concerne l'utilisation illicite (art. 11).",
+   "C": "l'IBPT peut bel et bien intervenir.",
+   "D": "l'IBPT peut, il ne doit pas, et il n'y a pas de durée fixe d'un mois."
+  },
+  "onderwerp": "situation"
+ },
+ {
+  "id": "E-h15-181",
+  "vraag": "Vous réglez votre émetteur-récepteur sur 7,000 MHz en LSB. Est-ce permis avec la classe C ?",
+  "opties": [
+   "oui, 7,000 MHz est le début de la bande des 40 m",
+   "non, en LSB votre signal se trouve sous la fréquence affichée, donc sous 7,000 MHz, hors de la bande",
+   "oui, si vous utilisez au maximum 25 W",
+   "oui, car 7,000 à 7,100 MHz est PEX"
+  ],
+  "uitleg": "En LSB, le signal s'étend jusqu'à environ 3 kHz sous la fréquence affichée : hors de la bande.",
+  "waarom_fout": {
+   "A": "le signal ne se trouve pas sur la fréquence affichée.",
+   "C": "la puissance ne change rien à la limite de bande.",
+   "D": "le statut ne change rien à la limite de bande."
+  },
+  "onderwerp": "situation"
+ },
+ {
+  "id": "E-h15-183",
+  "vraag": "Votre ami sans certificat émet sur votre station pendant que vous êtes en vacances. Que dit l'AR ?",
+  "opties": [
+   "seul votre ami est punissable, pas vous",
+   "toute utilisation illicite, même par une autre personne, entraîne la révocation immédiate de votre autorisation",
+   "l'IBPT peut vous donner un avertissement",
+   "c'est permis s'il utilise votre indicatif d'appel"
+  ],
+  "uitleg": "Art. 11 : révocation immédiate, même en cas d'utilisation par une autre personne. Vous deviez empêcher l'usage par des personnes non autorisées (art. 9).",
+  "waarom_fout": {
+   "A": "vous assumez la responsabilité de toute utilisation.",
+   "C": "la conséquence est plus lourde : révocation immédiate.",
+   "D": "il n'a pas de certificat, donc jamais permis."
+  },
+  "onderwerp": "situation"
+ },
+ {
+  "id": "E-h15-185",
+  "vraag": "Vous vendez votre ancien émetteur-récepteur à ON3ABC. Que devez-vous faire ?",
+  "opties": [
+   "rien, ON3ABC a une autorisation",
+   "faire une déclaration à l'IBPT dans les dix jours, avec entre autres le nom, l'adresse et le numéro d'autorisation de l'acheteur",
+   "faire une déclaration à l'IBPT dans les soixante jours, avec son indicatif d'appel",
+   "prévenir l'UBA"
+  ],
+  "uitleg": "Un vendeur occasionnel fait aussi la déclaration, dans les dix jours, avec la nature, la date, le nom, l'adresse et le numéro d'autorisation.",
+  "waarom_fout": {
+   "A": "la déclaration reste obligatoire.",
+   "C": "dix jours, et le numéro d'autorisation est demandé.",
+   "D": "l'UBA n'est pas compétente."
+  },
+  "onderwerp": "situation"
+ },
+ {
+  "id": "E-h15-187",
+  "vraag": "Un contrôleur de l'IBPT demande votre autorisation. Elle se trouve dans votre bureau au travail ; à la maison, vous avez une photocopie. Qu'est-ce qui est correct ?",
+  "opties": [
+   "la photocopie suffit",
+   "l'autorisation devait accompagner en permanence la station, et toute copie est sans valeur sauf accord préalable et écrit",
+   "vous avez trente jours pour montrer l'original",
+   "citer votre indicatif d'appel suffit"
+  ],
+  "uitleg": "L'autorisation accompagne en permanence la station et est présentée immédiatement dans sa version originale.",
+  "waarom_fout": {
+   "A": "une copie est sans valeur.",
+   "C": "immédiatement.",
+   "D": "non."
+  },
+  "onderwerp": "situation"
+ },
+ {
+  "id": "E-h15-189",
+  "vraag": "Comme ON3, vous voulez installer un relais 2 m chez vous. Pouvez-vous obtenir une autorisation pour cela ?",
+  "opties": [
+   "oui, avec un indicatif d'appel supplémentaire",
+   "non, une personne physique ne peut pas demander une station sans opérateur (sauf APRS) ; c'est possible via un radio-club ou une association reconnue",
+   "oui, si vous avez la classe A",
+   "oui, moyennant une autorisation temporaire"
+  ],
+  "uitleg": "Les stations sans opérateur sont réservées aux personnes morales (radio-club ou association). Pour les personnes : uniquement l'APRS.",
+  "waarom_fout": {
+   "A": "non.",
+   "C": "même avec la classe A, pas comme personne physique.",
+   "D": "non."
+  },
+  "onderwerp": "situation"
+ },
+ {
+  "id": "E-h15-190",
+  "vraag": "Un radio-club déplace sa station fixe pendant dix jours pour un field day. Qu'est-ce qui est correct ?",
+  "opties": [
+   "c'est permis sans rien faire",
+   "c'est permis sans adaptation de l'autorisation, mais seulement jusqu'à une semaine et après avoir informé préalablement l'IBPT ; pour dix jours, une adaptation est nécessaire",
+   "c'est permis jusqu'à un mois sans notification",
+   "les stations de radio-club ne peuvent jamais être déplacées"
+  ],
+  "uitleg": "Sans adaptation, c'est possible pendant une semaine au maximum, avec information préalable.",
+  "waarom_fout": {
+   "A": "l'information est obligatoire et une semaine est le maximum.",
+   "C": "une semaine au maximum.",
+   "D": "c'est permis, dans le cadre de la règle."
+  },
+  "onderwerp": "situation"
+ },
+ {
+  "id": "E-h15-191",
+  "vraag": "Vous demandez une autorisation temporaire pour une activation, quatre jours ouvrables avant la date. Qu'en est-il du droit de dossier ?",
+  "opties": [
+   "tarif normal",
+   "doublé",
+   "quintuplé",
+   "la demande est refusée"
+  ],
+  "uitleg": "Pour une autorisation temporaire, les limites sont de 5 et 2 jours ouvrables. Quatre jours ouvrables, c'est moins de 5 : doublé.",
+  "waarom_fout": {
+   "A": "c'est trop tard pour le tarif normal.",
+   "C": "quintuplé seulement à moins de 2 jours ouvrables.",
+   "D": "un refus est possible à moins de 2 jours ouvrables."
+  },
+  "onderwerp": "situation"
+ },
+ {
+  "id": "E-h15-192",
+  "vraag": "Vous demandez une autorisation ordinaire trois jours ouvrables avant la date souhaitée. Qu'en est-il du droit de dossier ?",
+  "opties": [
+   "tarif normal",
+   "doublé",
+   "quintuplé",
+   "réduit de moitié"
+  ],
+  "uitleg": "Moins de cinq jours ouvrables pour une autorisation ordinaire : quintuplé.",
+  "waarom_fout": {
+   "A": "trop tard.",
+   "B": "c'est pour moins de vingt jours ouvrables, mais pas moins de cinq.",
+   "D": "la moitié vaut pour une modification."
+  },
+  "onderwerp": "situation"
+ },
+ {
+  "id": "E-h15-193",
+  "vraag": "Pendant un QSO, l'autre radioamateur vous demande de transmettre le résultat d'un match de football à son frère, qui écoute aussi. Qu'est-ce qui est correct ?",
+  "opties": [
+   "c'est permis, c'est une conversation ordinaire",
+   "ce sont des radiocommunications pour le compte ou au profit d'un tiers, et c'est interdit",
+   "c'est permis si c'est en langage clair",
+   "c'est permis sur 2 m"
+  ],
+  "uitleg": "Les communications pour le compte ou au profit de tiers sont interdites, et ce n'est pas un sujet technique.",
+  "waarom_fout": {
+   "A": "c'est pour un tiers.",
+   "C": "le langage clair ne suffit pas.",
+   "D": "la bande ne joue aucun rôle."
+  },
+  "onderwerp": "situation"
+ },
+ {
+  "id": "E-h15-194",
+  "vraag": "Vous déménagez dans une autre commune. Que devez-vous faire pour votre certificat d'opérateur ?",
+  "opties": [
+   "rien, il reste valable cinq ans",
+   "informer l'IBPT et demander un nouveau certificat d'opérateur ; à défaut, il est réputé inexistant",
+   "attendre le renouvellement",
+   "prévenir uniquement l'UBA"
+  ],
+  "uitleg": "En cas de modification des données : informer l'IBPT et demander un nouveau certificat.",
+  "waarom_fout": {
+   "A": "sans information, il est réputé inexistant.",
+   "C": "le signaler immédiatement.",
+   "D": "c'est l'IBPT qui est compétent."
+  },
+  "onderwerp": "situation"
+ },
+ {
+  "id": "E-h15-195",
+  "vraag": "Vous avez un statut secondaire sur 10,100 à 10,150 MHz et un service primaire commence à émettre sur votre fréquence. Que faites-vous ?",
+  "opties": [
+   "vous restez, car vous étiez là en premier",
+   "vous donnez en toutes circonstances la priorité au service primaire",
+   "vous augmentez votre puissance pour rester compréhensible",
+   "vous portez plainte auprès de l'IBPT"
+  ],
+  "uitleg": "L'utilisateur donne en toutes circonstances la priorité aux services à statut primaire.",
+  "waarom_fout": {
+   "A": "qui était là en premier ne joue aucun rôle.",
+   "C": "cela peut causer des perturbations.",
+   "D": "comme utilisateur secondaire, vous n'avez pas droit à une protection."
+  },
+  "onderwerp": "situation"
+ },
+ {
+  "id": "E-h15-196",
+  "vraag": "Vous voulez émettre depuis un navire de croisière comme ON3XYZ/MM. De quoi avez-vous besoin ?",
+  "opties": [
+   "de rien, /MM suffit",
+   "du consentement écrit préalable du commandant de bord",
+   "de l'accord oral d'un membre d'équipage",
+   "d'une autorisation de 4e catégorie"
+  ],
+  "uitleg": "Le consentement écrit préalable du commandant de bord, et son engagement de donner accès aux contrôleurs.",
+  "waarom_fout": {
+   "A": "le suffixe ne suffit pas.",
+   "C": "par écrit, du commandant de bord.",
+   "D": "vous restez en 5e catégorie."
+  },
+  "onderwerp": "situation"
+ },
+ {
+  "id": "E-h15-197",
+  "vraag": "L'IBPT vous demande de suspendre les émissions perturbatrices de votre station parce que l'alarme des voisins se déclenche. Que faites-vous ?",
+  "opties": [
+   "attendre d'abord une lettre recommandée",
+   "suspendre les émissions sur cette simple demande, et résoudre le problème dans le délai accordé (maximum trente jours)",
+   "continuer à émettre jusqu'à ce que le voisin porte plainte",
+   "demander au voisin d'acheter une autre alarme"
+  ],
+  "uitleg": "Suspendre sur simple demande ; éventuellement un délai de maximum trente jours pour effectuer le réglage.",
+  "waarom_fout": {
+   "A": "une simple demande suffit.",
+   "C": "l'IBPT peut aussi intervenir de sa propre initiative.",
+   "D": "d'abord suspendre."
+  },
+  "onderwerp": "situation"
+ }
+]

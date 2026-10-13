@@ -147,7 +147,7 @@
    "de exclusieve transmissie van signalen van audiovisuele mediadiensten"
   ],
   "juist": "D",
-  "uitleg": "Radiocommunicatie sluit de exclusieve transmissie van audiovisuele mediadiensten (omroep) uit.",
+  "uitleg": "Radiocommunicatie sluit de exclusieve transmissie van audiovisuele mediadiensten (omroep) uit. Actuele wet: deze definitie is sinds 10 januari 2022 opgeheven of gewijzigd. Het examenreglement van 2021 gebruikt nog de oude tekst.",
   "waarom_fout": {
    "A": "klanken horen er wel bij.",
    "B": "afstandsbediening hoort er wel bij.",
@@ -174,7 +174,7 @@
    "het geheel van een toestel, de antennes en de onderdelen"
   ],
   "juist": "B",
-  "uitleg": "Een zendtoestel is een generator, gebouwd om uit te zenden.",
+  "uitleg": "Een zendtoestel is een generator, gebouwd om uit te zenden. Actuele wet: deze definitie is sinds 10 januari 2022 opgeheven of gewijzigd. Het examenreglement van 2021 gebruikt nog de oude tekst.",
   "waarom_fout": {
    "A": "dat is een ontvangtoestel.",
    "C": "dat is een zend- en ontvangtoestel.",
@@ -1065,7 +1065,7 @@
    "enkel aan boord van Belgische schepen"
   ],
   "juist": "B",
-  "uitleg": "In het Rijk en aan boord van dragers onder Belgisch recht.",
+  "uitleg": "In het Rijk en aan boord van dragers onder Belgisch recht. Actuele wet: art. 13/1 is herschreven (radioapparatuur houden of gebruiken, uitzondering bij algemene machtiging).",
   "waarom_fout": {
    "A": "ook aan boord.",
    "C": "nee.",
@@ -1200,7 +1200,7 @@
    "enkel een waarschuwing"
   ],
   "juist": "B",
-  "uitleg": "Overtreding van art. 13/1: 200 tot 2 000 EUR en/of 8 dagen tot 1 jaar.",
+  "uitleg": "Overtreding van art. 13/1: 200 tot 2 000 EUR en/of 8 dagen tot 1 jaar. Actuele wet: § 3bis is opgeheven sinds 1 september 2026.",
   "waarom_fout": {
    "A": "dat is overlast (§ 3bis), en die heeft ook gevangenis.",
    "C": "dat is bedrieglijke communicatie.",
@@ -2874,7 +2874,7 @@
    "enkel een waarschuwing"
   ],
   "juist": "A",
-  "uitleg": "Overtreding van art. 41 valt onder art. 145, § 1: 50 tot 50 000 EUR.",
+  "uitleg": "Overtreding van art. 41 valt onder art. 145, § 1: 50 tot 50 000 EUR. Actuele wet: sinds 18 augustus 2022 is de boete van art. 145 § 1 50 tot 100 000 EUR.",
   "waarom_fout": {
    "B": "dat is voor houden zonder vergunning.",
    "C": "de wet voorziet een boete.",
@@ -3279,7 +3279,7 @@
    "500 tot 50 000 EUR"
   ],
   "juist": "B",
-  "uitleg": "Art. 145, § 1: 50 tot 50 000 EUR.",
+  "uitleg": "Art. 145, § 1: 50 tot 50 000 EUR. Actuele wet: sinds 18 augustus 2022 is de boete van art. 145 § 1 50 tot 100 000 EUR. Actuele wet: § 3bis is opgeheven sinds 1 september 2026.",
   "waarom_fout": {
    "A": "dat is overlast aan je correspondent.",
    "C": "dat is houden zonder vergunning.",
@@ -3306,7 +3306,7 @@
    "50 tot 50 000 EUR, zonder gevangenis"
   ],
   "juist": "A",
-  "uitleg": "Art. 145, § 3bis: 50 tot 300 EUR en/of 15 dagen tot 2 jaar.",
+  "uitleg": "Art. 145, § 3bis: 50 tot 300 EUR en/of 15 dagen tot 2 jaar. Actuele wet: sinds 18 augustus 2022 is de boete van art. 145 § 1 50 tot 100 000 EUR. Actuele wet: § 3bis is opgeheven sinds 1 september 2026.",
   "waarom_fout": {
    "B": "houden zonder vergunning.",
    "C": "bedrieglijke communicatie.",
@@ -3318,7 +3318,7 @@
   "wetsverwijzing": "wet art. 145, § 3bis",
   "pagina": "w09",
   "examendeel": "wetgeving",
-  "in_examen": true
+  "in_examen": false
  },
  {
   "id": "E-h15-124",
@@ -3603,7 +3603,7 @@
    "de opzegging is ongeldig"
   ],
   "juist": "A",
-  "uitleg": "Niet opgezegd uiterlijk de laatste dag van de maand: verondersteld in dienst gedurende de volgende maand.",
+  "uitleg": "Niet opgezegd uiterlijk de laatste dag van de maand: verondersteld in dienst gedurende de volgende maand. Actuele wet: de regel van het einde van de maand bestaat niet meer (KB art. 43 vervangen).",
   "waarom_fout": {
    "B": "nee.",
    "C": "nee.",
@@ -3615,7 +3615,7 @@
   "wetsverwijzing": "KB art. 43",
   "pagina": "k13",
   "examendeel": "wetgeving",
-  "in_examen": true
+  "in_examen": false
  },
  {
   "id": "E-h15-135",
@@ -4440,7 +4440,7 @@
    "gebruiksrecht"
   ],
   "juist": "A",
-  "uitleg": "Radiofrequenties = de frequenties van radiogolven.",
+  "uitleg": "Radiofrequenties = de frequenties van radiogolven. Actuele wet: deze definitie is sinds 10 januari 2022 opgeheven of gewijzigd. Het examenreglement van 2021 gebruikt nog de oude tekst.",
   "waarom_fout": {
    "B": "het geheel ervan.",
    "C": "de overbrenging van inlichtingen.",
@@ -4452,7 +4452,7 @@
   "wetsverwijzing": "wet art. 2, 32°",
   "pagina": "o00",
   "examendeel": "wetgeving",
-  "in_examen": true
+  "in_examen": false
  },
  {
   "id": "E-h15-166",
@@ -4467,7 +4467,7 @@
    "een radiostation"
   ],
   "juist": "C",
-  "uitleg": "Ontvangtoestel voor radiocommunicatie.",
+  "uitleg": "Ontvangtoestel voor radiocommunicatie. Actuele wet: deze definitie is sinds 10 januari 2022 opgeheven of gewijzigd. Het examenreglement van 2021 gebruikt nog de oude tekst.",
   "waarom_fout": {
    "A": "generator om uit te zenden.",
    "B": "generator en ontvanger.",
@@ -4479,7 +4479,7 @@
   "wetsverwijzing": "wet art. 2, 37°",
   "pagina": "o00",
   "examendeel": "wetgeving",
-  "in_examen": true
+  "in_examen": false
  },
  {
   "id": "E-h15-167",
@@ -4494,7 +4494,7 @@
    "een radiocommunicatienetwerk"
   ],
   "juist": "B",
-  "uitleg": "Zend- en ontvangtoestel voor radiocommunicatie.",
+  "uitleg": "Zend- en ontvangtoestel voor radiocommunicatie. Actuele wet: deze definitie is sinds 10 januari 2022 opgeheven of gewijzigd. Het examenreglement van 2021 gebruikt nog de oude tekst.",
   "waarom_fout": {
    "A": "enkel generator, enkel uitzenden.",
    "C": "enkel ontvanger.",
@@ -4506,7 +4506,7 @@
   "wetsverwijzing": "wet art. 2, 36°",
   "pagina": "o00",
   "examendeel": "wetgeving",
-  "in_examen": true
+  "in_examen": false
  },
  {
   "id": "E-h15-168",
@@ -4521,7 +4521,7 @@
    "draaggolven"
   ],
   "juist": "A",
-  "uitleg": "Radiogolven of hertzgolven.",
+  "uitleg": "Radiogolven of hertzgolven. Actuele wet: deze definitie is sinds 10 januari 2022 opgeheven of gewijzigd. Het examenreglement van 2021 gebruikt nog de oude tekst.",
   "waarom_fout": {
    "B": "geen term uit de wet.",
    "C": "geen term uit de wet.",
@@ -4533,7 +4533,7 @@
   "wetsverwijzing": "wet art. 2, 31°",
   "pagina": "o00",
   "examendeel": "wetgeving",
-  "in_examen": true
+  "in_examen": false
  },
  {
   "id": "E-h15-169",
@@ -4656,7 +4656,7 @@
    "zend- en ontvangtoestel"
   ],
   "juist": "B",
-  "uitleg": "Dat is de definitie van radiostation (wet art. 2, 38°).",
+  "uitleg": "Dat is de definitie van radiostation (wet art. 2, 38°). Actuele wet: deze definitie is sinds 10 januari 2022 opgeheven of gewijzigd. Het examenreglement van 2021 gebruikt nog de oude tekst.",
   "waarom_fout": {
    "A": "de zendinstallatie stopt aan de ingang van de antennekabel.",
    "C": "een netwerk is een eenheid van meerdere stations.",
@@ -4710,7 +4710,7 @@
    "numerieke of analoge uitdrukkingen"
   ],
   "juist": "C",
-  "uitleg": "De exclusieve transmissie van audiovisuele mediadiensten is uitgesloten.",
+  "uitleg": "De exclusieve transmissie van audiovisuele mediadiensten is uitgesloten. Actuele wet: deze definitie is sinds 10 januari 2022 opgeheven of gewijzigd. Het examenreglement van 2021 gebruikt nog de oude tekst.",
   "waarom_fout": {
    "A": "staat er uitdrukkelijk in.",
    "B": "staat er uitdrukkelijk in.",

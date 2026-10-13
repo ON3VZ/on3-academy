@@ -1,0 +1,104 @@
+[
+ {
+  "id": "C-h15-b01a",
+  "vraag": "Quelle règle est la plus élevée ?",
+  "opties": [
+   "l'arrêté royal",
+   "la loi",
+   "l'arrêté ministériel",
+   "la décision du Conseil de l'IBPT"
+  ],
+  "uitleg": "La loi est au sommet, ensuite l'AR, l'AM et la décision du Conseil de l'IBPT.",
+  "waarom_fout": {
+   "A": "l'AR est en dessous de la loi.",
+   "C": "l'AM est en dessous de la loi et de l'AR.",
+   "D": "la décision du Conseil de l'IBPT est tout en bas."
+  },
+  "onderwerp": "hiérarchie"
+ },
+ {
+  "id": "E-h15-001",
+  "vraag": "Une décision du Conseil de l'IBPT est contraire à un arrêté royal. Quelle règle s'applique ?",
+  "opties": [
+   "la décision du Conseil de l'IBPT, parce qu'elle est plus récente",
+   "l'arrêté royal, parce qu'il est plus élevé",
+   "l'arrêté ministériel",
+   "les deux ont la même valeur"
+  ],
+  "uitleg": "Une règle inférieure ne peut pas être contraire à une règle supérieure. L'AR se trouve au-dessus d'une décision du Conseil de l'IBPT.",
+  "waarom_fout": {
+   "A": "c'est la hiérarchie qui décide, pas la date.",
+   "C": "aucun AM n'est en jeu.",
+   "D": "il existe une hiérarchie."
+  },
+  "onderwerp": "hiérarchie"
+ },
+ {
+  "id": "E-h15-002",
+  "vraag": "Quel ordre est correct, du plus élevé au plus bas ?",
+  "opties": [
+   "loi, AR, AM, décision du Conseil de l'IBPT",
+   "AR, loi, AM, décision du Conseil de l'IBPT",
+   "loi, AM, AR, décision du Conseil de l'IBPT",
+   "décision du Conseil de l'IBPT, loi, AR, AM"
+  ],
+  "uitleg": "La loi, puis l'arrêté royal, puis l'arrêté ministériel, puis la décision du Conseil de l'IBPT.",
+  "waarom_fout": {
+   "B": "la loi est au-dessus de l'AR.",
+   "C": "l'AR est au-dessus de l'AM.",
+   "D": "la décision de l'IBPT est tout en bas."
+  },
+  "onderwerp": "hiérarchie"
+ },
+ {
+  "id": "E-h15-003",
+  "vraag": "Quels sont les deux textes qui forment la matière d'examen « réglementation » ?",
+  "opties": [
+   "la loi du 13 juin 2005 et l'AR du 18 décembre 2009",
+   "la loi du 18 décembre 2009 et l'AR du 13 juin 2005",
+   "l'AR du 26 septembre 2000 et l'AM du 9 janvier 2001",
+   "la loi du 17 janvier 2003 et l'AR du 18 décembre 2009"
+  ],
+  "uitleg": "Des parties de la loi du 13 juin 2005 relative aux communications électroniques et de l'AR du 18 décembre 2009 relatif aux communications radioélectriques privées.",
+  "waarom_fout": {
+   "B": "les dates sont inversées.",
+   "C": "ce sont des textes plus anciens.",
+   "D": "la loi du 17 janvier 2003 règle le statut de l'IBPT, pas la matière d'examen."
+  },
+  "onderwerp": "sources"
+ },
+ {
+  "id": "E-h15-004",
+  "vraag": "Pour quelles classes la matière d'examen « réglementation » est-elle la même ?",
+  "opties": [
+   "uniquement la classe A",
+   "les classes A et B",
+   "les classes A, B et C",
+   "uniquement la classe C"
+  ],
+  "uitleg": "La réglementation est identique pour l'examen HAREC, l'examen Novice et l'examen de base.",
+  "waarom_fout": {
+   "A": "aussi B et C.",
+   "B": "aussi C.",
+   "D": "aussi A et B."
+  },
+  "onderwerp": "matière d'examen"
+ },
+ {
+  "id": "E-h15-182",
+  "vraag": "Vous réglez votre émetteur-récepteur sur 3,800 MHz en LSB. Est-ce permis en classe C ?",
+  "opties": [
+   "non, 3,800 MHz est la limite supérieure",
+   "oui, en LSB votre signal se trouve sous 3,800 MHz et donc dans la bande de 3,500 à 3,800 MHz",
+   "non, la classe C ne peut pas émettre sur 80 m",
+   "non, la LSB n'est pas autorisée sur 80 m"
+  ],
+  "uitleg": "En LSB, le signal se trouve sous la fréquence affichée : d'environ 3,797 à 3,800 MHz, donc dans la bande.",
+  "waarom_fout": {
+   "A": "le signal se trouve sous 3,800 MHz.",
+   "C": "le 80 m est bien autorisé (3,500 à 3,800 MHz).",
+   "D": "toutes les classes d'émission sont autorisées, sauf l'ATV."
+  },
+  "onderwerp": "situation"
+ }
+]

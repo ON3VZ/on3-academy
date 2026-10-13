@@ -10,7 +10,7 @@
   ],
   "uitleg": "Le certificat est lié à la personne.",
   "waarom_fout": {
-   "A": "c'est la licence de station.",
+   "A": "c'est l'autorisation de station.",
    "C": "non.",
    "D": "non."
   },
@@ -35,18 +35,18 @@
  },
  {
   "id": "C-h02-1c",
-  "vraag": "Vous avez un certificat mais pas de licence de station. Où pouvez-vous émettre ?",
+  "vraag": "Vous avez un certificat mais pas d'autorisation de station. Où pouvez-vous émettre ?",
   "opties": [
    "nulle part",
    "depuis une station de club ou la station d'un autre radioamateur",
    "partout",
    "uniquement avec un talkie-walkie"
   ],
-  "uitleg": "Sans licence propre : station de club ou station de quelqu'un d'autre.",
+  "uitleg": "Sans autorisation propre : station de club ou station de quelqu'un d'autre.",
   "waarom_fout": {
    "A": "si, depuis une station de club ou une autre station.",
    "C": "non.",
-   "D": "pour cela aussi, il faut au sens strict une licence."
+   "D": "pour cela aussi, il faut au sens strict une autorisation."
   },
   "onderwerp": "certificat"
  },
@@ -494,7 +494,7 @@
  },
  {
   "id": "E-h02-08",
-  "vraag": "Que vous faut-il avant de pouvoir demander une licence de station ?",
+  "vraag": "Que vous faut-il avant de pouvoir demander une autorisation de station ?",
   "opties": [
    "rien",
    "un certificat d'opérateur",

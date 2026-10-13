@@ -1,0 +1,1090 @@
+[
+ {
+  "id": "C-h15-b02a",
+  "vraag": "En dessous de quelle fréquence se situent les ondes radioélectriques selon la loi ?",
+  "opties": [
+   "300 GHz",
+   "3000 MHz",
+   "3000 GHz",
+   "30 000 GHz"
+  ],
+  "uitleg": "Les ondes radioélectriques ou ondes hertziennes ont une fréquence inférieure à 3000 GHz.",
+  "waarom_fout": {
+   "A": "trop bas.",
+   "B": "cela ne fait que 3 GHz.",
+   "D": "trop haut."
+  },
+  "onderwerp": "ondes radioélectriques"
+ },
+ {
+  "id": "C-h15-b02b",
+  "vraag": "Qu'est-ce qui fait partie d'une station de radiocommunications selon la loi ?",
+  "opties": [
+   "uniquement l'appareil émetteur",
+   "l'appareil, les antennes et tous les composants nécessaires à son fonctionnement",
+   "uniquement l'appareil émetteur et le microphone",
+   "uniquement l'antenne"
+  ],
+  "uitleg": "Une station de radiocommunications est l'ensemble : appareil, antennes et tous les composants nécessaires au fonctionnement.",
+  "waarom_fout": {
+   "A": "les antennes et les composants en font aussi partie.",
+   "C": "trop restreint.",
+   "D": "trop restreint."
+  },
+  "onderwerp": "station de radiocommunications"
+ },
+ {
+  "id": "C-h15-b02c",
+  "vraag": "Qu'est-ce que le spectre radioélectrique ?",
+  "opties": [
+   "l'ensemble des radiofréquences",
+   "les fréquences des ondes radioélectriques",
+   "la désignation d'une bande de fréquences pour un service",
+   "une fréquence pour un seul titulaire"
+  ],
+  "uitleg": "Le spectre radioélectrique est l'ensemble des radiofréquences.",
+  "waarom_fout": {
+   "B": "c'est la définition des radiofréquences.",
+   "C": "c'est l'attribution du spectre.",
+   "D": "c'est une fréquence exclusive."
+  },
+  "onderwerp": "spectre radioélectrique"
+ },
+ {
+  "id": "C-h15-b05a",
+  "vraag": "Quelle mission l'IBPT n'a-t-il PAS selon la loi ?",
+  "opties": [
+   "la gestion du spectre des radiofréquences",
+   "la coordination des radiofréquences",
+   "le contrôle de l'utilisation des radiofréquences",
+   "l'examen des demandes destinées à la radiodiffusion sonore et télévisuelle"
+  ],
+  "uitleg": "L'IBPT examine les demandes d'utilisation du spectre, à l'exception de celles destinées à la radiodiffusion sonore et télévisuelle.",
+  "waarom_fout": {
+   "A": "c'est bien une mission.",
+   "B": "c'est bien une mission.",
+   "C": "c'est bien une mission."
+  },
+  "onderwerp": "missions"
+ },
+ {
+  "id": "C-h15-b05b",
+  "vraag": "Qui peut édicter des prescriptions techniques concernant l'utilisation des équipements hertziens ?",
+  "opties": [
+   "l'IBPT",
+   "l'UBA",
+   "l'IARU",
+   "la commune"
+  ],
+  "uitleg": "L'Institut (IBPT) est compétent pour cela.",
+  "waarom_fout": {
+   "B": "l'UBA est une association.",
+   "C": "l'IARU est internationale.",
+   "D": "non."
+  },
+  "onderwerp": "prescriptions techniques"
+ },
+ {
+  "id": "C-h15-b06b",
+  "vraag": "Faut-il une autorisation pour simplement posséder un appareil émetteur, sans l'utiliser ?",
+  "opties": [
+   "non, seule l'utilisation est soumise à autorisation",
+   "oui, la détention exige aussi une autorisation écrite",
+   "seulement si l'appareil fait plus de 25 W",
+   "seulement si vous l'avez dans un véhicule"
+  ],
+  "uitleg": "La détention exige aussi une autorisation écrite, sauf dans les cas que le Roi dispense (art. 13/1, § 2).",
+  "waarom_fout": {
+   "A": "la détention aussi.",
+   "C": "la puissance ne joue aucun rôle.",
+   "D": "non."
+  },
+  "onderwerp": "obligation d'autorisation"
+ },
+ {
+  "id": "C-h15-b11b",
+  "vraag": "Quel marquage les équipements hertziens commerciaux doivent-ils porter ?",
+  "opties": [
+   "CE",
+   "RTT",
+   "UBA",
+   "ISO"
+  ],
+  "uitleg": "Les équipements hertziens sont munis d'un marquage CE de conformité.",
+  "waarom_fout": {
+   "B": "ancien numéro d'agrément, uniquement sur les très anciens appareils.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "CE"
+ },
+ {
+  "id": "C-h15-b11c",
+  "vraag": "À qui pouvez-vous vendre un appareil émetteur soumis à autorisation ?",
+  "opties": [
+   "à tout le monde",
+   "uniquement à une personne qui a l'autorisation nécessaire",
+   "uniquement à la famille",
+   "uniquement à un commerçant"
+  ],
+  "uitleg": "Vendre, donner en location, prêter ou donner à quiconque n'a pas obtenu l'autorisation est interdit.",
+  "waarom_fout": {
+   "A": "non.",
+   "C": "la famille aussi doit avoir une autorisation.",
+   "D": "non."
+  },
+  "onderwerp": "vente"
+ },
+ {
+  "id": "C-h15-b12a",
+  "vraag": "Est-il interdit de tenter d'émettre un faux signal de détresse, même si cela échoue ?",
+  "opties": [
+   "non, seule l'émission est interdite",
+   "oui, tenter d'émettre est aussi interdit",
+   "seulement en HF",
+   "seulement sur les fréquences de détresse"
+  ],
+  "uitleg": "Émettre ou tenter d'émettre des signaux de détresse faux ou trompeurs est interdit.",
+  "waarom_fout": {
+   "A": "la tentative aussi.",
+   "C": "partout.",
+   "D": "partout."
+  },
+  "onderwerp": "signal de détresse"
+ },
+ {
+  "id": "C-h15-b12b",
+  "vraag": "Vous captez par hasard un message de la police. Que pouvez-vous en faire ?",
+  "opties": [
+   "le raconter à vos voisins",
+   "rien : ni le reproduire, ni le communiquer, ni l'utiliser, ni même révéler son existence",
+   "l'enregistrer pour plus tard",
+   "le mettre sur les réseaux sociaux sans les noms"
+  ],
+  "uitleg": "Des communications reçues involontairement ne peuvent être ni reproduites, ni communiquées, ni utilisées, et leur existence même ne peut être révélée.",
+  "waarom_fout": {
+   "A": "non.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "par hasard"
+ },
+ {
+  "id": "C-h15-b13a",
+  "vraag": "Quand l'IBPT examine-t-il un brouillage préjudiciable ?",
+  "opties": [
+   "uniquement suite à une plainte",
+   "de sa propre initiative ou suite à une plainte",
+   "uniquement après un jugement",
+   "uniquement si l'UBA le demande"
+  ],
+  "uitleg": "De sa propre initiative ou suite à une plainte.",
+  "waarom_fout": {
+   "A": "aussi de sa propre initiative.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "brouillage"
+ },
+ {
+  "id": "C-h15-b13c",
+  "vraag": "Qui paie les coûts pour supprimer un brouillage préjudiciable causé par des équipements ?",
+  "opties": [
+   "l'IBPT",
+   "l'utilisateur responsable des équipements ou installations",
+   "la personne brouillée",
+   "l'UBA"
+  ],
+  "uitleg": "Les coûts sont mis à la charge de l'utilisateur responsable.",
+  "waarom_fout": {
+   "A": "non.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "coûts"
+ },
+ {
+  "id": "E-h15-005",
+  "vraag": "Selon la loi, les ondes radioélectriques sont des ondes électromagnétiques se propageant dans l'espace :",
+  "opties": [
+   "sans guide artificiel, avec une fréquence inférieure à 3000 GHz",
+   "par un guide artificiel, avec une fréquence inférieure à 3000 GHz",
+   "sans guide artificiel, avec une fréquence inférieure à 300 GHz",
+   "sans guide artificiel, avec une fréquence supérieure à 3000 GHz"
+  ],
+  "uitleg": "Sans guide artificiel et en dessous de 3000 GHz.",
+  "waarom_fout": {
+   "B": "justement sans guide artificiel.",
+   "C": "la limite est 3000 GHz.",
+   "D": "inférieure, pas supérieure."
+  },
+  "onderwerp": "ondes radioélectriques"
+ },
+ {
+  "id": "E-h15-006",
+  "vraag": "Qu'est-ce qui NE tombe PAS sous la définition de radiocommunication ?",
+  "opties": [
+   "la transmission de sons au moyen d'ondes radioélectriques",
+   "la transmission de signaux de commande à distance",
+   "la transmission de signaux destinés à la détermination de la position",
+   "la transmission exclusive de signaux de services de médias audiovisuels"
+  ],
+  "uitleg": "La radiocommunication exclut la transmission exclusive de signaux de services de médias audiovisuels (radiodiffusion). Loi actuelle : cette définition est abrogée ou modifiée depuis le 10 janvier 2022. Le règlement d'examen de 2021 utilise encore l'ancien texte.",
+  "waarom_fout": {
+   "A": "les sons en font bien partie.",
+   "B": "la commande à distance en fait bien partie.",
+   "C": "la détermination de la position en fait bien partie."
+  },
+  "onderwerp": "radiocommunication"
+ },
+ {
+  "id": "E-h15-007",
+  "vraag": "Comment la loi définit-elle un appareil émetteur de radiocommunications ?",
+  "opties": [
+   "tout récepteur d'oscillations électromagnétiques conçu en vue de la réception de radiocommunications",
+   "tout générateur d'oscillations électromagnétiques conçu en vue de l'émission de radiocommunications",
+   "tout générateur et récepteur conçu en vue de l'émission et de la réception de radiocommunications",
+   "l'ensemble formé par un appareil, les antennes et les composants"
+  ],
+  "uitleg": "Un appareil émetteur est un générateur, conçu en vue de l'émission. Loi actuelle : cette définition est abrogée ou modifiée depuis le 10 janvier 2022. Le règlement d'examen de 2021 utilise encore l'ancien texte.",
+  "waarom_fout": {
+   "A": "c'est un appareil récepteur.",
+   "C": "c'est un appareil émetteur-récepteur.",
+   "D": "c'est une station de radiocommunications."
+  },
+  "onderwerp": "appareils"
+ },
+ {
+  "id": "E-h15-008",
+  "vraag": "Quand un brouillage est-il « préjudiciable » selon la loi ?",
+  "opties": [
+   "chaque fois que quelqu'un l'entend",
+   "quand il compromet un service de radionavigation ou de sécurité, ou quand il altère gravement, entrave ou interrompt de façon répétée un service de radiocommunications",
+   "uniquement quand il perturbe le téléviseur d'un voisin",
+   "uniquement quand il dure plus de cinq minutes"
+  ],
+  "uitleg": "Un brouillage préjudiciable compromet un service de sécurité, ou altère gravement, entrave ou interrompt de façon répétée un service qui opère conformément à la réglementation.",
+  "waarom_fout": {
+   "A": "trop large.",
+   "C": "la perturbation d'appareils ménagers par une station ne tombe pas sous cette définition.",
+   "D": "il n'y a pas de limite de durée."
+  },
+  "onderwerp": "brouillage préjudiciable"
+ },
+ {
+  "id": "E-h15-009",
+  "vraag": "Votre émetteur perturbe le système d'alarme de vos voisins. Est-ce un brouillage préjudiciable au sens de la définition légale ?",
+  "opties": [
+   "oui, toujours",
+   "non, selon le commentaire du manuel, la perturbation d'un appareil électrique ordinaire par une station ne tombe pas sous cette définition",
+   "oui, si le voisin porte plainte",
+   "seulement si votre émetteur utilise plus de 25 W"
+  ],
+  "uitleg": "La définition porte sur la perturbation de services de radionavigation, de sécurité, de radiocommunications, de médias audiovisuels ou de communications électroniques. Selon le manuel, la perturbation d'un appareil électrique ordinaire par une station n'en fait pas partie. Cela reste toutefois un problème de CEM et l'IBPT peut intervenir (AR art. 51).",
+  "waarom_fout": {
+   "A": "pas selon cette définition.",
+   "C": "une plainte ne change pas la définition.",
+   "D": "la puissance ne joue aucun rôle dans la définition."
+  },
+  "onderwerp": "brouillage préjudiciable"
+ },
+ {
+  "id": "E-h15-010",
+  "vraag": "Un récepteur avec son antenne est-il une station de radiocommunications selon la loi ?",
+  "opties": [
+   "non, seul un émetteur est une station de radiocommunications",
+   "oui, un appareil récepteur avec antenne et composants est aussi une station de radiocommunications",
+   "seulement s'il fonctionne sur les bandes radioamateurs",
+   "seulement s'il se trouve dans un véhicule"
+  ],
+  "uitleg": "La définition cite l'appareil émetteur, l'appareil émetteur-récepteur ou l'appareil récepteur, avec les antennes et les composants.",
+  "waarom_fout": {
+   "A": "un appareil récepteur compte aussi.",
+   "C": "la bande ne joue aucun rôle.",
+   "D": "l'endroit ne joue aucun rôle."
+  },
+  "onderwerp": "station de radiocommunications"
+ },
+ {
+  "id": "E-h15-011",
+  "vraag": "Qu'est-ce qu'un réseau de radiocommunications ?",
+  "opties": [
+   "un ensemble formé par plusieurs stations pouvant communiquer entre elles dans les limites d'une autorisation ou d'un droit d'utilisation",
+   "l'ensemble des radiofréquences",
+   "une station fixe avec plusieurs antennes",
+   "toute station connectée à internet"
+  ],
+  "uitleg": "Un ensemble formé par plusieurs stations de radiocommunications pouvant communiquer entre elles dans les limites d'une autorisation ou d'un droit d'utilisation.",
+  "waarom_fout": {
+   "B": "c'est le spectre radioélectrique.",
+   "C": "une seule station n'est pas un réseau.",
+   "D": "internet ne joue aucun rôle ici."
+  },
+  "onderwerp": "réseau"
+ },
+ {
+  "id": "E-h15-012",
+  "vraag": "Qu'est-ce que l'attribution du spectre ?",
+  "opties": [
+   "l'ensemble des radiofréquences",
+   "la désignation d'une bande de fréquences donnée aux fins de son utilisation par un ou plusieurs types de services de radiocommunications",
+   "le contrôle de l'utilisation des fréquences",
+   "la délivrance d'un indicatif d'appel"
+  ],
+  "uitleg": "L'attribution du spectre consiste à désigner une bande de fréquences pour un ou plusieurs types de services, le cas échéant selon des conditions définies.",
+  "waarom_fout": {
+   "A": "c'est le spectre radioélectrique.",
+   "C": "c'est une mission de l'IBPT, pas la définition de l'attribution.",
+   "D": "un indicatif d'appel, c'est autre chose."
+  },
+  "onderwerp": "attribution du spectre"
+ },
+ {
+  "id": "E-h15-032",
+  "vraag": "L'IBPT coordonne les radiofréquences :",
+  "opties": [
+   "uniquement au niveau national",
+   "uniquement au niveau international",
+   "tant au niveau national qu'au niveau international",
+   "uniquement dans les bandes radioamateurs"
+  ],
+  "uitleg": "Coordination tant au niveau national qu'au niveau international.",
+  "waarom_fout": {
+   "A": "aussi au niveau international.",
+   "B": "aussi au niveau national.",
+   "D": "pour toutes les fréquences."
+  },
+  "onderwerp": "missions"
+ },
+ {
+  "id": "E-h15-033",
+  "vraag": "De quelles règles l'IBPT tient-il compte dans la gestion des fréquences ?",
+  "opties": [
+   "uniquement des règles belges",
+   "des accords internationaux, y compris du règlement des radiocommunications de l'UIT",
+   "uniquement des plans de bandes de l'IARU",
+   "uniquement des souhaits des utilisateurs"
+  ],
+  "uitleg": "Des accords internationaux, y compris du règlement des radiocommunications de l'UIT. Il peut aussi prendre en considération des raisons d'intérêt public.",
+  "waarom_fout": {
+   "A": "aussi des accords internationaux.",
+   "C": "les plans de bandes de l'IARU sont des accords, pas une loi.",
+   "D": "non."
+  },
+  "onderwerp": "UIT"
+ },
+ {
+  "id": "E-h15-034",
+  "vraag": "Qui fixe les règles générales d'octroi, de suspension et de révocation des autorisations ?",
+  "opties": [
+   "l'IBPT seul",
+   "le Roi, après avis de l'Institut",
+   "le ministre de la Défense",
+   "les associations reconnues"
+  ],
+  "uitleg": "Le Roi fixe ces règles, après avis de l'Institut.",
+  "waarom_fout": {
+   "A": "le Roi, après avis de l'IBPT.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "autorisations"
+ },
+ {
+  "id": "E-h15-035",
+  "vraag": "Selon la loi, les autorisations de détenir un appareil émetteur ou récepteur sont :",
+  "opties": [
+   "cessibles et valables sans limite",
+   "personnelles et révocables",
+   "personnelles et jamais révocables",
+   "cessibles aux membres de la famille"
+  ],
+  "uitleg": "Ces autorisations sont personnelles et révocables.",
+  "waarom_fout": {
+   "A": "pas cessibles.",
+   "C": "elles peuvent bien être révoquées.",
+   "D": "pas cessibles."
+  },
+  "onderwerp": "autorisations"
+ },
+ {
+  "id": "E-h15-036",
+  "vraag": "Qui fixe les obligations des titulaires d'une autorisation et les conditions auxquelles doivent satisfaire les stations ?",
+  "opties": [
+   "le Roi, sur proposition de l'Institut",
+   "l'Institut, après avis du Roi",
+   "l'UBA",
+   "la Commission européenne"
+  ],
+  "uitleg": "Le Roi, sur proposition de l'Institut.",
+  "waarom_fout": {
+   "B": "c'est l'inverse.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "obligations"
+ },
+ {
+  "id": "E-h15-037",
+  "vraag": "Les stations de la Défense nationale et de l'OTAN dans les bandes militaires ont-elles besoin d'une autorisation ?",
+  "opties": [
+   "oui, comme tout le monde",
+   "non",
+   "seulement en temps de paix",
+   "seulement pour les récepteurs"
+  ],
+  "uitleg": "Ces stations n'ont pas besoin de l'autorisation de l'art. 39, § 2.",
+  "waarom_fout": {
+   "A": "elles sont dispensées.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "militaire"
+ },
+ {
+  "id": "E-h15-040",
+  "vraag": "Où s'applique l'obligation d'autorisation de la loi ?",
+  "opties": [
+   "uniquement sur le territoire belge",
+   "dans le Royaume et à bord d'un navire, d'un bateau, d'un aéronef ou de tout autre support soumis au droit belge",
+   "uniquement dans les bâtiments belges",
+   "uniquement à bord des navires belges"
+  ],
+  "uitleg": "Dans le Royaume et à bord des supports soumis au droit belge. Loi actuelle : l'art. 13/1 a été réécrit (détenir ou utiliser un équipement hertzien, exception en cas d'autorisation générale).",
+  "waarom_fout": {
+   "A": "aussi à bord.",
+   "C": "non.",
+   "D": "aussi sur terre."
+  },
+  "onderwerp": "obligation d'autorisation"
+ },
+ {
+  "id": "E-h15-041",
+  "vraag": "Quels appareils tombent sous l'obligation d'autorisation de la loi ?",
+  "opties": [
+   "uniquement les appareils émetteurs",
+   "les appareils émetteurs ou récepteurs de radiocommunications, sauf si le Roi les dispense",
+   "uniquement les appareils de plus de 25 W",
+   "uniquement les appareils construits soi-même"
+  ],
+  "uitleg": "Les appareils émetteurs ou récepteurs. Le Roi peut déterminer les cas où aucune autorisation n'est requise.",
+  "waarom_fout": {
+   "A": "aussi les appareils récepteurs.",
+   "C": "la puissance ne joue aucun rôle.",
+   "D": "aussi les appareils commerciaux."
+  },
+  "onderwerp": "obligation d'autorisation"
+ },
+ {
+  "id": "E-h15-045",
+  "vraag": "Vous détenez un émetteur sans autorisation. Quelle sanction la loi prévoit-elle ?",
+  "opties": [
+   "50 à 300 EUR",
+   "200 à 2 000 EUR et/ou 8 jours à 1 an d'emprisonnement",
+   "500 à 50 000 EUR et/ou 1 à 4 ans",
+   "uniquement un avertissement"
+  ],
+  "uitleg": "Infraction à l'art. 13/1 : 200 à 2 000 EUR et/ou 8 jours à 1 an. Loi actuelle : le § 3bis est abrogé depuis le 1er septembre 2026.",
+  "waarom_fout": {
+   "A": "c'est pour importuner son correspondant (§ 3bis), et cela prévoit aussi l'emprisonnement.",
+   "C": "c'est pour les communications frauduleuses.",
+   "D": "non."
+  },
+  "onderwerp": "sanction"
+ },
+ {
+  "id": "E-h15-046",
+  "vraag": "Qui peut déterminer les cas où aucune autorisation n'est requise pour détenir un appareil ?",
+  "opties": [
+   "l'IBPT",
+   "le Roi",
+   "l'UBA",
+   "le vendeur"
+  ],
+  "uitleg": "Le Roi peut déterminer les cas où les autorisations ne sont pas requises.",
+  "waarom_fout": {
+   "A": "la loi désigne le Roi.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "dispense"
+ },
+ {
+  "id": "E-h15-092",
+  "vraag": "Que contient la déclaration d'une vente ?",
+  "opties": [
+   "le prix et la couleur de l'appareil",
+   "la nature et la date de l'opération, les nom et adresse de l'acquéreur et le numéro de son autorisation",
+   "uniquement l'indicatif d'appel de l'acheteur",
+   "uniquement le numéro de série"
+  ],
+  "uitleg": "Nature et date, nom et adresse de l'acquéreur, numéro de l'autorisation.",
+  "waarom_fout": {
+   "A": "non.",
+   "C": "trop restreint.",
+   "D": "trop restreint."
+  },
+  "onderwerp": "déclaration"
+ },
+ {
+  "id": "E-h15-093",
+  "vraag": "Lors d'une vente, pouvez-vous demander la carte d'identité de l'acheteur ?",
+  "opties": [
+   "non, c'est interdit",
+   "oui, le déclarant peut exiger la carte d'identité ou toute autre pièce probante",
+   "seulement si l'acheteur est d'accord via l'IBPT",
+   "seule la police peut le faire"
+  ],
+  "uitleg": "Le déclarant doit s'assurer de l'exactitude des renseignements et peut exiger la carte d'identité.",
+  "waarom_fout": {
+   "A": "non.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "déclaration"
+ },
+ {
+  "id": "E-h15-094",
+  "vraag": "Devez-vous aussi faire une déclaration si vous vendez des pièces détachées permettant de construire un émetteur ?",
+  "opties": [
+   "non",
+   "oui, aussi pour un ensemble de pièces détachées permettant la construction d'un tel appareil",
+   "seulement au-delà de 100 EUR",
+   "seulement vers l'étranger"
+  ],
+  "uitleg": "L'obligation de déclaration vaut aussi pour un ensemble de pièces détachées permettant la construction d'un appareil.",
+  "waarom_fout": {
+   "A": "non.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "déclaration"
+ },
+ {
+  "id": "E-h15-096",
+  "vraag": "Quelle exigence n'est PAS une exigence essentielle pour les équipements hertziens selon la loi ?",
+  "opties": [
+   "la protection de la santé et de la sécurité des personnes et des animaux domestiques",
+   "un niveau adéquat de compatibilité électromagnétique",
+   "l'utilisation efficace du spectre radioélectrique",
+   "une puissance minimale de 5 W"
+  ],
+  "uitleg": "Il n'y a pas de puissance minimale. Les exigences essentielles portent sur la santé et la sécurité, la CEM et l'utilisation efficace du spectre.",
+  "waarom_fout": {
+   "A": "c'est bien une exigence.",
+   "B": "c'est bien une exigence.",
+   "C": "c'est bien une exigence."
+  },
+  "onderwerp": "exigences essentielles"
+ },
+ {
+  "id": "E-h15-097",
+  "vraag": "Quels équipements ne sont PAS considérés comme « mis à disposition sur le marché » ?",
+  "opties": [
+   "un émetteur-récepteur neuf dans un magasin",
+   "un kit de composants destiné à être assemblé par des radioamateurs",
+   "un émetteur-récepteur d'occasion sur une brocante",
+   "un émetteur-récepteur importé de l'étranger"
+  ],
+  "uitleg": "Les kits de composants, les équipements modifiés pour l'usage propre et les équipements construits à des fins de recherches scientifiques et expérimentales.",
+  "waarom_fout": {
+   "A": "il est bien mis à disposition sur le marché.",
+   "C": "il est vendu.",
+   "D": "il est vendu."
+  },
+  "onderwerp": "construction personnelle"
+ },
+ {
+  "id": "E-h15-098",
+  "vraag": "Comment devez-vous utiliser les équipements hertziens selon la loi ?",
+  "opties": [
+   "comme vous le voulez",
+   "conformément aux informations jointes, dûment installés et entretenus, et conformément à leur destination",
+   "uniquement avec un amplificateur externe",
+   "uniquement avec des antennes marquées CE"
+  ],
+  "uitleg": "Conformément aux informations jointes à l'appareil, dûment installés et entretenus, et conformément à leur destination.",
+  "waarom_fout": {
+   "A": "non.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "mode d'emploi"
+ },
+ {
+  "id": "E-h15-100",
+  "vraag": "Vous utilisez un appareil qui ne satisfait pas aux exigences essentielles. Que se passe-t-il toujours en cas de condamnation ?",
+  "opties": [
+   "l'appareil est rendu après une amende",
+   "l'appareil est confisqué",
+   "l'appareil est scellé pendant un mois",
+   "vous recevez un nouvel appareil"
+  ],
+  "uitleg": "La confiscation d'appareils ne satisfaisant pas aux art. 32, 33, 35 et 37 est toujours prononcée.",
+  "waarom_fout": {
+   "A": "non.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "confiscation"
+ },
+ {
+  "id": "E-h15-102",
+  "vraag": "Pouvez-vous utiliser un émetteur-récepteur commercial mis sur le marché avant le 13 juin 2017 et conforme aux règles de l'époque ?",
+  "opties": [
+   "non, jamais",
+   "oui",
+   "seulement avec un nouveau contrôle CE",
+   "seulement si vous avez la classe A"
+  ],
+  "uitleg": "Les appareils mis sur le marché avant le 13 juin 2017 et conformes aux anciennes règles restent autorisés.",
+  "waarom_fout": {
+   "A": "non.",
+   "C": "pas nécessaire.",
+   "D": "non."
+  },
+  "onderwerp": "anciens appareils"
+ },
+ {
+  "id": "E-h15-103",
+  "vraag": "Selon le manuel, que pouvez-vous écouter ?",
+  "opties": [
+   "la police et les pompiers",
+   "les fréquences collectives comme la radiodiffusion, la CB et les bandes radioamateurs",
+   "toutes les fréquences",
+   "l'aviation"
+  ],
+  "uitleg": "Uniquement les communications destinées à tout le monde : radiodiffusion, CB, bandes radioamateurs.",
+  "waarom_fout": {
+   "A": "non.",
+   "C": "non.",
+   "D": "elle ne vous est pas destinée."
+  },
+  "onderwerp": "écoute"
+ },
+ {
+  "id": "E-h15-104",
+  "vraag": "Qu'interdit la loi au sujet des radiocommunications qui ne vous sont pas destinées ?",
+  "opties": [
+   "uniquement les enregistrer",
+   "les capter ou tenter de les capter",
+   "uniquement les raconter",
+   "rien, l'écoute est toujours libre"
+  ],
+  "uitleg": "Capter ou tenter de capter est déjà interdit.",
+  "waarom_fout": {
+   "A": "déjà le fait de capter.",
+   "C": "déjà le fait de capter.",
+   "D": "non."
+  },
+  "onderwerp": "écoute"
+ },
+ {
+  "id": "E-h15-105",
+  "vraag": "Qui peut interdire la détention ou l'usage d'appareils émetteurs et récepteurs lorsque la sécurité publique l'exige ?",
+  "opties": [
+   "l'IBPT",
+   "le Roi, par arrêté délibéré en Conseil des Ministres",
+   "le bourgmestre",
+   "l'UBA"
+  ],
+  "uitleg": "Le Roi, par arrêté délibéré en Conseil des Ministres.",
+  "waarom_fout": {
+   "A": "non.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "sécurité publique"
+ },
+ {
+  "id": "E-h15-106",
+  "vraag": "Vos appareils sont mis sous séquestre pour la défense du Royaume. Recevez-vous une indemnité ?",
+  "opties": [
+   "oui, la pleine valeur",
+   "non, ces mesures ne donnent lieu à aucune indemnité",
+   "oui, la moitié",
+   "seulement si vous avez la classe A"
+  ],
+  "uitleg": "Aucune indemnité.",
+  "waarom_fout": {
+   "A": "non.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "sécurité publique"
+ },
+ {
+  "id": "E-h15-107",
+  "vraag": "Quelle sanction la loi prévoit-elle pour l'émission d'un faux signal de détresse ?",
+  "opties": [
+   "une amende de 50 à 50 000 EUR",
+   "une amende de 200 à 2 000 EUR et 8 jours à 1 an",
+   "uniquement la suspension de l'autorisation",
+   "uniquement un avertissement"
+  ],
+  "uitleg": "Une infraction à l'art. 41 tombe sous l'art. 145, § 1 : 50 à 50 000 EUR. Loi actuelle : depuis le 18 août 2022, l'amende de l'art. 145 § 1 est de 50 à 100 000 euros.",
+  "waarom_fout": {
+   "B": "c'est pour la détention sans autorisation.",
+   "C": "la loi prévoit une amende.",
+   "D": "non."
+  },
+  "onderwerp": "signal de détresse"
+ },
+ {
+  "id": "E-h15-113",
+  "vraag": "Quelle mesure l'IBPT peut-il prendre après l'examen d'un brouillage ?",
+  "opties": [
+   "uniquement saisir l'émetteur",
+   "des mesures appropriées, comme une puissance réduite ou un filtre chez la partie brouillée",
+   "uniquement infliger une amende",
+   "aucune, l'IBPT ne fait que conseiller"
+  ],
+  "uitleg": "L'IBPT impose les mesures appropriées. Elles peuvent viser celui qui brouille, mais aussi la partie brouillée.",
+  "waarom_fout": {
+   "A": "trop restreint.",
+   "C": "trop restreint.",
+   "D": "il peut imposer."
+  },
+  "onderwerp": "mesures"
+ },
+ {
+  "id": "E-h15-122",
+  "vraag": "Quelle est l'amende pour avoir causé du brouillage préjudiciable (art. 15) ?",
+  "opties": [
+   "50 à 300 EUR",
+   "50 à 50 000 EUR",
+   "200 à 2 000 EUR",
+   "500 à 50 000 EUR"
+  ],
+  "uitleg": "Art. 145, § 1 : 50 à 50 000 EUR. Loi actuelle : depuis le 18 août 2022, l'amende de l'art. 145 § 1 est de 50 à 100 000 euros. Loi actuelle : le § 3bis est abrogé depuis le 1er septembre 2026.",
+  "waarom_fout": {
+   "A": "c'est pour importuner son correspondant.",
+   "C": "c'est pour la détention sans autorisation.",
+   "D": "c'est pour les communications frauduleuses."
+  },
+  "onderwerp": "amendes"
+ },
+ {
+  "id": "E-h15-123",
+  "vraag": "Quelqu'un utilise un moyen de communications électroniques afin d'importuner son correspondant. Quelle sanction ?",
+  "opties": [
+   "50 à 300 EUR et/ou 15 jours à 2 ans",
+   "200 à 2 000 EUR et/ou 8 jours à 1 an",
+   "500 à 50 000 EUR et/ou 1 à 4 ans",
+   "50 à 50 000 EUR, sans emprisonnement"
+  ],
+  "uitleg": "Art. 145, § 3bis : 50 à 300 EUR et/ou 15 jours à 2 ans. Loi actuelle : depuis le 18 août 2022, l'amende de l'art. 145 § 1 est de 50 à 100 000 euros. Loi actuelle : le § 3bis est abrogé depuis le 1er septembre 2026.",
+  "waarom_fout": {
+   "B": "détention sans autorisation.",
+   "C": "communications frauduleuses.",
+   "D": "§ 1."
+  },
+  "onderwerp": "amendes"
+ },
+ {
+  "id": "E-h15-124",
+  "vraag": "Quand la confiscation d'un appareil est-elle toujours prononcée ?",
+  "opties": [
+   "pour toute infraction",
+   "quand il ne satisfait pas aux conditions prévues aux art. 32, 33, 35 et 37",
+   "uniquement en cas de récidive",
+   "jamais"
+  ],
+  "uitleg": "Pour les appareils ne satisfaisant pas aux art. 32, 33, 35 et 37 : toujours.",
+  "waarom_fout": {
+   "A": "non.",
+   "C": "toujours, dès la première fois.",
+   "D": "non."
+  },
+  "onderwerp": "confiscation"
+ },
+ {
+  "id": "E-h15-149",
+  "vraag": "Un installateur n'installe pas une station conformément aux conditions d'autorisation. À qui l'IBPT peut-il imputer les coûts du contrôle et de l'installation correcte ?",
+  "opties": [
+   "au titulaire de l'autorisation",
+   "à l'installateur",
+   "au vendeur de l'appareil",
+   "à personne"
+  ],
+  "uitleg": "L'installateur veille à une installation conforme aux conditions d'autorisation ; sinon, l'IBPT peut lui imputer les coûts.",
+  "waarom_fout": {
+   "A": "la loi désigne l'installateur.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "installateur"
+ },
+ {
+  "id": "E-h15-150",
+  "vraag": "Que doivent faire les fabricants depuis le 12 juin 2018 pour certaines catégories d'équipements hertziens présentant un faible niveau de conformité ?",
+  "opties": [
+   "rien",
+   "enregistrer les types dans un système central mis à disposition par la Commission européenne avant leur mise sur le marché",
+   "faire contrôler chaque appareil par l'IBPT",
+   "demander une autorisation de 9e catégorie"
+  ],
+  "uitleg": "Enregistrement dans un système central de la Commission européenne.",
+  "waarom_fout": {
+   "A": "non.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "fabricants"
+ },
+ {
+  "id": "E-h15-151",
+  "vraag": "Pour quels équipements faut-il une autorisation préalable de l'IBPT pour échapper aux exigences essentielles ?",
+  "opties": [
+   "les kits de composants pour radioamateurs",
+   "les équipements destinés exclusivement à l'exportation, détenus à des fins de collection ou d'exposition, ou utilisant de nouvelles technologies",
+   "les équipements des pouvoirs publics pour la défense",
+   "les équipements qu'un radioamateur de classe A a construits lui-même"
+  ],
+  "uitleg": "Exportation, collection et exposition, et nouvelles technologies : chaque fois moyennant une autorisation préalable.",
+  "waarom_fout": {
+   "A": "aucune autorisation n'est nécessaire (classe A).",
+   "C": "aucune autorisation nécessaire.",
+   "D": "aucune autorisation nécessaire."
+  },
+  "onderwerp": "exception"
+ },
+ {
+  "id": "E-h15-152",
+  "vraag": "Un commerçant peut-il montrer sur une foire un appareil qui ne satisfait pas encore aux règles ?",
+  "opties": [
+   "non, jamais",
+   "oui, s'il est clairement indiqué qu'il ne peut pas encore être vendu ou mis en service",
+   "oui, sans condition",
+   "seulement à la classe A"
+  ],
+  "uitleg": "Sur les foires, c'est permis avec une indication claire, et une démonstration uniquement avec des mesures contre le brouillage et les dangers.",
+  "waarom_fout": {
+   "A": "c'est possible sous condition.",
+   "C": "il y a une condition.",
+   "D": "non."
+  },
+  "onderwerp": "foire"
+ },
+ {
+  "id": "E-h15-157",
+  "vraag": "Qui fixe le montant des redevances dues à l'IBPT ?",
+  "opties": [
+   "l'IBPT lui-même",
+   "le Roi, après avis de l'Institut",
+   "l'UBA",
+   "la Commission européenne"
+  ],
+  "uitleg": "Le Roi fixe le montant et le mode de paiement, après avis de l'Institut.",
+  "waarom_fout": {
+   "A": "la loi désigne le Roi.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "montants"
+ },
+ {
+  "id": "E-h15-161",
+  "vraag": "Avec qui l'IBPT collabore-t-il pour la planification stratégique et l'harmonisation du spectre radioélectrique ?",
+  "opties": [
+   "uniquement avec l'UBA",
+   "avec les Communautés, les autorités compétentes des autres Etats membres et la Commission européenne",
+   "uniquement avec l'OTAN",
+   "avec personne"
+  ],
+  "uitleg": "C'est ce que prévoit l'art. 13 de la loi.",
+  "waarom_fout": {
+   "A": "non.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "collaboration"
+ },
+ {
+  "id": "E-h15-163",
+  "vraag": "Vous voulez recevoir les images d'un satellite météo. Que dit le manuel ?",
+  "opties": [
+   "c'est toujours permis",
+   "demandez l'autorisation à l'organisation qui assure les émissions",
+   "c'est permis uniquement avec la classe A",
+   "c'est toujours interdit"
+  ],
+  "uitleg": "Vous ne pouvez pas capter des communications qui ne vous sont pas destinées ; pour les satellites météo, vous demandez l'autorisation à l'émetteur.",
+  "waarom_fout": {
+   "A": "pas sans autorisation.",
+   "C": "non.",
+   "D": "avec autorisation, c'est possible."
+  },
+  "onderwerp": "satellite météo"
+ },
+ {
+  "id": "E-h15-164",
+  "vraag": "« L'ensemble des radiofréquences » est la définition de :",
+  "opties": [
+   "ondes radioélectriques",
+   "radiofréquences",
+   "spectre radioélectrique",
+   "attribution du spectre"
+  ],
+  "uitleg": "Spectre radioélectrique = l'ensemble des radiofréquences.",
+  "waarom_fout": {
+   "A": "ondes radioélectriques : ondes électromagnétiques en dessous de 3000 GHz.",
+   "B": "radiofréquences : les fréquences des ondes radioélectriques.",
+   "D": "attribution du spectre : désigner une bande pour des services."
+  },
+  "onderwerp": "définitions"
+ },
+ {
+  "id": "E-h15-165",
+  "vraag": "« Les fréquences des ondes radioélectriques » est la définition de :",
+  "opties": [
+   "radiofréquences",
+   "spectre radioélectrique",
+   "radiocommunication",
+   "droit d'utilisation"
+  ],
+  "uitleg": "Radiofréquences = les fréquences des ondes radioélectriques. Loi actuelle : cette définition est abrogée ou modifiée depuis le 10 janvier 2022. Le règlement d'examen de 2021 utilise encore l'ancien texte.",
+  "waarom_fout": {
+   "B": "c'est leur ensemble.",
+   "C": "la transmission d'informations.",
+   "D": "le droit de les utiliser."
+  },
+  "onderwerp": "définitions"
+ },
+ {
+  "id": "E-h15-166",
+  "vraag": "« Tout récepteur d'oscillations électromagnétiques conçu en vue de la réception de radiocommunications » est :",
+  "opties": [
+   "un appareil émetteur",
+   "un appareil émetteur-récepteur",
+   "un appareil récepteur",
+   "une station de radiocommunications"
+  ],
+  "uitleg": "Appareil récepteur de radiocommunications. Loi actuelle : cette définition est abrogée ou modifiée depuis le 10 janvier 2022. Le règlement d'examen de 2021 utilise encore l'ancien texte.",
+  "waarom_fout": {
+   "A": "générateur conçu en vue de l'émission.",
+   "B": "générateur et récepteur.",
+   "D": "l'ensemble avec antennes et composants."
+  },
+  "onderwerp": "définitions"
+ },
+ {
+  "id": "E-h15-167",
+  "vraag": "« Tout générateur et récepteur d'oscillations électromagnétiques conçu en vue de l'émission et de la réception de radiocommunications » est :",
+  "opties": [
+   "un appareil émetteur",
+   "un appareil émetteur-récepteur",
+   "un appareil récepteur",
+   "un réseau de radiocommunications"
+  ],
+  "uitleg": "Appareil émetteur-récepteur de radiocommunications. Loi actuelle : cette définition est abrogée ou modifiée depuis le 10 janvier 2022. Le règlement d'examen de 2021 utilise encore l'ancien texte.",
+  "waarom_fout": {
+   "A": "uniquement générateur, uniquement émission.",
+   "C": "uniquement récepteur.",
+   "D": "un ensemble de plusieurs stations."
+  },
+  "onderwerp": "définitions"
+ },
+ {
+  "id": "E-h15-168",
+  "vraag": "Comment la loi appelle-t-elle aussi les ondes radioélectriques ?",
+  "opties": [
+   "ondes hertziennes",
+   "ondes marconiennes",
+   "micro-ondes",
+   "porteuses"
+  ],
+  "uitleg": "Ondes radioélectriques ou ondes hertziennes. Loi actuelle : cette définition est abrogée ou modifiée depuis le 10 janvier 2022. Le règlement d'examen de 2021 utilise encore l'ancien texte.",
+  "waarom_fout": {
+   "B": "pas un terme de la loi.",
+   "C": "pas un terme de la loi.",
+   "D": "une porteuse, c'est autre chose."
+  },
+  "onderwerp": "définitions"
+ },
+ {
+  "id": "E-h15-173",
+  "vraag": "Quelle définition contient les mots « l'ensemble ... et les antennes associées, ainsi que tous les composants nécessaires au fonctionnement de l'ensemble » ?",
+  "opties": [
+   "installation d'émission",
+   "station de radiocommunications",
+   "réseau de radiocommunications",
+   "appareil émetteur-récepteur"
+  ],
+  "uitleg": "C'est la définition de station de radiocommunications (loi art. 2, 38°). Loi actuelle : cette définition est abrogée ou modifiée depuis le 10 janvier 2022. Le règlement d'examen de 2021 utilise encore l'ancien texte.",
+  "waarom_fout": {
+   "A": "l'installation d'émission s'arrête à l'entrée du câble d'antenne.",
+   "C": "un réseau est un ensemble de plusieurs stations.",
+   "D": "un appareil sans antennes."
+  },
+  "onderwerp": "définitions"
+ },
+ {
+  "id": "E-h15-175",
+  "vraag": "Qu'est-ce qui est expressément exclu de la définition de radiocommunication ?",
+  "opties": [
+   "les signaux de commande à distance",
+   "les signes conventionnels",
+   "la transmission exclusive de signaux de services de médias audiovisuels",
+   "les expressions numériques ou analogiques"
+  ],
+  "uitleg": "La transmission exclusive de signaux de services de médias audiovisuels est exclue. Loi actuelle : cette définition est abrogée ou modifiée depuis le 10 janvier 2022. Le règlement d'examen de 2021 utilise encore l'ancien texte.",
+  "waarom_fout": {
+   "A": "y figure expressément.",
+   "B": "y figure expressément.",
+   "D": "y figure expressément."
+  },
+  "onderwerp": "définitions"
+ },
+ {
+  "id": "E-h15-184",
+  "vraag": "Votre voisin sans autorisation veut emprunter votre ancien talkie-walkie 2 m pour écouter les bandes radioamateurs. Pouvez-vous le lui prêter ?",
+  "opties": [
+   "oui, prêter n'est pas vendre",
+   "non, vous ne pouvez pas prêter un appareil à quelqu'un qui n'a pas l'autorisation nécessaire",
+   "oui, s'il ne fait qu'écouter",
+   "oui, si vous faites une déclaration à l'IBPT"
+  ],
+  "uitleg": "Vendre, donner en location, prêter ou donner à quiconque n'a pas obtenu l'autorisation est interdit.",
+  "waarom_fout": {
+   "A": "prêter tombe aussi sous l'interdiction.",
+   "C": "détenir un appareil émetteur-récepteur exige aussi une autorisation.",
+   "D": "une déclaration ne rend pas la chose permise."
+  },
+  "onderwerp": "situation"
+ },
+ {
+  "id": "E-h15-186",
+  "vraag": "Vous captez par hasard sur votre scanner une conversation de la police et vous la racontez plus tard à vos amis, sans les noms. Est-ce permis ?",
+  "opties": [
+   "oui, sans les noms c'est permis",
+   "non, vous ne pouvez rien communiquer, ni même révéler l'existence de la conversation",
+   "oui, parce que vous l'avez captée par hasard",
+   "oui, si vous ne l'avez pas enregistrée"
+  ],
+  "uitleg": "Communication captée par hasard : ni reproduire, ni communiquer, ni utiliser, ni même révéler son existence.",
+  "waarom_fout": {
+   "A": "même sans les noms, c'est interdit.",
+   "C": "c'est justement en cas de réception involontaire que cette interdiction s'applique.",
+   "D": "communiquer est aussi interdit."
+  },
+  "onderwerp": "situation"
+ },
+ {
+  "id": "E-h15-188",
+  "vraag": "Vous êtes ON3 et vous construisez un petit émetteur QRP pour le 40 m à partir d'un kit. Pouvez-vous l'utiliser ?",
+  "opties": [
+   "oui, les kits sont permis pour tous les radioamateurs",
+   "non, l'exception pour les kits et la construction personnelle vaut uniquement pour l'autorisation la plus élevée (classe A)",
+   "oui, s'il fournit moins de 5 W",
+   "oui, s'il porte un marquage CE après montage"
+  ],
+  "uitleg": "Seuls les titulaires de l'autorisation la plus élevée tombent sous l'exception de l'art. 34, 2°.",
+  "waarom_fout": {
+   "A": "uniquement la classe A.",
+   "C": "la puissance n'y change rien.",
+   "D": "un kit ne porte pas de marquage CE pour l'appareil fini."
+  },
+  "onderwerp": "situation"
+ }
+]
