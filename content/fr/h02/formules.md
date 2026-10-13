@@ -11,7 +11,7 @@ examenvragen: []
 <tr><th>Chiffre</th><th>Signification</th></tr>
 <tr><td>3</td><td>nombre de classes : A, B, C</td></tr>
 <tr><td>5 ans</td><td>validité d'un certificat d'opérateur, renouvelable (AR art. 17/1)</td></tr>
-<tr><td>1 année civile</td><td>validité d'une licence de station, renouvelable (chaque année)</td></tr>
+<tr><td>1 année civile</td><td>validité d'une autorisation de station, renouvelable (chaque année)</td></tr>
 <tr><td>8</td><td>nombre de bandes pour la classe C</td></tr>
 <tr><td>25 W</td><td>maximum en HF pour la classe C</td></tr>
 <tr><td>50 W</td><td>maximum sur 2 m et 70 cm pour la classe C</td></tr>

@@ -12,6 +12,11 @@ examenvragen: [E-h15-042, E-h15-043, E-h15-044, E-h15-162]
 Sommige stations hebben **geen vergunning** nodig (art. 3 en bijlage 2). Alle andere vergunningen worden ingedeeld in **negen categorieën** volgens hun **bestemming** en **werkwijze** (art. 4). Radioamateurs zijn de **5e categorie**.
 :::
 
+
+<!-- actueel -->
+:::actueel
+Sinds 1 september 2024 omschrijft art. 4, 8° de 8e categorie als **netten of stations die geen private netten of stations zijn** (punt-tot-punt, punt-tot-multipunt, gedeelde middelen). Het woord "operatoren" staat er niet meer in.
+:::
 ### Art. 3: vrijstelling (bijlage 2)
 De stations van bijlage 2 hebben geen vergunning (art. 39 van de wet) of gebruiksrecht (art. 18) nodig. Voor radioamateurs geldt volgens het handboek:
 

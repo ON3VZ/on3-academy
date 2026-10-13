@@ -35,7 +35,7 @@
  "extra_titel": "Nog meer oefenen",
  "extra_info": "Extra oefenvragen over dit hoofdstuk.",
  "score_titel": "Scorekaart en quiz",
- "quiz_start": "Start de hoofdstukquiz (10 vragen)",
+ "quiz_start": "Start de hoofdstukquiz",
  "toon_resultaat": "Toon resultaat",
  "fouten_titel": "Foutenlog",
  "fouten_leeg": "Nog niets gelogd. Fouten en vragen die je als moeilijk markeert, komen hier.",
@@ -89,7 +89,7 @@
  "klaar": "Klaar",
  "sk_eyebrow": "Scorekaart",
  "sk_titel": "Hoe sterk is je signaal?",
- "quiz_titel": "10 vragen door elkaar",
+ "quiz_titel": "{n} vragen door elkaar",
  "hr_eyebrow": "Opnieuw beginnen",
  "hr_info": "Wis je antwoorden van dit hoofdstuk, zodat je alles opnieuw kunt oefenen. Je proefexamens blijven bewaard.",
  "hr_knop": "Antwoorden van dit hoofdstuk wissen",
@@ -125,5 +125,6 @@
  "vg_ewis_toast": "Proefexamens gewist.",
  "vg_in_toast": "Voortgang ingeladen.",
  "vg_in_fout": "Dit bestand kan niet gelezen worden.",
- "disc_6": "Dit platform vervangt het UBA-handboek niet. Het is enkel een aanvulling: een samenvatting en een oefenplatform."
+ "disc_6": "Dit platform vervangt het UBA-handboek niet. Het is enkel een aanvulling: een samenvatting en een oefenplatform.",
+ "zie_handboek": "zie handboek"
 }

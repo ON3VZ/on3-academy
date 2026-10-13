@@ -12,6 +12,11 @@ examenvragen: [E-h15-037, E-h15-040, E-h15-041, E-h15-046]
 Je hebt een **schriftelijke vergunning** nodig om een zend- **of ontvangtoestel** te **houden**, of om een station **aan te leggen en te doen werken**. Dat geldt in België **en** aan boord van Belgische schepen, vliegtuigen en andere dragers.
 :::
 
+
+<!-- actueel -->
+:::actueel
+Art. 13/1 § 1 zegt nu: niemand mag **radioapparatuur houden of gebruiken** zonder vergunning (art. 39) of gebruiksrecht (art. 18). Wie de voorwaarden van een **algemene machtiging** naleeft, heeft geen vergunning nodig. "In het Rijk of aan boord van ..." is geschrapt. Het examenreglement van 2021 gebruikt nog de tekst op deze pagina.
+:::
 ### Structuur
 | § | Inhoud |
 |---|---|

@@ -35,7 +35,7 @@
  "extra_titel": "Encore plus d'entraînement",
  "extra_info": "Questions d'entraînement supplémentaires sur ce chapitre.",
  "score_titel": "Bilan et quiz",
- "quiz_start": "Lancer le quiz du chapitre (10 questions)",
+ "quiz_start": "Lancer le quiz du chapitre",
  "toon_resultaat": "Voir le résultat",
  "fouten_titel": "Journal des erreurs",
  "fouten_leeg": "Rien pour l'instant. Les erreurs et les questions que vous marquez comme difficiles apparaissent ici.",
@@ -89,7 +89,7 @@
  "klaar": "Terminé",
  "sk_eyebrow": "Bilan",
  "sk_titel": "Quelle est la force de votre signal ?",
- "quiz_titel": "10 questions mélangées",
+ "quiz_titel": "{n} questions mélangées",
  "hr_eyebrow": "Recommencer",
  "hr_info": "Effacez vos réponses de ce chapitre pour tout refaire. Vos examens blancs sont conservés.",
  "hr_knop": "Effacer les réponses de ce chapitre",
@@ -125,5 +125,9 @@
  "vg_ewis_toast": "Examens blancs effacés.",
  "vg_in_toast": "Progression chargée.",
  "vg_in_fout": "Ce fichier ne peut pas être lu.",
- "disc_6": "Cette plateforme ne remplace pas le manuel de l'UBA. Elle n'est qu'un complément : un résumé et une plateforme d'entraînement."
+ "disc_6": "Cette plateforme ne remplace pas le manuel de l'UBA. Elle n'est qu'un complément : un résumé et une plateforme d'entraînement.",
+ "fr_titel": "Une note sur la version française",
+ "fr_melding": "La langue maternelle de l'auteur de cette plateforme est le <b>néerlandais</b>. La version française est une traduction, faite avec le plus grand soin pour être aussi correcte que possible. Des erreurs de traduction ou de terminologie restent toutefois possibles. <b>N'hésitez pas à les signaler</b>, par exemple via <a href=\"https://github.com/ON3VZ/on3-academy/issues\" target=\"_blank\" rel=\"noopener\">la page des signalements du projet</a> ou à votre formateur ou section UBA. Merci !",
+ "fr_ok": "Compris",
+ "zie_handboek": "voir le manuel"
 }

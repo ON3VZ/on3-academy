@@ -5,7 +5,6 @@
   "titel": "Commencer ici",
   "ondertitel": "Comment fonctionnent l'examen et cette plateforme",
   "band": "",
-  "uba_ref": "p. 1",
   "beschikbaar": true
  },
  {
@@ -14,7 +13,6 @@
   "titel": "Le radioamateurisme",
   "ondertitel": "Qu'est-ce que le radioamateurisme",
   "band": "160 m",
-  "uba_ref": "p. 2",
   "beschikbaar": true
  },
  {
@@ -23,7 +21,6 @@
   "titel": "Le certificat d'opérateur",
   "ondertitel": "Classes, indicatifs d'appel, règles, tableau des fréquences",
   "band": "80 m",
-  "uba_ref": "p. 3 à 6",
   "beschikbaar": true
  },
  {
@@ -32,7 +29,6 @@
   "titel": "Bases de l'électricité",
   "ondertitel": "Tension, courant, résistance, puissance, fréquence, longueur d'onde",
   "band": "60 m",
-  "uba_ref": "p. 7 à 13",
   "beschikbaar": true
  },
  {
@@ -41,7 +37,6 @@
   "titel": "Émetteurs et récepteurs",
   "ondertitel": "Modulation, émetteur et récepteur",
   "band": "40 m",
-  "uba_ref": "p. 14 à 16",
   "beschikbaar": true
  },
  {
@@ -50,7 +45,6 @@
   "titel": "Antennes et câbles",
   "ondertitel": "Types d'antennes, coaxial, ROS, boîte d'accord, polarisation, PAR",
   "band": "30 m",
-  "uba_ref": "p. 17 à 23",
   "beschikbaar": true
  },
  {
@@ -59,7 +53,6 @@
   "titel": "Propagation",
   "ondertitel": "Comment voyagent les ondes radio",
   "band": "20 m",
-  "uba_ref": "p. 24 à 27",
   "beschikbaar": true
  },
  {
@@ -68,7 +61,6 @@
   "titel": "CEM",
   "ondertitel": "Prévenir et résoudre les perturbations",
   "band": "17 m",
-  "uba_ref": "p. 28 à 30",
   "beschikbaar": true
  },
  {
@@ -77,7 +69,6 @@
   "titel": "Procédures de trafic",
   "ondertitel": "Appels, relais, plan de bandes, épreuve pratique",
   "band": "15 m",
-  "uba_ref": "p. 31 à 38",
   "beschikbaar": true
  },
  {
@@ -86,17 +77,16 @@
   "titel": "Sécurité",
   "ondertitel": "Électricité, antennes, accidents",
   "band": "12 m",
-  "uba_ref": "p. 39 à 42",
   "beschikbaar": true
  },
  {
-  "id": "h15",
-  "nummer": 15,
-  "titel": "Réglementation",
-  "ondertitel": "La loi et l'arrêté royal en schémas",
-  "band": "2 m",
-  "uba_ref": "chap. 15",
-  "beschikbaar": false
+  "id": "h10",
+  "nummer": 10,
+  "titel": "L'UBA",
+  "ondertitel": "Ce que représente l'UBA. Voir le manuel. Un court résumé se trouve au chapitre 1, page « À propos de l'UBA ».",
+  "band": "10 m",
+  "beschikbaar": false,
+  "info": true
  },
  {
   "id": "h11",
@@ -104,7 +94,32 @@
   "titel": "Codes Q et abréviations",
   "ondertitel": "Bon à savoir, hors matière d'examen",
   "band": "6 m",
-  "uba_ref": "p. 44 à 45",
+  "beschikbaar": true
+ },
+ {
+  "id": "h12",
+  "nummer": 12,
+  "titel": "Câbles et connecteurs",
+  "ondertitel": "Guide pratique. Voir le manuel.",
+  "band": "4 m",
+  "beschikbaar": false,
+  "info": true
+ },
+ {
+  "id": "h14",
+  "nummer": 14,
+  "titel": "Programme de l'examen",
+  "ondertitel": "Voir le manuel. L'essentiel se trouve dans Commencer ici.",
+  "band": "2 m",
+  "beschikbaar": false,
+  "info": true
+ },
+ {
+  "id": "h15",
+  "nummer": 15,
+  "titel": "Réglementation",
+  "ondertitel": "La loi et l'arrêté royal en schémas",
+  "band": "70 cm",
   "beschikbaar": true
  }
 ]

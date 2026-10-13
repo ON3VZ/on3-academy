@@ -8,7 +8,7 @@ checkvragen: [C-h01-1a, C-h01-1b, C-h01-1c]
 examenvragen: [O226]
 ---
 :::kern
-Le radioamateurisme est un **hobby**. Vous établissez des liaisons radio avec d'autres radioamateurs du monde entier, vous construisez et améliorez vous-même des antennes et des appareils, et vous apprenez comment se comportent les ondes radio. Le **but** de votre licence est de **vous perfectionner en radiocommunication et en technique radio**. Il est interdit d'en tirer **de l'argent**.
+Le radioamateurisme est un **hobby**. Vous établissez des liaisons radio avec d'autres radioamateurs du monde entier, vous construisez et améliorez vous-même des antennes et des appareils, et vous apprenez comment se comportent les ondes radio. Le **but** de votre autorisation est de **vous perfectionner en radiocommunication et en technique radio**. Il est interdit d'en tirer **de l'argent**.
 :::
 
 {{svg:h01-facetten|Les quatre facettes du hobby.}}
@@ -31,6 +31,6 @@ Un club d'astronomie ou de modélisme : vous y apprenez beaucoup, vous rencontre
 :::
 
 :::valkuil
-- Le but de la licence n'est **pas** simplement de « communiquer avec d'autres radioamateurs ». Vous le faites, bien sûr, mais le but est de vous **perfectionner** en radiocommunication et en technique radio.
-- Les activités commerciales sont **interdites**. Les activités sociales ne sont pas non plus le but de la licence.
+- Le but de l'autorisation n'est **pas** simplement de « communiquer avec d'autres radioamateurs ». Vous le faites, bien sûr, mais le but est de vous **perfectionner** en radiocommunication et en technique radio.
+- Les activités commerciales sont **interdites**. Les activités sociales ne sont pas non plus le but de l'autorisation.
 :::

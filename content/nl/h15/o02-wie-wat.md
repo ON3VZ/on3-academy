@@ -8,6 +8,11 @@ uba_ref: wet en KB
 checkvragen: []
 examenvragen: [E-h15-143, E-h15-144, E-h15-145, E-h15-146]
 ---
+<!-- actueel -->
+:::actueel
+Art. 39 § 2 zegt nu: de Koning bepaalt de regels **op voorstel van het BIPT of op eigen initiatief, na advies van het BIPT**. Het examenreglement van 2021 vermeldt nog enkel "na advies".
+:::
+
 Een tweede soort valkuil: de vraag is juist, maar de **verkeerde instantie** of het **verkeerde werkwoord** staat in het antwoord. Hier zet je ze naast elkaar.
 
 ### Wie doet wat?

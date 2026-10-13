@@ -46,5 +46,5 @@ Une vieille radio avec un bouton rotatif : la voix ne sonne normalement qu'au bo
 :::
 
 :::weetje
-Le manuel indique qu'il y a en HF 9 bandes amateurs entre 1,8 et 29,7 MHz. Avec une licence de classe C, vous ne pouvez pas émettre sur toutes ces bandes. Lesquelles sont permises : voir le chapitre 2 (tableau des fréquences).
+Le manuel indique qu'il y a en HF 9 bandes amateurs entre 1,8 et 29,7 MHz. Avec un certificat d'opérateur de classe C, vous ne pouvez pas émettre sur toutes ces bandes. Lesquelles sont permises : voir le chapitre 2 (tableau des fréquences).
 :::

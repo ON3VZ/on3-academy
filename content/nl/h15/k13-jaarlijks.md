@@ -12,6 +12,11 @@ examenvragen: [E-h15-077, E-h15-130, E-h15-131, E-h15-132, E-h15-133, E-h15-134,
 Naast het dossierrecht betaal je **elk jaar** een **jaarlijks recht** voor de **frequenties** en de **controle**. Stations in dienst op **1 januari** betalen **het hele jaar**. Bij een **opzegging** blijft **minimum dertig dagen** verschuldigd.
 :::
 
+
+<!-- actueel -->
+:::actueel
+Art. 43 is vervangen (2014 en 2020). De regel van het **einde van de maand bestaat niet meer**. De buitendienststelling geldt vanaf de **datum van opzegging**. Het BIPT maakt een **creditnota** voor de resterende dagen, met een **minimum van 30 dagen** dat verschuldigd blijft. Dat minimum geldt niet bij **wijziging of vervanging** van een station.
+:::
 ### Art. 37: wat en wie?
 | Lid | Inhoud |
 |---|---|

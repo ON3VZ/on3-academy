@@ -13,7 +13,7 @@ Les questions de législation de ce chapitre consistent surtout à **reconnaîtr
 | Sujet | Il s'agit alors du |
 |---|---|
 | qui peut émettre, examen, classe | **certificat d'opérateur** |
-| détenir et utiliser un appareil, une adresse | **licence de station** |
+| détenir et utiliser un appareil, une adresse | **autorisation de station** |
 
 ### 2. S'agit-il de l'indicatif d'appel ?
 1. Préfixe ON à OT ? Alors il est belge.

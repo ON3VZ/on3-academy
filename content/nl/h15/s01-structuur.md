@@ -15,6 +15,11 @@ De examenstof wetgeving bestaat uit **twee teksten**. Dit hoofdstuk volgt die tw
 - **Deel 2: het koninklijk besluit (KB) van 18 december 2009** betreffende de private radiocommunicatie. Het KB werkt de wet **in detail** uit: soorten stations, vergunningen, het bedieningscertificaat, examens, roepnamen, betalingen en controles.
 :::
 
+
+<!-- actueel -->
+:::actueel
+Dit hoofdstuk volgt de wetteksten zoals ze in het **examenreglement van het BIPT (19 januari 2021)** staan, want daarop is het examen gebaseerd. Sommige artikels zijn sindsdien gewijzigd. Op die plaatsen staat een paars kader **Actuele wet** met de huidige toestand. Vragen die een intussen geschrapte regel toetsen, tellen niet mee in het proefexamen.
+:::
 :::weetje Dit is een samenvatting
 Deze pagina's zijn een **samenvatting** om te studeren en te oefenen. Ze vervangen de wetteksten niet. De **volledige en actuele teksten** lees je gratis in het Belgisch Staatsblad (Justel):
 

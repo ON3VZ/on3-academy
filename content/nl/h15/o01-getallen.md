@@ -8,6 +8,11 @@ uba_ref: wet en KB
 checkvragen: []
 examenvragen: [E-h15-139, E-h15-140, E-h15-141, E-h15-142]
 ---
+<!-- actueel -->
+:::actueel
+**Boete art. 145 § 1**: sinds 18 augustus 2022 is dat **50 tot 100 000 EUR** (niet meer 50 tot 50 000). Het examenreglement van 2021 vermeldt nog 50 000. **§ 3bis** is opgeheven sinds 1 september 2026. **KB art. 43**: de regel van het einde van de maand bestaat niet meer (minimum 30 dagen blijft).
+:::
+
 Veel wetgevingsvragen draaien om **één getal**. De afleiders zijn dan andere getallen die ook ergens in de wet staan. Deze kaart zet ze allemaal naast elkaar. Lees ze per groep, en kijk telkens naar het **woord ernaast**.
 
 ### Leeftijden

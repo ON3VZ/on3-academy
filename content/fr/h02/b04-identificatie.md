@@ -8,7 +8,7 @@ checkvragen: [C-h02-4a, C-h02-4b, C-h02-4c]
 examenvragen: [O009, O010, O011, O012, O017, O018, O019]
 ---
 :::kern
-Si vous n'émettez pas depuis l'adresse indiquée sur votre licence, vous ajoutez un **suffixe** à votre indicatif. Et vous **donnez votre indicatif** toujours **au début et à la fin** d'une émission, et **au moins toutes les 5 minutes** si elle dure longtemps.
+Si vous n'émettez pas depuis l'adresse indiquée sur votre autorisation, vous ajoutez un **suffixe** à votre indicatif. Et vous **donnez votre indicatif** toujours **au début et à la fin** d'une émission, et **au moins toutes les 5 minutes** si elle dure longtemps.
 :::
 
 ### Les suffixes
@@ -18,7 +18,7 @@ Si vous n'émettez pas depuis l'adresse indiquée sur votre licence, vous ajoute
 | **/MM** | **mobile maritime** : sur un bateau | ON7QL/MM |
 | **/AM** | **mobile aéronautique** : dans un avion ou un ballon | ON5LST/AM |
 | **/P** | **portable** ou installation temporaire, p. ex. lors d'un field day | ON4IPR/P |
-| **/A** | station **fixe** à une **autre adresse** que celle de la licence | ON4JES/A |
+| **/A** | station **fixe** à une **autre adresse** que celle de l'autorisation | ON4JES/A |
 
 D'autres suffixes ne sont pas autorisés en Belgique.
 

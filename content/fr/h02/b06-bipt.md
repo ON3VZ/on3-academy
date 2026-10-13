@@ -32,6 +32,6 @@ Un permis de conduire et la police. Vous devez communiquer un déménagement, la
 - Couper le courant de votre habitation ne fait pas partie des compétences de l'IBPT dans le manuel.
 :::
 
-:::weetje Anciennes questions d'examen sur le carnet de trafic
-La banque de questions contient encore des questions sur un carnet de trafic **obligatoire** (ce qu'il doit contenir, combien de temps le conserver). Ces règles ne s'appliquent plus. C'est pourquoi ces questions ne sont pas utilisées sur cette plateforme.
+:::weetje Carnet de trafic
+Un carnet de trafic n'est **plus obligatoire**.
 :::

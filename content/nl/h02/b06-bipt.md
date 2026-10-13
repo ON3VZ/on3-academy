@@ -32,6 +32,6 @@ Een rijbewijs en de politie. Je moet een verhuis doorgeven, de politie mag je op
 - De stroom van je woning afsluiten staat niet tussen de bevoegdheden van het BIPT in het handboek.
 :::
 
-:::weetje Oude examenvragen over het logboek
-In de vragenbank staan nog vragen over een **verplicht** logboek (wat erin moet, hoe lang bewaren). Die regels gelden niet meer. Op dit platform worden die vragen daarom niet gebruikt.
+:::weetje Logboek
+Een logboek is **niet meer verplicht**.
 :::

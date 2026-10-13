@@ -12,6 +12,11 @@ examenvragen: [E-h15-032, E-h15-033, E-h15-034, E-h15-035, E-h15-036, E-h15-161]
 Deze artikels verdelen de **bevoegdheden**. Het **BIPT** beheert en controleert de frequenties (art. 13) en mag technische voorschriften maken (art. 40). De **Koning** legt de grote regels vast in een KB (art. 39), meestal **na advies** of **op voorstel** van het BIPT.
 :::
 
+
+<!-- actueel -->
+:::actueel
+Art. 39 § 2 zegt nu: de Koning bepaalt de regels **op voorstel van het BIPT of op eigen initiatief, na advies van het BIPT**. Het examenreglement van 2021 vermeldt nog enkel "na advies".
+:::
 ### Art. 13: de vier taken van het BIPT
 | Punt | Taak |
 |---|---|

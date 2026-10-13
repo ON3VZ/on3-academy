@@ -12,6 +12,11 @@ examenvragen: [E-h15-103, E-h15-104, E-h15-163]
 Artikel 41 bevat **twee verboden**: **valse noodseinen** uitzenden, en communicatie **opvangen die niet voor jou bestemd is**. Voor beide is ook de **poging** al verboden.
 :::
 
+
+<!-- actueel -->
+:::actueel
+**Boete art. 145 § 1**: sinds 18 augustus 2022 is dat **50 tot 100 000 EUR** (niet meer 50 tot 50 000). Het examenreglement van 2021 vermeldt nog 50 000.
+:::
 ### Structuur
 | Punt | Verbod |
 |---|---|

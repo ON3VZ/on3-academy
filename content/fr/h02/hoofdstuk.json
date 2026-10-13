@@ -1,7 +1,7 @@
 {
  "id": "h02",
  "leerdoelen": [
-  "expliquer la différence entre le <b>certificat d'opérateur</b> et la <b>licence de station</b>.",
+  "expliquer la différence entre le <b>certificat d'opérateur</b> et l'<b>autorisation de station</b>.",
   "énumérer les trois <b>classes</b> (C, B, A) et leurs possibilités.",
   "dire que le certificat de classe C n'est presque nulle part <b>reconnu</b> à l'étranger.",
   "reconnaître un <b>indicatif d'appel</b> belge.",
@@ -42,7 +42,7 @@
    "achter": "Vous pouvez utiliser une station (émettre). Valable 5 ans, renouvelable."
   },
   {
-   "voor": "Licence de station",
+   "voor": "Autorisation de station",
    "achter": "Vous pouvez détenir et utiliser votre propre station. Il faut d'abord un certificat d'opérateur. À renouveler chaque année (année civile)."
   },
   {
@@ -103,7 +103,7 @@
   }
  ],
  "samenvatting": [
-  "Certificat = personne (peut émettre). Licence = station (peut détenir une station).",
+  "Certificat = personne (peut émettre). Autorisation = station (peut détenir une station).",
   "Classes C, B, A : plus la classe est élevée, plus il y a de bandes et de puissance. Seule la A peut construire elle-même. La C n'est presque nulle part reconnue à l'étranger.",
   "Indicatif : ON à OT + chiffre + 1 à 3 lettres. Suffixes /M, /MM, /AM, /P, /A.",
   "Indicatif au début et à la fin, et au moins toutes les 5 minutes.",

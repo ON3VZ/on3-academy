@@ -12,6 +12,11 @@ examenvragen: [E-h15-091, E-h15-092, E-h15-093, E-h15-094, E-h15-149]
 Je mag een zend- of ontvangtoestel enkel **verkopen, verhuren, uitlenen of schenken** aan iemand **met de nodige vergunning**. En je doet er **aangifte** van bij het BIPT, ook als je het maar één keer doet.
 :::
 
+
+<!-- actueel -->
+:::actueel
+**Boete art. 145 § 1**: sinds 18 augustus 2022 is dat **50 tot 100 000 EUR** (niet meer 50 tot 50 000). Het examenreglement van 2021 vermeldt nog 50 000.
+:::
 ### Structuur
 | § | Inhoud |
 |---|---|

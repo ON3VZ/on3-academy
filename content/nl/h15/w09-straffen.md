@@ -12,6 +12,13 @@ examenvragen: [E-h15-045, E-h15-100, E-h15-107, E-h15-122, E-h15-123, E-h15-124]
 Artikel 145 koppelt elke overtreding aan een **straf**. Onthoud vooral twee lijnen: **zonder vergunning** = **200 tot 2 000 euro** en/of **8 dagen tot 1 jaar**, en apparatuur die niet aan de eisen voldoet wordt **altijd verbeurd verklaard**.
 :::
 
+
+<!-- actueel -->
+:::actueel
+**Boete art. 145 § 1**: sinds 18 augustus 2022 is dat **50 tot 100 000 EUR** (niet meer 50 tot 50 000). Het examenreglement van 2021 vermeldt nog 50 000.
+
+**§ 3bis** (overlast aan je correspondent) is **opgeheven sinds 1 september 2026**.
+:::
 | § | Waarvoor? | Geldboete | Gevangenis |
 |---|---|---|---|
 | **1** | art. **15** (storing), **32, 33, 35** (apparatuur), **41** (noodseinen, afluisteren), **42** (verkoop, aangifte) en de besluiten die ze uitvoeren | **50 tot 50 000 EUR** | |

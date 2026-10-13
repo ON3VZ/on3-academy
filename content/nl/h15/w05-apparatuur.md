@@ -12,6 +12,11 @@ examenvragen: [E-h15-096, E-h15-097, E-h15-098, E-h15-099, E-h15-102, E-h15-150,
 Deze vijf artikels bepalen **welke apparatuur je mag hebben en hoe je ze gebruikt**: ze moet voldoen aan **essentiële eisen** en een **CE-markering** dragen (32), storende apparatuur is **verboden** (33), **zelfbouw** mag enkel met de **hoogste vergunning** (34), je gebruikt alles **volgens de handleiding** (35), en oude toestellen blijven onder voorwaarden toegelaten (37).
 :::
 
+
+<!-- actueel -->
+:::actueel
+Art. 32 § 2 spreekt nu van **accessoires andere dan laadapparaten**, met aparte regels voor laders (wet van 6 februari 2024). Art. 33 § 2 tot 5 (uitzonderingen voor overheidsdiensten) zijn sinds 30 december 2023 verhuisd naar **art. 15/1**. Art. 40: het BIPT kan **bijkomende eisen** opleggen bovenop de essentiële eisen.
+:::
 ### Art. 32: essentiële eisen
 | § | Inhoud |
 |---|---|

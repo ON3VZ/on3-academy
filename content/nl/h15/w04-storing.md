@@ -12,6 +12,11 @@ examenvragen: [E-h15-113]
 **Het is verboden schadelijke storing te veroorzaken.** Het BIPT onderzoekt storingen en legt maatregelen op. De **kosten** zijn voor de **verantwoordelijke gebruiker** van het storende toestel.
 :::
 
+
+<!-- actueel -->
+:::actueel
+**Boete art. 145 § 1**: sinds 18 augustus 2022 is dat **50 tot 100 000 EUR** (niet meer 50 tot 50 000). Het examenreglement van 2021 vermeldt nog 50 000.
+:::
 ### Structuur (drie stappen)
 | Stap | Inhoud |
 |---|---|

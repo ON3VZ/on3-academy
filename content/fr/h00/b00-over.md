@@ -29,7 +29,7 @@ Cette plateforme **ne remplace pas le manuel de l'UBA**. Elle n'est qu'un **comp
 ### Risque d'erreurs
 Tout a été rassemblé et vérifié avec soin, mais **des erreurs ou des informations dépassées sont possibles**. Un doute ? Consultez alors le manuel de l'UBA, le règlement d'examen de l'IBPT ou les textes de loi officiels. Vous voyez une erreur ? Signalez-la à votre formateur ou à votre section UBA, pour qu'elle puisse être corrigée.
 
-La version française est une traduction de la version néerlandaise. Les questions d'examen originales proviennent d'une banque de questions en néerlandais et ont été traduites : la formulation à l'examen réel en français peut donc être différente.
+La version française est une traduction de la version néerlandaise. La langue maternelle de l'auteur est le néerlandais : la traduction a été faite avec le plus grand soin, mais des erreurs restent possibles. N'hésitez pas à les signaler, par exemple via [la page des signalements du projet](https://github.com/ON3VZ/on3-academy/issues). Les questions d'examen originales proviennent d'une banque de questions en néerlandais et ont été traduites : la formulation à l'examen réel en français peut donc être différente.
 
 ### Entièrement bénévole
 - **Gratuit**, sans publicité et sans compte.

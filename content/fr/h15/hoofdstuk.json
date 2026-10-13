@@ -1,0 +1,313 @@
+{
+ "id": "h15",
+ "leerdoelen": [
+  "expliquer la <b>structure</b> de la réglementation : la loi du 13 juin 2005 (partie 1) et l'AR du 18 décembre 2009 (partie 2), et leur <b>hiérarchie</b>.",
+  "connaître pour chaque article le <b>contenu</b>, la <b>formulation</b> et l'<b>impact</b> pour un radioamateur.",
+  "reconnaître toutes les <b>définitions</b> de la loi (art. 2) et de l'AR (art. 1er), même quand les réponses se ressemblent fort.",
+  "distinguer les missions de l'<b>IBPT</b> et le rôle du <b>Roi</b>.",
+  "connaître l'<b>obligation d'autorisation</b>, les règles pour les <b>équipements</b>, la <b>vente</b>, le <b>secret</b> et le <b>brouillage</b>, et les <b>sanctions</b> prévues par la loi.",
+  "connaître les règles de l'AR pour l'<b>autorisation</b>, les <b>obligations</b>, la <b>suspension</b>, le <b>certificat d'opérateur</b>, l'<b>examen</b>, les <b>associations</b>, l'<b>autorisation de station</b>, les <b>émissions</b>, les <b>fréquences</b>, le <b>droit de dossier</b>, la <b>redevance annuelle</b> et le <b>contrôle</b>.",
+  "distinguer tous les <b>délais, âges et montants</b>.",
+  "résoudre des <b>questions de situation</b> qui combinent réglementation et technique."
+ ],
+ "doelstellingen": [],
+ "paginas": [
+  "s01-structuur",
+  "w01-definities",
+  "w02-bipt",
+  "w03-vergunningsplicht",
+  "w04-storing",
+  "w05-apparatuur",
+  "w06-geheim",
+  "w07-verkoop",
+  "w08-rechten-veiligheid",
+  "w09-straffen",
+  "k01-definities",
+  "k02-categorieen",
+  "k03-technisch",
+  "k04-vergunning",
+  "k05-plichten",
+  "k06-schorsing",
+  "k07-certificaat",
+  "k08-verenigingen",
+  "k09-station",
+  "k10-uitzendingen",
+  "k11-frequenties",
+  "k12-dossierrecht",
+  "k13-jaarlijks",
+  "k14-houders",
+  "k15-controle",
+  "o00-definities",
+  "o01-getallen",
+  "o02-wie-wat",
+  "o03-situaties",
+  "formules"
+ ],
+ "flashcards": [
+  {
+   "voor": "Ondes radioélectriques / ondes hertziennes (loi 2, 31°)",
+   "achter": "Ondes électromagnétiques se propageant dans l'espace sans guide artificiel, dont la fréquence est inférieure à 3000 GHz."
+  },
+  {
+   "voor": "Radiofréquences (loi 2, 32°)",
+   "achter": "Les fréquences des ondes radioélectriques."
+  },
+  {
+   "voor": "Spectre radioélectrique (loi 2, 33°)",
+   "achter": "L'ensemble des radiofréquences."
+  },
+  {
+   "voor": "Attribution du spectre (loi 2, 33/1°)",
+   "achter": "La désignation d'une bande de fréquences donnée aux fins de son utilisation par un ou plusieurs types de services de radiocommunications."
+  },
+  {
+   "voor": "Radiocommunication (loi 2, 34°)",
+   "achter": "Toute transmission au moyen d'ondes radioélectriques d'informations de toute nature, à l'exclusion de la transmission exclusive de signaux de services de médias audiovisuels."
+  },
+  {
+   "voor": "Appareil émetteur (loi 2, 35°)",
+   "achter": "Tout générateur d'oscillations électromagnétiques conçu en vue de l'émission de radiocommunications."
+  },
+  {
+   "voor": "Appareil émetteur-récepteur (loi 2, 36°)",
+   "achter": "Tout générateur et récepteur, conçu en vue de l'émission et de la réception."
+  },
+  {
+   "voor": "Appareil récepteur (loi 2, 37°)",
+   "achter": "Tout récepteur, conçu en vue de la réception de radiocommunications."
+  },
+  {
+   "voor": "Station de radiocommunications (loi 2, 38°)",
+   "achter": "L'ensemble : appareil, les antennes associées et tous les composants nécessaires au fonctionnement de l'ensemble."
+  },
+  {
+   "voor": "Réseau de radiocommunications (loi 2, 38/1°)",
+   "achter": "Ensemble formé par plusieurs stations pouvant communiquer entre elles dans les limites d'une autorisation ou d'un droit d'utilisation."
+  },
+  {
+   "voor": "Brouillage préjudiciable (loi 2, 39°)",
+   "achter": "Compromet la radionavigation ou d'autres services de sécurité, ou altère gravement, entrave ou interrompt de façon répétée un service opérant conformément à la réglementation applicable."
+  },
+  {
+   "voor": "Loi (AR 1, 1°)",
+   "achter": "La loi du 13 juin 2005 relative aux communications électroniques."
+  },
+  {
+   "voor": "Institut (AR 1, 2°)",
+   "achter": "L'Institut belge des services postaux et des télécommunications (IBPT)."
+  },
+  {
+   "voor": "Station de radiocommunications fixe (AR 1, 3°)",
+   "achter": "Installée à demeure en un lieu déterminé."
+  },
+  {
+   "voor": "Station de radiocommunications transportable (AR 1, 4°)",
+   "achter": "Peut être déplacée, mais ne peut être utilisée qu'à l'arrêt."
+  },
+  {
+   "voor": "Station de radiocommunications mobile (AR 1, 5°)",
+   "achter": "Installée dans un véhicule, utilisable en mouvement ou à l'arrêt, en n'importe quel lieu."
+  },
+  {
+   "voor": "Station de radiocommunications portable (AR 1, 6°)",
+   "achter": "Utilisable indépendamment d'un véhicule, en mouvement ou à l'arrêt, en n'importe quel lieu."
+  },
+  {
+   "voor": "Installation d'émission (AR 1, 7°)",
+   "achter": "L'ensemble relié à l'entrée du câble d'antenne : appareil émetteur et, le cas échéant, filtres, atténuateurs, répartiteurs, cavités."
+  },
+  {
+   "voor": "Puissance de sortie de l'installation d'émission (AR 1, 8°)",
+   "achter": "Puissance moyenne de l'onde porteuse non modulée disponible à la sortie de l'installation d'émission."
+  },
+  {
+   "voor": "Puissance fournie à l'antenne (AR 1, 9°)",
+   "achter": "Puissance moyenne de l'onde porteuse non modulée fournie à l'entrée de l'antenne."
+  },
+  {
+   "voor": "PAR, en anglais ERP (AR 1, 10°)",
+   "achter": "Puissance fournie à l'antenne × gain de l'antenne par rapport à une antenne dipôle."
+  },
+  {
+   "voor": "PIRE, en anglais EIRP (AR 1, 10°/1)",
+   "achter": "Puissance fournie à l'antenne × gain de l'antenne par rapport à une antenne isotrope."
+  },
+  {
+   "voor": "État signalétique (AR 1, 11°)",
+   "achter": "Description succincte : usage et lieu d'utilisation, puissance de sortie, puissance fournie à l'antenne, PAR, fréquences, gain de l'antenne, type de modulation."
+  },
+  {
+   "voor": "Indicatif d'appel (AR 1, 12°)",
+   "achter": "Combinaison de lettres ou de lettres et de chiffres qui permet l'identification d'une station de radiocommunications ou de son utilisateur."
+  },
+  {
+   "voor": "Autorisation pour une station de radiocommunications (AR 1, 17°)",
+   "achter": "L'autorisation de faire fonctionner une station de radiocommunications."
+  },
+  {
+   "voor": "Droit d'utilisation (AR 1, 18°)",
+   "achter": "Le droit d'utilisation des radiofréquences."
+  },
+  {
+   "voor": "Fréquence exclusive (AR 1, 19°)",
+   "achter": "Dans une zone déterminée, pour un seul titulaire."
+  },
+  {
+   "voor": "Fréquence commune (AR 1, 20°)",
+   "achter": "Dans une même zone, pour plusieurs titulaires, en tenant compte de la densité d'occupation."
+  },
+  {
+   "voor": "Fréquence collective (AR 1, 21°)",
+   "achter": "Dans n'importe quelle zone, pour plusieurs titulaires, sans tenir compte de la densité d'occupation."
+  },
+  {
+   "voor": "Rayonnement non essentiel (AR 1, 22°)",
+   "achter": "Rayonnement en dehors de la fréquence assignée, dont le niveau peut être réduit sans affecter la qualité."
+  },
+  {
+   "voor": "Sans perturbations et sans protections (AR 1, 25°)",
+   "achter": "Aucun brouillage préjudiciable ne peut être causé, et il est impossible de prétendre à une quelconque protection contre les brouillages causés par des services légitimes."
+  },
+  {
+   "voor": "CEPT (AR 1, 29°)",
+   "achter": "Conférence Européenne des administrations des Postes et Télécommunications, dont font partie l'ERC et l'ECC."
+  },
+  {
+   "voor": "Hiérarchie",
+   "achter": "Loi, AR, AM, décision du Conseil de l'IBPT."
+  },
+  {
+   "voor": "Assigner des fréquences",
+   "achter": "Ordre de réception, nécessité, disponibilité (AR art. 18)."
+  },
+  {
+   "voor": "Missions de l'IBPT (loi art. 13)",
+   "achter": "Gestion, examen des demandes (sauf radiodiffusion), coordination nationale et internationale, contrôle."
+  },
+  {
+   "voor": "Obligation d'autorisation (loi art. 13/1)",
+   "achter": "Détenir un appareil émetteur ou récepteur, établir et faire fonctionner une station : autorisation écrite."
+  },
+  {
+   "voor": "5e catégorie",
+   "achter": "Radioamateurs : instruction individuelle, intercommunication technique et études."
+  },
+  {
+   "voor": "Radioamateur étranger",
+   "achter": "Moins de 3 mois, autorisation selon T/R 61-01 ou (05)06 : pas d'autorisation belge nécessaire."
+  },
+  {
+   "voor": "Âge 5e catégorie",
+   "achter": "Plus de 12 ans. Autres autorisations : plus de 18 ans."
+  },
+  {
+   "voor": "Entrée en possession inopinée",
+   "achter": "Maximum 60 jours pour demander une autorisation."
+  },
+  {
+   "voor": "Refus de la demande",
+   "achter": "Suspension ou révocation antérieure, non-paiement, ou moins de 2 jours ouvrables à l'avance."
+  },
+  {
+   "voor": "Autorisation lors d'un contrôle",
+   "achter": "Immédiatement, dans sa version originale. Toute copie est sans valeur sans accord préalable et écrit."
+  },
+  {
+   "voor": "Certificat d'opérateur",
+   "achter": "Valable 5 ans à compter de sa date d'émission, renouvelable. Modification ou perte non signalée : réputé inexistant."
+  },
+  {
+   "voor": "Classes",
+   "achter": "A = HAREC (T/R 61-02), B = ECC (05)06, C = rapport 89 de l'ECC."
+  },
+  {
+   "voor": "Échec à l'examen",
+   "achter": "Réinscription après 1 mois."
+  },
+  {
+   "voor": "Fraude à l'examen",
+   "achter": "Examen annulé, 3 ans sans examen de l'IBPT, certificats révoqués."
+  },
+  {
+   "voor": "Association reconnue de radioamateurs",
+   "achter": "ASBL, stations fixes dans 5 provinces (ou 4 + Bruxelles), formation sans affiliation, 2 mandataires de classe A."
+  },
+  {
+   "voor": "Autorisation de station, personne physique",
+   "achter": "D'abord le certificat. Une station fixe + une mobile + une portative. Commandée à distance : uniquement classe A. Sans opérateur : non, sauf APRS."
+  },
+  {
+   "voor": "Déplacer la station d'un radio-club",
+   "achter": "Max. 1 semaine, informer l'IBPT au préalable, pas d'adaptation de l'autorisation."
+  },
+  {
+   "voor": "Contenu des émissions",
+   "achter": "Langage clair, recherches techniques. Pas de publicité, rien pour des tiers."
+  },
+  {
+   "voor": "Chiffrement",
+   "achter": "Uniquement pour la gestion d'une station automatique ou commandée à distance (après autorisation), ou en cas de crise à la demande des autorités."
+  },
+  {
+   "voor": "Émettre depuis un aéronef ou un navire",
+   "achter": "Consentement écrit préalable du commandant de bord."
+  },
+  {
+   "voor": "Construction personnelle",
+   "achter": "Uniquement l'autorisation la plus élevée (classe A) : kits de composants, modification pour usage propre, construction à des fins expérimentales."
+  },
+  {
+   "voor": "Vendre un appareil émetteur",
+   "achter": "Uniquement à une personne autorisée. Occasionnellement : déclaration dans les 10 jours. Commerçant : tous les mois."
+  },
+  {
+   "voor": "Communication captée involontairement",
+   "achter": "Ne pas la reproduire, ne pas la communiquer, ne pas l'utiliser, ne même pas révéler son existence."
+  },
+  {
+   "voor": "Résoudre un brouillage",
+   "achter": "Suspendre sur simple demande. Max. 30 jours. Ensuite mise hors service."
+  },
+  {
+   "voor": "Suspendre ou révoquer (AR art. 10)",
+   "achter": "L'IBPT peut : conditions non respectées, refus d'éliminer une perturbation, non-paiement, s'emparer d'une fréquence."
+  },
+  {
+   "voor": "Utilisation illicite (AR art. 11)",
+   "achter": "Même par une autre personne : révocation immédiate."
+  },
+  {
+   "voor": "Sans autorisation (loi art. 145 § 2)",
+   "achter": "200 à 2 000 EUR et/ou 8 jours à 1 an."
+  },
+  {
+   "voor": "Droit de dossier tardif",
+   "achter": "< 20 jours ouvrables × 2, < 5 jours ouvrables × 5. Temporaire : 5 et 2."
+  },
+  {
+   "voor": "Exonération du droit de dossier",
+   "achter": "Plus de 65 ans, mineurs, au moins 12 points de réduction d'autonomie, capacité de gain ≤ 1/3."
+  },
+  {
+   "voor": "Redevance annuelle",
+   "achter": "En service le 1er janvier : toute l'année. En cours d'année : au prorata, min. 30 jours."
+  },
+  {
+   "voor": "Résiliation",
+   "achter": "Effective à la date de la résiliation, note de crédit, min. 30 jours dus. Le droit de dossier reste dû."
+  }
+ ],
+ "samenvatting": [
+  "Deux textes : la loi du 13 juin 2005 et l'AR du 18 décembre 2009. Hiérarchie : loi, AR, AM, décision du Conseil de l'IBPT.",
+  "Définitions : ondes radioélectriques inférieures à 3000 GHz sans guide artificiel ; station de radiocommunications avec antennes et composants ; brouillage préjudiciable = danger ou entrave grave pour un service de radiocommunications.",
+  "Stations : fixe, transportable (uniquement à l'arrêt), mobile (véhicule), portable (indépendante, aussi en mouvement). PAR (ERP) par rapport au dipôle, PIRE (EIRP) par rapport à l'antenne isotrope.",
+  "Les bandes amateurs sont collectives : aucune protection, émissions aussi brèves que possible.",
+  "Obligation d'autorisation pour détenir et pour utiliser. Radioamateurs = 5e catégorie, à partir de plus de 12 ans.",
+  "Certificat valable 5 ans. Échec : attendre 1 mois. Fraude : 3 ans d'exclusion.",
+  "Autorisation de station : d'abord le certificat, une station fixe plus une station mobile et une station portative, redevance annuelle.",
+  "Langage clair, sujets techniques, pas de publicité, rien pour des tiers, indicatif d'appel au début, à la fin et toutes les 5 minutes.",
+  "Brouillage interdit ; arrêter sur simple demande, max. 30 jours pour le résoudre.",
+  "L'IBPT peut suspendre ou révoquer ; utilisation illicite = révocation immédiate. Droit de dossier × 2 ou × 5 en cas de demande tardive."
+ ],
+ "opmerking": "Source : chapitre 15 du manuel HAREC de l'UBA (loi du 13 juin 2005 et AR du 18 décembre 2009), tel que l'UBA le publie comme matière d'examen."
+}

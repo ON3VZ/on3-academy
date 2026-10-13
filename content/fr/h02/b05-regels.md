@@ -23,7 +23,7 @@ En tant que radioamateur, vous parlez **uniquement avec d'autres radioamateurs**
 Source légale : AR 18-12-2009, art. 17 et 17/7.
 
 ### Qui peut utiliser votre station ?
-- **Vous**, en tant que titulaire de la licence.
+- **Vous**, en tant que titulaire de l'autorisation.
 - **D'autres radioamateurs** avec un **certificat d'opérateur approprié**.
 - **Pas** : les personnes de votre ménage sans certificat, et pas non plus « n'importe qui sous votre surveillance ».
 

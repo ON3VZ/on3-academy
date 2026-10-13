@@ -12,6 +12,11 @@ examenvragen: [E-h15-005, E-h15-006, E-h15-007, E-h15-008, E-h15-009, E-h15-010,
 Artikel 2 van de wet bevat de **definities**. Voor radioamateurs zijn er elf van belang. Je kunt ze in **drie groepen** verdelen: de **golven** en het **spectrum**, de **toestellen** en het **station**, en de **storing**.
 :::
 
+
+<!-- actueel -->
+:::actueel
+Sinds 10 januari 2022 zijn in art. 2 de definities **32° (radiofrequenties)** en **35° tot 37° (zendtoestel, zend-ontvangtoestel, ontvangtoestel)** opgeheven. Ze zijn vervangen door **42° radioapparatuur**. In 31° is "of hertzgolven" geschrapt, in 34° de opsomming van voorbeelden. Het examenreglement van 2021 gebruikt nog de definities op deze pagina: leer die voor het examen.
+:::
 Volledige tekst: [wet van 13 juni 2005 op Justel](https://www.ejustice.just.fgov.be/cgi_loi/change_lg.pl?language=nl&la=N&cn=2005061332&table_name=wet). Deze samenvatting toont enkel de artikels die examenstof zijn.
 
 ### Groep 1: golven en spectrum

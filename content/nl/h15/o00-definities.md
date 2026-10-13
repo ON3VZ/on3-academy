@@ -8,6 +8,11 @@ uba_ref: wet art. 2; KB art. 1
 checkvragen: []
 examenvragen: [E-h15-164, E-h15-165, E-h15-166, E-h15-167, E-h15-168, E-h15-169, E-h15-170, E-h15-171, E-h15-172, E-h15-173, E-h15-174, E-h15-175, E-h15-176, E-h15-177, E-h15-178, E-h15-179]
 ---
+<!-- actueel -->
+:::actueel
+Sinds 10 januari 2022 zijn in art. 2 de definities **32° (radiofrequenties)** en **35° tot 37° (zendtoestel, zend-ontvangtoestel, ontvangtoestel)** opgeheven. Ze zijn vervangen door **42° radioapparatuur**. In 31° is "of hertzgolven" geschrapt, in 34° de opsomming van voorbeelden. Het examenreglement van 2021 gebruikt nog de definities op deze pagina: leer die voor het examen.
+:::
+
 Op het examen krijg je vaak een **omschrijving** en vier begrippen, of een **begrip** en vier omschrijvingen die sterk op elkaar lijken. Hieronder staan **alle definities** die examenstof zijn, in de volgorde van de tekst. Het handboek zegt het zelf: enkel deze definities zijn relevant voor radioamateurs en moeten gekend zijn. De wet en het KB bevatten nog andere definities, die zijn geen examenstof.
 
 ### Wet van 13 juni 2005, art. 2

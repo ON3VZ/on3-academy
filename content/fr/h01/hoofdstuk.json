@@ -2,7 +2,7 @@
  "id": "h01",
  "leerdoelen": [
   "expliquer ce qu'est le radioamateurisme.",
-  "dire quel est le <b>but</b> de la licence de radioamateur.",
+  "dire quel est le <b>but</b> de l'autorisation de radioamateur.",
   "dire quels sujets sont <b>tabous</b> et que le <b>commerce</b> est interdit."
  ],
  "doelstellingen": [
@@ -15,7 +15,7 @@
  ],
  "flashcards": [
   {
-   "voor": "But de la licence de radioamateur",
+   "voor": "But de l'autorisation de radioamateur",
    "achter": "Se perfectionner en radiocommunication et en technique radio. Pas commercial."
   },
   {
@@ -37,7 +37,7 @@
  ],
  "samenvatting": [
   "Radioamateurisme = hobby : liaisons, construction, expérimentation, propagation.",
-  "But de la licence : se perfectionner en radiocommunication et en technique radio.",
+  "But de l'autorisation : se perfectionner en radiocommunication et en technique radio.",
   "Pas de commerce, pas de politique, pas de religion."
  ],
  "opmerking": null

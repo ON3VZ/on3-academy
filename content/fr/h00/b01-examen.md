@@ -28,7 +28,7 @@ Si vous réussissez l'épreuve pratique, vous recevez une **attestation** qui vo
 Une bonne réponse rapporte **1 point**. Une réponse fausse ou une absence de réponse donne **0 point**. Deviner ne coûte donc rien : répondez toujours à toutes les questions.
 
 ### Après l'examen
-Après l'examen, vous recevez d'abord un **certificat d'aspirant radiotéléphoniste privé**. Ensuite, vous demandez votre certificat d'opérateur et votre indicatif d'appel. Le parcours complet est décrit au chapitre 2.
+Après l'examen, vous recevez d'abord un **attestation de réussite**. Ensuite, vous demandez votre certificat d'opérateur et votre indicatif d'appel. Le parcours complet est décrit au chapitre 2.
 
 :::weetje
 Ces chiffres proviennent de la décision du Conseil de l'IBPT du 19 janvier 2021 concernant les épreuves et examens pour radioamateurs (art. 1.2.3.1 et 1.2.3.2). L'attestation de l'épreuve pratique est **valable un an** (art. 1.1.3). Les règles peuvent changer : avant de vous inscrire, vérifiez toujours sur le site de l'IBPT.
