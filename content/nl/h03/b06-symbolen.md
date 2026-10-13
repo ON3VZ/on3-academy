@@ -1,34 +1,34 @@
 ---
 id: h03-b06-symbolen
 type: brokje
-kort: Symboles
-titel: Les 9 symboles à connaître
+kort: Symbolen
+titel: De 9 symbolen die je moet kennen
 uba_ref: hfst. 3.1 en 14, tabel 1
 checkvragen: [C-h03-15, C-h03-16]
 examenvragen: [O057, O058, O059, O060, O061, O062, O063, O064, O065]
 ---
 :::kern
-Dans un schéma, on ne dessine pas les vrais composants mais des **symboles** simples. Pour l'examen, vous devez en reconnaître neuf.
+In een schema teken je geen echte onderdelen maar eenvoudige **symbolen**. Voor het examen moet je er negen herkennen.
 :::
 
-{{svg:h03-symbolen|Les neuf symboles du tableau 1 du programme d'examen.}}
+{{svg:h03-symbolen|De negen symbolen uit tabel 1 van het examenprogramma.}}
 
-| Symbole | Comment le reconnaître |
+| Symbool | Zo herken je het |
 |---|---|
-| pile | le long trait est le plus, le trait court et épais est le moins |
-| ampoule à incandescence | un rond avec une croix : le filament |
-| résistance | un petit rectangle vide |
-| fusible | un petit rectangle traversé par le fil : c'est ce fil qui fond |
-| interrupteur | un petit levier qui peut être ouvert ou fermé |
-| microphone | un rond avec un trait : la membrane dans laquelle on parle |
-| haut-parleur | un entonnoir : le son en sort |
-| antenne | un mât avec deux petits bras en l'air |
-| terre | trois traits de plus en plus petits, qui s'enfoncent dans le sol |
+| batterij | lange streep is plus, korte dikke streep is min |
+| gloeilamp | een bol met een kruis: de gloeidraad |
+| weerstand | een leeg rechthoekje |
+| zekering | rechthoekje met de draad er dwars door: die draad smelt door |
+| schakelaar | een klepje dat open of dicht kan |
+| microfoon | een rondje met een streep: het membraan waar je in spreekt |
+| luidspreker | een trechter: het geluid komt eruit |
+| antenne | een mast met twee armpjes in de lucht |
+| aarding | drie strepen die kleiner worden, de grond in |
 
 :::valkuil
-La **résistance** et le **fusible** se ressemblent beaucoup. Pour le fusible, le fil **traverse** le petit rectangle ; pour la résistance, le fil s'arrête au bord.
+**Weerstand** en **zekering** lijken sterk op elkaar. Bij de zekering loopt de draad **door** het rechthoekje heen, bij de weerstand stopt de draad aan de rand.
 :::
 
 :::geheugensteun
-Fusible = le fil le **traverse de part en part**, exactement comme le vrai fil fusible dans un petit tube de fusible en verre.
+Zekering = de draad gaat er **dwars door**, net zoals de echte smeltdraad in een glazen zekeringbuisje.
 :::

@@ -1,9 +1,9 @@
 {
  "id": "h01",
  "leerdoelen": [
-  "expliquer ce qu'est le radioamateurisme.",
-  "dire quel est le <b>but</b> de la licence de radioamateur.",
-  "dire quels sujets sont <b>tabous</b> et que le <b>commerce</b> est interdit."
+  "uitleggen wat radioamateurisme is.",
+  "zeggen wat het <b>doel</b> van de radioamateurvergunning is.",
+  "zeggen welke onderwerpen <b>taboe</b> zijn en dat <b>commercie</b> verboden is."
  ],
  "doelstellingen": [
   "1a.1"
@@ -15,30 +15,30 @@
  ],
  "flashcards": [
   {
-   "voor": "But de la licence de radioamateur",
-   "achter": "Se perfectionner en radiocommunication et en technique radio. Pas commercial."
+   "voor": "Doel van de radioamateurvergunning",
+   "achter": "Je bekwamen in radiocommunicatie en radiotechniek. Niet commercieel."
   },
   {
-   "voor": "Sujets tabous",
-   "achter": "La politique et les convictions religieuses."
+   "voor": "Taboe-onderwerpen",
+   "achter": "Politiek en geloofsovertuigingen."
   },
   {
-   "voor": "Gagner de l'argent avec le radioamateurisme",
-   "achter": "Interdit : aucun aspect commercial n'est permis."
+   "voor": "Geld verdienen met radioamateurisme",
+   "achter": "Verboden: elk commercieel aspect is niet toegestaan."
   },
   {
    "voor": "UBA",
-   "achter": "Union Royale Belge des Amateurs-Émetteurs : association nationale avec des sections locales et des cours."
+   "achter": "Koninklijke Unie van de Belgische Zendamateurs: nationale vereniging met lokale secties en cursussen."
   },
   {
    "voor": "IARU",
-   "achter": "Union internationale des radioamateurs. L'UBA en est le membre belge. Représente les radioamateurs auprès de l'UIT (ITU)."
+   "achter": "Internationale vereniging van radioamateurs. De UBA is het Belgische lid. Vertegenwoordigt bij de ITU."
   }
  ],
  "samenvatting": [
-  "Radioamateurisme = hobby : liaisons, construction, expérimentation, propagation.",
-  "But de la licence : se perfectionner en radiocommunication et en technique radio.",
-  "Pas de commerce, pas de politique, pas de religion."
+  "Radioamateurisme = hobby: verbindingen, zelf bouwen, experimenteren, propagatie.",
+  "Doel van de vergunning: je bekwamen in radiocommunicatie en radiotechniek.",
+  "Geen commercie, geen politiek, geen geloof."
  ],
  "opmerking": null
 }

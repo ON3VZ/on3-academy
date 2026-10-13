@@ -1,30 +1,30 @@
 ---
 id: h04-b5
 type: brokje
-kort: Moduler trop fort
-titel: Moduler trop fort
+kort: Te hard moduleren
+titel: Te hard moduleren
 uba_ref: hfst. 4, p. 14 tot 16
 checkvragen: [C-h04-5a, C-h04-5b, C-h04-5c]
 examenvragen: [O115, O116, O117, O118, O119, O120]
 ---
-<div class="figwrap">{{svg:overmodulatie}}<div class="figcap">Au-delà d'une certaine limite, l'onde ne peut plus monter. Les sommets deviennent plats.</div></div>
+<div class="figwrap">{{svg:overmodulatie}}<div class="figcap">Boven een bepaalde grens kan de golf niet meer hoger. De toppen worden plat.</div></div>
 
 <div class="tbl"><table>
-<tr><th>Mode</th><th>Avec un signal audio trop fort</th><th>Conséquence</th></tr>
-<tr><td>AM et SSB</td><td>Surmodulation : les sommets sont aplatis, le signal est déformé.</td><td>Peu compréhensible et <b>perturbations sur les fréquences voisines</b></td></tr>
-<tr><td>FM</td><td>La fréquence s'écarte trop : excursion de fréquence trop grande.</td><td><b>Perturbations sur les fréquences voisines</b></td></tr>
+<tr><th>Mode</th><th>Bij een te sterk audiosignaal</th><th>Gevolg</th></tr>
+<tr><td>AM en SSB</td><td>Overmodulatie: toppen worden afgeplat, het signaal vervormt.</td><td>Slecht verstaanbaar en <b>storing op nabijgelegen frequenties</b></td></tr>
+<tr><td>FM</td><td>De frequentie zwaait te ver uit: te grote frequentiezwaai.</td><td><b>Storing op nabijgelegen frequenties</b></td></tr>
 </table></div>
 
-<div class="card kern"><b class="k">L'essentiel</b>
-La cause est toujours un <b>signal audio ou de données trop fort</b>, donc le plus souvent un <b>amplificateur de microphone</b> réglé trop haut. Ce n'est pas l'antenne, ni le générateur de fréquence, ni l'amplificateur de puissance RF. L'émetteur n'est pas endommagé non plus : le problème, ce sont les perturbations pour les autres.
+<div class="card kern"><b class="k">Kern</b>
+De oorzaak is altijd een <b>te sterk audio- of datasignaal</b>, dus meestal een te hoog ingestelde <b>microfoonversterker</b>. Niet de antenne, niet de frequentiegenerator, niet de RF-vermogenversterker. De zender gaat er ook niet van stuk: het probleem is de storing voor anderen.
 </div>
 
-<h3>Voici comment bien régler (SSB)</h3>
+<h3>Zo stel je het juist in (SSB)</h3>
 <ol class="steps">
-<li><span>Réglez d'abord le bouton <b>MIC GAIN</b> (gain du microphone) au minimum. Sur beaucoup d'appareils, c'est un bouton en façade ; sur d'autres, il se trouve dans le menu.</span></li>
-<li><span>Mettez l'indicateur de votre appareil sur <b>ALC</b>. En général, vous le choisissez avec un bouton <b>METER</b> ou via le menu.</span></li>
-<li><span>Tenez le microphone à une distance fixe, environ 5 à 10 cm, et parlez à votre volume de voix normal. Dites par exemple calmement votre indicatif d'appel plusieurs fois.</span></li>
-<li><span>Montez lentement le MIC GAIN jusqu'à ce que l'indicateur ALC dévie <b>dans la zone ALC indiquée</b> sur les mots prononcés fort. S'il sort de cette zone, redescendez.</span></li>
-<li><span>Demandez à une station correspondante un rapport honnête sur votre modulation, ou écoutez-vous vous-même avec un deuxième récepteur.</span></li>
+<li><span>Zet de knop <b>MIC GAIN</b> (microfoonversterking) eerst laag. Op veel toestellen is dat een knop op het front, op andere zit het in het menu.</span></li>
+<li><span>Zet de meter van je toestel op <b>ALC</b>. Meestal kies je dat met een knop <b>METER</b> of via het menu.</span></li>
+<li><span>Houd de microfoon op een vaste afstand, ongeveer 5 tot 10 cm, en spreek op je normale stemvolume. Zeg bijvoorbeeld een paar keer rustig je roepnaam.</span></li>
+<li><span>Draai MIC GAIN langzaam hoger tot de ALC-meter bij luide woorden <b>binnen de aangeduide ALC-zone</b> uitslaat. Gaat hij erbuiten, draai dan terug.</span></li>
+<li><span>Vraag een tegenstation om een eerlijk rapport over je modulatie, of luister jezelf terug via een tweede ontvanger.</span></li>
 </ol>
-<div class="card"><span class="extra-tag" style="color:var(--red);border-color:var(--red)">à vérifier</span>Le nom des boutons et la zone ALC diffèrent selon la marque. Consultez le mode d'emploi de votre propre appareil.</div>
+<div class="card"><span class="extra-tag" style="color:var(--red);border-color:var(--red)">controle nodig</span>De naam van de knoppen en de ALC-zone verschillen per merk. Kijk in de handleiding van je eigen toestel.</div>

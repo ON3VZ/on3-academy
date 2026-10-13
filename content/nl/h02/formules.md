@@ -1,34 +1,34 @@
 ---
 id: h02-form
 type: formules
-kort: Chiffres et repères
-titel: Chiffres et repères
+kort: Getallen en weetjes
+titel: Getallen en weetjes
 uba_ref: hfst. 2, p. 3 tot 6
 checkvragen: []
 examenvragen: []
 ---
 <div class="tbl"><table>
-<tr><th>Chiffre</th><th>Signification</th></tr>
-<tr><td>3</td><td>nombre de classes : A, B, C</td></tr>
-<tr><td>5 ans</td><td>validité d'un certificat d'opérateur, renouvelable (AR art. 17/1)</td></tr>
-<tr><td>1 année civile</td><td>validité d'une licence de station, renouvelable (chaque année)</td></tr>
-<tr><td>8</td><td>nombre de bandes pour la classe C</td></tr>
-<tr><td>25 W</td><td>maximum en HF pour la classe C</td></tr>
-<tr><td>50 W</td><td>maximum sur 2 m et 70 cm pour la classe C</td></tr>
-<tr><td>5 minutes</td><td>indicatif au moins une fois toutes les 5 minutes (AR art. 17/8)</td></tr>
-<tr><td>ON à OT</td><td>préfixes belges</td></tr>
+<tr><th>Getal</th><th>Betekenis</th></tr>
+<tr><td>3</td><td>aantal klassen: A, B, C</td></tr>
+<tr><td>5 jaar</td><td>geldigheid van een bedieningscertificaat, verlengbaar (KB art. 17/1)</td></tr>
+<tr><td>1 kalenderjaar</td><td>geldigheid van een stationsvergunning, verlengbaar (jaarlijks)</td></tr>
+<tr><td>8</td><td>aantal banden voor klasse C</td></tr>
+<tr><td>25 W</td><td>maximum op HF voor klasse C</td></tr>
+<tr><td>50 W</td><td>maximum op 2 m en 70 cm voor klasse C</td></tr>
+<tr><td>5 minuten</td><td>roepnaam minstens één keer om de 5 minuten (KB art. 17/8)</td></tr>
+<tr><td>ON tot OT</td><td>Belgische prefixen</td></tr>
 </table></div>
 <div class="tbl"><table>
-<tr><th>Suffixe</th><th>Signification</th></tr>
-<tr><td>/M</td><td>mobile (voiture, train)</td></tr>
-<tr><td>/MM</td><td>mobile maritime (bateau)</td></tr>
-<tr><td>/AM</td><td>mobile aéronautique (avion, ballon)</td></tr>
-<tr><td>/P</td><td>portable ou temporaire</td></tr>
-<tr><td>/A</td><td>station fixe à une autre adresse</td></tr>
+<tr><th>Aanhangsel</th><th>Betekenis</th></tr>
+<tr><td>/M</td><td>mobiel (auto, trein)</td></tr>
+<tr><td>/MM</td><td>maritiem mobiel (schip)</td></tr>
+<tr><td>/AM</td><td>aeronautisch mobiel (vliegtuig, ballon)</td></tr>
+<tr><td>/P</td><td>draagbaar of tijdelijk</td></tr>
+<tr><td>/A</td><td>vast station op een ander adres</td></tr>
 </table></div>
 <div class="tbl"><table>
-<tr><th>Statut</th><th>Signification</th></tr>
-<tr><td>PEX</td><td>primaire et exclusif : seuls utilisateurs</td></tr>
-<tr><td>P</td><td>primaire : l'un des utilisateurs principaux</td></tr>
-<tr><td>S</td><td>secondaire : ne pas perturber, aucune protection</td></tr>
+<tr><th>Status</th><th>Betekenis</th></tr>
+<tr><td>PEX</td><td>primair en exclusief: enige gebruikers</td></tr>
+<tr><td>P</td><td>primair: een van de hoofdgebruikers</td></tr>
+<tr><td>S</td><td>secundair: niet storen, geen bescherming</td></tr>
 </table></div>

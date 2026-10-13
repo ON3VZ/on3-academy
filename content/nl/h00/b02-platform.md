@@ -1,39 +1,39 @@
 ---
 id: h00-b2
 type: brokje
-kort: Comment étudier ici
-titel: Comment utiliser cette plateforme
+kort: Zo studeer je hier
+titel: Zo gebruik je dit platform
 uba_ref: null
 checkvragen: [C-h00-2a, C-h00-2b]
 examenvragen: []
 ---
 :::kern
-Chaque chapitre se compose de **pages courtes**. Après chaque explication, vous recevez directement quelques **questions d'entraînement**. Vous savez ainsi tout de suite si vous avez compris. Vous ne devez **pas créer de compte** : votre progression est enregistrée sur votre propre appareil.
+Elk hoofdstuk bestaat uit **korte pagina's**. Na elke uitleg krijg je meteen een paar **oefenvragen**. Zo weet je direct of je het begrepen hebt. Je hoeft **geen account** te maken: je voortgang wordt op je eigen toestel bewaard.
 :::
 
-### Parcourir un chapitre
-| Étape | Que faites-vous ? |
+### Een hoofdstuk doorlopen
+| Stap | Wat doe je? |
 |---|---|
-| 1 | lisez les **objectifs** : c'est ce que vous devez savoir faire après le chapitre |
-| 2 | parcourez les **pages** l'une après l'autre, avec les questions d'entraînement en dessous |
-| 3 | lisez la page **Points difficiles** et le **formulaire** |
-| 4 | entraînez-vous avec les **flashcards** et le **résumé** |
-| 5 | faites les **questions d'examen originales** et la page **Encore plus d'entraînement** |
-| 6 | faites le **quiz du chapitre** |
+| 1 | lees de **leerdoelen**: dat moet je na het hoofdstuk kunnen |
+| 2 | werk de **pagina's** na elkaar af, met de oefenvragen eronder |
+| 3 | lees de pagina **Moeilijke zaken** en het **formularium** |
+| 4 | oefen met de **flashcards** en de **samenvatting** |
+| 5 | doe de **originele examenvragen** en de pagina **Nog meer oefenen** |
+| 6 | doe de **hoofdstukquiz** |
 
-### Où trouver quoi ?
-- **Examen blanc** : 30 questions en 60 minutes, comme le véritable examen.
-- **Journal des erreurs** : toutes les questions auxquelles vous avez mal répondu, pour vous entraîner à nouveau.
-- **Progression** : vos scores par chapitre.
+### Wat staat waar?
+- **Proefexamen**: 30 vragen in 60 minuten, zoals het echte examen.
+- **Foutenlog**: alle vragen die je fout had, om opnieuw te oefenen.
+- **Voortgang**: je scores per hoofdstuk.
 
-### Savoir et comprendre
-Le programme d'examen distingue deux niveaux. Pour **savoir**, vous devez reconnaître une chose et l'appliquer directement. Pour **comprendre**, vous devez aussi voir pourquoi il en est ainsi. La plateforme explique les deux, mais gardez le programme d'examen à l'œil.
+### Weten en begrijpen
+Het examenprogramma onderscheidt twee niveaus. Bij **weten** moet je iets herkennen en meteen toepassen. Bij **begrijpen** moet je ook inzien waarom het zo is. Het platform legt beide uit, maar houd het examenprogramma in het oog.
 
 :::weetje
-Les chapitres qui **ne font pas partie de la matière d'examen** (comme les codes Q et les abréviations) n'ont pas de questions d'examen originales. Les questions supplémentaires de ces chapitres ne comptent pas dans l'examen blanc.
+Hoofdstukken die **geen examenstof** zijn (zoals Q-codes en afkortingen) hebben geen originele examenvragen. De extra vragen daar tellen niet mee in het proefexamen.
 :::
 
 :::valkuil
-- Votre progression se trouve uniquement **sur cet appareil et dans ce navigateur**. Si vous effacez les données de votre navigateur, vous effacez aussi votre progression.
-- Cette plateforme est **un outil d'aide**. Les sources officielles et la législation en vigueur priment toujours.
+- Je voortgang staat enkel op **dit toestel en in deze browser**. Wissen van je browsergegevens wist ook je voortgang.
+- Dit platform is **een hulpmiddel**. De officiële bronnen en de actuele wetgeving gaan altijd voor.
 :::

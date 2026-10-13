@@ -1,30 +1,30 @@
 ---
 id: h03-b05-polariteit
 type: brokje
-kort: Plus et moins
-titel: La polarité : plus et moins
+kort: Plus en min
+titel: Polariteit: plus en min
 uba_ref: hfst. 3.1, p. 10
 checkvragen: [C-h03-13, C-h03-14]
 examenvragen: [O053, O054]
 ---
 :::kern
-Une pile a un **pôle plus (+)** et un **pôle moins (−)**. C'est ce qu'on appelle la **polarité**. Pour une ampoule à incandescence, le sens du branchement n'a pas d'importance. Pour les appareils électroniques, comme une radio ou un émetteur-récepteur, il en a : un branchement inversé peut les détruire, et parfois même provoquer un incendie.
+Een batterij heeft een **pluspool (+)** en een **minpool (−)**. Dat noemen we de **polariteit**. Een gloeilamp maakt het niet uit hoe je ze aansluit. Elektronische toestellen, zoals een radio of een zendontvanger, wel: verkeerd om aansluiten kan ze vernielen, en soms zelfs brand veroorzaken.
 :::
 
-{{svg:h03-polariteit|La lampe s'allume dans les deux sens. La radio peut être endommagée si le plus et le moins sont inversés.}}
+{{svg:h03-polariteit|De lamp brandt in beide richtingen. De radio kan kapot gaan als plus en min verwisseld worden.}}
 
-| Appareil | La polarité est-elle importante ? |
+| Toestel | Polariteit belangrijk? |
 |---|---|
-| ampoule à incandescence | non |
-| radio, émetteur-récepteur, autre appareil électronique | **oui** |
+| gloeilamp | nee |
+| radio, zendontvanger, ander elektronisch toestel | **ja** |
 
-**Donc :** la polarité est **parfois** importante. Cela dépend de ce que vous branchez.
+**Dus:** de polariteit is **soms** van belang. Het hangt af van wat je aansluit.
 
-:::vergelijk Comparaison
-Une ampoule à incandescence est comme un simple bout de tuyau : l'eau peut y passer dans les deux sens. Un appareil électronique est comme un tuyau muni d'un clapet anti-retour : dans le mauvais sens, quelque chose casse.
+:::vergelijk Vergelijk met
+Een gloeilamp is als een gewoon stuk buis: water mag er in beide richtingen door. Een elektronisch toestel is als een buis met een terugslagklep: in de verkeerde richting gaat er iets kapot.
 :::
 
-### Comment brancher correctement un appareil
-1. Repérez sur l'appareil l'indication **+** (souvent le fil rouge) et **−** (souvent le fil noir).
-2. Reliez le **rouge au +** de la pile ou de l'alimentation, et le **noir au −**.
-3. Vérifiez deux fois avant d'allumer. Beaucoup d'appareils ont un fusible dans le câble d'alimentation qui fond en cas d'erreur, mais il ne faut pas compter là-dessus.
+### Zo sluit je een toestel juist aan
+1. Zoek op het toestel de aanduiding **+** (vaak rode draad) en **−** (vaak zwarte draad).
+2. Verbind **rood met +** van de batterij of voeding, **zwart met −**.
+3. Controleer twee keer voor je aanzet. Veel toestellen hebben een zekering in de voedingskabel die doorslaat bij een fout, maar daar mag je niet op rekenen.

@@ -1,57 +1,57 @@
 ---
 id: h03-b07-ac-dc
 type: brokje
-kort: AC, DC et sinusoïde
-titel: Tension continue, tension alternative et fréquence
+kort: AC, DC en de sinus
+titel: Gelijkspanning, wisselspanning en frequentie
 uba_ref: hfst. 3.3, p. 12
 checkvragen: [C-h03-17, C-h03-18, C-h03-19]
 examenvragen: [O055, O056, O066, O068, O069, O070]
 ---
 :::kern
-Une pile donne toujours la même tension dans le même sens : c'est la **tension continue, DC**. La prise de courant donne une tension qui change sans arrêt de sens : c'est la **tension alternative, AC**.
+Een batterij geeft altijd dezelfde spanning in dezelfde richting: **gelijkspanning, DC**. Het stopcontact geeft een spanning die voortdurend van richting wisselt: **wisselspanning, AC**.
 :::
 
-{{svg:h03-ac-dc|Verticalement la tension, horizontalement le temps.}}
+{{svg:h03-ac-dc|Verticaal de spanning, horizontaal de tijd.}}
 
-| Abréviation | Anglais | Français | Exemple |
+| Afkorting | Engels | Nederlands | Voorbeeld |
 |---|---|---|---|
-| DC | direct current | courant continu, tension continue | pile, batterie de voiture 12 V |
-| AC | alternating current | courant alternatif, tension alternative | prise de courant 230 V |
+| DC | direct current | gelijkstroom, gelijkspanning | batterij, autobatterij 12 V |
+| AC | alternating current | wisselstroom, wisselspanning | stopcontact 230 V |
 
-### La sinusoïde
-La plus belle et la plus utilisée des tensions alternatives a la forme d'une **sinusoïde** : une onde qui monte et descend calmement, sans angles ni cassures. Une sinusoïde est produite par un **oscillateur**.
+### De sinus
+De mooiste en meest gebruikte wisselspanning heeft de vorm van een **sinus**: een golf die rustig op en neer gaat, zonder hoeken of knikken. Een sinus wordt gemaakt door een **oscillator**.
 
-{{svg:h03-sinus-voorbeeld|Une sinusoïde d'amplitude 10 V et de période 0,2 s.}}
+{{svg:h03-sinus-voorbeeld|Een sinus met amplitude 10 V en periode 0,2 s.}}
 
-| Notion | Signification | Dans l'exemple |
+| Begrip | Betekenis | In het voorbeeld |
 |---|---|---|
-| amplitude | la valeur la plus haute, de zéro jusqu'au sommet | 10 V |
-| période T | la durée d'une onde complète | 0,2 s |
-| fréquence f | combien d'ondes par seconde | 5 ondes par seconde = **5 Hz** |
+| amplitude | de hoogste waarde, van nul tot de top | 10 V |
+| periode T | de tijd van één volledige golf | 0,2 s |
+| frequentie f | hoeveel golven per seconde | 5 golven per seconde = **5 Hz** |
 
 :::formule
 f = 1 ÷ T
 --
-f = fréquence en hertz (Hz) · T = période en secondes (s)
+f = frequentie in hertz (Hz) · T = periode in seconden (s)
 :::
 
-### Exemple résolu
-1. Une onde dure **0,2 s**.
-2. En 1 seconde, il y a 1 ÷ 0,2 = **5** ondes.
-3. La fréquence est de **5 Hz** (hertz = ondes par seconde).
+### Uitgewerkt voorbeeld
+1. Eén golf duurt **0,2 s**.
+2. In 1 seconde passen er 1 ÷ 0,2 = **5** golven.
+3. De frequentie is **5 Hz** (hertz = golven per seconde).
 
-:::kern Le réseau électrique
-En Belgique, la prise de courant fournit une tension alternative de **230 V** avec une fréquence de **50 Hz** : 50 ondes par seconde.
+:::kern Het lichtnet
+Het stopcontact in België geeft **230 V** wisselspanning met een frequentie van **50 Hz**: 50 golven per seconde.
 :::
 
 :::valkuil
-Une onde avec des angles (onde carrée) ou une onde qui reste uniquement au-dessus de zéro n'est **pas** une sinusoïde. Une sinusoïde est arrondie, symétrique au-dessus et en dessous de zéro, sans cassures.
+Een golf met hoeken (blokgolf) of een golf die enkel boven nul blijft, is **geen** sinus. Een sinus is rond, symmetrisch boven en onder nul, zonder knikken.
 :::
 
-<details class="zelf" markdown="1"><summary>Essayez vous-même : quelle figure est une sinusoïde ?</summary>
+<details class="zelf" markdown="1"><summary>Zelf proberen: welke figuur is een sinus?</summary>
 
 {{svg:h03-golfvormen-letters}}
 
-Seulement la **C** : arrondie, identique au-dessus et en dessous de zéro. A est déformée, B reste au-dessus de zéro (l'onde est « repliée »), D est une onde carrée.
+Alleen **C**: rond, gelijk boven en onder nul. A is vervormd, B blijft boven nul (de golf is 'omgeklapt'), D is een blokgolf.
 
 </details>

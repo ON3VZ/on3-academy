@@ -1,26 +1,26 @@
 ---
 id: h01-b2
 type: brokje
-kort: À propos de l'UBA
-titel: L'UBA et l'IARU
+kort: Over de UBA
+titel: De UBA en de IARU
 uba_ref: hfst. 10, p. 43
 checkvragen: []
 examenvragen: []
 ---
 :::kern
-L'**UBA** (Union Royale Belge des Amateurs-Émetteurs) est l'association nationale des radioamateurs en Belgique. Elle compte des **sections locales** où les amateurs se réunissent régulièrement et où vous pouvez suivre un **cours**. Ceci est de la culture générale et ne fait pas partie de la matière d'examen.
+De **UBA** (Koninklijke Unie van de Belgische Zendamateurs) is de nationale vereniging van radioamateurs in België. Ze heeft **lokale afdelingen** (secties) waar amateurs regelmatig samenkomen en waar je een **cursus** kunt volgen. Dit is achtergrond en geen examenstof.
 :::
 
-### Que fait l'UBA ?
-- Elle **défend les intérêts** des radioamateurs auprès de l'IBPT et des autorités nationales et régionales, par exemple pour les normes de rayonnement et le droit d'installer une antenne.
-- Elle publie la revue **CQ-QSO** et dispose d'un site web et d'une station nationale, **ON4UB**.
-- Elle a un **service QSL** : envoi groupé et gratuit des cartes QSL.
-- Ses sections **accompagnent les candidats** pendant leur formation.
-- Elle collabore avec la **Croix-Rouge de Belgique**, comme réseau de communication alternatif en situation de crise.
+### Wat doet de UBA?
+- Ze **verdedigt de belangen** van radioamateurs bij het BIPT en bij de nationale en regionale overheden, bijvoorbeeld over stralingsnormen en het recht om een antenne te plaatsen.
+- Ze geeft het tijdschrift **CQ-QSO** uit en heeft een website en een nationaal station, **ON4UB**.
+- Ze heeft een **QSL-dienst**: gratis gemeenschappelijke verzending van QSL-kaarten.
+- Haar secties **begeleiden kandidaten** bij hun opleiding.
+- Ze werkt samen met het **Belgische Rode Kruis**, als alternatief communicatienet in crisissituaties.
 
-### L'IARU
-L'UBA est la seule association belge membre de l'**IARU** (International Amateur Radio Union). L'IARU représente les radioamateurs auprès de l'**UIT** (en anglais ITU), l'organisation des Nations unies qui répartit les fréquences.
+### De IARU
+De UBA is de enige Belgische vereniging die lid is van de **IARU** (International Amateur Radio Union). De IARU vertegenwoordigt de radioamateurs bij de **ITU**, de organisatie van de Verenigde Naties die de frequenties verdeelt.
 
 :::weetje
-Vous pouvez devenir membre via le site web de l'UBA (uba.be). Le nombre de sections et d'autres chiffres évoluent avec le temps : vérifiez-les donc sur le site web.
+Lid worden kan via de website van de UBA (uba.be). Het aantal secties en andere cijfers veranderen in de tijd, dus kijk ze op de website na.
 :::

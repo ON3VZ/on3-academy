@@ -1,13 +1,13 @@
 {
  "id": "h04",
  "leerdoelen": [
-  "dire en une phrase ce qu'est <b>moduler</b>.",
-  "expliquer la différence entre la <b>porteuse</b>, le <b>signal audio</b> et le <b>signal modulé</b>.",
-  "voir sur un dessin si un signal est de l'<b>AM, de la FM, du CW</b> ou une simple porteuse.",
-  "expliquer pourquoi la <b>SSB</b> est plus économe que l'AM.",
-  "placer les blocs d'un <b>émetteur</b> dans le bon ordre et dire ce que fait chaque bloc.",
-  "expliquer ce qui ne va pas quand vous <b>modulez trop fort</b>, et comment bien régler.",
-  "placer les blocs d'un <b>récepteur</b> dans le bon ordre et dire dans quel étage se font l'accord, la démodulation et l'amplification."
+  "in één zin zeggen wat <b>moduleren</b> is.",
+  "het verschil tussen <b>draaggolf</b>, <b>audiosignaal</b> en <b>gemoduleerd signaal</b> uitleggen.",
+  "op een tekening zien of een signaal <b>AM, FM, CW</b> of een gewone draaggolf is.",
+  "uitleggen waarom <b>SSB</b> zuiniger is dan AM.",
+  "de onderdelen van een <b>zender</b> in de juiste volgorde zetten en zeggen wat elk onderdeel doet.",
+  "uitleggen wat er misgaat als je <b>te hard moduleert</b>, en hoe je dat juist instelt.",
+  "de onderdelen van een <b>ontvanger</b> in de juiste volgorde zetten en zeggen in welke trap afgestemd, gedemoduleerd en versterkt wordt."
  ],
  "doelstellingen": [
   "4a.1",
@@ -34,72 +34,72 @@
  "flashcards": [
   {
    "voor": "Amplitude",
-   "achter": "La hauteur de l'onde, de la ligne zéro jusqu'au sommet. Unité pour une tension : le volt."
+   "achter": "De hoogte van de golf, van de nullijn tot de top. Eenheid bij spanning: volt."
   },
   {
-   "voor": "Période et fréquence",
-   "achter": "Période T = durée d'une oscillation. Fréquence f = nombre d'oscillations par seconde. f = 1 / T."
+   "voor": "Periode en frequentie",
+   "achter": "Periode T = duur van één trilling. Frequentie f = aantal trillingen per seconde. f = 1 / T."
   },
   {
-   "voor": "Moduler",
-   "achter": "Faire varier la porteuse au rythme de la voix ou des données."
+   "voor": "Moduleren",
+   "achter": "De draaggolf laten veranderen op het ritme van stem of data."
   },
   {
-   "voor": "Porteuse",
-   "achter": "Onde HF sans message, produite par le générateur de fréquence."
+   "voor": "Draaggolf",
+   "achter": "HF-golf zonder boodschap, gemaakt door de frequentiegenerator."
   },
   {
    "voor": "AM",
-   "achter": "La hauteur (amplitude) change."
+   "achter": "De hoogte (amplitude) verandert."
   },
   {
    "voor": "FM",
-   "achter": "La fréquence change, la puissance reste la même."
+   "achter": "De frequentie verandert, het vermogen blijft gelijk."
   },
   {
    "voor": "CW",
-   "achter": "Porteuse allumée et éteinte en morse. La modulation la plus simple."
+   "achter": "Draaggolf aan en uit in morse. Eenvoudigste modulatie."
   },
   {
    "voor": "SSB",
-   "achter": "De l'AM sans porteuse et sans deuxième bande latérale. 10 W SSB ≈ 60 W AM."
+   "achter": "AM zonder draaggolf en zonder tweede zijband. 10 W SSB ≈ 60 W AM."
   },
   {
-   "voor": "USB et LSB",
-   "achter": "Bande latérale supérieure et inférieure. USB : additionner, LSB : soustraire."
+   "voor": "USB en LSB",
+   "achter": "Bovenste en onderste zijband. USB: optellen, LSB: aftrekken."
   },
   {
-   "voor": "Modulateur",
-   "achter": "Réunit la porteuse et l'audio. C'est ici que se fait la modulation."
+   "voor": "Modulator",
+   "achter": "Brengt draaggolf en audio samen. Hier gebeurt de modulatie."
   },
   {
-   "voor": "Fréquence de l'émetteur",
-   "achter": "Déterminée par le générateur de fréquence."
+   "voor": "Frequentie van de zender",
+   "achter": "Bepaald door de frequentiegenerator."
   },
   {
-   "voor": "Surmodulation",
-   "achter": "Signal audio trop fort : déformation et perturbations sur les fréquences voisines."
+   "voor": "Overmodulatie",
+   "achter": "Te sterk audiosignaal: vervorming en storing op nabije frequenties."
   },
   {
-   "voor": "Récepteur",
-   "achter": "Antenne, ligne de transmission, accord + amplification RF, démodulateur, amplificateur audio, haut-parleur."
+   "voor": "Ontvanger",
+   "achter": "Antenne, transmissielijn, afstemming + RF-versterking, demodulator, audioversterker, luidspreker."
   },
   {
-   "voor": "Démodulateur",
-   "achter": "Extrait la parole ou les données de l'onde radio. L'inverse du modulateur. 2e étage."
+   "voor": "Demodulator",
+   "achter": "Haalt spraak of data uit de radiogolf. Het omgekeerde van de modulator. 2e trap."
   },
   {
-   "voor": "Étage d'entrée / étage de sortie",
-   "achter": "Étage d'entrée : accord. Étage de sortie : amplification audio."
+   "voor": "Ingangstrap / uitgangstrap",
+   "achter": "Ingangstrap: afstemming. Uitgangstrap: audioversterking."
   }
  ],
  "samenvatting": [
-  "Moduler = faire varier la porteuse au rythme de la voix ou des données.",
-  "L'AM fait varier la hauteur, la FM fait varier la fréquence. Le CW, c'est allumé et éteint.",
-  "La SSB, c'est de l'AM sans porteuse et sans deuxième bande latérale : 10 W SSB ≈ 60 W AM.",
-  "Émetteur : générateur de fréquence, modulateur, amplificateur de puissance RF, ligne de transmission, antenne. Le microphone et l'amplificateur de microphone alimentent le modulateur.",
-  "Moduler trop fort déforme votre signal et perturbe les voisins. Solution : baisser le gain du microphone.",
-  "Récepteur : l'accord dans l'étage d'entrée, la démodulation au milieu, l'amplification audio dans l'étage de sortie."
+  "Moduleren = de draaggolf laten veranderen op het ritme van stem of data.",
+  "AM verandert de hoogte, FM verandert de frequentie. CW is aan en uit.",
+  "SSB is AM zonder draaggolf en zonder tweede zijband: 10 W SSB ≈ 60 W AM.",
+  "Zender: frequentiegenerator, modulator, RF-vermogenversterker, transmissielijn, antenne. Microfoon en microfoonversterker voeden de modulator.",
+  "Te hard moduleren vervormt je signaal en stoort de buren. Oplossing: microfoonversterking lager.",
+  "Ontvanger: afstemmen in de ingangstrap, demoduleren in het midden, audioversterking in de uitgangstrap."
  ],
  "opmerking": null
 }

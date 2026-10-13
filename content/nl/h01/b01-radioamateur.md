@@ -1,36 +1,36 @@
 ---
 id: h01-b1
 type: brokje
-kort: Qu'est-ce qu'un radioamateur ?
-titel: Qu'est-ce que le radioamateurisme ?
+kort: Wat is een radioamateur?
+titel: Wat is radioamateurisme?
 uba_ref: hfst. 1.1, p. 2
 checkvragen: [C-h01-1a, C-h01-1b, C-h01-1c]
 examenvragen: [O226]
 ---
 :::kern
-Le radioamateurisme est un **hobby**. Vous établissez des liaisons radio avec d'autres radioamateurs du monde entier, vous construisez et améliorez vous-même des antennes et des appareils, et vous apprenez comment se comportent les ondes radio. Le **but** de votre licence est de **vous perfectionner en radiocommunication et en technique radio**. Il est interdit d'en tirer **de l'argent**.
+Radioamateurisme is een **hobby**. Je maakt radioverbindingen met andere radioamateurs over de hele wereld, je bouwt en verbetert zelf antennes en toestellen, en je leert hoe radiogolven zich gedragen. Het **doel** van je vergunning is: **je bekwamen in radiocommunicatie en radiotechniek**. Er mag **geen geld** mee verdiend worden.
 :::
 
-{{svg:h01-facetten|Les quatre facettes du hobby.}}
+{{svg:h01-facetten|De vier gezichten van de hobby.}}
 
-### De quoi parle-t-on ?
-| Oui | Non |
+### Waarover praat je?
+| Wel | Niet |
 |---|---|
-| technique : antennes, appareils, modes | **politique** |
-| propagation : jusqu'où porte-t-on aujourd'hui ? | **convictions religieuses** |
-| votre station, votre météo, votre région, des choses personnelles | **publicité ou commerce** (tout aspect commercial est interdit) |
+| techniek: antennes, toestellen, modes | **politiek** |
+| propagatie: hoe ver kom je vandaag? | **geloofsovertuigingen** |
+| je station, je weer, je streek, persoonlijke dingen | **reclame of handel** (elk commercieel aspect is verboden) |
 
-### Que pouvez-vous faire ?
-- Établir des **liaisons** avec d'autres radioamateurs, tout près ou à l'autre bout du monde. Vous découvrez ainsi des gens, des cultures et des langues.
-- **Construire vous-même** : antennes, petits appareils, appareils de mesure.
-- **Expérimenter** de nouvelles techniques, comme les modes numériques ou les satellites.
-- Participer à des **concours** (contests) et à des **field days** avec votre club.
+### Wat kun je allemaal doen?
+- **Verbindingen** maken met andere radioamateurs, dichtbij of aan de andere kant van de wereld. Zo leer je mensen, culturen en talen kennen.
+- **Zelf bouwen**: antennes, kleine toestellen, meetapparatuur.
+- **Experimenteren** met nieuwe technieken, zoals digitale modes of satellieten.
+- **Wedstrijden** (contests) en **velddagen** met je club.
 
-:::vergelijk Comparaison
-Un club d'astronomie ou de modélisme : vous y apprenez beaucoup, vous rencontrez des gens qui partagent la même passion, mais vous ne le faites pas pour l'argent.
+:::vergelijk Vergelijk met
+Een hobbyclub voor sterrenkunde of modelbouw: je leert er veel, je ontmoet mensen met dezelfde passie, maar je doet het niet om geld.
 :::
 
 :::valkuil
-- Le but de la licence n'est **pas** simplement de « communiquer avec d'autres radioamateurs ». Vous le faites, bien sûr, mais le but est de vous **perfectionner** en radiocommunication et en technique radio.
-- Les activités commerciales sont **interdites**. Les activités sociales ne sont pas non plus le but de la licence.
+- Het doel van de vergunning is **niet** gewoon "communiceren met andere radioamateurs". Dat doe je wel, maar het doel is je **bekwamen** in radiocommunicatie en radiotechniek.
+- Commerciële activiteiten zijn **verboden**. Sociale activiteiten zijn ook niet het doel van de vergunning.
 :::

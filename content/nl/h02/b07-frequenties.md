@@ -1,66 +1,66 @@
 ---
 id: h02-b7
 type: brokje
-kort: Tableau des fréquences classe C
-titel: Où et avec quelle puissance pouvez-vous émettre ?
+kort: Frequentietabel klasse C
+titel: Waar en met hoeveel vermogen mag je zenden?
 uba_ref: hfst. 2.6, p. 5 en 6
 checkvragen: [C-h02-7a, C-h02-7b, C-h02-7c, C-h02-7d]
 examenvragen: []
 ---
 :::kern
-Avec la classe C, vous pouvez émettre sur **8 bandes amateurs**. En **HF** (80 m à 10 m), le maximum est de **25 W**, en **VHF et UHF** (2 m et 70 cm) de **50 W**. Vous pouvez utiliser tous les types d'émission, **sauf la télévision d'amateur** (ATV et D-ATV). Chaque bande a un **statut** : PEX, P ou S.
+Met klasse C mag je zenden op **8 amateurbanden**. Op **HF** (80 m tot 10 m) is het maximum **25 W**, op **VHF en UHF** (2 m en 70 cm) **50 W**. Je mag alle soorten uitzending gebruiken, **behalve amateurtelevisie** (ATV en D-ATV). Elke band heeft een **status**: PEX, P of S.
 :::
 
-{{svg:h02-banden|Le tableau des fréquences pour la classe C.}}
+{{svg:h02-banden|De frequentietabel voor klasse C.}}
 
-| Bande | Fréquence (MHz) | Statut | Puissance max. | Remarque |
+| Band | Frequentie (MHz) | Status | Max. vermogen | Opmerking |
 |---|---|---|---|---|
-| 80 m | 3,500 à 3,800 | P | 25 W | |
-| 40 m | 7,000 à 7,100 | PEX | 25 W | aussi par satellite |
-| 40 m | 7,100 à 7,200 | S | 25 W | |
-| 30 m | 10,100 à 10,150 | S | 25 W | |
-| 20 m | 14,000 à 14,350 | PEX | 25 W | aussi par satellite |
-| 15 m | 21,000 à 21,450 | PEX | 25 W | aussi par satellite |
-| 10 m | 28,000 à 29,700 | PEX | 25 W | aussi par satellite |
-| 2 m | 144 à 146 | PEX | 50 W | aussi par satellite |
-| 70 cm | 430 à 440 | P | 50 W | satellite uniquement de 435 à 438, sans perturber les autres |
+| 80 m | 3,500 tot 3,800 | P | 25 W | |
+| 40 m | 7,000 tot 7,100 | PEX | 25 W | ook via satelliet |
+| 40 m | 7,100 tot 7,200 | S | 25 W | |
+| 30 m | 10,100 tot 10,150 | S | 25 W | |
+| 20 m | 14,000 tot 14,350 | PEX | 25 W | ook via satelliet |
+| 15 m | 21,000 tot 21,450 | PEX | 25 W | ook via satelliet |
+| 10 m | 28,000 tot 29,700 | PEX | 25 W | ook via satelliet |
+| 2 m | 144 tot 146 | PEX | 50 W | ook via satelliet |
+| 70 cm | 430 tot 440 | P | 50 W | satelliet alleen 435 tot 438, zonder anderen te storen |
 
-### Que signifient PEX, P et S ?
-| Statut | Signification | Comparaison |
+### Wat betekenen PEX, P en S?
+| Status | Betekenis | Vergelijk met |
 |---|---|---|
-| **PEX** (primaire et exclusif) | les radioamateurs sont les **seuls** utilisateurs | votre propre jardin |
-| **P** (primaire) | les radioamateurs sont **l'un des utilisateurs principaux** : chacun tient compte des autres | un jardin partagé avec les mêmes droits pour tous |
-| **S** (secondaire) | vous ne pouvez **pas perturber les autres utilisateurs (primaires)**, et s'ils vous perturbent, vous n'avez **aucune protection** | en visite dans le jardin de quelqu'un d'autre |
+| **PEX** (primair en exclusief) | radioamateurs zijn de **enige** gebruikers | een eigen tuin |
+| **P** (primair) | radioamateurs zijn **een van de hoofdgebruikers**: iedereen houdt rekening met elkaar | een gedeelde tuin met evenveel rechten |
+| **S** (secundair) | je mag **andere (primaire) gebruikers niet storen**, en als zij jou storen, heb je **geen bescherming** | op bezoek in andermans tuin |
 
-### Comment lire le tableau (étapes)
-1. Convertissez la fréquence en **MHz** (par exemple 7 150 kHz = 7,150 MHz).
-2. Cherchez la **ligne** dans laquelle tombe la fréquence.
-3. Lisez le **statut** et la **puissance maximale**.
-4. La fréquence ne tombe dans **aucune ligne** ? Alors vous ne pouvez **pas** y émettre en classe C.
+### Zo lees je de tabel (stappen)
+1. Zet de frequentie om naar **MHz** (bijvoorbeeld 7 150 kHz = 7,150 MHz).
+2. Zoek de **rij** waar de frequentie tussen valt.
+3. Lees **status** en **maximum vermogen** af.
+4. Valt de frequentie in **geen enkele rij**? Dan mag je er als klasse C **niet** zenden.
 
-### Exemple détaillé
-« Un ON3 peut-il émettre sur 7,150 MHz, et avec quelle puissance ? »
-1. 7,150 MHz se situe entre 7,100 et 7,200.
-2. Statut **S**, maximum **25 W**.
-3. Oui, avec 25 W au maximum, et sans perturber les utilisateurs primaires.
+### Uitgewerkt voorbeeld
+"Mag een ON3 op 7,150 MHz zenden, en met hoeveel vermogen?"
+1. 7,150 MHz ligt tussen 7,100 en 7,200.
+2. Status **S**, maximum **25 W**.
+3. Ja, met maximum 25 W, en zonder primaire gebruikers te storen.
 
 :::valkuil
-- **160 m, 60 m, 17 m, 12 m, 6 m et 23 cm** ne figurent **pas** dans le tableau de la classe C.
-- 25 W en HF, **50 W** sur 2 m et 70 cm. Pas l'inverse.
-- Sur 80 m, la classe C ne peut émettre que jusqu'à **3,800 MHz**.
+- **160 m, 60 m, 17 m, 12 m, 6 m en 23 cm** staan **niet** in de tabel voor klasse C.
+- 25 W op HF, **50 W** op 2 m en 70 cm. Niet omgekeerd.
+- Op 80 m mag klasse C maar tot **3,800 MHz**.
 :::
 
 :::weetje
-Ce tableau suit une décision du Conseil de l'IBPT. Une telle décision peut changer. Pour l'examen et pour émettre, vérifiez toujours le tableau actuel sur le site web de l'IBPT.
+Deze tabel volgt een besluit van de Raad van het BIPT. Zo'n besluit kan veranderen. Kijk voor het examen en voor het zenden altijd de actuele tabel na op de website van het BIPT.
 :::
 
-<details class="zelf" markdown="1"><summary>À vous d'essayer : un ON3 peut-il émettre sur 18,100 MHz (17 m) ?</summary>
+<details class="zelf" markdown="1"><summary>Zelf proberen: mag een ON3 zenden op 18,100 MHz (17 m)?</summary>
 
-**Non.** 18,100 MHz ne figure dans aucune ligne du tableau de la classe C.
+**Nee.** 18,100 MHz staat in geen enkele rij van de tabel voor klasse C.
 
 </details>
-<details class="zelf" markdown="1"><summary>À vous d'essayer : avec quelle puissance un ON3 peut-il émettre sur 145,500 MHz ?</summary>
+<details class="zelf" markdown="1"><summary>Zelf proberen: met hoeveel vermogen mag een ON3 zenden op 145,500 MHz?</summary>
 
-145,500 MHz se situe dans la bande des 2 m (144 à 146 MHz) : maximum **50 W**.
+145,500 MHz ligt in de 2 m-band (144 tot 146 MHz): maximum **50 W**.
 
 </details>

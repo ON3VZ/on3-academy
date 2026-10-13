@@ -1,16 +1,16 @@
 ---
 id: h01-form
 type: formules
-kort: Résumé
-titel: Résumé
+kort: Samenvatting
+titel: Samenvatting
 uba_ref: hfst. 1, p. 2
 checkvragen: []
 examenvragen: []
 ---
 <div class="tbl"><table>
-<tr><th>À retenir</th><th></th></tr>
-<tr><td>but de la licence</td><td>se perfectionner en radiocommunication et en technique radio</td></tr>
-<tr><td>gagner de l'argent</td><td>interdit : rien de commercial</td></tr>
-<tr><td>tabou dans les conversations</td><td>la politique et les convictions religieuses</td></tr>
-<tr><td>avec qui ?</td><td>d'autres radioamateurs, dans le monde entier</td></tr>
+<tr><th>Onthoud</th><th></th></tr>
+<tr><td>doel van de vergunning</td><td>je bekwamen in radiocommunicatie en radiotechniek</td></tr>
+<tr><td>geld verdienen</td><td>verboden: niets commercieels</td></tr>
+<tr><td>taboe in gesprekken</td><td>politiek en geloofsovertuigingen</td></tr>
+<tr><td>met wie?</td><td>andere radioamateurs, wereldwijd</td></tr>
 </table></div>

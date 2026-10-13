@@ -1,14 +1,14 @@
 ---
 id: h03-b03-ohm
 type: brokje
-kort: Loi d'Ohm
-titel: La loi d'Ohm : U = I × R
+kort: Wet van Ohm
+titel: De wet van Ohm: U = I × R
 uba_ref: hfst. 3.1, p. 7 tot 8
 checkvragen: [C-h03-07, C-h03-08, C-h03-09]
 examenvragen: [O047, O049, O050, O051]
 ---
 :::kern
-La tension, le courant et la résistance sont toujours liés. Si vous en connaissez deux, vous pouvez calculer le troisième.
+Spanning, stroom en weerstand hangen altijd aan elkaar vast. Ken je er twee, dan kun je de derde uitrekenen.
 :::
 
 :::formule
@@ -16,43 +16,43 @@ U = I × R
 I = U ÷ R
 R = U ÷ I
 --
-U = tension en volts (V) · I = courant en ampères (A) · R = résistance en ohms (Ω)
+U = spanning in volt (V) · I = stroom in ampère (A) · R = weerstand in ohm (Ω)
 :::
 
-{{svg:h03-driehoek-ohm|Cachez avec le doigt ce que vous cherchez. Si les deux lettres restantes sont côte à côte : multipliez. Si elles sont l'une au-dessus de l'autre : divisez.}}
+{{svg:h03-driehoek-ohm|Bedek wat je zoekt met je vinger. Staan de twee overige letters naast elkaar: vermenigvuldigen. Staan ze boven elkaar: delen.}}
 
-{{svg:h03-schema-ur|Ce schéma revient à l'examen : une pile de tension U aux bornes d'une résistance R.}}
+{{svg:h03-schema-ur|Dit schema komt op het examen terug: een batterij met spanning U over een weerstand R.}}
 
-### Exemple résolu 1 : chercher le courant
-1. Données : une pile de **12 V** aux bornes d'une résistance de **4 Ω**. On cherche : le courant I.
-2. Cachez I dans le triangle : il reste **U au-dessus de R**, donc I = U ÷ R.
+### Uitgewerkt voorbeeld 1: de stroom zoeken
+1. Gegeven: een batterij van **12 V** over een weerstand van **4 Ω**. Gevraagd: de stroom I.
+2. Bedek I in de driehoek: er blijft **U boven R** staan, dus I = U ÷ R.
 3. I = 12 ÷ 4 = **3 A**.
 
-### Exemple résolu 2 : avec milli et kilo
-1. Données : **9 V** aux bornes d'une résistance de **3 kΩ**. On cherche : le courant.
-2. Convertissez d'abord en unités de base : 3 kΩ = **3 000 Ω**.
+### Uitgewerkt voorbeeld 2: met milli en kilo
+1. Gegeven: **9 V** over een weerstand van **3 kΩ**. Gevraagd: de stroom.
+2. Zet eerst om naar basiseenheden: 3 kΩ = **3 000 Ω**.
 3. I = 9 ÷ 3 000 = 0,003 A.
-4. Rendez le nombre plus pratique : 0,003 A = **3 mA**.
+4. Maak het getal handiger: 0,003 A = **3 mA**.
 
-:::kern Et si la résistance change ?
-Si la tension reste la même : **résistance plus grande, courant plus petit**. **Résistance plus petite, courant plus grand**. La polarité de la pile ne joue aucun rôle ici.
+:::kern Wat als de weerstand verandert?
+Blijft de spanning gelijk, dan geldt: **weerstand groter, stroom kleiner**. **Weerstand kleiner, stroom groter**. De polariteit van de batterij speelt daarbij geen rol.
 :::
 
 :::valkuil
-Convertissez toujours d'abord en volts, ampères et ohms. Celui qui calcule 9 ÷ 3 avec « 3 kΩ » trouve 3 A au lieu de 3 mA : mille fois trop.
+Reken altijd eerst om naar volt, ampère en ohm. Wie 9 ÷ 3 rekent met "3 kΩ", vindt 3 A in plaats van 3 mA: duizend keer te veel.
 :::
 
-<details class="zelf" markdown="1"><summary>Essayez vous-même : 12 V aux bornes de 6 Ω. Quel courant ?</summary>
+<details class="zelf" markdown="1"><summary>Zelf proberen: 12 V over 6 Ω. Hoeveel stroom?</summary>
 
 I = U ÷ R = 12 ÷ 6 = **2 A**.
 
 </details>
-<details class="zelf" markdown="1"><summary>Essayez vous-même : un courant de 0,2 A traverse une résistance de 50 Ω. Quelle tension ?</summary>
+<details class="zelf" markdown="1"><summary>Zelf proberen: door een weerstand van 50 Ω loopt 0,2 A. Welke spanning?</summary>
 
 U = I × R = 0,2 × 50 = **10 V**.
 
 </details>
-<details class="zelf" markdown="1"><summary>Essayez vous-même : 24 V donnent un courant de 8 A. Quelle est la résistance ?</summary>
+<details class="zelf" markdown="1"><summary>Zelf proberen: 24 V geeft een stroom van 8 A. Hoe groot is de weerstand?</summary>
 
 R = U ÷ I = 24 ÷ 8 = **3 Ω**.
 

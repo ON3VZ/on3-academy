@@ -2,8 +2,8 @@
  {
   "id": "h00",
   "nummer": 0,
-  "titel": "Commencer ici",
-  "ondertitel": "Comment fonctionnent l'examen et cette plateforme",
+  "titel": "Start hier",
+  "ondertitel": "Hoe werkt het examen en dit platform",
   "band": "",
   "uba_ref": "p. 1",
   "beschikbaar": true
@@ -11,8 +11,8 @@
  {
   "id": "h01",
   "nummer": 1,
-  "titel": "Le radioamateurisme",
-  "ondertitel": "Qu'est-ce que le radioamateurisme",
+  "titel": "Radioamateurisme",
+  "ondertitel": "Wat is radioamateurisme",
   "band": "160 m",
   "uba_ref": "p. 2",
   "beschikbaar": true
@@ -20,91 +20,91 @@
  {
   "id": "h02",
   "nummer": 2,
-  "titel": "Le certificat d'opérateur",
-  "ondertitel": "Classes, indicatifs d'appel, règles, tableau des fréquences",
+  "titel": "Het bedieningscertificaat",
+  "ondertitel": "Klassen, roepnamen, regels, frequentietabel",
   "band": "80 m",
-  "uba_ref": "p. 3 à 6",
+  "uba_ref": "p. 3 tot 6",
   "beschikbaar": true
  },
  {
   "id": "h03",
   "nummer": 3,
-  "titel": "Bases de l'électricité",
-  "ondertitel": "Tension, courant, résistance, puissance, fréquence, longueur d'onde",
+  "titel": "Basis elektriciteit",
+  "ondertitel": "Spanning, stroom, weerstand, vermogen, frequentie, golflengte",
   "band": "60 m",
-  "uba_ref": "p. 7 à 13",
+  "uba_ref": "p. 7 tot 13",
   "beschikbaar": true
  },
  {
   "id": "h04",
   "nummer": 4,
-  "titel": "Émetteurs et récepteurs",
-  "ondertitel": "Modulation, émetteur et récepteur",
+  "titel": "Zenders en ontvangers",
+  "ondertitel": "Modulatie, zender en ontvanger",
   "band": "40 m",
-  "uba_ref": "p. 14 à 16",
+  "uba_ref": "p. 14 tot 16",
   "beschikbaar": true
  },
  {
   "id": "h05",
   "nummer": 5,
-  "titel": "Antennes et câbles",
-  "ondertitel": "Types d'antennes, coaxial, ROS, boîte d'accord, polarisation, PAR",
+  "titel": "Antennes en kabels",
+  "ondertitel": "Antennesoorten, coax, SWR, ATU, polarisatie, ERP",
   "band": "30 m",
-  "uba_ref": "p. 17 à 23",
+  "uba_ref": "p. 17 tot 23",
   "beschikbaar": true
  },
  {
   "id": "h06",
   "nummer": 6,
-  "titel": "Propagation",
-  "ondertitel": "Comment voyagent les ondes radio",
+  "titel": "Propagatie",
+  "ondertitel": "Hoe radiogolven reizen",
   "band": "20 m",
-  "uba_ref": "p. 24 à 27",
+  "uba_ref": "p. 24 tot 27",
   "beschikbaar": true
  },
  {
   "id": "h07",
   "nummer": 7,
-  "titel": "CEM",
-  "ondertitel": "Prévenir et résoudre les perturbations",
+  "titel": "EMC",
+  "ondertitel": "Storingen voorkomen en oplossen",
   "band": "17 m",
-  "uba_ref": "p. 28 à 30",
+  "uba_ref": "p. 28 tot 30",
   "beschikbaar": true
  },
  {
   "id": "h08",
   "nummer": 8,
-  "titel": "Procédures de trafic",
-  "ondertitel": "Appels, relais, plan de bandes, épreuve pratique",
+  "titel": "Procedures",
+  "ondertitel": "Oproepen, repeaters, bandplan, praktische proef",
   "band": "15 m",
-  "uba_ref": "p. 31 à 38",
+  "uba_ref": "p. 31 tot 38",
   "beschikbaar": true
  },
  {
   "id": "h09",
   "nummer": 9,
-  "titel": "Sécurité",
-  "ondertitel": "Électricité, antennes, accidents",
+  "titel": "Veiligheid",
+  "ondertitel": "Elektriciteit, antennes, ongevallen",
   "band": "12 m",
-  "uba_ref": "p. 39 à 42",
+  "uba_ref": "p. 39 tot 42",
   "beschikbaar": true
  },
  {
   "id": "h15",
   "nummer": 15,
-  "titel": "Réglementation",
-  "ondertitel": "La loi et l'arrêté royal en schémas",
+  "titel": "Wetgeving",
+  "ondertitel": "Wet en KB in schema's",
   "band": "2 m",
-  "uba_ref": "chap. 15",
-  "beschikbaar": false
+  "uba_ref": "hfst. 15",
+  "beschikbaar": true
  },
  {
   "id": "h11",
   "nummer": 11,
-  "titel": "Codes Q et abréviations",
-  "ondertitel": "Bon à savoir, hors matière d'examen",
+  "titel": "Q-codes en afkortingen",
+  "ondertitel": "Weetjes, geen examenstof",
   "band": "6 m",
-  "uba_ref": "p. 44 à 45",
+  "uba_ref": "p. 44 tot 45",
   "beschikbaar": true
  }
 ]

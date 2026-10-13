@@ -1,115 +1,44 @@
 {
  "id": "h02",
  "leerdoelen": [
-  "expliquer la différence entre le <b>certificat d'opérateur</b> et la <b>licence de station</b>.",
-  "énumérer les trois <b>classes</b> (C, B, A) et leurs possibilités.",
-  "dire que le certificat de classe C n'est presque nulle part <b>reconnu</b> à l'étranger.",
-  "reconnaître un <b>indicatif d'appel</b> belge.",
-  "utiliser les <b>suffixes</b> /M, /MM, /AM, /P et /A.",
-  "dire <b>quand</b> vous donnez votre indicatif.",
-  "dire ce que vous pouvez <b>émettre ou non</b> et qui peut utiliser votre station.",
-  "énumérer les droits de l'<b>IBPT</b>.",
-  "lire le <b>tableau des fréquences</b> de la classe C."
+  "het verschil uitleggen tussen het <b>bedieningscertificaat</b> en de <b>stationsvergunning</b>.",
+  "de drie <b>klassen</b> (C, B, A) en hun mogelijkheden opsommen.",
+  "zeggen dat het klasse C-certificaat in het buitenland bijna nergens <b>erkend</b> is.",
+  "een Belgische <b>roepnaam</b> herkennen.",
+  "de <b>aanhangsels</b> /M, /MM, /AM, /P en /A gebruiken.",
+  "zeggen <b>wanneer</b> je je roepnaam noemt.",
+  "zeggen wat je <b>wel en niet</b> mag uitzenden en wie je station mag bedienen.",
+  "de rechten van het <b>BIPT</b> opsommen.",
+  "de <b>frequentietabel</b> voor klasse C lezen."
  ],
- "doelstellingen": [
-  "2a.1",
-  "2b.1",
-  "2c.1",
-  "2c.2",
-  "2c.3",
-  "2c.4",
-  "2c.5",
-  "2c.6",
-  "2c.7",
-  "2c.8",
-  "2c.9",
-  "2c.11"
- ],
- "paginas": [
-  "b01-certificaat",
-  "b02-klassen",
-  "b03-roepnaam",
-  "b04-identificatie",
-  "b05-regels",
-  "b06-bipt",
-  "b07-frequenties",
-  "m01-wat-mag",
-  "formules"
- ],
+ "doelstellingen": ["2a.1", "2b.1", "2c.1", "2c.2", "2c.3", "2c.4", "2c.5", "2c.6", "2c.7", "2c.8", "2c.9", "2c.11"],
+ "paginas": ["b01-certificaat", "b02-klassen", "b03-roepnaam", "b04-identificatie", "b05-regels", "b06-bipt", "b07-frequenties", "m01-wat-mag", "formules"],
  "flashcards": [
-  {
-   "voor": "Certificat d'opérateur",
-   "achter": "Vous pouvez utiliser une station (émettre). Valable 5 ans, renouvelable."
-  },
-  {
-   "voor": "Licence de station",
-   "achter": "Vous pouvez détenir et utiliser votre propre station. Il faut d'abord un certificat d'opérateur. À renouveler chaque année (année civile)."
-  },
-  {
-   "voor": "Classe C",
-   "achter": "8 bandes, 25 W HF, 50 W VHF/UHF. Presque nulle part reconnue à l'étranger."
-  },
-  {
-   "voor": "Classe A",
-   "achter": "HAREC : 26 bandes ou plus, 1500 W, construire et modifier soi-même est permis."
-  },
-  {
-   "voor": "Préfixes belges",
-   "achter": "ON, OO, OP, OQ, OR, OS, OT + un chiffre + une à trois lettres."
-  },
-  {
-   "voor": "/M et /MM",
-   "achter": "/M = mobile (voiture, train). /MM = mobile maritime (bateau)."
-  },
-  {
-   "voor": "/P et /A",
-   "achter": "/P = portable. /A = station fixe à une autre adresse."
-  },
-  {
-   "voor": "/AM",
-   "achter": "Mobile aéronautique : avion ou ballon."
-  },
-  {
-   "voor": "Quand donner votre indicatif ?",
-   "achter": "Au début et à la fin de l'émission, et au moins toutes les 5 minutes."
-  },
-  {
-   "voor": "Avec qui pouvez-vous établir une liaison ?",
-   "achter": "Uniquement avec d'autres radioamateurs."
-  },
-  {
-   "voor": "Émissions interdites",
-   "achter": "Radiodiffusion, musique, codes secrets, faux messages de détresse."
-  },
-  {
-   "voor": "Qui peut utiliser votre station ?",
-   "achter": "Vous et d'autres radioamateurs avec un certificat approprié."
-  },
-  {
-   "voor": "À signaler à l'IBPT",
-   "achter": "Chaque changement d'adresse."
-  },
-  {
-   "voor": "Droits de l'IBPT",
-   "achter": "Inspecter à tout moment, imposer des restrictions ou fermer la station."
-  },
-  {
-   "voor": "Carnet de trafic",
-   "achter": "Plus obligatoire légalement."
-  },
-  {
-   "voor": "PEX, P, S",
-   "achter": "PEX : seuls utilisateurs. P : l'un des utilisateurs principaux. S : ne pas perturber, aucune protection."
-  }
+  {"voor": "Bedieningscertificaat", "achter": "Jij mag een station bedienen (zenden). 5 jaar geldig, verlengbaar."},
+  {"voor": "Stationsvergunning", "achter": "Je mag zelf een station hebben en gebruiken. Eerst een bedieningscertificaat nodig. Jaarlijks (kalenderjaar) te verlengen."},
+  {"voor": "Klasse C", "achter": "8 banden, 25 W HF, 50 W VHF/UHF. In het buitenland bijna nergens erkend."},
+  {"voor": "Klasse A", "achter": "HAREC: 26 of meer banden, 1500 W, zelf bouwen en wijzigen mag."},
+  {"voor": "Belgische prefixen", "achter": "ON, OO, OP, OQ, OR, OS, OT + één cijfer + één tot drie letters."},
+  {"voor": "/M en /MM", "achter": "/M = mobiel (auto, trein). /MM = maritiem mobiel (schip)."},
+  {"voor": "/P en /A", "achter": "/P = draagbaar. /A = vast station op een ander adres."},
+  {"voor": "/AM", "achter": "Aeronautisch mobiel: vliegtuig of ballon."},
+  {"voor": "Wanneer roepnaam noemen?", "achter": "Begin en einde van de uitzending, en minstens om de 5 minuten."},
+  {"voor": "Met wie mag je verbinding maken?", "achter": "Enkel met andere radioamateurs."},
+  {"voor": "Verboden uitzendingen", "achter": "Omroep, muziek, geheime codes, valse noodberichten."},
+  {"voor": "Wie mag jouw station bedienen?", "achter": "Jij en andere radioamateurs met een passend certificaat."},
+  {"voor": "Melden aan het BIPT", "achter": "Elke adresverandering."},
+  {"voor": "Rechten van het BIPT", "achter": "Op elk moment inspecteren, beperkingen opleggen of het station sluiten."},
+  {"voor": "Logboek", "achter": "Niet meer wettelijk verplicht."},
+  {"voor": "PEX, P, S", "achter": "PEX: enige gebruikers. P: een van de hoofdgebruikers. S: niet storen, geen bescherming."}
  ],
  "samenvatting": [
-  "Certificat = personne (peut émettre). Licence = station (peut détenir une station).",
-  "Classes C, B, A : plus la classe est élevée, plus il y a de bandes et de puissance. Seule la A peut construire elle-même. La C n'est presque nulle part reconnue à l'étranger.",
-  "Indicatif : ON à OT + chiffre + 1 à 3 lettres. Suffixes /M, /MM, /AM, /P, /A.",
-  "Indicatif au début et à la fin, et au moins toutes les 5 minutes.",
-  "Uniquement avec des radioamateurs, en langage clair. Pas de radiodiffusion, de musique, de codes secrets ni de faux messages de détresse.",
-  "IBPT : signaler l'adresse, inspection à tout moment, restrictions ou fermeture. Carnet de trafic plus obligatoire.",
-  "Classe C : 8 bandes, 25 W HF, 50 W sur 2 m et 70 cm."
+  "Certificaat = persoon (mag zenden). Vergunning = station (mag een station hebben).",
+  "Klassen C, B, A: hoe hoger, hoe meer banden en vermogen. Alleen A mag zelf bouwen. C wordt in het buitenland bijna nergens erkend.",
+  "Roepnaam: ON tot OT + cijfer + 1 tot 3 letters. Aanhangsels /M, /MM, /AM, /P, /A.",
+  "Roepnaam bij begin en einde, en minstens om de 5 minuten.",
+  "Enkel met radioamateurs, in duidelijke taal. Geen omroep, muziek, geheime codes of valse noodberichten.",
+  "BIPT: adres melden, inspectie op elk moment, beperkingen of sluiting. Logboek niet meer verplicht.",
+  "Klasse C: 8 banden, 25 W HF, 50 W op 2 m en 70 cm."
  ],
  "opmerking": null
 }

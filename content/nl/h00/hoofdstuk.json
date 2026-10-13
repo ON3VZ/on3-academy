@@ -1,10 +1,10 @@
 {
  "id": "h00",
  "leerdoelen": [
-  "savoir <b>ce qu'est cette plateforme</b> et ce qu'elle n'est pas : un résumé bénévole pour s'entraîner, avec un risque d'erreurs.",
-  "expliquer comment se déroule l'<b>examen ON3</b> : épreuve pratique et examen théorique.",
-  "dire combien de questions, combien de temps et combien de points il faut pour réussir.",
-  "utiliser cette <b>plateforme</b> : pages, questions d'entraînement, flashcards, examen blanc et journal des erreurs."
+  "weten <b>wat dit platform is</b> en wat niet: een belangeloze samenvatting om te oefenen, met kans op fouten.",
+  "uitleggen hoe het <b>ON3-examen</b> verloopt: praktische proef en theorie-examen.",
+  "zeggen hoeveel vragen, hoeveel tijd en hoeveel punten je nodig hebt om te slagen.",
+  "dit <b>platform</b> gebruiken: pagina's, oefenvragen, flashcards, proefexamen en foutenlog."
  ],
  "doelstellingen": [],
  "paginas": [
@@ -15,39 +15,39 @@
  ],
  "flashcards": [
   {
-   "voor": "Parties de l'examen",
-   "achter": "Épreuve pratique (association reconnue) et examen théorique (IBPT)."
+   "voor": "Delen van het examen",
+   "achter": "Praktische proef (erkende vereniging) en theorie-examen (BIPT)."
   },
   {
-   "voor": "Examen théorique",
-   "achter": "30 questions à choix multiple avec 4 réponses, 60 minutes."
+   "voor": "Theorie-examen",
+   "achter": "30 meerkeuzevragen met 4 antwoorden, 60 minuten."
   },
   {
-   "voor": "Répartition des questions",
-   "achter": "12 technique, 10 législation, 8 procédures."
+   "voor": "Verdeling vragen",
+   "achter": "12 techniek, 10 wetgeving, 8 procedures."
   },
   {
-   "voor": "Attestation de l'épreuve pratique",
-   "achter": "Valable un an. Nécessaire pour s'inscrire à l'examen théorique."
+   "voor": "Attest praktische proef",
+   "achter": "Één jaar geldig. Nodig om in te schrijven voor het theorie-examen."
   },
   {
-   "voor": "Réussir",
-   "achter": "Au moins 80 %, donc 24 sur 30."
+   "voor": "Slagen",
+   "achter": "Minstens 80 %, dus 24 op 30."
   },
   {
-   "voor": "Réponse fausse",
-   "achter": "0 point, pas de point de pénalité. Ne laissez jamais une question sans réponse."
+   "voor": "Fout antwoord",
+   "achter": "0 punten, geen strafpunt. Laat nooit een vraag blanco."
   },
   {
-   "voor": "Après l'examen",
-   "achter": "Certificat d'aspirant radiotéléphoniste privé, ensuite demande du certificat d'opérateur."
+   "voor": "Na het examen",
+   "achter": "Getuigschrift van aspirant privaat radiotelefonist, daarna bedieningscertificaat aanvragen."
   }
  ],
  "samenvatting": [
-  "Deux parties : épreuve pratique et examen théorique.",
-  "Théorie : 30 questions (12 technique, 10 législation, 8 procédures), 60 minutes, au moins 24 justes.",
-  "Faux = 0 point : répondez toujours à tout.",
-  "Cette plateforme enregistre votre progression uniquement sur votre propre appareil."
+  "Twee delen: praktische proef en theorie-examen.",
+  "Theorie: 30 vragen (12 techniek, 10 wetgeving, 8 procedures), 60 minuten, minstens 24 juist.",
+  "Fout = 0 punten: beantwoord altijd alles.",
+  "Dit platform bewaart je voortgang enkel op je eigen toestel."
  ],
  "opmerking": null
 }

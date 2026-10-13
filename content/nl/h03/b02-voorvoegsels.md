@@ -1,67 +1,67 @@
 ---
 id: h03-b02-voorvoegsels
 type: brokje
-kort: Milli, kilo, méga
-titel: Grands et petits nombres : milli, kilo et méga
+kort: Milli, kilo, mega
+titel: Grote en kleine getallen: milli, kilo en mega
 uba_ref: hfst. 3.2, p. 11
 checkvragen: [C-h03-04, C-h03-05, C-h03-06]
 examenvragen: []
 ---
 :::kern
-Pour ne pas devoir écrire sans cesse beaucoup de zéros, on place une lettre devant l'unité. **k** (kilo) signifie mille fois plus, **M** (méga) un million de fois plus, **m** (milli) mille fois moins.
+Om niet altijd heel veel nullen te schrijven, zet je een letter voor de eenheid. **k** (kilo) is duizend keer meer, **M** (mega) een miljoen keer meer, **m** (milli) duizend keer minder.
 :::
 
-| Préfixe | Lettre | Signifie | Exemple |
+| Voorvoegsel | Letter | Betekent | Voorbeeld |
 |---|---|---|---|
-| milli | m | × 0,001 (un millième) | 20 mA = 0,020 A |
+| milli | m | × 0,001 (een duizendste) | 20 mA = 0,020 A |
 | kilo | k | × 1 000 | 4,7 kΩ = 4 700 Ω |
-| méga | M | × 1 000 000 | 14 MHz = 14 000 000 Hz |
+| mega | M | × 1 000 000 | 14 MHz = 14 000 000 Hz |
 
-{{svg:h03-voorvoegsels|Chaque marche de l'escalier correspond à un facteur 1000.}}
+{{svg:h03-voorvoegsels|Elke stap op de trap is een factor 1000.}}
 
-### Comment convertir, étape par étape
-1. Regardez si vous allez vers une unité **plus grande** ou **plus petite**.
-2. Vers une unité plus petite (par exemple de A vers mA) : le nombre devient **plus grand**, donc **fois 1000**. Déplacez la virgule de 3 rangs vers la droite.
-3. Vers une unité plus grande (par exemple de mA vers A) : le nombre devient **plus petit**, donc **divisé par 1000**. Déplacez la virgule de 3 rangs vers la gauche.
+### Zo reken je om, stap voor stap
+1. Kijk of je naar een **grotere** of een **kleinere** eenheid gaat.
+2. Naar een kleinere eenheid (bijvoorbeeld A naar mA): het getal wordt **groter**, dus **maal 1000**. Schuif de komma 3 plaatsen naar rechts.
+3. Naar een grotere eenheid (bijvoorbeeld mA naar A): het getal wordt **kleiner**, dus **delen door 1000**. Schuif de komma 3 plaatsen naar links.
 
-:::vergelijk Comparaison avec les distances
-1 kilomètre, c'est 1000 mètres. 1 millimètre, c'est un millième de mètre. Avec les volts, les ampères et les ohms, cela fonctionne exactement de la même façon.
+:::vergelijk Vergelijk met afstand
+1 kilometer is 1000 meter. 1 millimeter is een duizendste meter. Met volt, ampère en ohm werkt het precies zo.
 :::
 
 :::valkuil
-**m** et **M** se ressemblent beaucoup, mais la différence est d'un milliard de fois. 5 mW (milliwatt), c'est un murmure ; 5 MW (mégawatt), c'est une centrale électrique.
+**m** en **M** zien er bijna hetzelfde uit, maar het verschil is een miljard keer. 5 mW (milliwatt) is een fluistering, 5 MW (megawatt) is een elektriciteitscentrale.
 :::
 
-### Le tableau de conversion
-Avec ce tableau, plus besoin de réfléchir à « fois » ou « divisé par ». Chaque colonne est un préfixe. **E** représente l'unité sans préfixe (V, A, Ω, W, Hz). Chaque colonne compte 3 cases, car entre deux préfixes il y a chaque fois un facteur 1000.
+### De omrekentabel
+Met deze tabel hoef je niet na te denken over "maal" of "gedeeld door". Elke kolom is een voorvoegsel. **E** staat voor de eenheid zonder voorvoegsel (V, A, Ω, W, Hz). Elke kolom heeft 3 vakjes, want tussen twee voorvoegsels zit telkens een factor 1000.
 
-1. Placez le nombre dans le tableau : le **dernier chiffre avant la virgule** va dans la première case de la colonne de votre unité.
-2. Placez la **virgule après la première case** de la colonne vers laquelle vous voulez aller.
-3. Complétez les cases vides entre le nombre et la nouvelle virgule avec des **zéros**.
-4. Lisez le nombre.
+1. Zet het getal in de tabel: het **laatste cijfer vóór de komma** komt in het eerste vakje van de kolom van je eenheid.
+2. Zet de **komma achter het eerste vakje** van de kolom waar je naartoe wilt.
+3. Vul lege vakjes tussen het getal en de nieuwe komma aan met **nullen**.
+4. Lees het getal af.
 
-Essayez vous-même : tapez un nombre, choisissez l'unité de départ et l'unité d'arrivée. La virgule rouge montre où se place la virgule.
+Probeer zelf: typ een getal, kies van welke eenheid naar welke eenheid. De rode komma toont waar de komma komt.
 
 <div class="omreken" data-waarde="1" data-van="" data-naar="m" data-eenheid="V"></div>
 
-### S'entraîner avec le tableau
-Complétez et cliquez sur Vérifier. En cas d'erreur, vous voyez le tableau avec l'explication. Vous pouvez utiliser une virgule ou un point.
+### Oefenen met de tabel
+Vul in en klik op Controleer. Bij een fout zie je de tabel met de uitleg. Je mag een komma of een punt gebruiken.
 
 <div class="omreken-oef" data-oef='[["4,7","k","","Ω"],["20","m","","A"],["0,5","","m","A"],["1500","","k","V"],["14","M","k","Hz"],["3500","k","M","Hz"],["145,5","M","k","Hz"],["0,002","","m","A"],["250","m","","W"],["10","k","","Ω"],["7,1","M","","Hz"],["2200","","k","Ω"]]'></div>
 
-:::weetje Encore plus petit et encore plus grand
-À l'examen, vous n'avez besoin que de milli, kilo et méga. En pratique, vous rencontrerez aussi **µ** (micro, encore 1000 fois plus petit que milli) et **G** (giga, 1000 fois plus grand que méga). Le tableau fonctionne de la même façon avec eux.
+:::weetje Nog kleiner en nog groter
+Op het examen heb je enkel milli, kilo en mega nodig. In de praktijk kom je ook **µ** (micro, nog eens 1000 keer kleiner dan milli) en **G** (giga, 1000 keer groter dan mega) tegen. De tabel werkt er net zo mee.
 :::
 
 <div class="omreken-oef" data-oef='[["470","µ","m","A"],["1,2","G","M","Hz"]]'></div>
 
-<details class="zelf" markdown="1"><summary>Essayez vous-même : convertissez 150 mA en ampères.</summary>
+<details class="zelf" markdown="1"><summary>Zelf proberen: zet 150 mA om naar ampère.</summary>
 
-150 mA vers une unité plus grande, donc divisé par 1000 : **0,15 A**.
+150 mA naar een grotere eenheid, dus delen door 1000: **0,15 A**.
 
 </details>
-<details class="zelf" markdown="1"><summary>Essayez vous-même : convertissez 1,5 kV en volts.</summary>
+<details class="zelf" markdown="1"><summary>Zelf proberen: zet 1,5 kV om naar volt.</summary>
 
-Vers une unité plus petite, donc fois 1000 : **1 500 V**.
+Naar een kleinere eenheid, dus maal 1000: **1 500 V**.
 
 </details>

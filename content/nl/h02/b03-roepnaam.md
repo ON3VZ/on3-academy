@@ -1,46 +1,46 @@
 ---
 id: h02-b3
 type: brokje
-kort: Indicatifs d'appel
-titel: Votre indicatif d'appel
+kort: Roepnamen
+titel: Je roepnaam
 uba_ref: hfst. 2.2, p. 4
 checkvragen: [C-h02-3a, C-h02-3b, C-h02-3c]
 examenvragen: [O004, O005, O006, O007, O008]
 ---
 :::kern
-Chaque radioamateur reçoit de l'IBPT un **indicatif d'appel** : un « nom » unique qui n'existe qu'une seule fois dans le monde. Un indicatif belge commence par **ON, OO, OP, OQ, OR, OS ou OT**, puis vient **un chiffre**, et ensuite **une à trois lettres**.
+Elke radioamateur krijgt van het BIPT een **roepnaam**: een unieke "naam" die wereldwijd maar één keer bestaat. Een Belgische roepnaam begint met **ON, OO, OP, OQ, OR, OS of OT**, dan volgt **één cijfer** en daarna **één tot drie letters**.
 :::
 
-{{svg:h02-roepnaam|La structure d'un indicatif d'appel belge.}}
+{{svg:h02-roepnaam|De opbouw van een Belgische roepnaam.}}
 
-### Comment vérifier un indicatif (3 étapes)
-1. **Début** : les deux premières lettres sont-elles **ON, OO, OP, OQ, OR, OS ou OT** ? Si non : pas belge.
-2. **Chiffre** : vient-il ensuite exactement **un chiffre** ?
-3. **Fin** : suivent-elles ensuite **une à trois lettres** ?
+### Zo controleer je een roepnaam (3 stappen)
+1. **Begin**: zijn de eerste twee letters **ON, OO, OP, OQ, OR, OS of OT**? Zo nee: niet Belgisch.
+2. **Cijfer**: komt daarna precies **één cijfer**?
+3. **Einde**: volgen daarna **één tot drie letters**?
 
-### Exemples détaillés
-| Indicatif | Belge ? | Pourquoi |
+### Uitgewerkte voorbeelden
+| Roepnaam | Belgisch? | Waarom |
 |---|---|---|
-| ON4ABC | oui | ON + 4 + ABC |
-| ON3OO | oui | ON + 3 + OO |
-| OT9X | oui | OT + 9 + X |
-| ONA4BC | non | après ON doit d'abord venir un chiffre |
-| O77ZZ | non | le début ne compte qu'une seule lettre |
-| OZ7ZZ | non | OZ est le Danemark |
-| OU9XYZ | non | OU n'est pas un préfixe belge |
-| OV9X | non | OV n'est pas un préfixe belge |
+| ON4ABC | ja | ON + 4 + ABC |
+| ON3OO | ja | ON + 3 + OO |
+| OT9X | ja | OT + 9 + X |
+| ONA4BC | nee | na ON moet eerst een cijfer komen |
+| O77ZZ | nee | het begin is maar één letter |
+| OZ7ZZ | nee | OZ is Denemarken |
+| OU9XYZ | nee | OU is geen Belgisch prefix |
+| OV9X | nee | OV is geen Belgisch prefix |
 
-:::weetje Hors matière d'examen : que dit le chiffre ?
-| Chiffre | Utilisation |
+:::weetje Geen examenstof: wat zegt het cijfer?
+| Cijfer | Gebruik |
 |---|---|
-| ON0 | relais et balises |
-| ON3 | classe C |
-| ON2 | classe B |
-| ON1, ON4 à ON9 | classe A |
+| ON0 | repeaters en bakens |
+| ON3 | klasse C |
+| ON2 | klasse B |
+| ON1, ON4 tot ON9 | klasse A |
 
-Pour des occasions spéciales et pour les clubs, il existe aussi d'autres formes, comme OP20FENIKS ou ON75IPR.
+Voor speciale gelegenheden en clubs bestaan ook andere vormen, zoals OP20FENIKS of ON75IPR.
 :::
 
 :::valkuil
-OO, OP, OQ, OR, OS et OT sont **aussi** belges, pas seulement ON. Attention aux lettres juste en dehors de la série : **OU** et **OV** ne sont pas belges. Un **O suivi de Z ou de M** non plus.
+OO, OP, OQ, OR, OS en OT zijn óók Belgisch, niet alleen ON. Let op de letters net buiten de reeks: **OU** en **OV** zijn niet Belgisch. Een **O gevolgd door Z of M** ook niet.
 :::

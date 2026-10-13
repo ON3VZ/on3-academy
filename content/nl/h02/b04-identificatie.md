@@ -1,42 +1,42 @@
 ---
 id: h02-b4
 type: brokje
-kort: Suffixes et identification
-titel: Les suffixes (/M, /P ...) et l'annonce de votre indicatif
+kort: Aanhangsels en identificatie
+titel: Aanhangsels (/M, /P ...) en je roepnaam noemen
 uba_ref: hfst. 2.2, p. 4
 checkvragen: [C-h02-4a, C-h02-4b, C-h02-4c]
 examenvragen: [O009, O010, O011, O012, O017, O018, O019]
 ---
 :::kern
-Si vous n'émettez pas depuis l'adresse indiquée sur votre licence, vous ajoutez un **suffixe** à votre indicatif. Et vous **donnez votre indicatif** toujours **au début et à la fin** d'une émission, et **au moins toutes les 5 minutes** si elle dure longtemps.
+Zend je niet vanaf het adres op je vergunning, dan zet je een **aanhangsel** achter je roepnaam. En je **noemt je roepnaam** altijd **bij het begin en het einde** van een uitzending, en **minstens om de 5 minuten** als het lang duurt.
 :::
 
-### Les suffixes
-| Suffixe | Signification | Exemple |
+### De aanhangsels
+| Aanhangsel | Betekenis | Voorbeeld |
 |---|---|---|
-| **/M** | **mobile** : dans une voiture ou un train | ON3OO/M |
-| **/MM** | **mobile maritime** : sur un bateau | ON7QL/MM |
-| **/AM** | **mobile aéronautique** : dans un avion ou un ballon | ON5LST/AM |
-| **/P** | **portable** ou installation temporaire, p. ex. lors d'un field day | ON4IPR/P |
-| **/A** | station **fixe** à une **autre adresse** que celle de la licence | ON4JES/A |
+| **/M** | **mobiel**: in een auto of trein | ON3OO/M |
+| **/MM** | **maritiem mobiel**: op een schip | ON7QL/MM |
+| **/AM** | **aeronautisch mobiel**: in een vliegtuig of ballon | ON5LST/AM |
+| **/P** | **draagbaar** (portable) of tijdelijke opstelling, bv. op een velddag | ON4IPR/P |
+| **/A** | **vast** station op een **ander adres** dan op de vergunning | ON4JES/A |
 
-D'autres suffixes ne sont pas autorisés en Belgique.
+Andere aanhangsels mogen in België niet.
 
-### Donner votre indicatif (identification)
-1. Au **début** d'une émission.
-2. À la **fin** d'une émission.
-3. Si cela dure plus longtemps : **au moins une fois toutes les 5 minutes**.
+### Je roepnaam noemen (identificatie)
+1. Bij het **begin** van een uitzending.
+2. Bij het **einde** van een uitzending.
+3. Duurt het langer: **minstens één keer om de 5 minuten**.
 
-Une série de courts messages échangés compte comme **une seule** émission. En phonie, vous prononcez l'indicatif clairement et vous l'épelez si nécessaire avec l'alphabet international. En morse, vous le transmettez en morse.
+Een reeks korte berichten heen en weer telt als **één** uitzending. In spraak spreek je de roepnaam duidelijk uit en spel je ze indien nodig met het internationale alfabet. In morse seingeef je ze in morse.
 
-Source légale : AR 18-12-2009, art. 17/8.
+Wettelijke bron: KB 18-12-2009, art. 17/8.
 
-:::vergelijk Comparaison
-Une conversation par l'interphone d'un grand bâtiment. Au début, vous dites qui vous êtes, à la fin vous le répétez, et si cela dure longtemps, vous le redites de temps en temps, pour que celui qui écoute en cours de route sache qui parle.
+:::vergelijk Vergelijk met
+Een gesprek via de intercom van een groot gebouw. Je zegt bij het begin wie je bent, aan het einde nog eens, en als het lang duurt af en toe opnieuw, zodat wie halverwege meeluistert weet wie er spreekt.
 :::
 
 :::valkuil
-- Vous vous identifiez avec votre **indicatif d'appel**. Pas avec votre nom, votre adresse, votre date de naissance ou le numéro de votre certificat.
-- « Au moins toutes les 5 minutes », pas « au maximum » et pas « toutes les 10 minutes ».
-- **/M** = voiture, **/MM** = bateau. **/P** = portable. **/A** = fixe, mais à une autre adresse.
+- Je identificeert je met je **roepnaam**. Niet met je naam, adres, geboortedatum of het nummer van je certificaat.
+- "Minstens om de 5 minuten", niet "maximaal" en niet "om de 10 minuten".
+- **/M** = auto, **/MM** = schip. **/P** = draagbaar. **/A** = vast, maar op een ander adres.
 :::

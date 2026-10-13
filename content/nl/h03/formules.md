@@ -2,30 +2,30 @@
 id: h03-formules
 type: formules
 kort: Formules
-titel: Formules et points clés sur une page
+titel: Formules en weetjes op één pagina
 uba_ref: hfst. 3
 checkvragen: []
 examenvragen: []
 ---
-| Quoi | Formule ou fait |
+| Wat | Formule of feit |
 |---|---|
-| loi d'Ohm | U = I × R · I = U ÷ R · R = U ÷ I |
-| puissance | P = U × I · I = P ÷ U · U = P ÷ I |
-| fréquence et période | f = 1 ÷ T |
-| longueur d'onde | λ (m) = 300 ÷ f (MHz) · f (MHz) = 300 ÷ λ (m) |
-| milli, kilo, méga | m = × 0,001 · k = × 1 000 · M = × 1 000 000 |
-| réseau électrique | 230 V, 50 Hz, tension alternative (AC) |
-| pile | tension continue (DC), a une polarité + et − |
-| son audible (AF) | 100 Hz à 15 kHz |
-| parole | 300 Hz à 3 kHz |
-| HF / VHF / UHF | 3 à 30 MHz / 30 à 300 MHz / 300 à 3000 MHz |
-| sinusoïde | produite par un oscillateur |
+| wet van Ohm | U = I × R · I = U ÷ R · R = U ÷ I |
+| vermogen | P = U × I · I = P ÷ U · U = P ÷ I |
+| frequentie en periode | f = 1 ÷ T |
+| golflengte | λ (m) = 300 ÷ f (MHz) · f (MHz) = 300 ÷ λ (m) |
+| milli, kilo, mega | m = × 0,001 · k = × 1 000 · M = × 1 000 000 |
+| lichtnet | 230 V, 50 Hz, wisselspanning (AC) |
+| batterij | gelijkspanning (DC), heeft polariteit + en − |
+| hoorbaar geluid (AF) | 100 Hz tot 15 kHz |
+| spraak | 300 Hz tot 3 kHz |
+| HF / VHF / UHF | 3 tot 30 MHz / 30 tot 300 MHz / 300 tot 3000 MHz |
+| sinus | gemaakt door een oscillator |
 
-| Grandeur | Lettre | Unité |
+| Grootheid | Letter | Eenheid |
 |---|---|---|
-| tension | U | volt (V) |
-| courant | I | ampère (A) |
-| résistance | R | ohm (Ω) |
-| puissance | P | watt (W) |
-| fréquence | f | hertz (Hz) |
-| longueur d'onde | λ | mètre (m) |
+| spanning | U | volt (V) |
+| stroom | I | ampère (A) |
+| weerstand | R | ohm (Ω) |
+| vermogen | P | watt (W) |
+| frequentie | f | hertz (Hz) |
+| golflengte | λ | meter (m) |

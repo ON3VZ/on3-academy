@@ -1,41 +1,41 @@
 ---
 id: h02-m01
 type: moeilijk
-kort: Points difficiles
-titel: Que puis-je faire en tant qu'ON3 ? Pas à pas
+kort: Moeilijke zaken
+titel: Wat mag ik als ON3? Stap voor stap
 uba_ref: hfst. 2
 checkvragen: []
 examenvragen: []
 ---
-Les questions de législation de ce chapitre consistent surtout à **reconnaître des mots et des chiffres**. En vous posant ces quatre questions, vous résolvez la plupart d'entre elles.
+De wetgevingsvragen in dit hoofdstuk zijn vooral **woorden en getallen herkennen**. Met deze vier vragen aan jezelf los je de meeste op.
 
-### 1. S'agit-il d'une personne ou d'une station ?
-| Sujet | Il s'agit alors du |
+### 1. Gaat het over een persoon of over een station?
+| Over | Dan gaat het over |
 |---|---|
-| qui peut émettre, examen, classe | **certificat d'opérateur** |
-| détenir et utiliser un appareil, une adresse | **licence de station** |
+| wie mag zenden, examen, klasse | **bedieningscertificaat** |
+| een toestel hebben en gebruiken, een adres | **stationsvergunning** |
 
-### 2. S'agit-il de l'indicatif d'appel ?
-1. Préfixe ON à OT ? Alors il est belge.
-2. D'où émettez-vous ? /M (voiture), /MM (bateau), /AM (avion), /P (portable), /A (autre adresse fixe).
-3. Quand le donner ? Au début, à la fin, et au moins toutes les 5 minutes.
+### 2. Gaat het over de roepnaam?
+1. Prefix ON tot OT? Dan Belgisch.
+2. Waar zend je? /M (auto), /MM (schip), /AM (vliegtuig), /P (draagbaar), /A (ander vast adres).
+3. Wanneer noemen? Begin, einde, en minstens om de 5 minuten.
 
-### 3. S'agit-il de ce que vous émettez ?
-Posez-vous la question : **est-ce une conversation en langage clair entre radioamateurs ?**
-- Oui : permis.
-- Radiodiffusion, musique, code secret, faux message de détresse, contact avec les services de secours ou la CB : interdit.
+### 3. Gaat het over wat je zendt?
+Stel jezelf de vraag: **is dit een gesprek in duidelijke taal tussen radioamateurs?**
+- Ja: mag.
+- Omroep, muziek, geheime code, vals noodbericht, contact met hulpdiensten of CB: mag niet.
 
-### 4. S'agit-il de fréquence ou de puissance ?
-1. La fréquence figure-t-elle dans le tableau de la classe C ? Si non : interdit.
-2. HF : maximum 25 W. 2 m et 70 cm : maximum 50 W.
-3. Statut S : vous ne pouvez perturber personne et vous n'êtes pas protégé.
+### 4. Gaat het over frequentie of vermogen?
+1. Ligt de frequentie in de tabel van klasse C? Zo nee: mag niet.
+2. HF: maximum 25 W. 2 m en 70 cm: maximum 50 W.
+3. Status S: je mag niemand storen en je bent niet beschermd.
 
-### Exemple détaillé
-« Vous êtes dans le train avec votre talkie-walkie et vous lancez un appel sur 145,500 MHz. Comment vous identifiez-vous, et avec quelle puissance maximale ? »
-1. Train = **mobile** : ON3XYZ/M.
-2. Indicatif au début, à la fin et au moins toutes les 5 minutes.
-3. 145,500 MHz, c'est le 2 m : maximum **50 W** (un talkie-walkie émet généralement beaucoup moins).
+### Uitgewerkt voorbeeld
+"Je zit met je portofoon in de trein en roept op 145,500 MHz. Hoe identificeer je je, en met welk maximum vermogen?"
+1. Trein = **mobiel**: ON3XYZ/M.
+2. Roepnaam aan het begin, aan het einde en minstens om de 5 minuten.
+3. 145,500 MHz is 2 m: maximum **50 W** (een portofoon zendt meestal veel minder).
 
 :::valkuil
-Dans les questions d'examen sur la législation, on trouve souvent des mots comme **uniquement**, **toujours**, **au moins** et **au maximum**. Lisez-les deux fois : « au moins toutes les 5 minutes », ce n'est pas la même chose que « au maximum toutes les 5 minutes ».
+In examenvragen over wetgeving zitten vaak woorden als **enkel**, **altijd**, **minstens** en **maximaal**. Lees ze twee keer: "minstens om de 5 minuten" is iets anders dan "maximaal om de 5 minuten".
 :::

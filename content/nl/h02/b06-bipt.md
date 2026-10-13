@@ -1,37 +1,37 @@
 ---
 id: h02-b6
 type: brokje
-kort: L'IBPT et le carnet de trafic
-titel: L'IBPT exerce le contrôle
+kort: Het BIPT en het logboek
+titel: Het BIPT houdt toezicht
 uba_ref: hfst. 2.4 en 2.5, p. 5
 checkvragen: [C-h02-6a, C-h02-6b, C-h02-6c]
 examenvragen: [O029, O030, O031]
 ---
 :::kern
-L'**IBPT** (Institut belge des services postaux et des télécommunications) est le service public qui contrôle les radioamateurs. Vous **signalez chaque changement d'adresse**. L'IBPT peut **visiter et inspecter** votre station **à tout moment**, et peut **imposer des restrictions** ou **fermer complètement** votre station.
+Het **BIPT** (Belgisch Instituut voor Postdiensten en Telecommunicatie) is de overheidsdienst die toezicht houdt op radioamateurs. Je **meldt elke adresverandering**. Het BIPT mag je station **op elk moment bezoeken en inspecteren**, en kan **beperkingen opleggen** of je station **volledig sluiten**.
 :::
 
-| Quoi ? | Comment ça se passe ? |
+| Wat? | Hoe zit het? |
 |---|---|
-| **changement d'adresse** | toujours le signaler à l'IBPT |
-| achat ou vente d'un **nouvel appareil** | pas besoin de le signaler |
-| **inspection** | à tout moment, sans annonce et sans huissier |
-| **restrictions** | l'IBPT peut vous imposer de ne pas émettre à certaines heures ou sur certaines fréquences, ou d'émettre avec moins de puissance |
-| **fermeture** | l'IBPT peut aussi fermer complètement votre station |
-| **carnet de trafic** (journal) | n'est **plus obligatoire légalement**. La plupart des radioamateurs le tiennent quand même |
+| **adresverandering** | altijd melden aan het BIPT |
+| een **nieuw toestel** kopen of verkopen | hoef je niet te melden |
+| **inspectie** | op elk moment, zonder aankondiging en zonder deurwaarder |
+| **beperkingen** | het BIPT kan opleggen dat je op bepaalde uren of frequenties niet, of met minder vermogen, zendt |
+| **sluiten** | het BIPT kan je station ook volledig sluiten |
+| **logboek** (dagboek) | is **niet meer wettelijk verplicht**. De meeste radioamateurs houden het toch bij |
 
-Sources légales : loi du 13-06-2005 relative aux communications électroniques, AR du 18-12-2009 et les décisions du Conseil de l'IBPT. Détails dans le chapitre Législation.
+Wettelijke bronnen: wet van 13-06-2005 betreffende de elektronische communicatie, KB van 18-12-2009 en de besluiten van de Raad van het BIPT. Details in het hoofdstuk Wetgeving.
 
-:::vergelijk Comparaison
-Un permis de conduire et la police. Vous devez communiquer un déménagement, la police peut vous contrôler à tout moment, et en cas d'infraction elle peut vous imposer des restrictions ou vous retirer votre permis.
+:::vergelijk Vergelijk met
+Een rijbewijs en de politie. Je moet een verhuis doorgeven, de politie mag je op elk moment controleren, en bij overtredingen kan ze je beperkingen opleggen of je rijbewijs afnemen.
 :::
 
 :::valkuil
-- L'IBPT peut **imposer des restrictions et fermer** la station. Il ne doit pas d'abord imposer des restrictions avant de pouvoir fermer.
-- Une perturbation chez les voisins n'entraîne **pas** d'obligation de signalement. Vous pouvez par contre demander conseil à l'IBPT (voir chapitre 7).
-- Couper le courant de votre habitation ne fait pas partie des compétences de l'IBPT dans le manuel.
+- Het BIPT mag **beperkingen opleggen én sluiten**. Het hoeft niet eerst beperkingen op te leggen voor het mag sluiten.
+- Een storing bij de buren is **geen** meldingsplicht. Je kunt wel advies vragen aan het BIPT (zie hoofdstuk 7).
+- De stroom van je woning afsluiten staat niet tussen de bevoegdheden van het BIPT in het handboek.
 :::
 
-:::weetje Anciennes questions d'examen sur le carnet de trafic
-La banque de questions contient encore des questions sur un carnet de trafic **obligatoire** (ce qu'il doit contenir, combien de temps le conserver). Ces règles ne s'appliquent plus. C'est pourquoi ces questions ne sont pas utilisées sur cette plateforme.
+:::weetje Oude examenvragen over het logboek
+In de vragenbank staan nog vragen over een **verplicht** logboek (wat erin moet, hoe lang bewaren). Die regels gelden niet meer. Op dit platform worden die vragen daarom niet gebruikt.
 :::

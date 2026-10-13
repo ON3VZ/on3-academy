@@ -1,44 +1,44 @@
 ---
 id: h04-b3
 type: brokje
-kort: SSB, CW, données
-titel: SSB, CW et données
+kort: SSB, CW, data
+titel: SSB, CW en data
 uba_ref: hfst. 4, p. 14 tot 16
 checkvragen: [C-h04-3a, C-h04-3b, C-h04-3c, C-h04-3d]
 examenvragen: [O107, O108, O109, O110, O111, O112]
 ---
-<h3>SSB : de l'AM sans le superflu</h3>
-<div class="card kern"><b class="k">L'essentiel</b>
-Un signal AM se compose de <b>3 parties</b> : la porteuse, une bande latérale inférieure et une bande latérale supérieure. La porteuse ne contient <b>aucun</b> message. Les deux bandes latérales contiennent <b>le même</b> message. La BLU (bande latérale unique, en anglais SSB, <i>single sideband</i>) supprime la porteuse et une bande latérale, et met toute la puissance dans la bande latérale qui reste.
+<h3>SSB: AM zonder het overbodige</h3>
+<div class="card kern"><b class="k">Kern</b>
+Een AM-signaal bestaat uit <b>3 stukken</b>: de draaggolf, een onderste zijband en een bovenste zijband. De draaggolf bevat <b>geen</b> boodschap. Beide zijbanden bevatten <b>dezelfde</b> boodschap. SSB (<i>single sideband</i>, enkelzijband) laat de draaggolf en één zijband weg en stopt al het vermogen in de zijband die overblijft.
 </div>
 
-<div class="figwrap">{{svg:spectrum-am-ssb}}<div class="figcap">Spectre : horizontalement la fréquence, verticalement la puissance. Exemple avec une voix jusqu'à 3 kHz autour de 7,100 MHz.</div></div>
+<div class="figwrap">{{svg:spectrum-am-ssb}}<div class="figcap">Spectrum: horizontaal de frequentie, verticaal het vermogen. Voorbeeld met spraak tot 3 kHz rond 7,100 MHz.</div></div>
 
 <div class="tbl"><table>
-<tr><th>Abréviation</th><th>Signification</th><th>Ce qui reste</th></tr>
-<tr><td>SSB</td><td>single sideband, bande latérale unique (BLU)</td><td>une seule bande latérale</td></tr>
-<tr><td>USB</td><td>upper sideband</td><td>la bande latérale au-dessus de la porteuse</td></tr>
-<tr><td>LSB</td><td>lower sideband</td><td>la bande latérale en dessous de la porteuse</td></tr>
+<tr><th>Afkorting</th><th>Betekenis</th><th>Wat blijft over</th></tr>
+<tr><td>SSB</td><td>single sideband, enkelzijband</td><td>één zijband</td></tr>
+<tr><td>USB</td><td>upper sideband</td><td>de zijband boven de draaggolf</td></tr>
+<tr><td>LSB</td><td>lower sideband</td><td>de zijband onder de draaggolf</td></tr>
 </table></div>
 
 <div class="formula"><div class="f">P<small>AM</small> ≈ 6 × P<small>SSB</small></div>
-<div class="leg">Pour être reçu aussi fort qu'avec 10 W en SSB, il vous faut environ 60 W en AM. Le calcul se trouve dans « Points difficiles ».</div></div>
+<div class="leg">Om even sterk over te komen als 10 W SSB heb je ongeveer 60 W AM nodig. De berekening staat bij "Moeilijke zaken".</div></div>
 
-<div class="card"><span class="extra-tag">bon à savoir</span>Convention entre radioamateurs : en dessous de 10 MHz, on utilise généralement la <b>LSB</b>, à partir de 10 MHz généralement l'<b>USB</b>.</div>
+<div class="card"><span class="extra-tag">weetje</span>Afspraak onder radioamateurs: onder 10 MHz gebruik je meestal <b>LSB</b>, vanaf 10 MHz meestal <b>USB</b>.</div>
 
-<h3>CW : la modulation la plus simple</h3>
-<div class="card kern"><b class="k">L'essentiel</b>
-En CW (morse), vous <b>allumez et éteignez</b> simplement la porteuse au rythme des signes morse. Allumée brièvement = un point, allumée longtemps = un trait. Vous utilisez un manipulateur au lieu d'un microphone.
+<h3>CW: de eenvoudigste modulatie</h3>
+<div class="card kern"><b class="k">Kern</b>
+Bij CW (morse) zet je de draaggolf gewoon <b>aan en uit</b> op het ritme van de morsetekens. Kort aan = punt, lang aan = streep. Je gebruikt een seinsleutel in plaats van een microfoon.
 </div>
 
-<h3>Données : un ordinateur au lieu d'un microphone</h3>
-<div class="figwrap">{{svg:data-tnc}}<div class="figcap">En communication de données, l'ordinateur pilote l'émetteur par l'intermédiaire d'un modem ou d'un TNC.</div></div>
+<h3>Data: computer in plaats van microfoon</h3>
+<div class="figwrap">{{svg:data-tnc}}<div class="figcap">Bij datacommunicatie stuurt de computer de zender aan via een modem of TNC.</div></div>
 <ol class="steps">
-<li><span>L'ordinateur produit des <b>bits</b> : des zéros et des uns.</span></li>
-<li><span>Un modem radio ou un <b>TNC</b> (Terminal Node Controller) en fait des <b>tonalités audio</b> : une tonalité pour un 0, une autre tonalité pour un 1. Un modem ne produit donc pas de signal RF, seulement des tonalités.</span></li>
-<li><span>Ces tonalités entrent dans l'émetteur comme si c'était votre voix. L'émetteur continue de fonctionner en SSB ou en FM.</span></li>
+<li><span>De computer maakt <b>bits</b>: nullen en enen.</span></li>
+<li><span>Een radiomodem of <b>TNC</b> (Terminal Node Controller) maakt daar <b>audiotonen</b> van: één toon voor een 0, een andere toon voor een 1. Een modem maakt dus geen RF-signaal, alleen tonen.</span></li>
+<li><span>Die tonen gaan de zender in alsof het je stem was. De zender werkt verder in SSB of FM.</span></li>
 </ol>
-<div class="card"><span class="extra-tag">bon à savoir</span>Les modes numériques modernes comme le FT8 n'utilisent plus de TNC séparé. C'est la carte son de l'ordinateur qui produit les tonalités.</div>
+<div class="card"><span class="extra-tag">weetje</span>Moderne digitale modes zoals FT8 gebruiken geen aparte TNC meer. De geluidskaart van de computer maakt de tonen.</div>
 
-<h3>Tous les signaux côte à côte</h3>
-<div class="figwrap">{{svg:signalen}}<div class="figcap">Voici à quoi ressemblent les quatre types sur un dessin.</div></div>
+<h3>Alle signalen naast elkaar</h3>
+<div class="figwrap">{{svg:signalen}}<div class="figcap">Zo zien de vier soorten er op een tekening uit.</div></div>

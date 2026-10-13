@@ -1,43 +1,43 @@
 ---
 id: h00-b3
 type: brokje
-kort: Installer comme application
-titel: Installez cette plateforme comme application
+kort: Installeren als app
+titel: Installeer dit platform als app
 uba_ref: null
 checkvragen: []
 examenvragen: []
 ---
 :::kern
-Vous pouvez **installer cette plateforme comme application**. Vous obtenez alors une icône sur votre bureau ou votre écran d'accueil. L'application s'ouvre dans sa propre fenêtre et fonctionne aussi **sans internet**, par exemple dans le train ou dans votre shack. Vous ne devez rien télécharger dans une boutique d'applications.
+Je kunt dit platform **installeren als app**. Je krijgt dan een pictogram op je bureaublad of startscherm. De app opent in een eigen venster en werkt ook **zonder internet**, bijvoorbeeld in de trein of in je shack. Je hoeft niets te downloaden uit een app store.
 :::
 
-### Sur un PC ou un Mac (Chrome ou Edge)
-1. Ouvrez le site dans **Chrome ou Edge**.
-2. À droite dans la barre d'adresse, cliquez sur l'**icône d'installation** (un petit écran avec une flèche). Si vous ne la voyez pas, cliquez sur les **trois points** en haut à droite.
-3. Dans Chrome, choisissez **Caster, enregistrer et partager**, puis **Installer la page en tant qu'application**. Dans Edge, choisissez **Applications**, puis **Installer ce site en tant qu'application**.
-4. Confirmez avec **Installer**. Cochez **raccourci sur le bureau** si cela vous est proposé.
-5. Vous voulez aussi l'icône dans votre barre des tâches ? Faites un clic droit sur l'icône de l'application ouverte et choisissez **Épingler à la barre des tâches**.
+### Op een pc of Mac (Chrome of Edge)
+1. Open de site in **Chrome of Edge**.
+2. Klik rechts in de adresbalk op het **installatiepictogram** (een klein scherm met een pijl). Zie je het niet, klik dan op de **drie puntjes** rechtsboven.
+3. In Chrome kies je **Casting, opslaan en delen**, dan **Pagina installeren als app**. In Edge kies je **Apps**, dan **Deze site als app installeren**.
+4. Bevestig met **Installeren**. Vink **snelkoppeling op bureaublad** aan als dat wordt voorgesteld.
+5. Wil je het pictogram ook op je taakbalk? Rechtsklik op het pictogram van de geopende app en kies **Vastmaken aan taakbalk**.
 
-### Sur un smartphone ou une tablette Android (Chrome)
-1. Ouvrez le site dans Chrome.
-2. Touchez les **trois points** en haut à droite.
-3. Choisissez **Installer l'application** (ou **Ajouter à l'écran d'accueil**) et confirmez.
+### Op een Android-gsm of -tablet (Chrome)
+1. Open de site in Chrome.
+2. Tik rechtsboven op de **drie puntjes**.
+3. Kies **App installeren** (of **Toevoegen aan startscherm**) en bevestig.
 
-### Sur un iPhone ou un iPad (uniquement Safari)
-1. Ouvrez le site dans **Safari**. Les autres navigateurs ne le permettent pas sur iOS.
-2. Touchez l'**icône de partage** (un petit carré avec une flèche vers le haut).
-3. Faites défiler vers le bas et choisissez **Sur l'écran d'accueil**, puis **Ajouter**.
+### Op een iPhone of iPad (enkel Safari)
+1. Open de site in **Safari**. Andere browsers kunnen dit op iOS niet.
+2. Tik op het **deelpictogram** (een vierkantje met een pijl omhoog).
+3. Scrol naar beneden en kies **Zet op beginscherm**, dan **Voeg toe**.
 
 :::weetje
-**Firefox** et **Safari sur un PC ou un Mac** ne peuvent pas installer un site comme application. Utilisez pour cela Chrome ou Edge. Le site fonctionne normalement en ligne dans tous les navigateurs.
+**Firefox** en **Safari op een pc of Mac** kunnen een site niet als app installeren. Gebruik daarvoor Chrome of Edge. De site werkt in elke browser gewoon online.
 :::
 
-### Comment vérifier que cela fonctionne hors ligne
-1. Ouvrez l'application une fois **avec internet** et parcourez quelques chapitres.
-2. Coupez ensuite votre wifi, ou mettez votre smartphone en mode avion.
-3. Ouvrez à nouveau l'application. Tous les chapitres, dessins, questions d'entraînement et l'examen blanc fonctionnent encore. Sur la page d'accueil figure aussi le message **Prêt hors ligne**.
+### Zo controleer je dat het offline werkt
+1. Open de app één keer **met internet** en blader even door een paar hoofdstukken.
+2. Zet daarna je wifi uit, of zet je gsm in vliegtuigmodus.
+3. Open de app opnieuw. Alle hoofdstukken, tekeningen, oefenvragen en het proefexamen werken nog. Op de startpagina staat ook de melding **Offline klaar**.
 
 :::valkuil
-- Votre progression se trouve **sur cet appareil**. Si vous utilisez l'application sur votre PC et sur votre smartphone, ce sont deux progressions séparées.
-- Les nouvelles versions du contenu arrivent dès que vous ouvrez l'application **avec internet**. Ouvrez donc l'application en ligne de temps en temps.
+- Je voortgang staat **op dit toestel**. Gebruik je de app op je pc én op je gsm, dan zijn dat twee aparte voortgangen.
+- Nieuwe versies van de inhoud komen binnen zodra je de app opent **met internet**. Open de app dus af en toe online.
 :::

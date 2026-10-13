@@ -1,14 +1,14 @@
 {
  "id": "h03",
  "leerdoelen": [
-  "expliquer les notions de <b>tension, courant, résistance et puissance</b>, avec leur lettre et leur unité.",
-  "convertir <b>milli, kilo et méga</b>.",
-  "calculer avec la <b>loi d'Ohm</b> (U = I × R) et avec la <b>puissance</b> (P = U × I).",
-  "dire quand le <b>plus et le moins</b> sont importants.",
-  "reconnaître les <b>9 symboles</b>.",
-  "expliquer la différence entre <b>DC et AC</b> et reconnaître une <b>sinusoïde</b>.",
-  "connaître les fréquences du <b>réseau électrique, de l'ouïe, de la parole, de la HF, de la VHF et de l'UHF</b>.",
-  "<b>convertir une fréquence en longueur d'onde</b> et inversement."
+  "de begrippen <b>spanning, stroom, weerstand en vermogen</b> uitleggen, met hun letter en eenheid.",
+  "<b>milli, kilo en mega</b> omzetten.",
+  "rekenen met de <b>wet van Ohm</b> (U = I × R) en met <b>vermogen</b> (P = U × I).",
+  "zeggen wanneer <b>plus en min</b> belangrijk zijn.",
+  "de <b>9 symbolen</b> herkennen.",
+  "het verschil tussen <b>DC en AC</b> uitleggen en een <b>sinus</b> herkennen.",
+  "de frequenties van het <b>lichtnet, het gehoor, spraak, HF, VHF en UHF</b> kennen.",
+  "<b>frequentie omzetten naar golflengte</b> en omgekeerd."
  ],
  "doelstellingen": [
   "3a.1",
@@ -38,72 +38,72 @@
  ],
  "flashcards": [
   {
-   "voor": "Tension",
-   "achter": "Lettre U, unité volt (V). La poussée de la pile."
+   "voor": "Spanning",
+   "achter": "Letter U, eenheid volt (V). De duw van de batterij."
   },
   {
-   "voor": "Courant",
-   "achter": "Lettre I, unité ampère (A). La quantité d'électricité par seconde."
+   "voor": "Stroom",
+   "achter": "Letter I, eenheid ampère (A). Hoeveel elektriciteit per seconde."
   },
   {
-   "voor": "Résistance",
-   "achter": "Lettre R, unité ohm (Ω). Freine le courant : R plus grand = courant plus petit."
+   "voor": "Weerstand",
+   "achter": "Letter R, eenheid ohm (Ω). Remt de stroom: groter R = kleinere stroom."
   },
   {
-   "voor": "Puissance",
-   "achter": "Lettre P, unité watt (W). P = U × I."
+   "voor": "Vermogen",
+   "achter": "Letter P, eenheid watt (W). P = U × I."
   },
   {
-   "voor": "Loi d'Ohm",
+   "voor": "Wet van Ohm",
    "achter": "U = I × R · I = U ÷ R · R = U ÷ I"
   },
   {
-   "voor": "milli / kilo / méga",
+   "voor": "milli / kilo / mega",
    "achter": "m = ÷ 1000 · k = × 1000 · M = × 1 000 000"
   },
   {
-   "voor": "Polarité",
-   "achter": "Lampe : sans importance. Appareil électronique : important, un branchement inversé peut le détruire."
+   "voor": "Polariteit",
+   "achter": "Lamp: maakt niet uit. Elektronisch toestel: wel, verkeerd kan het vernielen."
   },
   {
-   "voor": "DC et AC",
-   "achter": "DC = tension continue (pile). AC = tension alternative (prise de courant)."
+   "voor": "DC en AC",
+   "achter": "DC = gelijkspanning (batterij). AC = wisselspanning (stopcontact)."
   },
   {
-   "voor": "Réseau électrique",
+   "voor": "Lichtnet",
    "achter": "230 V, 50 Hz"
   },
   {
-   "voor": "Sinusoïde",
-   "achter": "Onde arrondie sans angles, produite par un oscillateur."
+   "voor": "Sinus",
+   "achter": "Ronde golf zonder hoeken, gemaakt door een oscillator."
   },
   {
-   "voor": "Fréquence",
-   "achter": "Nombre d'ondes par seconde, en hertz (Hz). f = 1 ÷ T."
+   "voor": "Frequentie",
+   "achter": "Aantal golven per seconde, in hertz (Hz). f = 1 ÷ T."
   },
   {
-   "voor": "AF et parole",
-   "achter": "Audible de 100 Hz à 15 kHz. Parole de 300 Hz à 3 kHz."
+   "voor": "AF en spraak",
+   "achter": "Hoorbaar 100 Hz tot 15 kHz. Spraak 300 Hz tot 3 kHz."
   },
   {
    "voor": "HF / VHF / UHF",
-   "achter": "3 à 30 / 30 à 300 / 300 à 3000 MHz"
+   "achter": "3 tot 30 / 30 tot 300 / 300 tot 3000 MHz"
   },
   {
-   "voor": "Longueur d'onde",
-   "achter": "λ (m) = 300 ÷ f (MHz). f plus haute = onde plus courte."
+   "voor": "Golflengte",
+   "achter": "λ (m) = 300 ÷ f (MHz). Hoger f = kortere golf."
   },
   {
-   "voor": "Fusible ou résistance",
-   "achter": "Fusible : le fil traverse le petit rectangle. Résistance : non."
+   "voor": "Zekering vs weerstand",
+   "achter": "Zekering: draad loopt door het rechthoekje. Weerstand: niet."
   }
  ],
  "samenvatting": [
-  "Le courant ne circule que dans un circuit fermé. La tension (V) pousse, la résistance (Ω) freine, le courant (A) est ce qui circule.",
-  "U = I × R et P = U × I. Convertissez toujours d'abord en V, A, Ω et W.",
-  "La polarité est importante pour les appareils électroniques, pas pour une ampoule à incandescence.",
-  "Pile = DC. Prise de courant = AC, 230 V, 50 Hz. Une sinusoïde est produite par un oscillateur.",
-  "Ouïe de 100 Hz à 15 kHz, parole de 300 Hz à 3 kHz, HF de 3 à 30 MHz, VHF jusqu'à 300 MHz, UHF jusqu'à 3000 MHz.",
-  "Longueur d'onde en mètres = 300 divisé par la fréquence en MHz."
+  "Stroom loopt alleen in een gesloten kring. Spanning (V) duwt, weerstand (Ω) remt, stroom (A) is wat er doorloopt.",
+  "U = I × R en P = U × I. Reken altijd eerst om naar V, A, Ω en W.",
+  "Polariteit is belangrijk voor elektronische toestellen, niet voor een gloeilamp.",
+  "Batterij = DC. Stopcontact = AC, 230 V, 50 Hz. Een sinus komt uit een oscillator.",
+  "Gehoor 100 Hz tot 15 kHz, spraak 300 Hz tot 3 kHz, HF 3 tot 30 MHz, VHF tot 300 MHz, UHF tot 3000 MHz.",
+  "Golflengte in meter = 300 gedeeld door de frequentie in MHz."
  ]
 }

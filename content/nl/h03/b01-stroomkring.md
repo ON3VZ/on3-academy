@@ -1,44 +1,44 @@
 ---
 id: h03-b01-stroomkring
 type: brokje
-kort: Circuit électrique
-titel: Tension, courant et résistance
+kort: Stroomkring
+titel: Spanning, stroom en weerstand
 uba_ref: hfst. 3.1, p. 7
 checkvragen: [C-h03-01, C-h03-02, C-h03-03]
 examenvragen: [O036, O037, O038, O039, O052]
 ---
 :::kern
-Le courant ne circule que si le circuit est **fermé** : il part du pôle plus de la pile, traverse l'appareil et revient au pôle moins. Si le circuit est ouvert quelque part, par exemple parce que l'interrupteur est sur arrêt, rien ne circule.
+Stroom loopt alleen als de kring **rond** is: van de pluspool van de batterij, door het toestel, terug naar de minpool. Is de kring ergens open, bijvoorbeeld omdat de schakelaar uit staat, dan loopt er niets.
 :::
 
-{{svg:h03-kring-zaklamp|Une lampe de poche en schéma : pile, interrupteur et ampoule dans un seul circuit fermé.}}
+{{svg:h03-kring-zaklamp|Een zaklamp als schema: batterij, schakelaar en lampje in één gesloten kring.}}
 
-### Trois mots que vous rencontrerez partout
+### Drie woorden die je overal tegenkomt
 
-| Quoi | Lettre | Unité | En langage courant |
+| Wat | Letter | Eenheid | In gewone taal |
 |---|---|---|---|
-| tension | U | volt (V) | la « poussée » que donne la pile |
-| courant | I | ampère (A) | la quantité d'électricité qui passe dans le fil chaque seconde |
-| résistance | R | ohm (Ω) | à quel point quelque chose freine le courant |
-| puissance | P | watt (W) | la quantité d'énergie consommée chaque seconde (voir bloc 4) |
+| spanning | U | volt (V) | de "duw" die de batterij geeft |
+| stroom | I | ampère (A) | hoeveel elektriciteit er per seconde door de draad gaat |
+| weerstand | R | ohm (Ω) | hoe hard iets de stroom tegenhoudt |
+| vermogen | P | watt (W) | hoeveel energie er per seconde verbruikt wordt (zie blok 4) |
 
-:::vergelijk Comparaison avec l'eau
-Un château d'eau pousse l'eau dans un tuyau. Plus le château est haut, plus la poussée est forte : c'est la **tension**. La quantité d'eau qui passe dans le tuyau chaque seconde, c'est le **courant**. Si le tuyau se rétrécit quelque part, moins d'eau passe : c'est la **résistance**.
+:::vergelijk Vergelijk met water
+Een watertoren duwt water door een buis. Hoe hoger de toren, hoe harder de duw: dat is de **spanning**. Hoeveel water er per seconde door de buis loopt, is de **stroom**. Wordt de buis ergens smal, dan geraakt er minder water door: dat is de **weerstand**.
 :::
 
-{{svg:h03-water|Pression, écoulement et tuyau étroit : tension, courant et résistance.}}
+{{svg:h03-water|Druk, stroming en een smalle buis: spanning, stroom en weerstand.}}
 
-:::kern La résistance freine le courant
-Une résistance **s'oppose au courant**. Plus la résistance est grande, plus le courant est petit. Dans une lampe de poche, c'est l'ampoule qui joue le rôle de résistance : elle freine le courant, et c'est pour cela qu'elle chauffe et donne de la lumière.
+:::kern Weerstand remt de stroom
+Een weerstand **werkt de stroom tegen**. Hoe groter de weerstand, hoe kleiner de stroom. In een zaklamp is het lampje de weerstand: het remt de stroom af en wordt daardoor warm en licht.
 :::
 
 :::geheugensteun
-- Le **volt** va avec la tension : sur chaque pile, vous voyez un nombre suivi de V (1,5 V, 9 V, 12 V). C'est sa tension.
-- L'**a**mpère va avec le courant : c'est la quantité d'électricité qui passe chaque seconde.
-- L'**Ω** (ohm) va avec la résistance : le signe ressemble à un fer à cheval qui freine le courant.
-- Le **w**att va avec la puissance : une lampe de 60 **W**.
+- **Volt** hoort bij spanning: op elke batterij staat een getal met V (1,5 V, 9 V, 12 V). Dat is haar spanning.
+- **A**mpère hoort bij stroom: **A** van "Aantal per seconde".
+- **Ω** (ohm) hoort bij weerstand: het teken lijkt op een hoefijzer dat de stroom afremt.
+- **W**att hoort bij vermogen: een lamp van 60 **W**.
 :::
 
 :::valkuil
-Ne confondez pas la **grandeur** (la tension, lettre U) avec l'**unité** (le volt, lettre V). « La tension vaut 12 volts » s'écrit U = 12 V. À l'examen, la question est posée dans les deux sens : « l'unité de la tension est ... » et « le volt est l'unité de ... ». La réponse est chaque fois la même paire.
+Verwar de **grootheid** (spanning, letter U) niet met de **eenheid** (volt, letter V). "Spanning is 12 volt" schrijf je als U = 12 V. Op het examen wordt het in twee richtingen gevraagd: "de eenheid van spanning is ..." en "volt is de eenheid van ...". Het antwoord is telkens hetzelfde paar.
 :::

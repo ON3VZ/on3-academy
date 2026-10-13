@@ -1,41 +1,41 @@
 ---
 id: h04-b4
 type: brokje
-kort: L'émetteur
-titel: L'émetteur, bloc par bloc
+kort: De zender
+titel: De zender, onderdeel per onderdeel
 uba_ref: hfst. 4, p. 14 tot 16
 checkvragen: [C-h04-4a, C-h04-4b, C-h04-4c]
 examenvragen: [O082, O083, O084, O085, O086, O087, O088, O089, O090, O091, O092, O093, O094, O095, O096, O097, O098, O099, O100, O101, O102, O113, O114]
 ---
-<div class="figwrap">{{svg:zender}}<div class="figcap">En haut, le signal à haute fréquence voyage de gauche à droite. En bas, votre voix entre dans le schéma.</div></div>
+<div class="figwrap">{{svg:zender}}<div class="figcap">Bovenaan reist het hoogfrequente signaal van links naar rechts. Onderaan komt je stem binnen.</div></div>
 
 <div class="tbl"><table>
-<tr><th>Bloc</th><th>Rôle</th><th>Relié à</th></tr>
-<tr><td>générateur de fréquence</td><td>Produit la porteuse et <b>détermine la fréquence d'émission</b>. On l'appelle aussi oscillateur.</td><td>uniquement le modulateur</td></tr>
-<tr><td>microphone</td><td>Transforme votre voix en un petit signal électrique.</td><td>uniquement l'amplificateur de microphone</td></tr>
-<tr><td>amplificateur de microphone</td><td>Renforce le faible signal du microphone. C'est ici que vous réglez la force de votre modulation.</td><td>microphone et modulateur</td></tr>
-<tr><td>modulateur</td><td>Réunit la porteuse et l'audio : c'est ici que se fait <b>la modulation</b>.</td><td>générateur de fréquence, amplificateur de microphone et amplificateur de puissance RF</td></tr>
-<tr><td>amplificateur de puissance RF</td><td>Amplifie le signal modulé jusqu'à la <b>puissance souhaitée</b>. On l'appelle aussi étage final ou amplificateur final HF.</td><td>modulateur et ligne de transmission</td></tr>
-<tr><td>ligne de transmission</td><td>Amène le signal de l'émetteur à l'antenne. On l'appelle aussi ligne d'alimentation ou câble coaxial.</td><td>amplificateur de puissance RF et antenne</td></tr>
-<tr><td>antenne</td><td>Transforme le signal électrique en <b>ondes radio</b>.</td><td>uniquement la ligne de transmission</td></tr>
+<tr><th>Onderdeel</th><th>Taak</th><th>Verbonden met</th></tr>
+<tr><td>frequentie&shy;generator</td><td>Maakt de draaggolf en <b>bepaalt de zendfrequentie</b>. Ook oscillator genoemd.</td><td>alleen de modulator</td></tr>
+<tr><td>microfoon</td><td>Zet je stem om in een klein elektrisch signaal.</td><td>alleen de microfoonversterker</td></tr>
+<tr><td>microfoon&shy;versterker</td><td>Maakt het zwakke microfoonsignaal sterker. Hier stel je in hoe hard je moduleert.</td><td>microfoon en modulator</td></tr>
+<tr><td>modulator</td><td>Brengt draaggolf en audio samen: hier gebeurt <b>de modulatie</b>.</td><td>frequentiegenerator, microfoonversterker en RF-vermogenversterker</td></tr>
+<tr><td>RF-vermogen&shy;versterker</td><td>Versterkt het gemoduleerde signaal tot het <b>gewenste vermogen</b>. Ook eindtrap of HF-eindversterker genoemd.</td><td>modulator en transmissielijn</td></tr>
+<tr><td>transmissielijn</td><td>Brengt het signaal van zender naar antenne. Ook voedingslijn of coax genoemd.</td><td>RF-vermogenversterker en antenne</td></tr>
+<tr><td>antenne</td><td>Zet het elektrische signaal om in <b>radiogolven</b>.</td><td>alleen de transmissielijn</td></tr>
 </table></div>
 
-<div class="card ana"><b class="k">Comparaison</b>
-Une entreprise postale. Le <b>générateur de fréquence</b> fournit des enveloppes vides avec une adresse fixe : la fréquence. Vous écrivez une lettre (<b>microphone</b>), qui est recopiée au propre (<b>amplificateur de microphone</b>). Dans le <b>modulateur</b>, la lettre entre dans l'enveloppe. L'<b>amplificateur de puissance RF</b> est le camion au moteur puissant, la <b>ligne de transmission</b> est la route et l'<b>antenne</b> est l'aéroport où tout s'envole.
+<div class="card ana"><b class="k">Vergelijk met</b>
+Een postbedrijf. De <b>frequentiegenerator</b> levert lege enveloppen met een vast adres: de frequentie. Jij schrijft een brief (<b>microfoon</b>), die wordt in het net overgeschreven (<b>microfoonversterker</b>). In de <b>modulator</b> gaat de brief in de enveloppe. De <b>RF-vermogenversterker</b> is de vrachtwagen met een sterke motor, de <b>transmissielijn</b> is de weg en de <b>antenne</b> is het vliegveld waar alles de lucht in gaat.
 </div>
 
-<h3>Que détermine le générateur de fréquence, et que ne détermine-t-il pas ?</h3>
+<h3>Wat bepaalt de frequentiegenerator wel en niet?</h3>
 <div class="tbl"><table>
-<tr><th>Détermine</th><th>Ne détermine pas</th></tr>
-<tr><td>la fréquence sur laquelle vous émettez</td><td>le type de modulation (AM, FM, SSB), la puissance d'émission, l'accord entre l'émetteur et l'antenne, le ROS, la qualité de la modulation</td></tr>
+<tr><th>Bepaalt</th><th>Bepaalt niet</th></tr>
+<tr><td>de frequentie waarop je zendt</td><td>het type modulatie (AM, FM, SSB), het zendvermogen, de afstemming tussen zender en antenne, de SWR, de kwaliteit van de modulatie</td></tr>
 </table></div>
 
-<div class="card trap"><b class="k">Piège</b>
-Si vous émettez en dehors des bandes amateurs, c'est dû à un <b>générateur de fréquence mal réglé</b>, pas à l'antenne, à la ligne de transmission ou au microphone. Conséquence : vous pouvez <b>perturber d'autres utilisateurs</b>. En dehors de la bande, il n'existe pas d'autres règles ni de règles plus souples.
+<div class="card trap"><b class="k">Valkuil</b>
+Zend je buiten de amateurbanden, dan ligt dat aan een <b>verkeerd ingestelde frequentiegenerator</b>, niet aan de antenne, de transmissielijn of de microfoon. Gevolg: je kunt <b>andere gebruikers storen</b>. Buiten de band gelden geen andere of ruimere regels.
 </div>
 
-<div class="card trap"><b class="k">Attention à votre étage final</b>
-Si l'antenne n'est <b>pas bien adaptée</b> à l'émetteur, une partie de la puissance revient vers l'émetteur. L'<b>étage final</b> peut alors être <b>endommagé</b>. La fréquence et la modulation ne changent pas pour autant. Vous en apprendrez davantage dans le chapitre sur les antennes et le ROS.
+<div class="card trap"><b class="k">Let op je eindtrap</b>
+Is de antenne <b>niet goed aangepast</b> aan de zender, dan kaatst een deel van het vermogen terug naar de zender. Daardoor kan de <b>eindtrap beschadigd</b> raken. De frequentie en de modulatie veranderen daar niet door. Meer hierover in het hoofdstuk over antennes en SWR.
 </div>
 
-<div class="card"><b>Pour les données</b>, l'ordinateur et le modem remplacent le microphone. Le reste du schéma ne change pas.</div>
+<div class="card"><b>Bij data</b> vervangen de computer en het modem de microfoon. De rest van het schema blijft hetzelfde.</div>

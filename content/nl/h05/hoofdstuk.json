@@ -1,0 +1,50 @@
+{
+ "id": "h05",
+ "leerdoelen": [
+  "uitleggen dat een antenne in <b>twee richtingen</b> werkt: elektrisch signaal naar radiogolf en omgekeerd.",
+  "uitleggen waarom HF-antennes veel <b>groter</b> zijn dan VHF-antennes, terwijl ze op dezelfde manier werken.",
+  "de lengte van een <b>dipool</b> en een <b>kwartgolf</b> uitrekenen uit de frequentie.",
+  "een <b>dipool, kwartgolf, groundplane, 5/8 λ, yagi</b> en <b>langedraad</b> herkennen op een tekening of foto.",
+  "zeggen welke antennes <b>rondstralend</b> zijn en waarom een yagi <b>winst</b> heeft.",
+  "de <b>polarisatie</b> afleiden uit de stand van de antenne.",
+  "de <b>ERP</b> uitrekenen.",
+  "de opbouw van <b>coax</b> uitleggen en <b>PL259</b> en <b>BNC</b> herkennen.",
+  "uitleggen wat de <b>SWR</b> en een <b>ATU</b> doen, en waar je de fout zoekt bij een hoge SWR.",
+  "het verschil tussen <b>symmetrisch</b> en <b>asymmetrisch</b> uitleggen en zeggen waarvoor een <b>balun</b> dient.",
+  "uitleggen wat een <b>dummy load</b> is."
+ ],
+ "doelstellingen": ["5a.1", "5a.2", "5b.1", "5b.2", "5c.1", "5c.2", "5c.3", "5c.4", "5c.5", "5d.1", "5e.1", "5e.2", "5f.1", "8f.2"],
+ "paginas": ["b01-antenne", "b02-dipool", "b03-verticaal", "b04-yagi", "b05-polarisatie", "b06-erp", "b07-coax", "b08-swr", "b09-atu", "b10-balun", "b11-dummyload", "m01-lengte", "formules"],
+ "flashcards": [
+  {"voor": "Wat doet een antenne?", "achter": "Zet een elektrisch signaal om in een radiogolf (zenden) en een radiogolf in een elektrisch signaal (ontvangen)."},
+  {"voor": "Resonantiefrequentie", "achter": "De frequentie waarop de antenne het best werkt. Langere antenne = lagere frequentie."},
+  {"voor": "Waarom is een HF-antenne groter dan een VHF-antenne?", "achter": "De afmetingen hangen af van de golflengte. Het werkingsprincipe is hetzelfde."},
+  {"voor": "Lengte van een dipool", "achter": "Ongeveer een halve golflengte: λ/2 = 150 ÷ f (f in MHz, lengte in m)."},
+  {"voor": "Kwartgolf (λ/4)", "achter": "Halve dipool op een grondvlak. Het grondvlak is de spiegel die de andere helft maakt."},
+  {"voor": "Groundplane", "achter": "Kwartgolf op een mast met radialen (elk λ/4) schuin naar beneden, ongeveer 45°."},
+  {"voor": "5/8 λ-antenne", "achter": "Langere verticale staaf met een spoel onderaan. Beter op VHF/UHF."},
+  {"voor": "Yagi", "achter": "Reflector (langer), straler (gevoed), directoren (korter). Straalt naar de directoren. Winst door bundeling."},
+  {"voor": "Rondstralend (omnidirectioneel)", "achter": "Verticale dipool, ground plane, 5/8 λ. Niet: horizontale dipool, yagi, langedraad."},
+  {"voor": "Polarisatie", "achter": "Zelfde richting als de antenne. Horizontale antenne = horizontale polarisatie."},
+  {"voor": "ERP (EUV)", "achter": "Vermogen aan de antenne × antennewinst. 10 W × 4 = 40 W."},
+  {"voor": "Waarom coax?", "achter": "Goede afscherming: straalt niet uit en vangt geen storing op."},
+  {"voor": "Lagen van coax", "achter": "Binnengeleider, diëlektricum, afscherming (vlecht), mantel."},
+  {"voor": "PL259 en BNC", "achter": "PL259: schroefring, HF. BNC: bajonet, duwen en kwartslag draaien."},
+  {"voor": "SWR-meter", "achter": "Toont of het antennesysteem aangepast is aan de zender (zo weinig mogelijk teruggekaatst)."},
+  {"voor": "Hoge SWR", "achter": "Fout in de antenne of de transmissielijn, niet in de zender. Kan de eindtrap beschadigen."},
+  {"voor": "ATU", "achter": "Zorgt dat de zender zijn vermogen kwijt kan aan een antenne die niet op maat is. Verandert niets aan de antenne."},
+  {"voor": "Symmetrisch / asymmetrisch", "achter": "Symmetrisch: dipool, yagi. Asymmetrisch: ground plane, 5/8 λ, langedraad, coax."},
+  {"voor": "Balun", "achter": "Overgang van symmetrisch (dipool) naar asymmetrisch (coax). Voorkomt dat de coax meestraalt."},
+  {"voor": "Dummy load", "achter": "Afgeschermde weerstand: de zender werkt, maar er wordt niets uitgestraald."}
+ ],
+ "samenvatting": [
+  "Een antenne zet elektrische signalen om in radiogolven en omgekeerd. Grootte hangt af van de golflengte, het principe is altijd hetzelfde.",
+  "Dipool = ongeveer een halve golflengte (150 ÷ f). Kwartgolf = de helft daarvan, op een grondvlak.",
+  "Rondstralend: verticale dipool, ground plane, 5/8 λ. Richtantenne met winst: yagi.",
+  "Polarisatie = richting van de antenne. ERP = vermogen × winst.",
+  "Coax wegens de afscherming, met echte RF-connectoren (PL259, BNC, N) en de afscherming goed vast.",
+  "SWR-meter: past de antenne? Hoge SWR = fout in antenne of kabel. ATU: zender ziet 1 : 1, antenne verandert niet.",
+  "Dipool aan coax: met een balun. Zender testen zonder uit te stralen: dummy load."
+ ],
+ "opmerking": null
+}

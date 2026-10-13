@@ -1,46 +1,46 @@
 ---
 id: h00-b1
 type: brokje
-kort: L'examen
-titel: Comment se déroule l'examen ON3 ?
+kort: Het examen
+titel: Hoe verloopt het ON3-examen?
 uba_ref: p. 1
 checkvragen: [C-h00-1a, C-h00-1b]
 examenvragen: []
 ---
 :::kern
-L'examen pour la classe C (ON3) comporte **deux parties** : une **épreuve pratique** et un **examen théorique**. Pour la théorie, vous recevez **30 questions à choix multiple** avec chaque fois **4 réponses**. Vous disposez d'**une heure** et vous devez obtenir **au moins 80 %**, donc **24 sur 30**.
+Het examen voor klasse C (ON3) heeft **twee delen**: een **praktische proef** en een **theorie-examen**. Voor de theorie krijg je **30 meerkeuzevragen** met telkens **4 antwoorden**. Je hebt **één uur** en je moet **minstens 80 %** halen, dus **24 op 30**.
 :::
 
-| Partie | Quoi ? | Qui ? |
+| Deel | Wat? | Wie? |
 |---|---|---|
-| **1. Épreuve pratique** | montrer que vous savez utiliser une station et établir une liaison simple | une association de radioamateurs reconnue par l'IBPT |
-| **2. Examen théorique** | questions à choix multiple | l'IBPT |
+| **1. Praktische proef** | tonen dat je een station kunt bedienen en een eenvoudige verbinding kunt maken | een vereniging van radioamateurs, erkend door het BIPT |
+| **2. Theorie-examen** | meerkeuzevragen | het BIPT |
 
-Si vous réussissez l'épreuve pratique, vous recevez une **attestation** qui vous permet de vous inscrire à l'examen théorique. Cette attestation est valable **un an**.
+Slaag je voor de praktische proef, dan krijg je een **attest** waarmee je je kunt inschrijven voor het theorie-examen. Dat attest is **één jaar** geldig.
 
-### Les 30 questions théoriques
-| Partie | Nombre de questions |
+### De 30 theorievragen
+| Onderdeel | Aantal vragen |
 |---|---|
-| **technique** (électricité, émetteurs, antennes, propagation, CEM) | 12 |
-| **législation** | 10 |
-| **procédures** (trafic et sécurité) | 8 |
+| **techniek** (elektriciteit, zenders, antennes, propagatie, EMC) | 12 |
+| **wetgeving** | 10 |
+| **procedures** (operating en veiligheid) | 8 |
 
-Une bonne réponse rapporte **1 point**. Une réponse fausse ou une absence de réponse donne **0 point**. Deviner ne coûte donc rien : répondez toujours à toutes les questions.
+Een goed antwoord geeft **1 punt**. Een fout of geen antwoord geeft **0 punten**. Raden kost dus niets: beantwoord altijd alle vragen.
 
-### Après l'examen
-Après l'examen, vous recevez d'abord un **certificat d'aspirant radiotéléphoniste privé**. Ensuite, vous demandez votre certificat d'opérateur et votre indicatif d'appel. Le parcours complet est décrit au chapitre 2.
+### Na het examen
+Na het examen krijg je eerst een **getuigschrift van aspirant privaat radiotelefonist**. Daarna vraag je je bedieningscertificaat en roepnaam aan. Het volledige traject staat in hoofdstuk 2.
 
 :::weetje
-Ces chiffres proviennent de la décision du Conseil de l'IBPT du 19 janvier 2021 concernant les épreuves et examens pour radioamateurs (art. 1.2.3.1 et 1.2.3.2). L'attestation de l'épreuve pratique est **valable un an** (art. 1.1.3). Les règles peuvent changer : avant de vous inscrire, vérifiez toujours sur le site de l'IBPT.
+Deze cijfers komen uit het besluit van de Raad van het BIPT van 19 januari 2021 over de proeven en examens voor radioamateurs (art. 1.2.3.1 en 1.2.3.2). Het attest van de praktische proef is **één jaar geldig** (art. 1.1.3). Regels kunnen veranderen: kijk voor je inschrijft altijd na op de website van het BIPT.
 :::
 
 :::valkuil
-- Vous devez obtenir **80 %**, pas 50 %.
-- Une réponse fausse ne coûte **aucun** point supplémentaire. Ne laissez donc jamais une question sans réponse.
+- Je moet **80 %** halen, niet 50 %.
+- Een fout antwoord kost **geen** extra punt. Laat dus nooit een vraag blanco.
 :::
 
-<details class="zelf" markdown="1"><summary>Essayez vous-même : combien de bonnes réponses vous faut-il ?</summary>
+<details class="zelf" markdown="1"><summary>Zelf proberen: hoeveel vragen moet je juist hebben?</summary>
 
-80 % de 30 = **24 questions** justes.
+80 % van 30 = **24 vragen** juist.
 
 </details>

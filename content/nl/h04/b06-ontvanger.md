@@ -1,47 +1,47 @@
 ---
 id: h04-b6
 type: brokje
-kort: Le récepteur
-titel: Le récepteur, bloc par bloc
+kort: De ontvanger
+titel: De ontvanger, onderdeel per onderdeel
 uba_ref: hfst. 4.3, p. 16
 checkvragen: [C-h04-6a, C-h04-6b, C-h04-6c]
 examenvragen: [O121, O122, O123, O124, O125, O126, O127, O128, O129, O130, O131, O132, O133, O135, O136]
 ---
 :::kern
-Un récepteur fait l'inverse d'un émetteur. L'antenne capte les ondes radio, le récepteur choisit le signal voulu, en extrait à nouveau la parole ou les données et les rend assez fortes pour un haut-parleur ou un casque.
+Een ontvanger doet het omgekeerde van een zender. De antenne vangt radiogolven op, de ontvanger kiest het gewenste signaal, haalt er de spraak of data weer uit en maakt die luid genoeg voor een luidspreker of hoofdtelefoon.
 :::
 
-{{svg:ontvanger|Le chemin du signal : de la gauche (antenne) vers la droite (haut-parleur).}}
+{{svg:ontvanger|De weg van het signaal: van links (antenne) naar rechts (luidspreker).}}
 
-| Bloc | Que fait-il ? | Relié à |
+| Onderdeel | Wat doet het? | Verbonden met |
 |---|---|---|
-| antenne | capte les ondes radio et en fait un petit signal électrique | uniquement la ligne de transmission |
-| ligne de transmission | amène le signal de l'antenne au récepteur (câble coaxial) | antenne et accord + amplification RF |
-| accord + amplification RF | choisit **le seul signal** que vous voulez entendre parmi tous les signaux (accorder) et l'amplifie | ligne de transmission et démodulateur |
-| démodulateur (détecteur) | extrait la parole ou les données **de** l'onde radio | accord + amplification RF et amplificateur audio |
-| amplificateur audio | rend la parole assez forte | démodulateur et haut-parleur |
-| haut-parleur ou casque | en refait du son. Pour les données, le signal va vers un ordinateur | uniquement l'amplificateur audio |
+| antenne | vangt de radiogolven op en maakt er een klein elektrisch signaal van | alleen de transmissielijn |
+| transmissielijn | brengt het signaal van de antenne naar de ontvanger (coax) | antenne en afstemming + RF-versterking |
+| afstemming + RF-versterking | kiest **het ene signaal** dat je wilt horen uit alle signalen (afstemmen) en versterkt het | transmissielijn en demodulator |
+| demodulator (detector) | haalt de spraak of data **uit** de radiogolf | afstemming + RF-versterking en audioversterker |
+| audioversterker | maakt de spraak luid genoeg | demodulator en luidspreker |
+| luidspreker of hoofdtelefoon | maakt er weer geluid van. Bij data gaat het signaal naar een computer | alleen de audioversterker |
 
-### Les trois étages
-| Étage | Place | Que se passe-t-il ? |
+### De drie trappen
+| Trap | Plaats | Wat gebeurt er? |
 |---|---|---|
-| 1er étage | **étage d'entrée** | accord (et amplification RF) |
-| 2e étage | entre l'entrée et la sortie | démodulation |
-| 3e étage | **étage de sortie** | amplification audio |
+| 1e trap | **ingangstrap** | afstemming (en RF-versterking) |
+| 2e trap | tussen ingang en uitgang | demodulatie |
+| 3e trap | **uitgangstrap** | audioversterking |
 
-:::vergelijk Comparaison
-Vous êtes à une fête bruyante et vous voulez comprendre un ami. D'abord, vous concentrez votre attention sur lui et vous ignorez le reste : c'est **l'accord**. Ensuite, vous extrayez ses mots du brouhaha : c'est **la démodulation**. Si votre voisin n'entend pas bien, vous répétez plus fort : c'est **l'amplification audio**.
+:::vergelijk Vergelijk met
+Je staat op een druk feest en wilt één vriend verstaan. Eerst richt je je aandacht op hem en negeer je de rest: dat is **afstemmen**. Dan haal je de woorden uit het geroezemoes: dat is **demoduleren**. Hoort je buur het niet goed, dan herhaal je het luider: dat is **audioversterking**.
 :::
 
-{{svg:zender-ontvanger|Le démodulateur fait l'inverse du modulateur.}}
+{{svg:zender-ontvanger|De demodulator doet het omgekeerde van de modulator.}}
 
 :::valkuil
-L'accord se fait **à l'avant** (étage d'entrée), pas dans le démodulateur ni dans l'amplificateur audio. Et l'antenne est reliée **uniquement** à la ligne de transmission, jamais directement à un autre bloc.
+Afstemmen gebeurt **vooraan** (ingangstrap), niet in de demodulator en niet in de audioversterker. En de antenne hangt **enkel** aan de transmissielijn, nooit rechtstreeks aan een ander blok.
 :::
 
-### Symboles du schéma
-| Bloc | Symbole |
+### Symbolen in het schema
+| Onderdeel | Symbool |
 |---|---|
 | antenne | {{svg:sym-antenne}} |
-| microphone | {{svg:sym-microfoon}} |
-| haut-parleur | {{svg:sym-luidspreker}} |
+| microfoon | {{svg:sym-microfoon}} |
+| luidspreker | {{svg:sym-luidspreker}} |

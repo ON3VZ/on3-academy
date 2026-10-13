@@ -1,41 +1,39 @@
 ---
 id: h00-b0
 type: brokje
-kort: À propos de cette plateforme
-titel: À propos de cette plateforme
+kort: Over dit platform
+titel: Over dit platform
 uba_ref: null
 checkvragen: []
 examenvragen: []
 ---
 :::kern
-Cette plateforme est un **résumé et un espace d'entraînement** pour l'examen ON3 (classe C). Elle a été réalisée de manière **entièrement bénévole**, avec un seul but : rendre **le radioamateurisme aussi accessible que possible** à toute personne qui veut se lancer.
+Dit platform is een **samenvatting en oefenomgeving** voor het ON3-examen (klasse C). Het is **volledig belangeloos** gemaakt, met één doel: het **radioamateurisme zo toegankelijk mogelijk** maken voor iedereen die wil beginnen.
 :::
 
-:::valkuil Ne remplace pas le manuel de l'UBA
-Cette plateforme **ne remplace pas le manuel de l'UBA**. Elle n'est qu'un **complément** : un résumé pour réviser la matière et un endroit pour s'entraîner. Étudiez toujours avec le **manuel de l'UBA** comme base, et suivez de préférence un cours dans une section de l'UBA ou une association reconnue.
+:::valkuil Geen vervanging van het UBA-handboek
+Dit platform **vervangt het handboek van de UBA niet**. Het is enkel een **aanvulling**: een samenvatting om de stof te herhalen en een plek om te oefenen. Studeer altijd met het **UBA-handboek** als basis, en volg bij voorkeur een cursus bij een UBA-sectie of erkende vereniging.
 :::
 
-### Ce qu'elle est
-- Un **résumé** de la matière, en petits morceaux et en mots simples, avec des dessins, des exemples et des comparaisons.
-- Un endroit pour **s'entraîner** : après chaque explication, des questions immédiates, avec l'explication de la raison pour laquelle une réponse est juste ou fausse.
-- Une aide pour **résumer et réviser** la matière : flashcards, tableaux récapitulatifs, cartes de chiffres et un examen blanc.
+### Wat is het wel?
+- Een **samenvatting** van de leerstof, in kleine stukken en in eigen woorden, met tekeningen, voorbeelden en vergelijkingen.
+- Een plek om te **oefenen**: na elke uitleg meteen vragen, met uitleg waarom een antwoord juist of fout is.
+- Een hulp om de stof **samen te vatten en te herhalen**: flashcards, overzichtstabellen, getallenkaarten en een proefexamen.
 
-### Ce qu'elle n'est pas
-- Ce n'est **pas un remplacement du manuel de l'UBA**, seulement un complément.
-- Ce n'est **pas une source officielle**, ni **la matière complète** : c'est un **résumé**. Les sources officielles et la **législation en vigueur** priment toujours. Vous trouverez les textes de loi complets sur Justel : [loi du 13 juin 2005](https://www.ejustice.just.fgov.be/cgi_loi/change_lg.pl?language=fr&la=F&cn=2005061332&table_name=wet) et [AR du 18 décembre 2009](https://www.ejustice.just.fgov.be/cgi_loi/change_lg.pl?language=fr&la=F&cn=2009121804&table_name=wet).
-- Elle n'est **pas liée** à l'IBPT ni à aucune autre instance officielle.
-- Elle ne donne **aucune garantie de réussite**.
+### Wat is het niet?
+- Het is **geen vervanging van het UBA-handboek**, enkel een aanvulling erop.
+- Het is **geen officiële bron** en ook **geen volledige leerstof**: het is een **samenvatting**. De officiële bronnen en de **actuele wetgeving** gaan altijd voor. De volledige wetteksten vind je op Justel: [wet van 13 juni 2005](https://www.ejustice.just.fgov.be/cgi_loi/change_lg.pl?language=nl&la=N&cn=2005061332&table_name=wet) en [KB van 18 december 2009](https://www.ejustice.just.fgov.be/cgi_loi/change_lg.pl?language=nl&la=N&cn=2009121804&table_name=wet).
+- Het is **niet verbonden** met het BIPT of een andere officiële instantie.
+- Het geeft **geen garantie op slagen**.
 
-### Risque d'erreurs
-Tout a été rassemblé et vérifié avec soin, mais **des erreurs ou des informations dépassées sont possibles**. Un doute ? Consultez alors le manuel de l'UBA, le règlement d'examen de l'IBPT ou les textes de loi officiels. Vous voyez une erreur ? Signalez-la à votre formateur ou à votre section UBA, pour qu'elle puisse être corrigée.
+### Kans op fouten
+Alles is met zorg samengesteld en nagekeken, maar **fouten of verouderde informatie zijn mogelijk**. Twijfel je? Kijk dan in het handboek van de UBA, de examenregeling van het BIPT of de officiële wetteksten. Zie je een fout, meld ze dan aan je opleider of je UBA-sectie, zodat ze verbeterd kan worden.
 
-La version française est une traduction de la version néerlandaise. Les questions d'examen originales proviennent d'une banque de questions en néerlandais et ont été traduites : la formulation à l'examen réel en français peut donc être différente.
-
-### Entièrement bénévole
-- **Gratuit**, sans publicité et sans compte.
-- Votre progression reste **sur votre propre appareil**.
-- Personne n'y gagne **rien**.
+### Volledig belangeloos
+- **Gratis**, zonder reclame en zonder account.
+- Je voortgang blijft **op je eigen toestel**.
+- Er wordt **niets** aan verdiend.
 
 :::weetje
-La plateforme suit les chapitres du manuel de l'UBA. Les questions d'examen officielles y figurent sans modification, complétées par des questions d'entraînement supplémentaires dans le même style. Le meilleur résultat, vous l'obtenez en combinant la plateforme avec un **cours dans une association reconnue** : vous y préparez aussi l'épreuve pratique et vous y rencontrez d'autres radioamateurs.
+Het platform volgt de hoofdstukken van het UBA-handboek. De officiële examenvragen staan er ongewijzigd in, aangevuld met extra oefenvragen in dezelfde stijl. Het beste resultaat haal je door het platform te combineren met een **cursus bij een erkende vereniging**: daar oefen je ook de praktische proef en leer je andere radioamateurs kennen.
 :::
