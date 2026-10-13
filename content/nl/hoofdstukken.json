@@ -12,7 +12,7 @@
   "nummer": 1,
   "titel": "Radioamateurisme",
   "ondertitel": "Wat is radioamateurisme",
-  "band": "160 m",
+  "band": "",
   "beschikbaar": true
  },
  {
@@ -20,7 +20,7 @@
   "nummer": 2,
   "titel": "Het bedieningscertificaat",
   "ondertitel": "Klassen, roepnamen, regels, frequentietabel",
-  "band": "80 m",
+  "band": "",
   "beschikbaar": true
  },
  {
@@ -28,7 +28,7 @@
   "nummer": 3,
   "titel": "Basis elektriciteit",
   "ondertitel": "Spanning, stroom, weerstand, vermogen, frequentie, golflengte",
-  "band": "60 m",
+  "band": "",
   "beschikbaar": true
  },
  {
@@ -36,7 +36,7 @@
   "nummer": 4,
   "titel": "Zenders en ontvangers",
   "ondertitel": "Modulatie, zender en ontvanger",
-  "band": "40 m",
+  "band": "",
   "beschikbaar": true
  },
  {
@@ -44,7 +44,7 @@
   "nummer": 5,
   "titel": "Antennes en kabels",
   "ondertitel": "Antennesoorten, coax, SWR, ATU, polarisatie, ERP",
-  "band": "30 m",
+  "band": "",
   "beschikbaar": true
  },
  {
@@ -52,7 +52,7 @@
   "nummer": 6,
   "titel": "Propagatie",
   "ondertitel": "Hoe radiogolven reizen",
-  "band": "20 m",
+  "band": "",
   "beschikbaar": true
  },
  {
@@ -60,7 +60,7 @@
   "nummer": 7,
   "titel": "EMC",
   "ondertitel": "Storingen voorkomen en oplossen",
-  "band": "17 m",
+  "band": "",
   "beschikbaar": true
  },
  {
@@ -68,7 +68,7 @@
   "nummer": 8,
   "titel": "Procedures",
   "ondertitel": "Oproepen, repeaters, bandplan, praktische proef",
-  "band": "15 m",
+  "band": "",
   "beschikbaar": true
  },
  {
@@ -76,7 +76,7 @@
   "nummer": 9,
   "titel": "Veiligheid",
   "ondertitel": "Elektriciteit, antennes, ongevallen",
-  "band": "12 m",
+  "band": "",
   "beschikbaar": true
  },
  {
@@ -84,7 +84,7 @@
   "nummer": 10,
   "titel": "De UBA",
   "ondertitel": "Waarvoor staat de UBA. Zie het handboek. Een korte samenvatting staat in hoofdstuk 1, pagina \"Over de UBA\".",
-  "band": "10 m",
+  "band": "",
   "beschikbaar": false,
   "info": true
  },
@@ -93,33 +93,15 @@
   "nummer": 11,
   "titel": "Q-codes en afkortingen",
   "ondertitel": "Weetjes, geen examenstof",
-  "band": "6 m",
+  "band": "",
   "beschikbaar": true
- },
- {
-  "id": "h12",
-  "nummer": 12,
-  "titel": "Kabels en connectoren",
-  "ondertitel": "Praktische how-to. Zie het handboek.",
-  "band": "4 m",
-  "beschikbaar": false,
-  "info": true
- },
- {
-  "id": "h14",
-  "nummer": 14,
-  "titel": "Programma van het examen",
-  "ondertitel": "Zie het handboek. De kern staat in Start hier.",
-  "band": "2 m",
-  "beschikbaar": false,
-  "info": true
  },
  {
   "id": "h15",
   "nummer": 15,
   "titel": "Wetgeving",
   "ondertitel": "Wet en KB in schema's",
-  "band": "70 cm",
+  "band": "",
   "beschikbaar": true
  }
 ]

@@ -12,7 +12,7 @@
   "nummer": 1,
   "titel": "Le radioamateurisme",
   "ondertitel": "Qu'est-ce que le radioamateurisme",
-  "band": "160 m",
+  "band": "",
   "beschikbaar": true
  },
  {
@@ -20,7 +20,7 @@
   "nummer": 2,
   "titel": "Le certificat d'opérateur",
   "ondertitel": "Classes, indicatifs d'appel, règles, tableau des fréquences",
-  "band": "80 m",
+  "band": "",
   "beschikbaar": true
  },
  {
@@ -28,7 +28,7 @@
   "nummer": 3,
   "titel": "Bases de l'électricité",
   "ondertitel": "Tension, courant, résistance, puissance, fréquence, longueur d'onde",
-  "band": "60 m",
+  "band": "",
   "beschikbaar": true
  },
  {
@@ -36,7 +36,7 @@
   "nummer": 4,
   "titel": "Émetteurs et récepteurs",
   "ondertitel": "Modulation, émetteur et récepteur",
-  "band": "40 m",
+  "band": "",
   "beschikbaar": true
  },
  {
@@ -44,7 +44,7 @@
   "nummer": 5,
   "titel": "Antennes et câbles",
   "ondertitel": "Types d'antennes, coaxial, ROS, boîte d'accord, polarisation, PAR",
-  "band": "30 m",
+  "band": "",
   "beschikbaar": true
  },
  {
@@ -52,7 +52,7 @@
   "nummer": 6,
   "titel": "Propagation",
   "ondertitel": "Comment voyagent les ondes radio",
-  "band": "20 m",
+  "band": "",
   "beschikbaar": true
  },
  {
@@ -60,7 +60,7 @@
   "nummer": 7,
   "titel": "CEM",
   "ondertitel": "Prévenir et résoudre les perturbations",
-  "band": "17 m",
+  "band": "",
   "beschikbaar": true
  },
  {
@@ -68,7 +68,7 @@
   "nummer": 8,
   "titel": "Procédures de trafic",
   "ondertitel": "Appels, relais, plan de bandes, épreuve pratique",
-  "band": "15 m",
+  "band": "",
   "beschikbaar": true
  },
  {
@@ -76,7 +76,7 @@
   "nummer": 9,
   "titel": "Sécurité",
   "ondertitel": "Électricité, antennes, accidents",
-  "band": "12 m",
+  "band": "",
   "beschikbaar": true
  },
  {
@@ -84,7 +84,7 @@
   "nummer": 10,
   "titel": "L'UBA",
   "ondertitel": "Ce que représente l'UBA. Voir le manuel. Un court résumé se trouve au chapitre 1, page « À propos de l'UBA ».",
-  "band": "10 m",
+  "band": "",
   "beschikbaar": false,
   "info": true
  },
@@ -93,33 +93,15 @@
   "nummer": 11,
   "titel": "Codes Q et abréviations",
   "ondertitel": "Bon à savoir, hors matière d'examen",
-  "band": "6 m",
+  "band": "",
   "beschikbaar": true
- },
- {
-  "id": "h12",
-  "nummer": 12,
-  "titel": "Câbles et connecteurs",
-  "ondertitel": "Guide pratique. Voir le manuel.",
-  "band": "4 m",
-  "beschikbaar": false,
-  "info": true
- },
- {
-  "id": "h14",
-  "nummer": 14,
-  "titel": "Programme de l'examen",
-  "ondertitel": "Voir le manuel. L'essentiel se trouve dans Commencer ici.",
-  "band": "2 m",
-  "beschikbaar": false,
-  "info": true
  },
  {
   "id": "h15",
   "nummer": 15,
   "titel": "Réglementation",
   "ondertitel": "La loi et l'arrêté royal en schémas",
-  "band": "70 cm",
+  "band": "",
   "beschikbaar": true
  }
 ]
