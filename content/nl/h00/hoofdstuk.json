@@ -1,0 +1,53 @@
+{
+ "id": "h00",
+ "leerdoelen": [
+  "savoir <b>ce qu'est cette plateforme</b> et ce qu'elle n'est pas : un résumé bénévole pour s'entraîner, avec un risque d'erreurs.",
+  "expliquer comment se déroule l'<b>examen ON3</b> : épreuve pratique et examen théorique.",
+  "dire combien de questions, combien de temps et combien de points il faut pour réussir.",
+  "utiliser cette <b>plateforme</b> : pages, questions d'entraînement, flashcards, examen blanc et journal des erreurs."
+ ],
+ "doelstellingen": [],
+ "paginas": [
+  "b00-over",
+  "b01-examen",
+  "b02-platform",
+  "b03-installeren"
+ ],
+ "flashcards": [
+  {
+   "voor": "Parties de l'examen",
+   "achter": "Épreuve pratique (association reconnue) et examen théorique (IBPT)."
+  },
+  {
+   "voor": "Examen théorique",
+   "achter": "30 questions à choix multiple avec 4 réponses, 60 minutes."
+  },
+  {
+   "voor": "Répartition des questions",
+   "achter": "12 technique, 10 législation, 8 procédures."
+  },
+  {
+   "voor": "Attestation de l'épreuve pratique",
+   "achter": "Valable un an. Nécessaire pour s'inscrire à l'examen théorique."
+  },
+  {
+   "voor": "Réussir",
+   "achter": "Au moins 80 %, donc 24 sur 30."
+  },
+  {
+   "voor": "Réponse fausse",
+   "achter": "0 point, pas de point de pénalité. Ne laissez jamais une question sans réponse."
+  },
+  {
+   "voor": "Après l'examen",
+   "achter": "Certificat d'aspirant radiotéléphoniste privé, ensuite demande du certificat d'opérateur."
+  }
+ ],
+ "samenvatting": [
+  "Deux parties : épreuve pratique et examen théorique.",
+  "Théorie : 30 questions (12 technique, 10 législation, 8 procédures), 60 minutes, au moins 24 justes.",
+  "Faux = 0 point : répondez toujours à tout.",
+  "Cette plateforme enregistre votre progression uniquement sur votre propre appareil."
+ ],
+ "opmerking": null
+}

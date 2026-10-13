@@ -1,0 +1,109 @@
+{
+ "id": "h03",
+ "leerdoelen": [
+  "expliquer les notions de <b>tension, courant, résistance et puissance</b>, avec leur lettre et leur unité.",
+  "convertir <b>milli, kilo et méga</b>.",
+  "calculer avec la <b>loi d'Ohm</b> (U = I × R) et avec la <b>puissance</b> (P = U × I).",
+  "dire quand le <b>plus et le moins</b> sont importants.",
+  "reconnaître les <b>9 symboles</b>.",
+  "expliquer la différence entre <b>DC et AC</b> et reconnaître une <b>sinusoïde</b>.",
+  "connaître les fréquences du <b>réseau électrique, de l'ouïe, de la parole, de la HF, de la VHF et de l'UHF</b>.",
+  "<b>convertir une fréquence en longueur d'onde</b> et inversement."
+ ],
+ "doelstellingen": [
+  "3a.1",
+  "3b.1",
+  "3b.2",
+  "3b.3",
+  "3b.4",
+  "3b.5",
+  "3b.6",
+  "3b.7",
+  "3c.1",
+  "3c.2",
+  "3c.3"
+ ],
+ "paginas": [
+  "b01-stroomkring",
+  "b02-voorvoegsels",
+  "b03-ohm",
+  "b04-vermogen",
+  "b05-polariteit",
+  "b06-symbolen",
+  "b07-ac-dc",
+  "b08-frequentiegebieden",
+  "b09-golflengte",
+  "m01-rekenen",
+  "formules"
+ ],
+ "flashcards": [
+  {
+   "voor": "Tension",
+   "achter": "Lettre U, unité volt (V). La poussée de la pile."
+  },
+  {
+   "voor": "Courant",
+   "achter": "Lettre I, unité ampère (A). La quantité d'électricité par seconde."
+  },
+  {
+   "voor": "Résistance",
+   "achter": "Lettre R, unité ohm (Ω). Freine le courant : R plus grand = courant plus petit."
+  },
+  {
+   "voor": "Puissance",
+   "achter": "Lettre P, unité watt (W). P = U × I."
+  },
+  {
+   "voor": "Loi d'Ohm",
+   "achter": "U = I × R · I = U ÷ R · R = U ÷ I"
+  },
+  {
+   "voor": "milli / kilo / méga",
+   "achter": "m = ÷ 1000 · k = × 1000 · M = × 1 000 000"
+  },
+  {
+   "voor": "Polarité",
+   "achter": "Lampe : sans importance. Appareil électronique : important, un branchement inversé peut le détruire."
+  },
+  {
+   "voor": "DC et AC",
+   "achter": "DC = tension continue (pile). AC = tension alternative (prise de courant)."
+  },
+  {
+   "voor": "Réseau électrique",
+   "achter": "230 V, 50 Hz"
+  },
+  {
+   "voor": "Sinusoïde",
+   "achter": "Onde arrondie sans angles, produite par un oscillateur."
+  },
+  {
+   "voor": "Fréquence",
+   "achter": "Nombre d'ondes par seconde, en hertz (Hz). f = 1 ÷ T."
+  },
+  {
+   "voor": "AF et parole",
+   "achter": "Audible de 100 Hz à 15 kHz. Parole de 300 Hz à 3 kHz."
+  },
+  {
+   "voor": "HF / VHF / UHF",
+   "achter": "3 à 30 / 30 à 300 / 300 à 3000 MHz"
+  },
+  {
+   "voor": "Longueur d'onde",
+   "achter": "λ (m) = 300 ÷ f (MHz). f plus haute = onde plus courte."
+  },
+  {
+   "voor": "Fusible ou résistance",
+   "achter": "Fusible : le fil traverse le petit rectangle. Résistance : non."
+  }
+ ],
+ "samenvatting": [
+  "Le courant ne circule que dans un circuit fermé. La tension (V) pousse, la résistance (Ω) freine, le courant (A) est ce qui circule.",
+  "U = I × R et P = U × I. Convertissez toujours d'abord en V, A, Ω et W.",
+  "La polarité est importante pour les appareils électroniques, pas pour une ampoule à incandescence.",
+  "Pile = DC. Prise de courant = AC, 230 V, 50 Hz. Une sinusoïde est produite par un oscillateur.",
+  "Ouïe de 100 Hz à 15 kHz, parole de 300 Hz à 3 kHz, HF de 3 à 30 MHz, VHF jusqu'à 300 MHz, UHF jusqu'à 3000 MHz.",
+  "Longueur d'onde en mètres = 300 divisé par la fréquence en MHz."
+ ]
+}

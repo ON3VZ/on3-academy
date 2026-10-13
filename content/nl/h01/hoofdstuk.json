@@ -1,0 +1,44 @@
+{
+ "id": "h01",
+ "leerdoelen": [
+  "expliquer ce qu'est le radioamateurisme.",
+  "dire quel est le <b>but</b> de la licence de radioamateur.",
+  "dire quels sujets sont <b>tabous</b> et que le <b>commerce</b> est interdit."
+ ],
+ "doelstellingen": [
+  "1a.1"
+ ],
+ "paginas": [
+  "b01-radioamateur",
+  "b02-uba",
+  "formules"
+ ],
+ "flashcards": [
+  {
+   "voor": "But de la licence de radioamateur",
+   "achter": "Se perfectionner en radiocommunication et en technique radio. Pas commercial."
+  },
+  {
+   "voor": "Sujets tabous",
+   "achter": "La politique et les convictions religieuses."
+  },
+  {
+   "voor": "Gagner de l'argent avec le radioamateurisme",
+   "achter": "Interdit : aucun aspect commercial n'est permis."
+  },
+  {
+   "voor": "UBA",
+   "achter": "Union Royale Belge des Amateurs-Émetteurs : association nationale avec des sections locales et des cours."
+  },
+  {
+   "voor": "IARU",
+   "achter": "Union internationale des radioamateurs. L'UBA en est le membre belge. Représente les radioamateurs auprès de l'UIT (ITU)."
+  }
+ ],
+ "samenvatting": [
+  "Radioamateurisme = hobby : liaisons, construction, expérimentation, propagation.",
+  "But de la licence : se perfectionner en radiocommunication et en technique radio.",
+  "Pas de commerce, pas de politique, pas de religion."
+ ],
+ "opmerking": null
+}
