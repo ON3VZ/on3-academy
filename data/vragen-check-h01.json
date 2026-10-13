@@ -1,0 +1,71 @@
+[
+ {
+  "id": "C-h01-1a",
+  "bron": "check",
+  "hoofdstuk": 1,
+  "onderwerp": "doel",
+  "vraag": "Mag je als radioamateur een betalende dienst aanbieden via de radio?",
+  "opties": [
+   "ja",
+   "nee, elk commercieel aspect is verboden",
+   "alleen in het weekend",
+   "alleen met toestemming van de UBA"
+  ],
+  "juist": "B",
+  "uitleg": "Radioamateurisme is niet commercieel.",
+  "waarom_fout": {
+   "A": "nee.",
+   "C": "nee.",
+   "D": "nee."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h01-1b",
+  "bron": "check",
+  "hoofdstuk": 1,
+  "onderwerp": "doel",
+  "vraag": "Welk onderwerp is taboe in een QSO?",
+  "opties": [
+   "het weer",
+   "je antenne",
+   "politiek",
+   "propagatie"
+  ],
+  "juist": "C",
+  "uitleg": "Politiek en geloof zijn taboe.",
+  "waarom_fout": {
+   "A": "mag.",
+   "B": "mag.",
+   "D": "mag."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h01-1c",
+  "bron": "check",
+  "hoofdstuk": 1,
+  "onderwerp": "doel",
+  "vraag": "Wat is het doel van de radioamateurvergunning?",
+  "opties": [
+   "zoveel mogelijk verbindingen maken",
+   "je bekwamen in radiocommunicatie en radiotechniek",
+   "geld verdienen",
+   "nieuws verspreiden"
+  ],
+  "juist": "B",
+  "uitleg": "Je bekwamen in radiocommunicatie en radiotechniek.",
+  "waarom_fout": {
+   "A": "niet het doel.",
+   "C": "verboden.",
+   "D": "omroep is verboden."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ }
+]

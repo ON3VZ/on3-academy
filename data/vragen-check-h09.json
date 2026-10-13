@@ -1,0 +1,370 @@
+[
+ {
+  "id": "C-h09-1a",
+  "bron": "check",
+  "hoofdstuk": 9,
+  "onderwerp": "gevaren",
+  "vraag": "Waardoor ontstaat elektrocutie?",
+  "opties": [
+   "grote stroom in een draad",
+   "hoge spanning, waardoor stroom door je lichaam loopt",
+   "radiostraling",
+   "een slechte SWR"
+  ],
+  "juist": "B",
+  "uitleg": "Hoge spanning stuurt stroom door je lichaam.",
+  "waarom_fout": {
+   "A": "grote stroom geeft brand.",
+   "C": "nee.",
+   "D": "nee."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h09-1b",
+  "bron": "check",
+  "hoofdstuk": 9,
+  "onderwerp": "gevaren",
+  "vraag": "Een te dunne draad voert een grote stroom. Wat is het gevaar?",
+  "opties": [
+   "elektrocutie",
+   "oververhitting en brand",
+   "storing",
+   "niets"
+  ],
+  "juist": "B",
+  "uitleg": "Grote stroom maakt draden heet.",
+  "waarom_fout": {
+   "A": "dat is hoge spanning.",
+   "C": "niet het veiligheidsgevaar.",
+   "D": "wel degelijk gevaar."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h09-2a",
+  "bron": "check",
+  "hoofdstuk": 9,
+  "onderwerp": "aarding",
+  "vraag": "Welk symbool hoort bij aarding?",
+  "opties": [
+   "een rechthoek met een lijn erdoor",
+   "een lijn met drie streepjes die kleiner worden",
+   "een cirkel met een kruis",
+   "een zigzaglijn"
+  ],
+  "juist": "B",
+  "uitleg": "Drie streepjes die kleiner worden.",
+  "waarom_fout": {
+   "A": "dat is een zekering.",
+   "C": "dat is een lamp.",
+   "D": "dat is een oud weerstandssymbool."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h09-2b",
+  "bron": "check",
+  "hoofdstuk": 9,
+  "onderwerp": "aarding",
+  "vraag": "Wat gebeurt er bij een defect in een geaard toestel?",
+  "opties": [
+   "de stroom loopt via de aarding weg",
+   "het toestel straalt uit",
+   "de stroom loopt door de gebruiker",
+   "er gebeurt niets"
+  ],
+  "juist": "A",
+  "uitleg": "De stroom kiest de aarding, niet jou.",
+  "waarom_fout": {
+   "B": "nee.",
+   "C": "net dat wordt voorkomen.",
+   "D": "er loopt wel stroom, via de aarding."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h09-3a",
+  "bron": "check",
+  "hoofdstuk": 9,
+  "onderwerp": "zekering",
+  "vraag": "Welk symbool hoort bij een zekering?",
+  "opties": [
+   "rechthoek met een lijn erdoor",
+   "drie streepjes",
+   "een pijl",
+   "een spoel"
+  ],
+  "juist": "A",
+  "uitleg": "Rechthoek met een lijn erdoor.",
+  "waarom_fout": {
+   "B": "aarding.",
+   "C": "nee.",
+   "D": "nee."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h09-3b",
+  "bron": "check",
+  "hoofdstuk": 9,
+  "onderwerp": "zekering",
+  "vraag": "Je zekering van 5 A springt. Wat doe je?",
+  "opties": [
+   "vervangen door 10 A",
+   "vervangen door 5 A en de oorzaak zoeken",
+   "overbruggen met een draadje",
+   "weglaten"
+  ],
+  "juist": "B",
+  "uitleg": "Zelfde waarde, en zoek waarom ze sprong.",
+  "waarom_fout": {
+   "A": "te groot: gevaarlijk.",
+   "C": "levensgevaarlijk.",
+   "D": "geen bescherming meer."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h09-3c",
+  "bron": "check",
+  "hoofdstuk": 9,
+  "onderwerp": "noodschakelaar",
+  "vraag": "Waar hoort de centrale noodschakelaar?",
+  "opties": [
+   "verstopt achter een kast",
+   "duidelijk zichtbaar en goed bereikbaar",
+   "op zolder",
+   "in de auto"
+  ],
+  "juist": "B",
+  "uitleg": "Zichtbaar en bereikbaar, ook voor huisgenoten.",
+  "waarom_fout": {
+   "A": "in nood vind je hem niet.",
+   "C": "te ver.",
+   "D": "nee."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h09-4a",
+  "bron": "check",
+  "hoofdstuk": 9,
+  "onderwerp": "netsnoer",
+  "vraag": "Welke kleur heeft de aardingsdraad?",
+  "opties": [
+   "blauw",
+   "bruin",
+   "geel-groen",
+   "rood"
+  ],
+  "juist": "C",
+  "uitleg": "Geel-groen.",
+  "waarom_fout": {
+   "A": "nul.",
+   "B": "fase.",
+   "D": "oude kleur, nooit aarding."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h09-4b",
+  "bron": "check",
+  "hoofdstuk": 9,
+  "onderwerp": "netsnoer",
+  "vraag": "Waarom is de aan/uit-knop niet genoeg als je in een toestel werkt?",
+  "opties": [
+   "hij onderbreekt soms maar één draad of niet alles",
+   "hij is te klein",
+   "hij werkt alleen overdag",
+   "dat is wel genoeg"
+  ],
+  "juist": "A",
+  "uitleg": "Daarom: stekker uit.",
+  "waarom_fout": {
+   "B": "nee.",
+   "C": "nee.",
+   "D": "nee, stekker uittrekken."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h09-4c",
+  "bron": "check",
+  "hoofdstuk": 9,
+  "onderwerp": "netsnoer",
+  "vraag": "Welke kleur heeft de nul?",
+  "opties": [
+   "blauw",
+   "bruin",
+   "geel-groen",
+   "zwart"
+  ],
+  "juist": "A",
+  "uitleg": "Blauw.",
+  "waarom_fout": {
+   "B": "fase.",
+   "C": "aarding.",
+   "D": "fase."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h09-5a",
+  "bron": "check",
+  "hoofdstuk": 9,
+  "onderwerp": "ongeval",
+  "vraag": "Iemand hangt aan een toestel onder spanning. Wat eerst?",
+  "opties": [
+   "het slachtoffer wegtrekken",
+   "de spanning uitschakelen",
+   "112 bellen",
+   "water erover gieten"
+  ],
+  "juist": "B",
+  "uitleg": "Eerst de spanning uit.",
+  "waarom_fout": {
+   "A": "dan word je zelf slachtoffer.",
+   "C": "na het uitschakelen.",
+   "D": "gevaarlijk."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h09-5b",
+  "bron": "check",
+  "hoofdstuk": 9,
+  "onderwerp": "ongeval",
+  "vraag": "Wat is het Europese noodnummer, dat ook in België werkt?",
+  "opties": [
+   "100",
+   "112",
+   "911",
+   "999"
+  ],
+  "juist": "B",
+  "uitleg": "112 werkt in heel Europa, ook vanaf een gsm.",
+  "waarom_fout": {
+   "A": "100 is een Belgisch nummer, maar niet het Europese noodnummer.",
+   "C": "Amerika.",
+   "D": "Verenigd Koninkrijk."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h09-6a",
+  "bron": "check",
+  "hoofdstuk": 9,
+  "onderwerp": "antenne",
+  "vraag": "Waarom geen antenne in de buurt van een bovengrondse elektriciteitslijn?",
+  "opties": [
+   "om storing te vermijden",
+   "omdat de antenne de lijn kan raken: levensgevaar",
+   "omdat het lelijk is",
+   "omdat het BIPT dat verbiedt voor het bereik"
+  ],
+  "juist": "B",
+  "uitleg": "Contact met een hoogspanningslijn is dodelijk.",
+  "waarom_fout": {
+   "A": "het gaat om veiligheid.",
+   "C": "nee.",
+   "D": "nee."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h09-6b",
+  "bron": "check",
+  "hoofdstuk": 9,
+  "onderwerp": "antenne",
+  "vraag": "Wie moet er minstens aanwezig zijn als je een antenne opzet?",
+  "opties": [
+   "niemand",
+   "een volwassene",
+   "een BIPT-inspecteur",
+   "een elektricien"
+  ],
+  "juist": "B",
+  "uitleg": "Minstens één volwassene.",
+  "waarom_fout": {
+   "A": "nooit alleen.",
+   "C": "niet nodig.",
+   "D": "niet verplicht."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h09-6c",
+  "bron": "check",
+  "hoofdstuk": 9,
+  "onderwerp": "antenne",
+  "vraag": "Welke antenne mag je wel aanraken tijdens het zenden?",
+  "opties": [
+   "een dipool van 100 W",
+   "de antenne van een portofoon met laag vermogen",
+   "een yagi",
+   "een langedraad"
+  ],
+  "juist": "B",
+  "uitleg": "Draagbare toestellen met laag vermogen vormen de uitzondering.",
+  "waarom_fout": {
+   "A": "nee.",
+   "C": "nee.",
+   "D": "nee."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h09-7a",
+  "bron": "check",
+  "hoofdstuk": 9,
+  "onderwerp": "gehoor",
+  "vraag": "Wat is het gevaar van een te luide hoofdtelefoon?",
+  "opties": [
+   "blijvende gehoorschade",
+   "storing",
+   "een hogere SWR",
+   "niets"
+  ],
+  "juist": "A",
+  "uitleg": "Gehoorschade, en die is blijvend.",
+  "waarom_fout": {
+   "B": "nee.",
+   "C": "nee.",
+   "D": "wel degelijk."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ }
+]

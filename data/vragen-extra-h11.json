@@ -1,0 +1,302 @@
+[
+ {
+  "id": "E-h11-01",
+  "bron": "extra",
+  "hoofdstuk": 11,
+  "onderwerp": "QRM en QRN",
+  "vraag": "Wat is het verschil tussen QRM en QRN in de praktijk?",
+  "opties": [
+   "QRM is storing door andere stations of mensenwerk, QRN door de atmosfeer",
+   "QRM is atmosferische storing, QRN is storing door stations",
+   "QRM is fading, QRN is storing",
+   "er is geen verschil"
+  ],
+  "juist": "A",
+  "uitleg": "QRM staat voor storing van stations of mensenwerk, QRN voor atmosferische storing (zoals onweer).",
+  "waarom_fout": {
+   "B": "omgekeerd.",
+   "C": "fading is QSB.",
+   "D": "er is wel een verschil."
+  },
+  "moeilijkheid": 2,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "procedures",
+  "in_examen": false
+ },
+ {
+  "id": "E-h11-02",
+  "bron": "extra",
+  "hoofdstuk": 11,
+  "onderwerp": "vraag of mededeling",
+  "vraag": "\"QRX\" zonder vraagteken betekent:",
+  "opties": [
+   "ik zal u weer oproepen om ...",
+   "wanneer roept u mij weer?",
+   "ik stop met seinen",
+   "ik ben bezig"
+  ],
+  "juist": "A",
+  "uitleg": "Zonder vraagteken is het een mededeling: ik zal u weer oproepen om ...",
+  "waarom_fout": {
+   "B": "dat is de vraag, met een vraagteken.",
+   "C": "dat is QRT.",
+   "D": "dat is QRL."
+  },
+  "moeilijkheid": 2,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "procedures",
+  "in_examen": false
+ },
+ {
+  "id": "E-h11-03",
+  "bron": "extra",
+  "hoofdstuk": 11,
+  "onderwerp": "QSA of QRK",
+  "vraag": "Je wilt weten hoe sterk je signaal aankomt. Welke code?",
+  "opties": [
+   "QSA?",
+   "QRK?",
+   "QSB?",
+   "QRM?"
+  ],
+  "juist": "A",
+  "uitleg": "QSA gaat over de sterkte van het signaal.",
+  "waarom_fout": {
+   "B": "QRK gaat over de leesbaarheid.",
+   "C": "QSB is fading.",
+   "D": "QRM is storing."
+  },
+  "moeilijkheid": 2,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "procedures",
+  "in_examen": false
+ },
+ {
+  "id": "E-h11-04",
+  "bron": "extra",
+  "hoofdstuk": 11,
+  "onderwerp": "QRK",
+  "vraag": "\"QRK?\" vraagt naar:",
+  "opties": [
+   "de leesbaarheid van je signaal",
+   "de sterkte van je signaal",
+   "je frequentie",
+   "je vermogen"
+  ],
+  "juist": "A",
+  "uitleg": "QRK gaat over de leesbaarheid.",
+  "waarom_fout": {
+   "B": "dat is QSA.",
+   "C": "dat is QRG.",
+   "D": "dat is QRO of QRP."
+  },
+  "moeilijkheid": 2,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "procedures",
+  "in_examen": false
+ },
+ {
+  "id": "E-h11-05",
+  "bron": "extra",
+  "hoofdstuk": 11,
+  "onderwerp": "QRQ en QRS",
+  "vraag": "Je wilt dat de ander langzamer seint. Welke code gebruik je?",
+  "opties": [
+   "QRS",
+   "QRQ",
+   "QRT",
+   "QRV"
+  ],
+  "juist": "A",
+  "uitleg": "QRS: sein langzamer.",
+  "waarom_fout": {
+   "B": "QRQ: sein sneller.",
+   "C": "QRT: stoppen met seinen.",
+   "D": "QRV: klaar om te zenden."
+  },
+  "moeilijkheid": 2,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "procedures",
+  "in_examen": false
+ },
+ {
+  "id": "E-h11-06",
+  "bron": "extra",
+  "hoofdstuk": 11,
+  "onderwerp": "QRO en QRP",
+  "vraag": "Je vraagt een ander station zijn vermogen te verhogen. Welke code?",
+  "opties": [
+   "QRO",
+   "QRP",
+   "QRQ",
+   "QRM"
+  ],
+  "juist": "A",
+  "uitleg": "QRO: verhoog uw zendvermogen.",
+  "waarom_fout": {
+   "B": "QRP: verminder het zendvermogen.",
+   "C": "QRQ: sein sneller.",
+   "D": "QRM: storing."
+  },
+  "moeilijkheid": 2,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "procedures",
+  "in_examen": false
+ },
+ {
+  "id": "E-h11-07",
+  "bron": "extra",
+  "hoofdstuk": 11,
+  "onderwerp": "SK en KN",
+  "vraag": "Wat betekent \"KN\" op het einde van je beurt?",
+  "opties": [
+   "over, enkel het genoemde station mag antwoorden",
+   "over, iedereen mag antwoorden",
+   "einde van het contact",
+   "ik werk met laag vermogen"
+  ],
+  "juist": "A",
+  "uitleg": "KN: over naar het genoemde station alleen.",
+  "waarom_fout": {
+   "B": "dat is K.",
+   "C": "dat is SK.",
+   "D": "dat is QRP."
+  },
+  "moeilijkheid": 2,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "procedures",
+  "in_examen": false
+ },
+ {
+  "id": "E-h11-08",
+  "bron": "extra",
+  "hoofdstuk": 11,
+  "onderwerp": "QTR",
+  "vraag": "Welke code vraagt naar de juiste tijd?",
+  "opties": [
+   "QTR?",
+   "QRX?",
+   "QRY?",
+   "QTC?"
+  ],
+  "juist": "A",
+  "uitleg": "QTR: wat is de juiste tijd?",
+  "waarom_fout": {
+   "B": "QRX: wanneer roept u mij weer?",
+   "C": "QRY: wanneer ben ik aan de beurt?",
+   "D": "QTC: hebt u berichten voor mij?"
+  },
+  "moeilijkheid": 2,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "procedures",
+  "in_examen": false
+ },
+ {
+  "id": "E-h11-09",
+  "bron": "extra",
+  "hoofdstuk": 11,
+  "onderwerp": "QSK en QSP",
+  "vraag": "\"QSP?\" vraagt of je iets wilt:",
+  "opties": [
+   "doorgeven aan een ander station",
+   "bevestigen",
+   "herhalen",
+   "verhogen"
+  ],
+  "juist": "A",
+  "uitleg": "QSP: wilt u doorgeven aan ...?",
+  "waarom_fout": {
+   "B": "dat is QSL.",
+   "C": "geen Q-code in de tabel.",
+   "D": "dat is QRO."
+  },
+  "moeilijkheid": 3,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "procedures",
+  "in_examen": false
+ },
+ {
+  "id": "E-h11-10",
+  "bron": "extra",
+  "hoofdstuk": 11,
+  "onderwerp": "QRH",
+  "vraag": "Wat betekent \"QRH\" zonder vraagteken?",
+  "opties": [
+   "de frequentie is niet constant",
+   "de frequentie is constant",
+   "de frequentie is bezet",
+   "ik ga van frequentie veranderen"
+  ],
+  "juist": "A",
+  "uitleg": "QRH: de frequentie is niet constant.",
+  "waarom_fout": {
+   "B": "het is net omgekeerd.",
+   "C": "bezet is QRL.",
+   "D": "dat is QSY."
+  },
+  "moeilijkheid": 3,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "procedures",
+  "in_examen": false
+ },
+ {
+  "id": "E-h11-11",
+  "bron": "extra",
+  "hoofdstuk": 11,
+  "onderwerp": "RST",
+  "vraag": "Je krijgt van een station het rapport 59. Wat betekent dat?",
+  "opties": [
+   "perfect leesbaar en heel sterk",
+   "zwak maar leesbaar",
+   "niet leesbaar",
+   "laag vermogen"
+  ],
+  "juist": "A",
+  "uitleg": "R5 betekent perfect leesbaar, S9 heel sterk.",
+  "waarom_fout": {
+   "B": "dat zou bijvoorbeeld 24 zijn.",
+   "C": "dan is R laag.",
+   "D": "het rapport zegt niets over het vermogen."
+  },
+  "moeilijkheid": 2,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "procedures",
+  "in_examen": false
+ },
+ {
+  "id": "E-h11-12",
+  "bron": "extra",
+  "hoofdstuk": 11,
+  "onderwerp": "cijfercodes",
+  "vraag": "Welke cijfercode hoor je bij fauna en flora (WWFF) of POTA als groet tussen activators?",
+  "opties": [
+   "44",
+   "73",
+   "88",
+   "SK"
+  ],
+  "juist": "A",
+  "uitleg": "44 is de groet bij activaties.",
+  "waarom_fout": {
+   "B": "73 is groetjes in het algemeen.",
+   "C": "88 is veel liefs en kusjes.",
+   "D": "SK is het einde van een contact."
+  },
+  "moeilijkheid": 3,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "procedures",
+  "in_examen": false
+ }
+]

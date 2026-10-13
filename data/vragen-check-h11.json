@@ -1,0 +1,393 @@
+[
+ {
+  "id": "C-h11-1a",
+  "bron": "check",
+  "hoofdstuk": 11,
+  "onderwerp": "Q-codes",
+  "vraag": "Een Q-code zonder vraagteken is:",
+  "opties": [
+   "een vraag",
+   "een mededeling",
+   "een noodoproep",
+   "een roepnaam"
+  ],
+  "juist": "B",
+  "uitleg": "Zonder vraagteken is het een mededeling.",
+  "waarom_fout": {
+   "A": "een vraag heeft een vraagteken.",
+   "C": "geen noodoproep.",
+   "D": "een roepnaam begint met een landprefix, nooit met Q."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h11-1b",
+  "bron": "check",
+  "hoofdstuk": 11,
+  "onderwerp": "Q-codes",
+  "vraag": "Hoeveel letters heeft een Q-code en waarmee begint ze?",
+  "opties": [
+   "twee, met Q",
+   "drie, met Q",
+   "drie, met een cijfer",
+   "vier, met Q"
+  ],
+  "juist": "B",
+  "uitleg": "Altijd drie letters, beginnend met Q.",
+  "waarom_fout": {
+   "A": "het zijn er drie.",
+   "C": "cijfercodes zijn iets anders.",
+   "D": "het zijn er drie."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h11-2a",
+  "bron": "check",
+  "hoofdstuk": 11,
+  "onderwerp": "QTH",
+  "vraag": "Welke code gebruik je om iemands locatie te vragen?",
+  "opties": [
+   "QRG?",
+   "QTH?",
+   "QRB?",
+   "QRA?"
+  ],
+  "juist": "B",
+  "uitleg": "QTH is de locatie.",
+  "waarom_fout": {
+   "A": "QRG is de frequentie.",
+   "C": "QRB is de afstand.",
+   "D": "QRA is de naam (call)."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h11-2b",
+  "bron": "check",
+  "hoofdstuk": 11,
+  "onderwerp": "QRG",
+  "vraag": "Wat betekent \"QRG?\"",
+  "opties": [
+   "Wat is de frequentie?",
+   "Hoe groot is onze afstand?",
+   "Wat is de juiste tijd?",
+   "Bent u bezig?"
+  ],
+  "juist": "A",
+  "uitleg": "QRG is de frequentie.",
+  "waarom_fout": {
+   "B": "dat is QRB.",
+   "C": "dat is QTR.",
+   "D": "dat is QRL."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h11-2c",
+  "bron": "check",
+  "hoofdstuk": 11,
+  "onderwerp": "QRB",
+  "vraag": "Hoe groot is de afstand tussen twee stations? Welke code vraagt dat?",
+  "opties": [
+   "QRB?",
+   "QRH?",
+   "QTR?",
+   "QSA?"
+  ],
+  "juist": "A",
+  "uitleg": "QRB is de afstand.",
+  "waarom_fout": {
+   "B": "QRH gaat over een constante frequentie.",
+   "C": "QTR is de tijd.",
+   "D": "QSA is de sterkte van het signaal."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h11-3a",
+  "bron": "check",
+  "hoofdstuk": 11,
+  "onderwerp": "QRM",
+  "vraag": "Je hebt last van storing van andere stations. Welke code past?",
+  "opties": [
+   "QRM",
+   "QSB",
+   "QRP",
+   "QSY"
+  ],
+  "juist": "A",
+  "uitleg": "QRM is storing.",
+  "waarom_fout": {
+   "B": "QSB is fading.",
+   "C": "QRP is minder vermogen.",
+   "D": "QSY is van frequentie veranderen."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h11-3b",
+  "bron": "check",
+  "hoofdstuk": 11,
+  "onderwerp": "QSB",
+  "vraag": "Je signaal zakt weg en komt terug. Welke code is dat?",
+  "opties": [
+   "QSB",
+   "QRM",
+   "QRK",
+   "QTH"
+  ],
+  "juist": "A",
+  "uitleg": "QSB is fading.",
+  "waarom_fout": {
+   "B": "QRM is storing.",
+   "C": "QRK is de leesbaarheid.",
+   "D": "QTH is de locatie."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h11-3c",
+  "bron": "check",
+  "hoofdstuk": 11,
+  "onderwerp": "QRP",
+  "vraag": "Wat vraag je met \"QRP?\"",
+  "opties": [
+   "of je het zendvermogen moet verminderen",
+   "of je het zendvermogen moet verhogen",
+   "of de frequentie bezet is",
+   "of je naar een andere frequentie moet"
+  ],
+  "juist": "A",
+  "uitleg": "QRP is minder vermogen.",
+  "waarom_fout": {
+   "B": "dat is QRO.",
+   "C": "dat is QRL.",
+   "D": "dat is QSY."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h11-4a",
+  "bron": "check",
+  "hoofdstuk": 11,
+  "onderwerp": "QRL",
+  "vraag": "Je hoort \"QRL\". Wat betekent dat?",
+  "opties": [
+   "Ik ben bezig",
+   "De frequentie is vrij",
+   "Ik ga stoppen",
+   "Ik heb berichten voor u"
+  ],
+  "juist": "A",
+  "uitleg": "QRL: ik ben bezig.",
+  "waarom_fout": {
+   "B": "juist het omgekeerde.",
+   "C": "dat is QRT.",
+   "D": "dat is QTC."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h11-4b",
+  "bron": "check",
+  "hoofdstuk": 11,
+  "onderwerp": "QSY",
+  "vraag": "Je wilt naar een andere frequentie gaan. Welke code?",
+  "opties": [
+   "QSY",
+   "QSL",
+   "QRX",
+   "QRT"
+  ],
+  "juist": "A",
+  "uitleg": "QSY is naar een andere frequentie gaan.",
+  "waarom_fout": {
+   "B": "QSL is bevestigen.",
+   "C": "QRX is wachten op een nieuwe oproep.",
+   "D": "QRT is stoppen."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h11-4c",
+  "bron": "check",
+  "hoofdstuk": 11,
+  "onderwerp": "QSL",
+  "vraag": "Wat betekent \"QSL\"?",
+  "opties": [
+   "Ik bevestig de ontvangst",
+   "Ik ga stoppen",
+   "Wie roept mij?",
+   "Ik ben bezig"
+  ],
+  "juist": "A",
+  "uitleg": "QSL: ik bevestig de ontvangst.",
+  "waarom_fout": {
+   "B": "dat is QRT.",
+   "C": "dat is QRZ.",
+   "D": "dat is QRL."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h11-4d",
+  "bron": "check",
+  "hoofdstuk": 11,
+  "onderwerp": "QRZ",
+  "vraag": "Welke code gebruik je om te vragen wie je aanroept?",
+  "opties": [
+   "QRZ?",
+   "QRX?",
+   "QRV?",
+   "QTC?"
+  ],
+  "juist": "A",
+  "uitleg": "QRZ: wie roept mij aan?",
+  "waarom_fout": {
+   "B": "QRX: wanneer roept u mij weer?",
+   "C": "QRV: bent u klaar om te zenden?",
+   "D": "QTC: hebt u berichten voor mij?"
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h11-5a",
+  "bron": "check",
+  "hoofdstuk": 11,
+  "onderwerp": "73",
+  "vraag": "Wat betekent \"73\"?",
+  "opties": [
+   "groetjes",
+   "veel liefs en kusjes",
+   "groet bij fauna en flora",
+   "einde van het contact"
+  ],
+  "juist": "A",
+  "uitleg": "73 is groetjes.",
+  "waarom_fout": {
+   "B": "dat is 88.",
+   "C": "dat is 44.",
+   "D": "dat is SK."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h11-5b",
+  "bron": "check",
+  "hoofdstuk": 11,
+  "onderwerp": "88",
+  "vraag": "Wat betekent \"88\"?",
+  "opties": [
+   "veel liefs en kusjes",
+   "groetjes",
+   "groet bij fauna en flora",
+   "einde van het contact"
+  ],
+  "juist": "A",
+  "uitleg": "88 is veel liefs en kusjes.",
+  "waarom_fout": {
+   "B": "dat is 73.",
+   "C": "dat is 44.",
+   "D": "dat is SK."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h11-6a",
+  "bron": "check",
+  "hoofdstuk": 11,
+  "onderwerp": "afkortingen",
+  "vraag": "Wat betekent \"K\" op het einde van je beurt?",
+  "opties": [
+   "over: je mag antwoorden",
+   "einde van het contact",
+   "ik stop met zenden",
+   "ik zend met veel vermogen"
+  ],
+  "juist": "A",
+  "uitleg": "K: over, de ander mag antwoorden.",
+  "waarom_fout": {
+   "B": "dat is SK.",
+   "C": "dat is QRT of SK.",
+   "D": "K gaat niet over vermogen."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h11-6b",
+  "bron": "check",
+  "hoofdstuk": 11,
+  "onderwerp": "afkortingen",
+  "vraag": "Wat is een YL?",
+  "opties": [
+   "een vrouwelijke zendamateur",
+   "de echtgenote van een zendamateur",
+   "een collega",
+   "een slecht rapport"
+  ],
+  "juist": "A",
+  "uitleg": "YL: young lady, een vrouwelijke zendamateur.",
+  "waarom_fout": {
+   "B": "dat is een XYL.",
+   "C": "dat is een OM.",
+   "D": "nee."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h11-6c",
+  "bron": "check",
+  "hoofdstuk": 11,
+  "onderwerp": "afkortingen",
+  "vraag": "Waarvoor staat RST?",
+  "opties": [
+   "readability, signal, tone",
+   "radio, signal, transmit",
+   "receive, send, tune",
+   "range, strength, time"
+  ],
+  "juist": "A",
+  "uitleg": "RST: leesbaarheid, sterkte, toon.",
+  "waarom_fout": {
+   "B": "geen bestaande betekenis.",
+   "C": "geen bestaande betekenis.",
+   "D": "geen bestaande betekenis."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ }
+]

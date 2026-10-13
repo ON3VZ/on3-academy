@@ -1,0 +1,279 @@
+[
+ {
+  "id": "E-h02-01",
+  "bron": "extra",
+  "hoofdstuk": 2,
+  "onderwerp": "frequenties",
+  "vraag": "Op welke frequentie mag een houder van een klasse C-bedieningscertificaat zenden?",
+  "opties": [
+   "1,850 MHz",
+   "3,650 MHz",
+   "5,360 MHz",
+   "18,100 MHz"
+  ],
+  "juist": "B",
+  "uitleg": "3,650 MHz ligt in 80 m (3,500 tot 3,800 MHz).",
+  "waarom_fout": {
+   "A": "160 m: niet voor klasse C.",
+   "C": "60 m: niet voor klasse C.",
+   "D": "17 m: niet voor klasse C."
+  },
+  "moeilijkheid": 2,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "wetgeving",
+  "in_examen": true
+ },
+ {
+  "id": "E-h02-02",
+  "bron": "extra",
+  "hoofdstuk": 2,
+  "onderwerp": "frequenties",
+  "vraag": "Wat is het maximum zendvermogen voor een klasse C-station op 435 MHz?",
+  "opties": [
+   "25 W",
+   "50 W",
+   "100 W",
+   "10 W"
+  ],
+  "juist": "B",
+  "uitleg": "70 cm: maximum 50 W.",
+  "waarom_fout": {
+   "A": "25 W is voor HF.",
+   "C": "klasse B.",
+   "D": "nee."
+  },
+  "moeilijkheid": 2,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "wetgeving",
+  "in_examen": true
+ },
+ {
+  "id": "E-h02-03",
+  "bron": "extra",
+  "hoofdstuk": 2,
+  "onderwerp": "frequenties",
+  "vraag": "Welke status heeft de band 7,100 tot 7,200 MHz voor klasse C?",
+  "opties": [
+   "PEX",
+   "P",
+   "S",
+   "geen: verboden"
+  ],
+  "juist": "C",
+  "uitleg": "Secundair.",
+  "waarom_fout": {
+   "A": "7,000 tot 7,100 is PEX.",
+   "B": "nee.",
+   "D": "het mag wel."
+  },
+  "moeilijkheid": 3,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "wetgeving",
+  "in_examen": true
+ },
+ {
+  "id": "E-h02-04",
+  "bron": "extra",
+  "hoofdstuk": 2,
+  "onderwerp": "frequenties",
+  "vraag": "Tot welke frequentie mag klasse C op 80 m zenden?",
+  "opties": [
+   "3,600 MHz",
+   "3,800 MHz",
+   "4,000 MHz",
+   "3,500 MHz"
+  ],
+  "juist": "B",
+  "uitleg": "3,500 tot 3,800 MHz.",
+  "waarom_fout": {
+   "A": "te laag.",
+   "C": "te hoog.",
+   "D": "dat is het begin."
+  },
+  "moeilijkheid": 2,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "wetgeving",
+  "in_examen": true
+ },
+ {
+  "id": "E-h02-05",
+  "bron": "extra",
+  "hoofdstuk": 2,
+  "onderwerp": "frequenties",
+  "vraag": "Welke van deze banden mag klasse C gebruiken?",
+  "opties": [
+   "17 m",
+   "12 m",
+   "30 m",
+   "6 m"
+  ],
+  "juist": "C",
+  "uitleg": "30 m: 10,100 tot 10,150 MHz, status S, 25 W.",
+  "waarom_fout": {
+   "A": "niet voor klasse C.",
+   "B": "niet voor klasse C.",
+   "D": "niet voor klasse C."
+  },
+  "moeilijkheid": 2,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "wetgeving",
+  "in_examen": true
+ },
+ {
+  "id": "E-h02-06",
+  "bron": "extra",
+  "hoofdstuk": 2,
+  "onderwerp": "frequenties",
+  "vraag": "Wat betekent PEX?",
+  "opties": [
+   "primair en exclusief: radioamateurs zijn de enige gebruikers",
+   "primair: een van de hoofdgebruikers",
+   "secundair",
+   "verboden"
+  ],
+  "juist": "A",
+  "uitleg": "Primair en exclusief.",
+  "waarom_fout": {
+   "B": "dat is P.",
+   "C": "dat is S.",
+   "D": "nee."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "wetgeving",
+  "in_examen": true
+ },
+ {
+  "id": "E-h02-07",
+  "bron": "extra",
+  "hoofdstuk": 2,
+  "onderwerp": "frequenties",
+  "vraag": "Een ON3 wil via een satelliet werken op 70 cm. In welk deel mag dat?",
+  "opties": [
+   "430 tot 432 MHz",
+   "435 tot 438 MHz",
+   "438 tot 440 MHz",
+   "overal tussen 430 en 440 MHz"
+  ],
+  "juist": "B",
+  "uitleg": "Satellietgebruik op 70 cm: 435 tot 438 MHz, zonder schadelijke interferentie.",
+  "waarom_fout": {
+   "A": "nee.",
+   "C": "nee.",
+   "D": "alleen 435 tot 438."
+  },
+  "moeilijkheid": 3,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "wetgeving",
+  "in_examen": true
+ },
+ {
+  "id": "E-h02-08",
+  "bron": "extra",
+  "hoofdstuk": 2,
+  "onderwerp": "certificaat",
+  "vraag": "Wat heb je nodig voor je een stationsvergunning kunt aanvragen?",
+  "opties": [
+   "niets",
+   "een bedieningscertificaat",
+   "een lidkaart van de UBA",
+   "een logboek"
+  ],
+  "juist": "B",
+  "uitleg": "Eerst het bedieningscertificaat (KB art. 17/5).",
+  "waarom_fout": {
+   "A": "nee.",
+   "C": "niet verplicht.",
+   "D": "niet verplicht."
+  },
+  "moeilijkheid": 2,
+  "svg": null,
+  "status": "ok",
+  "wetsverwijzing": "KB 18-12-2009, art. 17/5",
+  "examendeel": "wetgeving",
+  "in_examen": true
+ },
+ {
+  "id": "E-h02-09",
+  "bron": "extra",
+  "hoofdstuk": 2,
+  "onderwerp": "identificatie",
+  "vraag": "Hoe spreek je je roepnaam uit in telefonie?",
+  "opties": [
+   "duidelijk, en indien nodig gespeld met het internationale alfabet",
+   "alleen in morse",
+   "heel snel",
+   "niet nodig"
+  ],
+  "juist": "A",
+  "uitleg": "Duidelijk uitgesproken, en indien nodig gespeld (KB art. 17/8 § 2).",
+  "waarom_fout": {
+   "B": "in telefonie spreek je ze uit.",
+   "C": "nee.",
+   "D": "het is verplicht."
+  },
+  "moeilijkheid": 2,
+  "svg": null,
+  "status": "ok",
+  "wetsverwijzing": "KB 18-12-2009, art. 17/8 § 2",
+  "examendeel": "wetgeving",
+  "in_examen": true
+ },
+ {
+  "id": "E-h02-10",
+  "bron": "extra",
+  "hoofdstuk": 2,
+  "onderwerp": "regels",
+  "vraag": "Een vriend zonder certificaat wil even in je microfoon spreken. Mag dat?",
+  "opties": [
+   "ja, als jij erbij bent",
+   "ja, als hij bij jou woont",
+   "nee, alleen radioamateurs met een passend certificaat mogen zenden",
+   "ja, op 2 m"
+  ],
+  "juist": "C",
+  "uitleg": "Alleen houders van een passend certificaat mogen het station bedienen.",
+  "waarom_fout": {
+   "A": "toezicht volstaat niet.",
+   "B": "huisgenoten zonder certificaat ook niet.",
+   "D": "nee."
+  },
+  "moeilijkheid": 2,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "wetgeving",
+  "in_examen": true
+ },
+ {
+  "id": "E-h02-11",
+  "bron": "extra",
+  "hoofdstuk": 2,
+  "onderwerp": "klassen",
+  "vraag": "Wat is het maximum vermogen voor klasse A?",
+  "opties": [
+   "100 W",
+   "500 W",
+   "1500 W",
+   "25 W"
+  ],
+  "juist": "C",
+  "uitleg": "1500 W.",
+  "waarom_fout": {
+   "A": "klasse B.",
+   "B": "nee.",
+   "D": "klasse C op HF."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "wetgeving",
+  "in_examen": true
+ }
+]

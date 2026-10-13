@@ -1,0 +1,202 @@
+[
+ {
+  "id": "E-h06-01",
+  "bron": "extra",
+  "hoofdstuk": 6,
+  "onderwerp": "propagatie",
+  "vraag": "Wat gebeurt er met de sterkte van een radiogolf als ze weerkaatst wordt?",
+  "opties": [
+   "ze wordt sterker",
+   "ze wordt niet sterker; onderweg wordt ze zwakker",
+   "ze verdubbelt",
+   "ze verandert van polarisatie en wordt sterker"
+  ],
+  "juist": "B",
+  "uitleg": "Een golf wordt onderweg altijd zwakker. Reflectie maakt haar niet sterker.",
+  "waarom_fout": {
+   "A": "nooit sterker.",
+   "C": "nee.",
+   "D": "nooit sterker."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "techniek",
+  "in_examen": true
+ },
+ {
+  "id": "E-h06-02",
+  "bron": "extra",
+  "hoofdstuk": 6,
+  "onderwerp": "bereik",
+  "vraag": "Je staat met een UHF-portofoon in een kelder van gewapend beton. Wat verwacht je?",
+  "opties": [
+   "uitstekende ontvangst",
+   "slechte of geen ontvangst",
+   "betere ontvangst dan buiten",
+   "geen verschil"
+  ],
+  "juist": "B",
+  "uitleg": "Gewapend beton houdt UHF grotendeels tegen.",
+  "waarom_fout": {
+   "A": "nee.",
+   "C": "omgekeerd.",
+   "D": "muren maken net een groot verschil."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "techniek",
+  "in_examen": true
+ },
+ {
+  "id": "E-h06-03",
+  "bron": "extra",
+  "hoofdstuk": 6,
+  "onderwerp": "bereik",
+  "vraag": "Twee stations op 70 cm horen elkaar slecht. Wat helpt het meest voor allebei?",
+  "opties": [
+   "één station verhoogt zijn vermogen",
+   "beide antennes hoger zetten",
+   "overschakelen op 23 cm",
+   "de antennes binnen zetten"
+  ],
+  "juist": "B",
+  "uitleg": "Hogere antennes helpen beide stations bij zenden en ontvangen.",
+  "waarom_fout": {
+   "A": "helpt maar in één richting.",
+   "C": "hogere frequentie = kleiner bereik.",
+   "D": "binnen is slechter."
+  },
+  "moeilijkheid": 2,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "techniek",
+  "in_examen": true
+ },
+ {
+  "id": "E-h06-04",
+  "bron": "extra",
+  "hoofdstuk": 6,
+  "onderwerp": "ionosfeer",
+  "vraag": "Welke band gebruikt je best voor een verbinding met Australië?",
+  "opties": [
+   "2 m",
+   "70 cm",
+   "20 m",
+   "23 cm"
+  ],
+  "juist": "C",
+  "uitleg": "Wereldwijde verbindingen gaan via de ionosfeer, dus op HF: 20 m.",
+  "waarom_fout": {
+   "A": "VHF gaat door de ionosfeer.",
+   "B": "UHF gaat door de ionosfeer.",
+   "D": "UHF/SHF gaat door de ionosfeer."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "techniek",
+  "in_examen": true
+ },
+ {
+  "id": "E-h06-05",
+  "bron": "extra",
+  "hoofdstuk": 6,
+  "onderwerp": "ionosfeer",
+  "vraag": "Hoe heet de onderste luchtlaag, waar het weer zich afspeelt?",
+  "opties": [
+   "ionosfeer",
+   "troposfeer",
+   "F-laag",
+   "magnetosfeer"
+  ],
+  "juist": "B",
+  "uitleg": "De troposfeer (tot ongeveer 10 km).",
+  "waarom_fout": {
+   "A": "die ligt veel hoger.",
+   "C": "deel van de ionosfeer.",
+   "D": "nee."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "techniek",
+  "in_examen": true
+ },
+ {
+  "id": "E-h06-06",
+  "bron": "extra",
+  "hoofdstuk": 6,
+  "onderwerp": "condities",
+  "vraag": "Wanneer zijn de hogere HF-banden (15 m, 10 m) meestal het best open?",
+  "opties": [
+   "bij een minimum van de zonnevlekkencyclus",
+   "bij een maximum van de zonnevlekkencyclus",
+   "alleen 's nachts",
+   "alleen bij FM"
+  ],
+  "juist": "B",
+  "uitleg": "Veel zonnevlekken = sterke ionosfeer = hogere banden open.",
+  "waarom_fout": {
+   "A": "dan zijn ze vaak dicht.",
+   "C": "'s nachts zijn ze meestal dicht.",
+   "D": "de modulatie speelt geen rol."
+  },
+  "moeilijkheid": 2,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "techniek",
+  "in_examen": true
+ },
+ {
+  "id": "E-h06-07",
+  "bron": "extra",
+  "hoofdstuk": 6,
+  "onderwerp": "condities",
+  "vraag": "Waarom hoor je 's nachts op 20 m soms niets meer van verre stations?",
+  "opties": [
+   "de F-laag is 's nachts dunner en hogere frequenties gaan erdoor",
+   "de D-laag slokt 's nachts alles op",
+   "de zender werkt slechter in het donker",
+   "de antenne krimpt"
+  ],
+  "juist": "A",
+  "uitleg": "'s Nachts is de F-laag dunner: frequenties boven ongeveer 12 MHz gaan erdoor.",
+  "waarom_fout": {
+   "B": "de D-laag is er 's nachts niet.",
+   "C": "nee.",
+   "D": "nee."
+  },
+  "moeilijkheid": 3,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "techniek",
+  "in_examen": true
+ },
+ {
+  "id": "E-h06-08",
+  "bron": "extra",
+  "hoofdstuk": 6,
+  "onderwerp": "bereik",
+  "vraag": "Welke factor speelt alleen mee bij het zenden, niet bij het ontvangen?",
+  "opties": [
+   "antennehoogte",
+   "vrij zicht",
+   "zendvermogen",
+   "buitenantenne"
+  ],
+  "juist": "C",
+  "uitleg": "Vermogen helpt alleen de anderen om jou te horen.",
+  "waarom_fout": {
+   "A": "helpt beide.",
+   "B": "helpt beide.",
+   "D": "helpt beide."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "techniek",
+  "in_examen": true
+ }
+]

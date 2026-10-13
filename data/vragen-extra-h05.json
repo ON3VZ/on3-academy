@@ -1,0 +1,377 @@
+[
+ {
+  "id": "E-h05-01",
+  "bron": "extra",
+  "hoofdstuk": 5,
+  "onderwerp": "dipool",
+  "vraag": "Hoe lang is een halve-golf-dipool voor 7 MHz ongeveer?",
+  "opties": [
+   "10,7 m",
+   "21,4 m",
+   "42,9 m",
+   "85,7 m"
+  ],
+  "juist": "B",
+  "uitleg": "λ = 300 ÷ 7 ≈ 42,9 m. De helft ≈ 21,4 m.",
+  "waarom_fout": {
+   "A": "dat is een kwartgolf.",
+   "C": "dat is de volledige golflengte.",
+   "D": "dubbel de golflengte."
+  },
+  "moeilijkheid": 2,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "techniek",
+  "in_examen": true
+ },
+ {
+  "id": "E-h05-02",
+  "bron": "extra",
+  "hoofdstuk": 5,
+  "onderwerp": "kwartgolf",
+  "vraag": "Hoe lang is een kwartgolfantenne voor 145 MHz ongeveer?",
+  "opties": [
+   "13 cm",
+   "52 cm",
+   "1,03 m",
+   "2,07 m"
+  ],
+  "juist": "B",
+  "uitleg": "λ = 300 ÷ 145 ≈ 2,07 m. Een kwart ≈ 0,52 m.",
+  "waarom_fout": {
+   "A": "te kort.",
+   "C": "dat is een halve golflengte (dipool).",
+   "D": "dat is de volledige golflengte."
+  },
+  "moeilijkheid": 2,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "techniek",
+  "in_examen": true
+ },
+ {
+  "id": "E-h05-03",
+  "bron": "extra",
+  "hoofdstuk": 5,
+  "onderwerp": "dipool",
+  "vraag": "Een dipool is 5 m lang. Voor welke frequentie is hij gemaakt?",
+  "opties": [
+   "15 MHz",
+   "30 MHz",
+   "60 MHz",
+   "7,5 MHz"
+  ],
+  "juist": "B",
+  "uitleg": "λ = 2 × 5 = 10 m. f = 300 ÷ 10 = 30 MHz.",
+  "waarom_fout": {
+   "A": "15 MHz krijg je als je 5 m als kwart golflengte neemt. Een dipool is een halve golflengte.",
+   "C": "dan zou 5 m de volledige golflengte zijn.",
+   "D": "dan zou de golflengte 40 m zijn, dat klopt niet met een dipool van 5 m."
+  },
+  "moeilijkheid": 3,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "techniek",
+  "in_examen": true
+ },
+ {
+  "id": "E-h05-04",
+  "bron": "extra",
+  "hoofdstuk": 5,
+  "onderwerp": "ERP",
+  "vraag": "Een zender levert 5 W aan een yagi met winst 8. ERP?",
+  "opties": [
+   "13 W",
+   "40 W",
+   "3 W",
+   "0,6 W"
+  ],
+  "juist": "B",
+  "uitleg": "5 × 8 = 40 W.",
+  "waarom_fout": {
+   "A": "optellen.",
+   "C": "aftrekken.",
+   "D": "delen."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "techniek",
+  "in_examen": true
+ },
+ {
+  "id": "E-h05-05",
+  "bron": "extra",
+  "hoofdstuk": 5,
+  "onderwerp": "ERP",
+  "vraag": "Wat gebeurt er met de ERP als je een antenne met grotere winst neemt en het zendvermogen gelijk houdt?",
+  "opties": [
+   "ze daalt",
+   "ze stijgt",
+   "ze blijft gelijk",
+   "ze wordt nul"
+  ],
+  "juist": "B",
+  "uitleg": "ERP = P × G: grotere winst geeft grotere ERP.",
+  "waarom_fout": {
+   "A": "omgekeerd.",
+   "C": "de winst zit mee in de formule.",
+   "D": "nee."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "techniek",
+  "in_examen": true
+ },
+ {
+  "id": "E-h05-06",
+  "bron": "extra",
+  "hoofdstuk": 5,
+  "onderwerp": "yagi",
+  "vraag": "Welk onderdeel van een yagi is met de coax verbonden?",
+  "opties": [
+   "de reflector",
+   "de director",
+   "de straler",
+   "de drager"
+  ],
+  "juist": "C",
+  "uitleg": "Alleen de straler (een dipool) wordt gevoed.",
+  "waarom_fout": {
+   "A": "de reflector is niet aangesloten.",
+   "B": "de director ook niet.",
+   "D": "de drager draagt alleen de elementen."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "techniek",
+  "in_examen": true
+ },
+ {
+  "id": "E-h05-07",
+  "bron": "extra",
+  "hoofdstuk": 5,
+  "onderwerp": "groundplane",
+  "vraag": "Hoe lang is elke radiaal van een groundplane ongeveer?",
+  "opties": [
+   "λ/8",
+   "λ/4",
+   "λ/2",
+   "λ"
+  ],
+  "juist": "B",
+  "uitleg": "Elke radiaal is ongeveer een kwart golflengte.",
+  "waarom_fout": {
+   "A": "te kort.",
+   "C": "dat is de lengte van een dipool.",
+   "D": "veel te lang."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "techniek",
+  "in_examen": true
+ },
+ {
+  "id": "E-h05-08",
+  "bron": "extra",
+  "hoofdstuk": 5,
+  "onderwerp": "SWR",
+  "vraag": "Wat meet een SWR-meter eigenlijk?",
+  "opties": [
+   "de frequentie",
+   "de verhouding tussen heengaand en teruggekaatst vermogen",
+   "de modulatiediepte",
+   "de winst van de antenne"
+  ],
+  "juist": "B",
+  "uitleg": "Hij vergelijkt wat naar de antenne gaat met wat terugkomt.",
+  "waarom_fout": {
+   "A": "daarvoor heb je een frequentiemeter.",
+   "C": "nee.",
+   "D": "winst meet je zo niet."
+  },
+  "moeilijkheid": 2,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "techniek",
+  "in_examen": true
+ },
+ {
+  "id": "E-h05-09",
+  "bron": "extra",
+  "hoofdstuk": 5,
+  "onderwerp": "SWR",
+  "vraag": "Wat kan een te hoge SWR beschadigen?",
+  "opties": [
+   "de microfoon",
+   "de eindtrap (RF-vermogenversterker)",
+   "de luidspreker",
+   "de antenne"
+  ],
+  "juist": "B",
+  "uitleg": "Het teruggekaatste vermogen wordt warmte in de eindtrap.",
+  "waarom_fout": {
+   "A": "nee.",
+   "C": "nee.",
+   "D": "de antenne raakt niet beschadigd door SWR."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "techniek",
+  "in_examen": true
+ },
+ {
+  "id": "E-h05-10",
+  "bron": "extra",
+  "hoofdstuk": 5,
+  "onderwerp": "coax",
+  "vraag": "Welke laag van de coax beschermt vooral tegen water?",
+  "opties": [
+   "binnengeleider",
+   "diëlektricum",
+   "afscherming",
+   "mantel"
+  ],
+  "juist": "D",
+  "uitleg": "De mantel is weerbestendig en vooral waterdicht.",
+  "waarom_fout": {
+   "A": "draagt het signaal.",
+   "B": "isoleert en centreert.",
+   "C": "houdt RF binnen."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "techniek",
+  "in_examen": true
+ },
+ {
+  "id": "E-h05-11",
+  "bron": "extra",
+  "hoofdstuk": 5,
+  "onderwerp": "connector",
+  "vraag": "Welke connector wordt vooral bij VHF en UHF gebruikt, ook buiten?",
+  "opties": [
+   "cinch",
+   "N",
+   "DIN",
+   "jack"
+  ],
+  "juist": "B",
+  "uitleg": "De N-connector is waterdicht en geschikt voor VHF en UHF.",
+  "waarom_fout": {
+   "A": "audio.",
+   "C": "data/audio.",
+   "D": "audio."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "techniek",
+  "in_examen": true
+ },
+ {
+  "id": "E-h05-12",
+  "bron": "extra",
+  "hoofdstuk": 5,
+  "onderwerp": "symmetrie",
+  "vraag": "Hoe sluit je de coax aan op een ground plane?",
+  "opties": [
+   "binnengeleider aan de straler, afscherming aan de radialen",
+   "afscherming aan de straler, binnengeleider aan de radialen",
+   "beide aan de straler",
+   "met een balun"
+  ],
+  "juist": "A",
+  "uitleg": "Binnengeleider naar de straler, afscherming naar het grondvlak (radialen).",
+  "waarom_fout": {
+   "B": "omgekeerd.",
+   "C": "dan is er geen tegengewicht.",
+   "D": "beide zijn asymmetrisch, een balun is niet nodig."
+  },
+  "moeilijkheid": 2,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "techniek",
+  "in_examen": true
+ },
+ {
+  "id": "E-h05-13",
+  "bron": "extra",
+  "hoofdstuk": 5,
+  "onderwerp": "polarisatie",
+  "vraag": "Waarom maakt polarisatie op HF via de ionosfeer weinig uit?",
+  "opties": [
+   "omdat HF geen polarisatie heeft",
+   "omdat de polarisatie bij reflectie willekeurig verandert",
+   "omdat alle HF-antennes verticaal zijn",
+   "omdat de coax het corrigeert"
+  ],
+  "juist": "B",
+  "uitleg": "Bij reflectie in de ionosfeer verandert de polarisatie willekeurig.",
+  "waarom_fout": {
+   "A": "elke golf heeft een polarisatie.",
+   "C": "nee, veel HF-antennes zijn horizontaal.",
+   "D": "de coax doet niets met polarisatie."
+  },
+  "moeilijkheid": 2,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "techniek",
+  "in_examen": true
+ },
+ {
+  "id": "E-h05-14",
+  "bron": "extra",
+  "hoofdstuk": 5,
+  "onderwerp": "dummy load",
+  "vraag": "Welke SWR ziet een zender aan een goede 50 Ω-dummy load?",
+  "opties": [
+   "ongeveer 1 : 1",
+   "ongeveer 3 : 1",
+   "oneindig",
+   "dat kun je niet meten"
+  ],
+  "juist": "A",
+  "uitleg": "Een goede dummy load past perfect: SWR ongeveer 1 : 1.",
+  "waarom_fout": {
+   "B": "dan is hij slecht.",
+   "C": "dan zou alles terugkomen.",
+   "D": "dat kan wel."
+  },
+  "moeilijkheid": 2,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "techniek",
+  "in_examen": true
+ },
+ {
+  "id": "E-h05-15",
+  "bron": "extra",
+  "hoofdstuk": 5,
+  "onderwerp": "langedraad",
+  "vraag": "Waarvan hangt de resonantiefrequentie van een eindgevoede langedraad af?",
+  "opties": [
+   "alleen van het vermogen",
+   "van de lengte en de hoogte boven de grond",
+   "alleen van de coax",
+   "van de modulatie"
+  ],
+  "juist": "B",
+  "uitleg": "Lengte én hoogte boven de grond bepalen de resonantie.",
+  "waarom_fout": {
+   "A": "vermogen speelt geen rol.",
+   "C": "nee.",
+   "D": "nee."
+  },
+  "moeilijkheid": 2,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "techniek",
+  "in_examen": true
+ }
+]

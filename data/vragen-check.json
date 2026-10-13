@@ -1,0 +1,439 @@
+[
+ {
+  "id": "C-h04-1a",
+  "bron": "check",
+  "hoofdstuk": 4,
+  "onderwerp": "modulatie",
+  "vraag": "Wat is een draaggolf?",
+  "opties": [
+   "Het signaal van de microfoon",
+   "Een hoogfrequente golf zonder boodschap",
+   "Het signaal uit de luidspreker",
+   "Een golf die alleen bij FM bestaat"
+  ],
+  "juist": "B",
+  "uitleg": "De draaggolf is de 'lege' HF-golf die de zender maakt. Pas na moduleren zit er een boodschap in.",
+  "waarom_fout": {
+   "A": "dat is het audiosignaal, laagfrequent.",
+   "C": "dat is wat de ontvanger op het einde weer afgeeft.",
+   "D": "elke modulatiesoort vertrekt van een draaggolf."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h04-1b",
+  "bron": "check",
+  "hoofdstuk": 4,
+  "onderwerp": "modulatie",
+  "vraag": "Moduleren betekent:",
+  "opties": [
+   "de draaggolf laten veranderen op het ritme van stem of data",
+   "het signaal sterker maken",
+   "het signaal naar de antenne brengen",
+   "de frequentie van de zender kiezen"
+  ],
+  "juist": "A",
+  "uitleg": "Moduleren = de boodschap in de draaggolf stoppen door een eigenschap ervan te laten meebewegen.",
+  "waarom_fout": {
+   "B": "dat is versterken (eindversterker).",
+   "C": "dat doet de voedingslijn.",
+   "D": "dat doet de frequentiegenerator."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h04-1c",
+  "bron": "check",
+  "hoofdstuk": 4,
+  "onderwerp": "modulatie",
+  "vraag": "Welke twee eigenschappen van de draaggolf kun je laten meebewegen?",
+  "opties": [
+   "kleur en snelheid",
+   "amplitude en frequentie",
+   "lengte en gewicht",
+   "spanning en weerstand"
+  ],
+  "juist": "B",
+  "uitleg": "Amplitude (hoogte) geeft AM, frequentie (hoe snel trillen) geeft FM.",
+  "waarom_fout": {
+   "A": "een radiogolf heeft geen kleur, en de snelheid is altijd de lichtsnelheid.",
+   "C": "geen eigenschappen van een golf.",
+   "D": "weerstand is een eigenschap van een component, niet van de golf."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h04-2a",
+  "bron": "check",
+  "hoofdstuk": 4,
+  "onderwerp": "AM/FM",
+  "vraag": "Op een tekening zijn de toppen overal even hoog, maar de golven liggen soms dichter bij elkaar. Welk signaal is dat?",
+  "opties": [
+   "AM",
+   "FM",
+   "CW",
+   "een gewone draaggolf"
+  ],
+  "juist": "B",
+  "uitleg": "Gelijke hoogte en wisselende afstand tussen de golven: de frequentie verandert. Dat is FM.",
+  "waarom_fout": {
+   "A": "bij AM verandert de hoogte.",
+   "C": "bij CW valt het signaal af en toe helemaal weg.",
+   "D": "een draaggolf heeft overal dezelfde afstand tussen de golven."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h04-2b",
+  "bron": "check",
+  "hoofdstuk": 4,
+  "onderwerp": "AM/FM",
+  "vraag": "Bij welke modulatie blijft het zendvermogen constant tijdens het spreken?",
+  "opties": [
+   "AM",
+   "SSB",
+   "FM",
+   "bij alle drie"
+  ],
+  "juist": "C",
+  "uitleg": "Bij FM blijft de hoogte van de golf gelijk, dus ook het vermogen. Alleen de frequentie schuift.",
+  "waarom_fout": {
+   "A": "bij AM gaat de hoogte en dus het vermogen mee op en neer.",
+   "B": "bij SSB is er zelfs geen vermogen als je zwijgt.",
+   "D": "alleen bij FM."
+  },
+  "moeilijkheid": 2,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h04-2c",
+  "bron": "check",
+  "hoofdstuk": 4,
+  "onderwerp": "AM/FM",
+  "vraag": "Op een tekening blijven de toppen overal even hoog, maar de golven liggen afwisselend dicht bij elkaar en ver uit elkaar. Wat zie je?",
+  "opties": [
+   "AM",
+   "FM",
+   "CW",
+   "een ongemoduleerde draaggolf"
+  ],
+  "juist": "B",
+  "uitleg": "De afstand tussen de golven verandert: de frequentie verandert. Dat is FM.",
+  "waarom_fout": {
+   "A": "bij AM verandert de hoogte van de toppen.",
+   "C": "bij CW valt het signaal af en toe weg.",
+   "D": "een draaggolf heeft overal dezelfde afstand tussen de golven."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h04-3a",
+  "bron": "check",
+  "hoofdstuk": 4,
+  "onderwerp": "SSB",
+  "vraag": "Uit welke 3 stukken bestaat een AM-signaal?",
+  "opties": [
+   "draaggolf, onderste zijband, bovenste zijband",
+   "microfoon, versterker, antenne",
+   "LSB, USB en FM",
+   "draaggolf, audio en data"
+  ],
+  "juist": "A",
+  "uitleg": "AM = draaggolf in het midden met links en rechts een zijband.",
+  "waarom_fout": {
+   "B": "dat zijn onderdelen van een zender, niet van het signaal.",
+   "C": "FM is een andere modulatiesoort.",
+   "D": "audio en data zijn wat je erin stopt, niet de stukken van het spectrum."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h04-3b",
+  "bron": "check",
+  "hoofdstuk": 4,
+  "onderwerp": "SSB",
+  "vraag": "Je zendt 10 W in SSB. Met hoeveel AM-vermogen kom je ongeveer even sterk over?",
+  "opties": [
+   "10 W",
+   "20 W",
+   "60 W",
+   "100 W"
+  ],
+  "juist": "C",
+  "uitleg": "Bij AM gaat maar 1/6 van het vermogen naar de zijband die je nodig hebt. 6 × 10 W = 60 W.",
+  "waarom_fout": {
+   "A": "dan heb je in AM maar 10 × 1/6 ≈ 1,7 W nuttig vermogen.",
+   "B": "het verschil is groter dan een factor 2.",
+   "D": "te veel; factor 6 volstaat."
+  },
+  "moeilijkheid": 2,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h04-3c",
+  "bron": "check",
+  "hoofdstuk": 4,
+  "onderwerp": "CW",
+  "vraag": "Wat is de eenvoudigste vorm van modulatie?",
+  "opties": [
+   "SSB",
+   "FM",
+   "CW (draaggolf aan en uit)",
+   "data met twee tonen"
+  ],
+  "juist": "C",
+  "uitleg": "Bij CW zet je de draaggolf gewoon aan en uit. Eenvoudiger kan niet.",
+  "waarom_fout": {
+   "A": "SSB vraagt filters om draaggolf en zijband weg te halen.",
+   "B": "FM vraagt een frequentie die meebeweegt.",
+   "D": "daarvoor heb je een computer en een modem nodig."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h04-3d",
+  "bron": "check",
+  "hoofdstuk": 4,
+  "onderwerp": "data",
+  "vraag": "Wat doet een TNC bij datacommunicatie?",
+  "opties": [
+   "Het versterkt het signaal tot 100 W",
+   "Het zet bits om in twee audiotonen",
+   "Het kiest de frequentie",
+   "Het vervangt de antenne"
+  ],
+  "juist": "B",
+  "uitleg": "De TNC (radiomodem) zet nullen en enen om in twee verschillende tonen die de zender in gaan.",
+  "waarom_fout": {
+   "A": "dat doet de eindversterker.",
+   "C": "dat doet de frequentiegenerator.",
+   "D": "een antenne blijft altijd nodig."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h04-4a",
+  "bron": "check",
+  "hoofdstuk": 4,
+  "onderwerp": "zender",
+  "vraag": "Welk blok bepaalt op welke frequentie je zendt?",
+  "opties": [
+   "de antenne",
+   "de frequentiegenerator",
+   "de eindversterker",
+   "de microfoonversterker"
+  ],
+  "juist": "B",
+  "uitleg": "De frequentiegenerator (oscillator) maakt de draaggolf en legt dus de frequentie vast.",
+  "waarom_fout": {
+   "A": "de antenne straalt alleen uit wat ze krijgt.",
+   "C": "die maakt het signaal sterker, niet van een andere frequentie.",
+   "D": "die werkt met audio, niet met de zendfrequentie."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h04-4b",
+  "bron": "check",
+  "hoofdstuk": 4,
+  "onderwerp": "zender",
+  "vraag": "Met welke blokken is de modulator verbonden?",
+  "opties": [
+   "alleen met de microfoon",
+   "met de frequentiegenerator en de antenne",
+   "met de frequentiegenerator, de microfoonversterker en de eindversterker",
+   "alleen met de eindversterker"
+  ],
+  "juist": "C",
+  "uitleg": "De modulator zit in het midden: draaggolf komt van links, audio van onder, en het resultaat gaat naar rechts naar de eindversterker.",
+  "waarom_fout": {
+   "A": "tussen microfoon en modulator zit nog de microfoonversterker.",
+   "B": "de antenne hangt aan de voedingslijn.",
+   "D": "er komen ook draaggolf en audio binnen."
+  },
+  "moeilijkheid": 2,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h04-4c",
+  "bron": "check",
+  "hoofdstuk": 4,
+  "onderwerp": "zender",
+  "vraag": "Zet in de juiste volgorde, van stem tot antenne:",
+  "opties": [
+   "microfoon, modulator, microfoonversterker, eindversterker, antenne",
+   "microfoon, microfoonversterker, modulator, eindversterker, voedingslijn, antenne",
+   "microfoon, eindversterker, modulator, antenne",
+   "microfoon, voedingslijn, modulator, antenne"
+  ],
+  "juist": "B",
+  "uitleg": "Eerst versterk je je stem, dan gaat ze in de modulator, dan wordt alles sterk gemaakt en via de coax naar de antenne gestuurd.",
+  "waarom_fout": {
+   "A": "de microfoonversterker komt vóór de modulator.",
+   "C": "de eindversterker komt na de modulator.",
+   "D": "de voedingslijn zit tussen eindversterker en antenne."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h04-5a",
+  "bron": "check",
+  "hoofdstuk": 4,
+  "onderwerp": "overmodulatie",
+  "vraag": "Wat zie je op de tekening van een overgemoduleerd AM-signaal?",
+  "opties": [
+   "toppen die afgeplat zijn",
+   "golven die dichter bij elkaar komen",
+   "een signaal dat volledig wegvalt",
+   "een perfecte sinus"
+  ],
+  "juist": "A",
+  "uitleg": "Het signaal wil hoger dan de zender kan. De toppen worden afgeknipt en plat.",
+  "waarom_fout": {
+   "B": "dat is FM.",
+   "C": "dat is CW.",
+   "D": "dat is een ongemoduleerde draaggolf."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h04-5b",
+  "bron": "check",
+  "hoofdstuk": 4,
+  "onderwerp": "overmodulatie",
+  "vraag": "Je modulatie klinkt vervormd en een station naast je klaagt over storing. Wat doe je eerst?",
+  "opties": [
+   "vermogen verhogen",
+   "microfoonversterking lager zetten",
+   "een andere antenne nemen",
+   "de frequentiegenerator bijregelen"
+  ],
+  "juist": "B",
+  "uitleg": "Vervorming en storing naast je frequentie wijzen op een te sterk audiosignaal. Zet de microfoonversterking (MIC GAIN) lager.",
+  "waarom_fout": {
+   "A": "dat maakt de storing alleen erger.",
+   "C": "de antenne heeft hier niets mee te maken.",
+   "D": "die bepaalt de frequentie, niet de modulatie."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h04-5c",
+  "bron": "check",
+  "hoofdstuk": 4,
+  "onderwerp": "overmodulatie",
+  "vraag": "Wat is bij FM het gevolg van te luid in de microfoon spreken?",
+  "opties": [
+   "het vermogen daalt",
+   "de frequentiezwaai wordt te groot en je stoort nabije frequenties",
+   "de antenne wordt beschadigd",
+   "er gebeurt niets bij FM"
+  ],
+  "juist": "B",
+  "uitleg": "Bij FM bepaalt de luidheid hoe ver de frequentie uitzwaait. Te luid = te breed signaal = storing op de buren.",
+  "waarom_fout": {
+   "A": "bij FM blijft het vermogen constant.",
+   "C": "de antenne merkt hier niets van.",
+   "D": "ook bij FM gaat het mis."
+  },
+  "moeilijkheid": 2,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h04-6a",
+  "bron": "check",
+  "hoofdstuk": 4,
+  "onderwerp": "ontvanger",
+  "vraag": "Wat doet de demodulator?",
+  "opties": [
+   "het signaal kiezen",
+   "de spraak uit de radiogolf halen",
+   "de spraak luider maken",
+   "de radiogolf opvangen"
+  ],
+  "juist": "B",
+  "uitleg": "De demodulator haalt de spraak of data weer uit de radiogolf.",
+  "waarom_fout": {
+   "A": "dat is afstemmen, in de ingangstrap.",
+   "C": "dat doet de audioversterker.",
+   "D": "dat doet de antenne."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h04-6b",
+  "bron": "check",
+  "hoofdstuk": 4,
+  "onderwerp": "ontvanger",
+  "vraag": "Welk blok van de ontvanger is het omgekeerde van de modulator in de zender?",
+  "opties": [
+   "de audioversterker",
+   "de afstemming",
+   "de demodulator",
+   "de antenne"
+  ],
+  "juist": "C",
+  "uitleg": "De modulator stopt de spraak in de golf, de demodulator haalt ze er weer uit.",
+  "waarom_fout": {
+   "A": "die versterkt alleen.",
+   "B": "die kiest het signaal.",
+   "D": "die vangt op."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h04-6c",
+  "bron": "check",
+  "hoofdstuk": 4,
+  "onderwerp": "ontvanger",
+  "vraag": "Zet de ontvanger in de juiste volgorde, van antenne tot luidspreker:",
+  "opties": [
+   "antenne, demodulator, afstemming, audioversterker, luidspreker",
+   "antenne, transmissielijn, afstemming + RF-versterking, demodulator, audioversterker, luidspreker",
+   "antenne, audioversterker, demodulator, afstemming, luidspreker",
+   "antenne, transmissielijn, audioversterker, afstemming, luidspreker"
+  ],
+  "juist": "B",
+  "uitleg": "Eerst afstemmen, dan demoduleren, dan versterken voor de luidspreker.",
+  "waarom_fout": {
+   "A": "afstemmen komt vóór demoduleren, en de transmissielijn ontbreekt.",
+   "C": "volledig omgekeerd.",
+   "D": "de audioversterker komt helemaal achteraan."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ }
+]

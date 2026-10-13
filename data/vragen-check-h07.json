@@ -1,0 +1,324 @@
+[
+ {
+  "id": "C-h07-1a",
+  "bron": "check",
+  "hoofdstuk": 7,
+  "onderwerp": "EMC",
+  "vraag": "Waar staat EMC voor?",
+  "opties": [
+   "elektrische motor controle",
+   "elektromagnetische compatibiliteit",
+   "extra modulatie circuit",
+   "elektronisch meetcentrum"
+  ],
+  "juist": "B",
+  "uitleg": "Elektromagnetische compatibiliteit.",
+  "waarom_fout": {
+   "A": "verzonnen.",
+   "C": "verzonnen.",
+   "D": "verzonnen."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h07-1b",
+  "bron": "check",
+  "hoofdstuk": 7,
+  "onderwerp": "EMC",
+  "vraag": "Welke draad kan jouw signaal opvangen en een toestel storen?",
+  "opties": [
+   "alleen de antennekabel van de tv",
+   "elke draad, ook het elektriciteitsnet en luidsprekerkabels",
+   "alleen draden langer dan 100 m",
+   "geen enkele draad"
+  ],
+  "juist": "B",
+  "uitleg": "Elke draad kan als antenne werken.",
+  "waarom_fout": {
+   "A": "niet alleen die.",
+   "C": "ook korte draden.",
+   "D": "het kan wel."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h07-1c",
+  "bron": "check",
+  "hoofdstuk": 7,
+  "onderwerp": "EMC",
+  "vraag": "Bij welke frequenties vangen zelfs de draadjes binnen in een toestel je signaal op?",
+  "opties": [
+   "alleen op 160 m",
+   "VHF en UHF",
+   "alleen op 80 m",
+   "nooit"
+  ],
+  "juist": "B",
+  "uitleg": "Op VHF en UHF is de golf kort genoeg voor directe instraling.",
+  "waarom_fout": {
+   "A": "daar is de golf heel lang.",
+   "C": "daar ook.",
+   "D": "het kan op VHF/UHF."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h07-2a",
+  "bron": "check",
+  "hoofdstuk": 7,
+  "onderwerp": "voorkomen",
+  "vraag": "Welke opstelling geeft de minste kans op storing?",
+  "opties": [
+   "langedraad laag naast het huis",
+   "dipool hoog en ver van het huis",
+   "dipool op zolder",
+   "langedraad aan de dakgoot"
+  ],
+  "juist": "B",
+  "uitleg": "Ver, hoog en symmetrisch.",
+  "waarom_fout": {
+   "A": "laag, dichtbij, asymmetrisch: de slechtste.",
+   "C": "vlak bij de toestellen.",
+   "D": "vlak bij het huis en asymmetrisch."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h07-2b",
+  "bron": "check",
+  "hoofdstuk": 7,
+  "onderwerp": "voorkomen",
+  "vraag": "Welke modulatie geeft de meeste kans op storing?",
+  "opties": [
+   "CW",
+   "FM",
+   "SSB",
+   "PSK31"
+  ],
+  "juist": "C",
+  "uitleg": "SSB geeft de meeste kans.",
+  "waarom_fout": {
+   "A": "veel minder.",
+   "B": "veel minder.",
+   "D": "veel minder."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h07-2c",
+  "bron": "check",
+  "hoofdstuk": 7,
+  "onderwerp": "voorkomen",
+  "vraag": "Wat is een eerste, eenvoudige stap als je stoort?",
+  "opties": [
+   "het vermogen verlagen",
+   "het vermogen verhogen",
+   "harder spreken",
+   "overschakelen naar SSB"
+  ],
+  "juist": "A",
+  "uitleg": "Minder vermogen = minder kans op storing.",
+  "waarom_fout": {
+   "B": "maakt het erger.",
+   "C": "maakt het erger.",
+   "D": "SSB geeft net meer kans."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h07-3a",
+  "bron": "check",
+  "hoofdstuk": 7,
+  "onderwerp": "immuniteit",
+  "vraag": "Over welk toestel gaat immuniteit?",
+  "opties": [
+   "de zender",
+   "het gestoorde toestel",
+   "de antenne",
+   "de SWR-meter"
+  ],
+  "juist": "B",
+  "uitleg": "Immuniteit is een eigenschap van het toestel dat gestoord wordt.",
+  "waarom_fout": {
+   "A": "nee.",
+   "C": "nee.",
+   "D": "nee."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h07-3b",
+  "bron": "check",
+  "hoofdstuk": 7,
+  "onderwerp": "immuniteit",
+  "vraag": "Waarom is een ferrietring een veilige oplossing?",
+  "opties": [
+   "omdat hij de stroom afsluit",
+   "omdat je de draden niet hoeft door te knippen of aan te sluiten",
+   "omdat hij de spanning verlaagt",
+   "omdat hij geaard is"
+  ],
+  "juist": "B",
+  "uitleg": "Je wikkelt de kabel gewoon door de ring.",
+  "waarom_fout": {
+   "A": "de 230 V gaat gewoon door.",
+   "C": "nee.",
+   "D": "nee."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h07-3c",
+  "bron": "check",
+  "hoofdstuk": 7,
+  "onderwerp": "immuniteit",
+  "vraag": "Je zet een filter in het netsnoer van de tv van je buur. Waar het best?",
+  "opties": [
+   "bij het stopcontact",
+   "in het midden van het snoer",
+   "vlak bij de tv",
+   "in de meterkast"
+  ],
+  "juist": "C",
+  "uitleg": "Zo dicht mogelijk bij het gestoorde toestel.",
+  "waarom_fout": {
+   "A": "het snoer erna pikt weer op.",
+   "B": "ook dan pikt het stuk naar de tv weer op.",
+   "D": "veel te ver."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h07-4a",
+  "bron": "check",
+  "hoofdstuk": 7,
+  "onderwerp": "aarding",
+  "vraag": "Hoe ziet een goede RF-aarding eruit?",
+  "opties": [
+   "lang en dun",
+   "kort en dik, naar een aardpen",
+   "via het stopcontact",
+   "via de waterleiding van de buur"
+  ],
+  "juist": "B",
+  "uitleg": "Kort en dik naar een aardpen.",
+  "waarom_fout": {
+   "A": "lang en dun werkt slecht.",
+   "C": "net dat wil je vermijden.",
+   "D": "nee."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h07-4b",
+  "bron": "check",
+  "hoofdstuk": 7,
+  "onderwerp": "aarding",
+  "vraag": "Vervangt een RF-aarding de veiligheidsaarding van het huis?",
+  "opties": [
+   "ja",
+   "nee",
+   "alleen op HF",
+   "alleen bij meer dan 100 W"
+  ],
+  "juist": "B",
+  "uitleg": "Nooit: de veiligheidsaarding blijft altijd nodig.",
+  "waarom_fout": {
+   "A": "nee.",
+   "C": "nee.",
+   "D": "nee."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h07-5a",
+  "bron": "check",
+  "hoofdstuk": 7,
+  "onderwerp": "buren",
+  "vraag": "Welke dienst van het BIPT komt ter plaatse meten?",
+  "opties": [
+   "de UBA",
+   "het NCS",
+   "de VRT",
+   "de politie"
+  ],
+  "juist": "B",
+  "uitleg": "Het NCS, de Nationale dienst voor de Controle van het Spectrum.",
+  "waarom_fout": {
+   "A": "de UBA is de vereniging van radioamateurs.",
+   "C": "een omroep.",
+   "D": "niet bevoegd voor metingen."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h07-5b",
+  "bron": "check",
+  "hoofdstuk": 7,
+  "onderwerp": "buren",
+  "vraag": "Bij wie vraag je hulp voor je naar het BIPT gaat?",
+  "opties": [
+   "de EMC-commissie van de UBA",
+   "de gemeente",
+   "de netbeheerder",
+   "de tv-winkel"
+  ],
+  "juist": "A",
+  "uitleg": "Ervaren radioamateurs en de EMC-commissie van de UBA.",
+  "waarom_fout": {
+   "B": "niet bevoegd.",
+   "C": "niet de eerste stap.",
+   "D": "niet de eerste stap."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h07-5c",
+  "bron": "check",
+  "hoofdstuk": 7,
+  "onderwerp": "buren",
+  "vraag": "Je station werkt volgens de regels en het NCS komt meten. Wat moet je vrezen?",
+  "opties": [
+   "inbeslagname",
+   "niets",
+   "een boete",
+   "het verlies van je vergunning"
+  ],
+  "juist": "B",
+  "uitleg": "Een correct werkend station heeft niets te vrezen.",
+  "waarom_fout": {
+   "A": "niet bij een correct station.",
+   "C": "niet bij een correct station.",
+   "D": "niet bij een correct station."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ }
+]

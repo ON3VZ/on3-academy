@@ -1,0 +1,750 @@
+[
+ {
+  "id": "C-h06-1a",
+  "vraag": "À quel phénomène la propagation des ondes radio ressemble-t-elle le plus ?",
+  "opties": [
+   "le son dans l'eau",
+   "la lumière",
+   "le courant dans un fil",
+   "le vent"
+  ],
+  "uitleg": "Les ondes radio se comportent comme la lumière : en ligne droite, réflexion, déviation.",
+  "waarom_fout": {
+   "A": "non.",
+   "C": "non, l'onde voyage à travers l'espace.",
+   "D": "non."
+  },
+  "onderwerp": "propagation"
+ },
+ {
+  "id": "C-h06-1b",
+  "vraag": "Que se passe-t-il avec une onde radio qui heurte une grande paroi métallique ?",
+  "opties": [
+   "elle disparaît",
+   "elle est réfléchie",
+   "elle devient plus forte",
+   "elle change de fréquence"
+  ],
+  "uitleg": "Une onde rebondit sur une paroi, comme la lumière sur un miroir.",
+  "waarom_fout": {
+   "A": "elle rebondit.",
+   "C": "une onde ne devient jamais plus forte.",
+   "D": "la fréquence reste la même."
+  },
+  "onderwerp": "propagation"
+ },
+ {
+  "id": "C-h06-1c",
+  "vraag": "Vers quelle fréquence se situe la limite entre HF et VHF ?",
+  "opties": [
+   "3 MHz",
+   "30 MHz",
+   "300 MHz",
+   "3 000 MHz"
+  ],
+  "uitleg": "La HF va jusqu'à 30 MHz, au-dessus commence la VHF.",
+  "waarom_fout": {
+   "A": "3 MHz est en plein dans la gamme HF (le 80 m se situe vers 3,5 MHz).",
+   "C": "300 MHz est la limite VHF/UHF.",
+   "D": "beaucoup trop haut."
+  },
+  "onderwerp": "propagation"
+ },
+ {
+  "id": "C-h06-2a",
+  "vraag": "Sur quelle bande un bâtiment ordinaire crée-t-il déjà une zone d'ombre ?",
+  "opties": [
+   "80 m",
+   "20 m",
+   "70 cm",
+   "160 m"
+  ],
+  "uitleg": "Sur 70 cm, l'onde est si courte que même un bâtiment ordinaire projette une ombre.",
+  "waarom_fout": {
+   "A": "HF : l'onde est beaucoup plus longue que le bâtiment.",
+   "B": "HF.",
+   "D": "HF."
+  },
+  "onderwerp": "ombre"
+ },
+ {
+  "id": "C-h06-2b",
+  "vraag": "Qu'est-ce qui laisse le mieux passer la VHF et l'UHF ?",
+  "opties": [
+   "le béton armé",
+   "un mur épais en briques",
+   "le verre",
+   "une porte métallique"
+  ],
+  "uitleg": "Le verre laisse bien passer l'onde.",
+  "waarom_fout": {
+   "A": "le béton avec du métal arrête beaucoup.",
+   "B": "les murs épais arrêtent beaucoup.",
+   "D": "le métal arrête tout."
+  },
+  "onderwerp": "bâtiment"
+ },
+ {
+  "id": "C-h06-2c",
+  "vraag": "Pourquoi n'y a-t-il presque pas de zone d'ombre derrière une colline en HF ?",
+  "opties": [
+   "parce que les émetteurs HF sont plus puissants",
+   "parce que l'onde est beaucoup plus longue que la plupart des obstacles",
+   "parce que la HF est toujours horizontale",
+   "parce que la HF ne va pas en ligne droite"
+  ],
+  "uitleg": "Un obstacle ne projette une ombre que s'il est grand par rapport à la longueur d'onde.",
+  "waarom_fout": {
+   "A": "la puissance n'est pas la raison.",
+   "C": "la polarisation n'est pas la raison.",
+   "D": "la HF aussi va en principe en ligne droite."
+  },
+  "onderwerp": "ombre"
+ },
+ {
+  "id": "C-h06-3a",
+  "vraag": "Vous voulez mieux recevoir sur 2 m. Qu'est-ce qui aide ?",
+  "opties": [
+   "plus de puissance d'émission",
+   "placer l'antenne plus haut",
+   "une antenne plus basse",
+   "moins de puissance"
+  ],
+  "uitleg": "La hauteur aide en réception ; la puissance non.",
+  "waarom_fout": {
+   "A": "la puissance aide seulement en émission.",
+   "C": "plus bas, c'est moins bien.",
+   "D": "la puissance ne joue aucun rôle en réception."
+  },
+  "onderwerp": "portée"
+ },
+ {
+  "id": "C-h06-3b",
+  "vraag": "Quelle bande a la plus grande portée (à hauteur d'antenne égale) ?",
+  "opties": [
+   "2 m",
+   "70 cm",
+   "23 cm",
+   "toutes la même"
+  ],
+  "uitleg": "En VHF/UHF : fréquence plus basse = portée plus grande. Le 2 m est la plus basse des trois.",
+  "waarom_fout": {
+   "B": "fréquence plus haute, portée plus petite.",
+   "C": "fréquence encore plus haute.",
+   "D": "la fréquence joue un rôle."
+  },
+  "onderwerp": "portée"
+ },
+ {
+  "id": "C-h06-3c",
+  "vraag": "Jusqu'où porte généralement un signal VHF ?",
+  "opties": [
+   "quelques mètres",
+   "à peu près l'horizon",
+   "l'autre bout du monde",
+   "la Lune, toujours"
+  ],
+  "uitleg": "Généralement pas beaucoup plus loin que l'horizon.",
+  "waarom_fout": {
+   "A": "beaucoup plus loin.",
+   "C": "ça, c'est la HF via l'ionosphère.",
+   "D": "non."
+  },
+  "onderwerp": "portée"
+ },
+ {
+  "id": "C-h06-3d",
+  "vraag": "Pourquoi une antenne plus haute vaut-elle mieux que plus de puissance ?",
+  "opties": [
+   "c'est moins cher",
+   "cela aide en émission et en réception",
+   "cela consomme moins de courant",
+   "cela change la polarisation"
+  ],
+  "uitleg": "Une antenne plus haute aide dans les deux sens, plus de puissance seulement en émission.",
+  "waarom_fout": {
+   "A": "le prix n'est pas la raison à connaître.",
+   "C": "ce n'est pas la raison.",
+   "D": "la polarisation reste la même."
+  },
+  "onderwerp": "portée"
+ },
+ {
+  "id": "C-h06-4a",
+  "vraag": "À quelle altitude se trouve l'ionosphère ?",
+  "opties": [
+   "1 à 10 km",
+   "70 à 400 km",
+   "1 000 à 5 000 km",
+   "36 000 km"
+  ],
+  "uitleg": "70 à 400 km.",
+  "waarom_fout": {
+   "A": "c'est la troposphère.",
+   "C": "trop haut.",
+   "D": "c'est l'altitude des satellites géostationnaires."
+  },
+  "onderwerp": "ionosphère"
+ },
+ {
+  "id": "C-h06-4b",
+  "vraag": "Qu'est-ce qui charge (ionise) le gaz de l'ionosphère ?",
+  "opties": [
+   "les radioamateurs",
+   "le rayonnement du soleil",
+   "la Lune",
+   "le vent"
+  ],
+  "uitleg": "Le soleil ionise les couches de gaz.",
+  "waarom_fout": {
+   "A": "non.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "ionosphère"
+ },
+ {
+  "id": "C-h06-4c",
+  "vraag": "Que se passe-t-il généralement avec une onde de 144 MHz qui monte vers l'ionosphère ?",
+  "opties": [
+   "elle est renvoyée",
+   "elle la traverse et part dans l'espace",
+   "elle devient plus forte",
+   "elle devient de la HF"
+  ],
+  "uitleg": "La VHF traverse généralement l'ionosphère.",
+  "waarom_fout": {
+   "A": "ça, c'est ce que fait la HF.",
+   "C": "non.",
+   "D": "la fréquence ne change pas."
+  },
+  "onderwerp": "ionosphère"
+ },
+ {
+  "id": "C-h06-5a",
+  "vraag": "Qu'est-ce qui n'a pas d'influence sur les conditions HF ?",
+  "opties": [
+   "l'heure de la journée",
+   "la saison",
+   "la modulation (SSB ou CW)",
+   "le cycle des taches solaires"
+  ],
+  "uitleg": "La modulation ne joue aucun rôle dans la réflexion.",
+  "waarom_fout": {
+   "A": "a bien une influence.",
+   "B": "a bien une influence.",
+   "D": "a bien une influence."
+  },
+  "onderwerp": "conditions"
+ },
+ {
+  "id": "C-h06-5b",
+  "vraag": "Combien de temps dure environ un cycle des taches solaires ?",
+  "opties": [
+   "1 an",
+   "4 ans",
+   "11 ans",
+   "50 ans"
+  ],
+  "uitleg": "Environ 11 ans.",
+  "waarom_fout": {
+   "A": "trop court.",
+   "B": "trop court.",
+   "D": "trop long."
+  },
+  "onderwerp": "conditions"
+ },
+ {
+  "id": "C-h06-5c",
+  "vraag": "Pourquoi ne va-t-on pas loin sur 80 m pendant la journée ?",
+  "opties": [
+   "parce que la couche D absorbe les basses fréquences",
+   "parce que le soleil réchauffe l'antenne",
+   "parce qu'il y a plus d'amateurs pendant la journée",
+   "parce que la couche F disparaît alors"
+  ],
+  "uitleg": "Le jour, la couche D absorbe les basses fréquences.",
+  "waarom_fout": {
+   "B": "non.",
+   "C": "non.",
+   "D": "justement, la couche F est bien présente le jour."
+  },
+  "onderwerp": "conditions"
+ },
+ {
+  "id": "O184",
+  "vraag": "La propagation des ondes radio se fait :",
+  "opties": [
+   "en ligne droite en toutes circonstances",
+   "en ligne droite, sauf si elles sont déviées ou réfléchies",
+   "uniquement par réflexion",
+   "uniquement par déviation"
+  ],
+  "uitleg": "Les ondes radio vont en ligne droite, sauf si elles sont déviées ou réfléchies.",
+  "waarom_fout": {
+   "A": "elles peuvent aussi être déviées ou réfléchies.",
+   "C": "pas uniquement par réflexion : la plupart du temps, simplement en ligne droite.",
+   "D": "pas uniquement par déviation."
+  },
+  "onderwerp": "notions de base de la propagation"
+ },
+ {
+  "id": "O185",
+  "vraag": "Les ondes radio peuvent :",
+  "opties": [
+   "seulement être réfléchies",
+   "seulement être déviées",
+   "être aussi bien déviées que réfléchies",
+   "n'être ni déviées, ni réfléchies"
+  ],
+  "uitleg": "Les ondes radio peuvent être aussi bien déviées que réfléchies.",
+  "waarom_fout": {
+   "A": "la déviation est aussi possible.",
+   "B": "la réflexion est aussi possible.",
+   "D": "justement, les deux sont possibles."
+  },
+  "onderwerp": "notions de base de la propagation"
+ },
+ {
+  "id": "O186",
+  "vraag": "En se propageant, les ondes radio deviennent :",
+  "opties": [
+   "de plus en plus faibles",
+   "de plus en plus fortes",
+   "ni plus fortes, ni plus faibles, sauf en cas de réflexion ou de déviation",
+   "plus fortes en cas de réflexion et plus faibles en cas de déviation"
+  ],
+  "uitleg": "Plus on s'éloigne de l'antenne, plus l'onde est faible.",
+  "waarom_fout": {
+   "B": "une onde ne devient jamais plus forte en chemin.",
+   "C": "elle devient toujours plus faible, même sans réflexion.",
+   "D": "la réflexion ne rend pas une onde plus forte."
+  },
+  "onderwerp": "notions de base de la propagation"
+ },
+ {
+  "id": "O187",
+  "vraag": "Les collines peuvent créer des zones d'ombre pour les ondes radio :",
+  "opties": [
+   "uniquement en HF mais pas en VHF et UHF",
+   "uniquement en UHF mais pas en HF et VHF",
+   "aussi bien en VHF qu'en UHF",
+   "uniquement en VHF mais pas en HF ou UHF"
+  ],
+  "uitleg": "Les collines créent des zones d'ombre en VHF et en UHF.",
+  "waarom_fout": {
+   "A": "justement pas en HF : l'onde y est beaucoup plus longue que la colline.",
+   "B": "aussi en VHF.",
+   "D": "aussi en UHF, et pas en HF."
+  },
+  "onderwerp": "propagation VHF UHF"
+ },
+ {
+  "id": "O188",
+  "vraag": "Avec un appareil radio portatif VHF ou UHF dans un bâtiment, on a généralement la meilleure réception :",
+  "opties": [
+   "près d'un mur en béton",
+   "près d'une fenêtre en verre",
+   "uniquement au milieu du bâtiment",
+   "à environ une longueur d'onde du milieu du bâtiment"
+  ],
+  "uitleg": "Le verre laisse bien passer la VHF et l'UHF : placez-vous près d'une fenêtre.",
+  "waarom_fout": {
+   "A": "le béton arrête le signal.",
+   "C": "au milieu, le signal doit traverser le plus de murs.",
+   "D": "cette règle n'existe pas."
+  },
+  "onderwerp": "propagation VHF UHF"
+ },
+ {
+  "id": "O189",
+  "vraag": "En VHF, la distance pouvant être couverte dépend :",
+  "opties": [
+   "aussi bien de la hauteur de l'antenne que de la puissance d'émission",
+   "de la hauteur de l'antenne mais pas de la puissance d'émission",
+   "pas de la hauteur de l'antenne mais bien de la puissance d'émission",
+   "ni de la hauteur de l'antenne, ni de la puissance d'émission"
+  ],
+  "uitleg": "En VHF, la portée dépend de la hauteur d'antenne et de la puissance d'émission.",
+  "waarom_fout": {
+   "B": "la puissance joue aussi un rôle (en émission).",
+   "C": "justement, la hauteur joue un grand rôle.",
+   "D": "les deux jouent un rôle."
+  },
+  "onderwerp": "propagation VHF UHF"
+ },
+ {
+  "id": "O190",
+  "vraag": "En UHF, la distance pouvant être couverte dépend :",
+  "opties": [
+   "aussi bien de la vue dégagée entre les antennes que de la puissance d'émission",
+   "de la vue dégagée entre les antennes mais pas de la puissance d'émission",
+   "pas de la vue dégagée entre les antennes mais bien de la puissance d'émission",
+   "ni de la vue dégagée entre les antennes, ni de la puissance d'émission"
+  ],
+  "uitleg": "En UHF, la portée dépend de la vue dégagée et de la puissance d'émission.",
+  "waarom_fout": {
+   "B": "la puissance joue aussi un rôle.",
+   "C": "justement, la vue dégagée est très importante.",
+   "D": "les deux jouent un rôle."
+  },
+  "onderwerp": "propagation VHF UHF"
+ },
+ {
+  "id": "O191",
+  "vraag": "Pour augmenter la portée d'un amateur VHF, on va de préférence :",
+  "opties": [
+   "augmenter la puissance d'émission",
+   "diminuer la puissance d'émission",
+   "placer l'antenne plus haut",
+   "placer l'antenne plus bas"
+  ],
+  "uitleg": "Le mieux est de placer l'antenne plus haut : cela aide en émission et en réception.",
+  "waarom_fout": {
+   "A": "plus de puissance aide seulement en émission ; une antenne plus haute est meilleure.",
+   "B": "moins de puissance réduit la portée.",
+   "D": "placer l'antenne plus bas réduit la portée."
+  },
+  "onderwerp": "propagation VHF UHF"
+ },
+ {
+  "id": "O192",
+  "vraag": "Si, en UHF, on place les antennes plus haut :",
+  "opties": [
+   "cela n'apporte une amélioration qu'en émission",
+   "cela apporte une amélioration aussi bien en émission qu'en réception",
+   "cela n'apporte une amélioration qu'en réception",
+   "cela n'apporte d'amélioration ni en émission, ni en réception"
+  ],
+  "uitleg": "Une antenne plus haute aide en émission et en réception.",
+  "waarom_fout": {
+   "A": "aussi en réception.",
+   "C": "aussi en émission.",
+   "D": "justement, cela aide dans les deux cas."
+  },
+  "onderwerp": "propagation VHF UHF"
+ },
+ {
+  "id": "O193",
+  "vraag": "Si, en VHF, on augmente la puissance d'émission :",
+  "opties": [
+   "cela n'apporte une amélioration qu'en émission",
+   "cela apporte une amélioration aussi bien en émission qu'en réception",
+   "cela n'apporte une amélioration qu'en réception",
+   "cela n'apporte d'amélioration ni en émission, ni en réception"
+  ],
+  "uitleg": "Plus de puissance d'émission aide seulement en émission : vous n'entendez pas mieux les autres.",
+  "waarom_fout": {
+   "B": "en réception, rien ne change.",
+   "C": "c'est l'inverse : cela aide en émission, pas en réception.",
+   "D": "en émission, cela aide bel et bien."
+  },
+  "onderwerp": "propagation VHF UHF"
+ },
+ {
+  "id": "O194",
+  "vraag": "En VHF et UHF :",
+  "opties": [
+   "une antenne intérieure fonctionne mieux qu'une antenne extérieure",
+   "une antenne extérieure fonctionne mieux qu'une antenne intérieure",
+   "une antenne intérieure fonctionne aussi bien qu'une antenne extérieure",
+   "une antenne extérieure ne fonctionne jamais aussi bien qu'une antenne intérieure"
+  ],
+  "uitleg": "En VHF et UHF, une antenne extérieure fonctionne mieux : les murs arrêtent le signal.",
+  "waarom_fout": {
+   "A": "c'est l'inverse.",
+   "C": "à l'intérieur, les murs affaiblissent le signal.",
+   "D": "c'est l'inverse."
+  },
+  "onderwerp": "propagation VHF UHF"
+ },
+ {
+  "id": "O195",
+  "vraag": "En VHF et UHF :",
+  "opties": [
+   "la portée est la plus grande quand l'antenne est placée à une hauteur d'environ 5 longueurs d'onde",
+   "la portée ne dépend pas de la fréquence",
+   "la portée diminue quand la fréquence augmente",
+   "la portée augmente quand la fréquence augmente"
+  ],
+  "uitleg": "En VHF et UHF, la portée diminue à mesure que la fréquence augmente.",
+  "waarom_fout": {
+   "A": "cette règle n'existe pas.",
+   "B": "la fréquence joue bien un rôle.",
+   "D": "c'est l'inverse : plus haut = portée plus petite."
+  },
+  "onderwerp": "propagation VHF UHF"
+ },
+ {
+  "id": "O196",
+  "vraag": "En VHF et UHF :",
+  "opties": [
+   "les ondes radio ne vont généralement pas beaucoup plus loin que quelques centaines de mètres",
+   "les ondes radio vont généralement beaucoup plus loin que l'horizon optique",
+   "les ondes radio n'atteignent généralement pas l'horizon optique",
+   "les ondes radio ne vont généralement pas beaucoup plus loin que l'horizon optique"
+  ],
+  "uitleg": "En VHF et UHF, on ne va généralement pas beaucoup plus loin que l'horizon optique.",
+  "waarom_fout": {
+   "A": "c'est généralement bien plus que quelques centaines de mètres.",
+   "B": "pas beaucoup plus loin que l'horizon, sauf exceptions.",
+   "C": "généralement, on atteint bien l'horizon."
+  },
+  "onderwerp": "propagation VHF UHF"
+ },
+ {
+  "id": "O197",
+  "vraag": "L'ionosphère est constituée de couches de gaz ionisées à une altitude d'environ :",
+  "opties": [
+   "5 à 15 km",
+   "20 à 50 km",
+   "70 à 400 km",
+   "500 à 2000 km"
+  ],
+  "uitleg": "L'ionosphère se situe à environ 70 à 400 km d'altitude.",
+  "waarom_fout": {
+   "A": "5 à 15 km, c'est la troposphère.",
+   "B": "trop bas.",
+   "D": "trop haut."
+  },
+  "onderwerp": "propagation HF et ionosphère"
+ },
+ {
+  "id": "O198",
+  "vraag": "L'ionosphère est constituée :",
+  "opties": [
+   "de couches d'air de températures différentes",
+   "de couches de gaz ionisées",
+   "de différentes couches de métal conducteur",
+   "de rien, car elle est vide d'air"
+  ],
+  "uitleg": "L'ionosphère est constituée de couches de gaz ionisées.",
+  "waarom_fout": {
+   "A": "il s'agit de gaz chargé, pas de température.",
+   "C": "il n'y a pas de métal.",
+   "D": "elle n'est pas vide d'air : il y a du gaz (très raréfié)."
+  },
+  "onderwerp": "propagation HF et ionosphère"
+ },
+ {
+  "id": "O199",
+  "vraag": "Les communications à grande distance en HF se font principalement par :",
+  "opties": [
+   "réflexion des ondes radio sur des inversions de température dans la troposphère",
+   "des liaisons directes à vue",
+   "réflexion des ondes radio dans l'ionosphère",
+   "déviation des ondes radio à la surface de la Terre"
+  ],
+  "uitleg": "Grandes distances en HF : par réflexion dans l'ionosphère.",
+  "waarom_fout": {
+   "A": "la troposphère ne joue aucun rôle en HF pour les grandes distances.",
+   "B": "la vue directe ne porte pas assez loin.",
+   "D": "la déviation le long de la Terre ne vous fait pas faire le tour du monde."
+  },
+  "onderwerp": "propagation HF et ionosphère"
+ },
+ {
+  "id": "O200",
+  "vraag": "La propagation des ondes radio à grande distance en HF dépend :",
+  "opties": [
+   "de la qualité du renvoi des ondes radio par la troposphère",
+   "de la qualité de la liaison directe à vue",
+   "de la qualité de la déviation des ondes radio à la surface de la Terre",
+   "de la qualité du renvoi des ondes radio par l'ionosphère"
+  ],
+  "uitleg": "Cela dépend de la qualité du renvoi par l'ionosphère.",
+  "waarom_fout": {
+   "A": "la troposphère n'en est pas la cause.",
+   "B": "la vue ne joue aucun rôle à grande distance.",
+   "C": "la déviation le long de la Terre n'en est pas la cause."
+  },
+  "onderwerp": "propagation HF et ionosphère"
+ },
+ {
+  "id": "O201",
+  "vraag": "Le renvoi des ondes radio par l'ionosphère permet une liaison radio :",
+  "opties": [
+   "sur une distance de 15000 km sur une fréquence de 144 MHz",
+   "sur une distance de 15000 km sur une fréquence de 14 MHz",
+   "sur une distance de 150 km sur une fréquence de 144 MHz",
+   "sur une distance de 150 km sur une fréquence de 430 MHz"
+  ],
+  "uitleg": "15 000 km sur 14 MHz (HF) : c'est possible via l'ionosphère.",
+  "waarom_fout": {
+   "A": "144 MHz traverse l'ionosphère.",
+   "C": "150 km sur 144 MHz se fait en direct, pas via l'ionosphère.",
+   "D": "430 MHz traverse aussi l'ionosphère."
+  },
+  "onderwerp": "propagation HF et ionosphère"
+ },
+ {
+  "id": "O202",
+  "vraag": "Le degré de réflexion d'un signal radio dans l'ionosphère dépend :",
+  "opties": [
+   "de la fréquence utilisée, de la saison et de l'heure de la journée",
+   "de la fréquence utilisée, de l'heure de la journée et de la modulation utilisée",
+   "de la modulation utilisée, de la saison et de l'heure de la journée",
+   "de la fréquence utilisée, de la modulation utilisée et de la saison"
+  ],
+  "uitleg": "La réflexion dépend de la fréquence, de la saison et de l'heure de la journée.",
+  "waarom_fout": {
+   "B": "la modulation ne joue aucun rôle.",
+   "C": "la modulation ne joue aucun rôle.",
+   "D": "la modulation ne joue aucun rôle."
+  },
+  "onderwerp": "propagation HF et ionosphère"
+ },
+ {
+  "id": "O203",
+  "vraag": "La période du cycle des taches solaires dans laquelle on se trouve détermine :",
+  "opties": [
+   "dans quelle mesure un signal radio est utilisable pour une liaison directe à vue",
+   "dans quelle mesure un signal radio est réfléchi par la troposphère",
+   "dans quelle mesure un signal radio est réfléchi par l'ionosphère",
+   "dans quelle mesure un signal radio est dévié à la surface de la Terre"
+  ],
+  "uitleg": "Le cycle des taches solaires détermine la qualité du renvoi par l'ionosphère.",
+  "waarom_fout": {
+   "A": "les liaisons à vue ne dépendent pas du soleil.",
+   "B": "il s'agit de l'ionosphère, pas de la troposphère.",
+   "D": "la déviation le long de la Terre ne dépend pas des taches solaires."
+  },
+  "onderwerp": "propagation HF et ionosphère"
+ },
+ {
+  "id": "E-h06-01",
+  "vraag": "Que devient l'intensité d'une onde radio quand elle est réfléchie ?",
+  "opties": [
+   "elle devient plus forte",
+   "elle ne devient pas plus forte ; en chemin, elle s'affaiblit",
+   "elle double",
+   "elle change de polarisation et devient plus forte"
+  ],
+  "uitleg": "Une onde devient toujours plus faible en chemin. La réflexion ne la rend pas plus forte.",
+  "waarom_fout": {
+   "A": "jamais plus forte.",
+   "C": "non.",
+   "D": "jamais plus forte."
+  },
+  "onderwerp": "propagation"
+ },
+ {
+  "id": "E-h06-02",
+  "vraag": "Vous êtes dans une cave en béton armé avec un portatif UHF. À quoi vous attendez-vous ?",
+  "opties": [
+   "une excellente réception",
+   "une mauvaise réception, ou aucune",
+   "une meilleure réception qu'à l'extérieur",
+   "aucune différence"
+  ],
+  "uitleg": "Le béton armé arrête en grande partie l'UHF.",
+  "waarom_fout": {
+   "A": "non.",
+   "C": "c'est l'inverse.",
+   "D": "justement, les murs font une grande différence."
+  },
+  "onderwerp": "portée"
+ },
+ {
+  "id": "E-h06-03",
+  "vraag": "Deux stations sur 70 cm s'entendent mal. Qu'est-ce qui aide le plus pour les deux ?",
+  "opties": [
+   "une station augmente sa puissance",
+   "placer les deux antennes plus haut",
+   "passer sur 23 cm",
+   "mettre les antennes à l'intérieur"
+  ],
+  "uitleg": "Des antennes plus hautes aident les deux stations en émission et en réception.",
+  "waarom_fout": {
+   "A": "n'aide que dans un sens.",
+   "C": "fréquence plus haute = portée plus petite.",
+   "D": "à l'intérieur, c'est moins bien."
+  },
+  "onderwerp": "portée"
+ },
+ {
+  "id": "E-h06-04",
+  "vraag": "Quelle bande utiliser de préférence pour une liaison avec l'Australie ?",
+  "opties": [
+   "2 m",
+   "70 cm",
+   "20 m",
+   "23 cm"
+  ],
+  "uitleg": "Les liaisons mondiales passent par l'ionosphère, donc en HF : le 20 m.",
+  "waarom_fout": {
+   "A": "la VHF traverse l'ionosphère.",
+   "B": "l'UHF traverse l'ionosphère.",
+   "D": "l'UHF/SHF traverse l'ionosphère."
+  },
+  "onderwerp": "ionosphère"
+ },
+ {
+  "id": "E-h06-05",
+  "vraag": "Comment s'appelle la couche d'air la plus basse, où se passe la météo ?",
+  "opties": [
+   "ionosphère",
+   "troposphère",
+   "couche F",
+   "magnétosphère"
+  ],
+  "uitleg": "La troposphère (jusqu'à environ 10 km).",
+  "waarom_fout": {
+   "A": "elle se trouve beaucoup plus haut.",
+   "C": "fait partie de l'ionosphère.",
+   "D": "non."
+  },
+  "onderwerp": "ionosphère"
+ },
+ {
+  "id": "E-h06-06",
+  "vraag": "Quand les bandes HF hautes (15 m, 10 m) sont-elles généralement le mieux ouvertes ?",
+  "opties": [
+   "à un minimum du cycle des taches solaires",
+   "à un maximum du cycle des taches solaires",
+   "seulement la nuit",
+   "seulement en FM"
+  ],
+  "uitleg": "Beaucoup de taches solaires = ionosphère forte = bandes hautes ouvertes.",
+  "waarom_fout": {
+   "A": "elles sont alors souvent fermées.",
+   "C": "la nuit, elles sont généralement fermées.",
+   "D": "la modulation ne joue aucun rôle."
+  },
+  "onderwerp": "conditions"
+ },
+ {
+  "id": "E-h06-07",
+  "vraag": "Pourquoi n'entendez-vous parfois plus rien des stations lointaines la nuit sur 20 m ?",
+  "opties": [
+   "la couche F est plus mince la nuit et les fréquences plus hautes la traversent",
+   "la couche D absorbe tout la nuit",
+   "l'émetteur fonctionne moins bien dans le noir",
+   "l'antenne rétrécit"
+  ],
+  "uitleg": "La nuit, la couche F est plus mince : les fréquences au-dessus d'environ 12 MHz la traversent.",
+  "waarom_fout": {
+   "B": "la couche D n'existe pas la nuit.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "conditions"
+ },
+ {
+  "id": "E-h06-08",
+  "vraag": "Quel facteur joue seulement en émission, pas en réception ?",
+  "opties": [
+   "la hauteur d'antenne",
+   "la vue dégagée",
+   "la puissance d'émission",
+   "une antenne extérieure"
+  ],
+  "uitleg": "La puissance aide seulement les autres à vous entendre.",
+  "waarom_fout": {
+   "A": "aide dans les deux sens.",
+   "B": "aide dans les deux sens.",
+   "D": "aide dans les deux sens."
+  },
+  "onderwerp": "portée"
+ }
+]

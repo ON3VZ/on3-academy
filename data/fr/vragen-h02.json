@@ -1,0 +1,1092 @@
+[
+ {
+  "id": "C-h02-1a",
+  "vraag": "Sur quoi porte un certificat d'opérateur ?",
+  "opties": [
+   "sur votre station",
+   "sur vous en tant que personne : vous pouvez émettre",
+   "sur votre antenne",
+   "sur votre adresse"
+  ],
+  "uitleg": "Le certificat est lié à la personne.",
+  "waarom_fout": {
+   "A": "c'est la licence de station.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "certificat"
+ },
+ {
+  "id": "C-h02-1b",
+  "vraag": "Combien de temps un certificat d'opérateur est-il valable ?",
+  "opties": [
+   "1 an",
+   "5 ans, renouvelable",
+   "à vie",
+   "10 ans"
+  ],
+  "uitleg": "5 ans, renouvelable (AR art. 17/1).",
+  "waarom_fout": {
+   "A": "non.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "certificat"
+ },
+ {
+  "id": "C-h02-1c",
+  "vraag": "Vous avez un certificat mais pas de licence de station. Où pouvez-vous émettre ?",
+  "opties": [
+   "nulle part",
+   "depuis une station de club ou la station d'un autre radioamateur",
+   "partout",
+   "uniquement avec un talkie-walkie"
+  ],
+  "uitleg": "Sans licence propre : station de club ou station de quelqu'un d'autre.",
+  "waarom_fout": {
+   "A": "si, depuis une station de club ou une autre station.",
+   "C": "non.",
+   "D": "pour cela aussi, il faut au sens strict une licence."
+  },
+  "onderwerp": "certificat"
+ },
+ {
+  "id": "C-h02-2a",
+  "vraag": "Quelle classe peut construire elle-même des émetteurs ?",
+  "opties": [
+   "la classe A",
+   "la classe B",
+   "la classe C",
+   "toutes les classes"
+  ],
+  "uitleg": "Uniquement la classe A (HAREC).",
+  "waarom_fout": {
+   "B": "uniquement des appareils du commerce.",
+   "C": "uniquement des appareils du commerce.",
+   "D": "non."
+  },
+  "onderwerp": "classes"
+ },
+ {
+  "id": "C-h02-2b",
+  "vraag": "Sur combien de bandes la classe C peut-elle émettre ?",
+  "opties": [
+   "6",
+   "8",
+   "12",
+   "26"
+  ],
+  "uitleg": "8 bandes.",
+  "waarom_fout": {
+   "A": "non.",
+   "C": "classe B.",
+   "D": "classe A (26 ou plus)."
+  },
+  "onderwerp": "classes"
+ },
+ {
+  "id": "C-h02-2c",
+  "vraag": "Quelle classe s'appelle aussi HAREC ?",
+  "opties": [
+   "la classe A",
+   "la classe B",
+   "la classe C",
+   "aucune"
+  ],
+  "uitleg": "Classe A = HAREC.",
+  "waarom_fout": {
+   "B": "CEPT Novice.",
+   "C": "certificat de base.",
+   "D": "non."
+  },
+  "onderwerp": "classes"
+ },
+ {
+  "id": "C-h02-3a",
+  "vraag": "OS5ABC est-il un indicatif d'appel belge ?",
+  "opties": [
+   "oui",
+   "non, seul ON est belge",
+   "non, il y a trop de lettres",
+   "non, le chiffre ne convient pas"
+  ],
+  "uitleg": "OS fait partie de la série ON à OT.",
+  "waarom_fout": {
+   "B": "OO à OT sont aussi belges.",
+   "C": "trois lettres, c'est permis.",
+   "D": "un seul chiffre : c'est correct."
+  },
+  "onderwerp": "indicatif"
+ },
+ {
+  "id": "C-h02-3b",
+  "vraag": "Combien de lettres peut-il y avoir après le chiffre ?",
+  "opties": [
+   "toujours trois",
+   "une à trois",
+   "quatre",
+   "aucune"
+  ],
+  "uitleg": "Une à trois lettres.",
+  "waarom_fout": {
+   "A": "une ou deux, c'est aussi permis.",
+   "C": "trop.",
+   "D": "il faut au moins une lettre."
+  },
+  "onderwerp": "indicatif"
+ },
+ {
+  "id": "C-h02-3c",
+  "vraag": "Quel indicatif n'est PAS belge ?",
+  "opties": [
+   "OO3ABC",
+   "OT3ABC",
+   "OU3ABC",
+   "OR3ABC"
+  ],
+  "uitleg": "OU tombe en dehors de la série ON à OT.",
+  "waarom_fout": {
+   "A": "OO est belge.",
+   "B": "OT est belge.",
+   "D": "OR est belge."
+  },
+  "onderwerp": "indicatif"
+ },
+ {
+  "id": "C-h02-4a",
+  "vraag": "Vous émettez depuis une montgolfière. Quel suffixe ?",
+  "opties": [
+   "/M",
+   "/MM",
+   "/AM",
+   "/P"
+  ],
+  "uitleg": "/AM : mobile aéronautique.",
+  "waarom_fout": {
+   "A": "sur terre.",
+   "B": "sur un bateau.",
+   "D": "portable, au sol."
+  },
+  "onderwerp": "suffixe"
+ },
+ {
+  "id": "C-h02-4b",
+  "vraag": "Vous émettez avec votre talkie-walkie lors d'un field day dans un parc. Quel suffixe ?",
+  "opties": [
+   "/P",
+   "/A",
+   "/M",
+   "/MM"
+  ],
+  "uitleg": "/P : portable ou temporaire.",
+  "waarom_fout": {
+   "B": "station fixe à une autre adresse.",
+   "C": "dans un véhicule.",
+   "D": "sur un bateau."
+  },
+  "onderwerp": "suffixe"
+ },
+ {
+  "id": "C-h02-4c",
+  "vraag": "Un QSO dure 20 minutes. À quelle fréquence devez-vous au minimum donner votre indicatif ?",
+  "opties": [
+   "une seule fois",
+   "au début, à la fin et au moins toutes les 5 minutes",
+   "uniquement à la fin",
+   "toutes les 10 minutes"
+  ],
+  "uitleg": "Au début, à la fin et au moins toutes les 5 minutes.",
+  "waarom_fout": {
+   "A": "trop peu.",
+   "C": "trop peu.",
+   "D": "trop peu."
+  },
+  "onderwerp": "identification"
+ },
+ {
+  "id": "C-h02-5a",
+  "vraag": "En tant que radioamateur, pouvez-vous parler avec une station CB ?",
+  "opties": [
+   "oui",
+   "non",
+   "uniquement sur 10 m",
+   "uniquement en cas de détresse avec l'autorisation de l'UBA"
+  ],
+  "uitleg": "Uniquement avec d'autres radioamateurs.",
+  "waarom_fout": {
+   "A": "non.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "règles"
+ },
+ {
+  "id": "C-h02-5b",
+  "vraag": "Vous diffusez une chanson par radio pour un ami. Est-ce permis ?",
+  "opties": [
+   "oui",
+   "non, les programmes musicaux sont interdits",
+   "oui, si c'est court",
+   "uniquement en FM"
+  ],
+  "uitleg": "Les programmes musicaux sont interdits.",
+  "waarom_fout": {
+   "A": "non.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "règles"
+ },
+ {
+  "id": "C-h02-5c",
+  "vraag": "Un ON3 utilise la station d'un radioamateur de classe A. Avec quelle puissance peut-il émettre sur 20 m ?",
+  "opties": [
+   "1500 W",
+   "100 W",
+   "25 W",
+   "50 W"
+  ],
+  "uitleg": "Toujours dans les limites de votre propre certificat : classe C en HF = 25 W.",
+  "waarom_fout": {
+   "A": "c'est la classe A.",
+   "B": "c'est la classe B.",
+   "D": "50 W vaut pour le 2 m et le 70 cm."
+  },
+  "onderwerp": "règles"
+ },
+ {
+  "id": "C-h02-6a",
+  "vraag": "Que devez-vous signaler à l'IBPT ?",
+  "opties": [
+   "chaque nouvelle antenne",
+   "votre changement d'adresse",
+   "chaque QSO",
+   "vos vacances"
+  ],
+  "uitleg": "Le changement d'adresse.",
+  "waarom_fout": {
+   "A": "non.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "IBPT"
+ },
+ {
+  "id": "C-h02-6b",
+  "vraag": "Devez-vous encore tenir un carnet de trafic ?",
+  "opties": [
+   "oui, c'est obligatoire légalement",
+   "non, ce n'est plus obligatoire légalement",
+   "uniquement pour la classe C",
+   "uniquement pour /M"
+  ],
+  "uitleg": "Plus obligatoire, mais utile.",
+  "waarom_fout": {
+   "A": "plus maintenant.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "IBPT"
+ },
+ {
+  "id": "C-h02-6c",
+  "vraag": "Quand l'IBPT peut-il inspecter votre station ?",
+  "opties": [
+   "uniquement après annonce",
+   "à tout moment",
+   "uniquement avec un huissier",
+   "jamais"
+  ],
+  "uitleg": "À tout moment.",
+  "waarom_fout": {
+   "A": "pas nécessaire.",
+   "C": "pas nécessaire.",
+   "D": "si, il le peut."
+  },
+  "onderwerp": "IBPT"
+ },
+ {
+  "id": "C-h02-7a",
+  "vraag": "Quelle est la puissance maximale pour la classe C sur 40 m ?",
+  "opties": [
+   "10 W",
+   "25 W",
+   "50 W",
+   "100 W"
+  ],
+  "uitleg": "25 W en HF.",
+  "waarom_fout": {
+   "A": "non.",
+   "C": "50 W, c'est pour le 2 m et le 70 cm.",
+   "D": "classe B."
+  },
+  "onderwerp": "fréquences"
+ },
+ {
+  "id": "C-h02-7b",
+  "vraag": "Que signifie le statut S (secondaire) ?",
+  "opties": [
+   "vous êtes le seul utilisateur",
+   "vous ne pouvez pas perturber et vous n'êtes pas protégé",
+   "vous pouvez utiliser plus de puissance",
+   "vous ne pouvez pas émettre"
+  ],
+  "uitleg": "Secondaire : ne pas perturber, aucune protection.",
+  "waarom_fout": {
+   "A": "c'est PEX.",
+   "C": "non.",
+   "D": "émettre est bien permis."
+  },
+  "onderwerp": "fréquences"
+ },
+ {
+  "id": "C-h02-7c",
+  "vraag": "Quel type d'émission la classe C ne peut-elle pas utiliser ?",
+  "opties": [
+   "CW",
+   "SSB",
+   "la télévision d'amateur (ATV)",
+   "FM"
+  ],
+  "uitleg": "Toutes les classes d'émission sauf l'ATV et la D-ATV.",
+  "waarom_fout": {
+   "A": "permis.",
+   "B": "permis.",
+   "D": "permis."
+  },
+  "onderwerp": "fréquences"
+ },
+ {
+  "id": "C-h02-7d",
+  "vraag": "Un ON3 peut-il émettre sur 24,940 MHz (12 m) ?",
+  "opties": [
+   "oui, avec 25 W",
+   "oui, avec 50 W",
+   "non",
+   "oui, uniquement en CW"
+  ],
+  "uitleg": "Le 12 m ne figure pas dans le tableau de la classe C.",
+  "waarom_fout": {
+   "A": "non.",
+   "B": "non.",
+   "D": "non."
+  },
+  "onderwerp": "fréquences"
+ },
+ {
+  "id": "E-h02-01",
+  "vraag": "Sur quelle fréquence le titulaire d'un certificat d'opérateur de classe C peut-il émettre ?",
+  "opties": [
+   "1,850 MHz",
+   "3,650 MHz",
+   "5,360 MHz",
+   "18,100 MHz"
+  ],
+  "uitleg": "3,650 MHz se situe dans le 80 m (3,500 à 3,800 MHz).",
+  "waarom_fout": {
+   "A": "160 m : pas pour la classe C.",
+   "C": "60 m : pas pour la classe C.",
+   "D": "17 m : pas pour la classe C."
+  },
+  "onderwerp": "fréquences"
+ },
+ {
+  "id": "E-h02-02",
+  "vraag": "Quelle est la puissance d'émission maximale pour une station de classe C sur 435 MHz ?",
+  "opties": [
+   "25 W",
+   "50 W",
+   "100 W",
+   "10 W"
+  ],
+  "uitleg": "70 cm : maximum 50 W.",
+  "waarom_fout": {
+   "A": "25 W, c'est pour la HF.",
+   "C": "classe B.",
+   "D": "non."
+  },
+  "onderwerp": "fréquences"
+ },
+ {
+  "id": "E-h02-03",
+  "vraag": "Quel statut la bande de 7,100 à 7,200 MHz a-t-elle pour la classe C ?",
+  "opties": [
+   "PEX",
+   "P",
+   "S",
+   "aucun : interdit"
+  ],
+  "uitleg": "Secondaire.",
+  "waarom_fout": {
+   "A": "7,000 à 7,100, c'est PEX.",
+   "B": "non.",
+   "D": "c'est bien permis."
+  },
+  "onderwerp": "fréquences"
+ },
+ {
+  "id": "E-h02-04",
+  "vraag": "Jusqu'à quelle fréquence la classe C peut-elle émettre sur 80 m ?",
+  "opties": [
+   "3,600 MHz",
+   "3,800 MHz",
+   "4,000 MHz",
+   "3,500 MHz"
+  ],
+  "uitleg": "3,500 à 3,800 MHz.",
+  "waarom_fout": {
+   "A": "trop bas.",
+   "C": "trop haut.",
+   "D": "c'est le début."
+  },
+  "onderwerp": "fréquences"
+ },
+ {
+  "id": "E-h02-05",
+  "vraag": "Laquelle de ces bandes la classe C peut-elle utiliser ?",
+  "opties": [
+   "17 m",
+   "12 m",
+   "30 m",
+   "6 m"
+  ],
+  "uitleg": "30 m : 10,100 à 10,150 MHz, statut S, 25 W.",
+  "waarom_fout": {
+   "A": "pas pour la classe C.",
+   "B": "pas pour la classe C.",
+   "D": "pas pour la classe C."
+  },
+  "onderwerp": "fréquences"
+ },
+ {
+  "id": "E-h02-06",
+  "vraag": "Que signifie PEX ?",
+  "opties": [
+   "primaire et exclusif : les radioamateurs sont les seuls utilisateurs",
+   "primaire : l'un des utilisateurs principaux",
+   "secondaire",
+   "interdit"
+  ],
+  "uitleg": "Primaire et exclusif.",
+  "waarom_fout": {
+   "B": "c'est P.",
+   "C": "c'est S.",
+   "D": "non."
+  },
+  "onderwerp": "fréquences"
+ },
+ {
+  "id": "E-h02-07",
+  "vraag": "Un ON3 veut trafiquer par satellite sur 70 cm. Dans quelle partie est-ce permis ?",
+  "opties": [
+   "430 à 432 MHz",
+   "435 à 438 MHz",
+   "438 à 440 MHz",
+   "partout entre 430 et 440 MHz"
+  ],
+  "uitleg": "Utilisation par satellite sur 70 cm : 435 à 438 MHz, sans brouillage préjudiciable.",
+  "waarom_fout": {
+   "A": "non.",
+   "C": "non.",
+   "D": "uniquement de 435 à 438."
+  },
+  "onderwerp": "fréquences"
+ },
+ {
+  "id": "E-h02-08",
+  "vraag": "Que vous faut-il avant de pouvoir demander une licence de station ?",
+  "opties": [
+   "rien",
+   "un certificat d'opérateur",
+   "une carte de membre de l'UBA",
+   "un carnet de trafic"
+  ],
+  "uitleg": "D'abord le certificat d'opérateur (AR art. 17/5).",
+  "waarom_fout": {
+   "A": "non.",
+   "C": "pas obligatoire.",
+   "D": "pas obligatoire."
+  },
+  "onderwerp": "certificat"
+ },
+ {
+  "id": "E-h02-09",
+  "vraag": "Comment prononcez-vous votre indicatif en phonie ?",
+  "opties": [
+   "clairement, et si nécessaire épelé avec l'alphabet international",
+   "uniquement en morse",
+   "très vite",
+   "ce n'est pas nécessaire"
+  ],
+  "uitleg": "Prononcé clairement, et si nécessaire épelé (AR art. 17/8 § 2).",
+  "waarom_fout": {
+   "B": "en phonie, vous le prononcez.",
+   "C": "non.",
+   "D": "c'est obligatoire."
+  },
+  "onderwerp": "identification"
+ },
+ {
+  "id": "E-h02-10",
+  "vraag": "Un ami sans certificat veut parler un instant dans votre micro. Est-ce permis ?",
+  "opties": [
+   "oui, si vous êtes présent",
+   "oui, s'il habite chez vous",
+   "non, seuls les radioamateurs avec un certificat approprié peuvent émettre",
+   "oui, sur 2 m"
+  ],
+  "uitleg": "Seuls les titulaires d'un certificat approprié peuvent utiliser la station.",
+  "waarom_fout": {
+   "A": "la surveillance ne suffit pas.",
+   "B": "les personnes du ménage sans certificat non plus.",
+   "D": "non."
+  },
+  "onderwerp": "règles"
+ },
+ {
+  "id": "E-h02-11",
+  "vraag": "Quelle est la puissance maximale pour la classe A ?",
+  "opties": [
+   "100 W",
+   "500 W",
+   "1500 W",
+   "25 W"
+  ],
+  "uitleg": "1500 W.",
+  "waarom_fout": {
+   "A": "classe B.",
+   "B": "non.",
+   "D": "classe C en HF."
+  },
+  "onderwerp": "classes"
+ },
+ {
+  "id": "O001",
+  "vraag": "Les différentes licences belges pour radioamateurs sont :",
+  "opties": [
+   "la licence A et la licence de base",
+   "la licence complète, la licence restreinte et la licence de base",
+   "la licence de base",
+   "la licence restreinte et la licence de base"
+  ],
+  "onderwerp": "classes de certificat d'opérateur"
+ },
+ {
+  "id": "O002",
+  "vraag": "la licence A vous permet :",
+  "opties": [
+   "l'utilisation d'une puissance plus élevée",
+   "l'utilisation de bandes de fréquences supplémentaires",
+   "l'utilisation d'une puissance plus élevée et de bandes de fréquences supplémentaires",
+   "l'utilisation du code morse (télégraphie)"
+  ],
+  "uitleg": "Une classe plus élevée donne plus de puissance et plus de bandes.",
+  "waarom_fout": {
+   "A": "aussi plus de bandes.",
+   "B": "aussi plus de puissance.",
+   "D": "le morse est permis dans toutes les classes."
+  },
+  "onderwerp": "classes de certificat d'opérateur"
+ },
+ {
+  "id": "O003",
+  "vraag": "À l'heure actuelle, la licence C belge est :",
+  "opties": [
+   "reconnue dans la plupart des autres pays",
+   "reconnue dans tous les autres pays",
+   "sauf exceptions, non reconnue dans les autres pays",
+   "reconnue uniquement dans les pays affiliés à la CEPT"
+  ],
+  "uitleg": "Le certificat de classe C n'est, sauf exceptions, pas reconnu dans les autres pays.",
+  "waarom_fout": {
+   "A": "cela vaut pour le HAREC (classe A).",
+   "B": "certainement pas dans tous les pays.",
+   "D": "pas non plus dans tous les pays de la CEPT."
+  },
+  "onderwerp": "classes de certificat d'opérateur"
+ },
+ {
+  "id": "O004",
+  "vraag": "Lequel des indicatifs d'appel ci-dessous est un indicatif d'un radioamateur belge :",
+  "opties": [
+   "ONA4BC",
+   "O4NABC",
+   "ON4ABC",
+   "ONAB4C"
+  ],
+  "uitleg": "ON + 4 + ABC : structure correcte.",
+  "waarom_fout": {
+   "A": "après ON doit d'abord venir un chiffre.",
+   "B": "le début O4 n'est pas un préfixe.",
+   "D": "le chiffre n'est pas à la bonne place."
+  },
+  "onderwerp": "structure des indicatifs"
+ },
+ {
+  "id": "O005",
+  "vraag": "Lequel des indicatifs d'appel ci-dessous est un indicatif d'un radioamateur belge :",
+  "opties": [
+   "O77ZZ",
+   "ON7ZZ",
+   "OZ7ZZ",
+   "OM7ZZ"
+  ],
+  "uitleg": "ON + 7 + ZZ : belge.",
+  "waarom_fout": {
+   "A": "O7 n'est pas un préfixe.",
+   "C": "OZ est le Danemark.",
+   "D": "OM est la Slovaquie."
+  },
+  "onderwerp": "structure des indicatifs"
+ },
+ {
+  "id": "O006",
+  "vraag": "Lequel des indicatifs d'appel ci-dessous est un indicatif d'un radioamateur belge :",
+  "opties": [
+   "O7AZY",
+   "ON9AZY",
+   "OZ7NN",
+   "OM7ZZ"
+  ],
+  "uitleg": "ON + 9 + AZY : belge.",
+  "waarom_fout": {
+   "A": "O7 n'est pas un préfixe.",
+   "C": "OZ est le Danemark.",
+   "D": "OM est la Slovaquie."
+  },
+  "onderwerp": "structure des indicatifs"
+ },
+ {
+  "id": "O007",
+  "vraag": "Lequel des indicatifs d'appel ci-dessous n'est pas un indicatif d'un radioamateur belge :",
+  "opties": [
+   "ON9XYZ",
+   "OT9X",
+   "OU9XYZ",
+   "OR0A"
+  ],
+  "uitleg": "OU n'est pas un préfixe belge (Belgique : ON à OT).",
+  "waarom_fout": {
+   "A": "ON est belge.",
+   "B": "OT est belge.",
+   "D": "OR est belge (OR0 : station spéciale)."
+  },
+  "onderwerp": "structure des indicatifs"
+ },
+ {
+  "id": "O008",
+  "vraag": "Lequel des indicatifs d'appel ci-dessous n'est pas un indicatif d'un radioamateur belge :",
+  "opties": [
+   "OQ9XYZ",
+   "OV9X",
+   "OP9XYZ",
+   "OS0AA"
+  ],
+  "uitleg": "OV n'est pas un préfixe belge (Belgique : ON à OT).",
+  "waarom_fout": {
+   "A": "OQ est belge.",
+   "C": "OP est belge.",
+   "D": "OS est belge."
+  },
+  "onderwerp": "structure des indicatifs"
+ },
+ {
+  "id": "O009",
+  "vraag": "Si un radioamateur utilise une station radio mobile, l'indicatif d'appel doit être complété par :",
+  "opties": [
+   "/M",
+   "/MM",
+   "/P",
+   "/A"
+  ],
+  "uitleg": "Mobile : /M.",
+  "waarom_fout": {
+   "B": "/MM, c'est maritime (bateau).",
+   "C": "/P, c'est portable.",
+   "D": "/A, c'est fixe à une autre adresse."
+  },
+  "onderwerp": "suffixes de l'indicatif"
+ },
+ {
+  "id": "O010",
+  "vraag": "Si un radioamateur utilise une station radio mobile maritime, l'indicatif d'appel doit être complété par :",
+  "opties": [
+   "/M",
+   "/MM",
+   "/P",
+   "/A"
+  ],
+  "uitleg": "Mobile maritime : /MM.",
+  "waarom_fout": {
+   "A": "/M, c'est mobile sur terre.",
+   "C": "/P, c'est portable.",
+   "D": "/A, c'est fixe à une autre adresse."
+  },
+  "onderwerp": "suffixes de l'indicatif"
+ },
+ {
+  "id": "O011",
+  "vraag": "Si un radioamateur utilise une station radio portable, l'indicatif d'appel doit être complété par :",
+  "opties": [
+   "/M",
+   "/MM",
+   "/P",
+   "/A"
+  ],
+  "uitleg": "Portable : /P.",
+  "waarom_fout": {
+   "A": "/M, c'est mobile.",
+   "B": "/MM, c'est maritime.",
+   "D": "/A, c'est fixe à une autre adresse."
+  },
+  "onderwerp": "suffixes de l'indicatif"
+ },
+ {
+  "id": "O012",
+  "vraag": "Si un radioamateur utilise une station radio fixe installée à un autre endroit que celui indiqué dans la licence, l'indicatif d'appel doit être complété par :",
+  "opties": [
+   "/M",
+   "/MM",
+   "/P",
+   "/A"
+  ],
+  "uitleg": "Station fixe à une autre adresse : /A.",
+  "waarom_fout": {
+   "A": "/M, c'est mobile.",
+   "B": "/MM, c'est maritime.",
+   "C": "/P, c'est portable."
+  },
+  "onderwerp": "suffixes de l'indicatif"
+ },
+ {
+  "id": "O013",
+  "vraag": "De l'indicatif d'appel ON4XYZ/M, on peut déduire que :",
+  "opties": [
+   "ON4XYZ utilise une station radio mobile",
+   "ON4XYZ utilise une station radio mobile maritime",
+   "ON4XYZ utilise une station radio portable",
+   "ON4XYZ utilise une station radio fixe installée à un autre endroit que celui indiqué dans sa licence"
+  ],
+  "onderwerp": "suffixes de l'indicatif"
+ },
+ {
+  "id": "O014",
+  "vraag": "De l'indicatif d'appel ON4XYZ/MM, on peut déduire que :",
+  "opties": [
+   "ON4XYZ utilise une station radio mobile",
+   "ON4XYZ utilise une station radio mobile maritime",
+   "ON4XYZ utilise une station radio portable",
+   "ON4XYZ utilise une station radio installée à un autre endroit que celui indiqué dans sa licence"
+  ],
+  "onderwerp": "suffixes de l'indicatif"
+ },
+ {
+  "id": "O015",
+  "vraag": "De l'indicatif d'appel ON4XYZ/P, on peut déduire que :",
+  "opties": [
+   "ON4XYZ utilise une station radio mobile",
+   "ON4XYZ utilise une station radio mobile maritime",
+   "ON4XYZ utilise une station radio portable",
+   "ON4XYZ utilise une station radio installée à un autre endroit que celui indiqué dans sa licence"
+  ],
+  "onderwerp": "suffixes de l'indicatif"
+ },
+ {
+  "id": "O016",
+  "vraag": "De l'indicatif d'appel ON4XYZ/A, on peut déduire que :",
+  "opties": [
+   "ON4XYZ utilise une station radio mobile",
+   "ON4XYZ utilise une station radio mobile maritime",
+   "ON4XYZ utilise une station radio portable",
+   "ON4XYZ utilise une station radio installée à un autre endroit que celui indiqué dans sa licence"
+  ],
+  "onderwerp": "suffixes de l'indicatif"
+ },
+ {
+  "id": "O017",
+  "vraag": "Une station de radioamateur doit s'identifier en mentionnant son indicatif d'appel :",
+  "opties": [
+   "uniquement au début de chaque émission",
+   "uniquement à la fin de chaque émission",
+   "uniquement au début et à la fin de chaque émission",
+   "au début et à la fin de chaque émission et au moins une fois toutes les 5 minutes pendant l'émission"
+  ],
+  "uitleg": "Au début et à la fin, et au moins toutes les 5 minutes pendant l'émission.",
+  "waarom_fout": {
+   "A": "aussi à la fin et toutes les 5 minutes.",
+   "B": "aussi au début et toutes les 5 minutes.",
+   "C": "aussi toutes les 5 minutes pendant les longues émissions."
+  },
+  "onderwerp": "identification de la station"
+ },
+ {
+  "id": "O018",
+  "vraag": "Pendant une émission, une station de radioamateur doit s'identifier en mentionnant son indicatif d'appel :",
+  "opties": [
+   "au moins une fois toutes les 5 minutes",
+   "au maximum une fois toutes les 5 minutes",
+   "au moins une fois toutes les 10 minutes",
+   "au maximum une fois toutes les 10 minutes"
+  ],
+  "uitleg": "Au moins une fois toutes les 5 minutes.",
+  "waarom_fout": {
+   "B": "c'est un minimum, pas un maximum.",
+   "C": "5 minutes, pas 10.",
+   "D": "5 minutes, et c'est un minimum."
+  },
+  "onderwerp": "identification de la station"
+ },
+ {
+  "id": "O019",
+  "vraag": "Une station de radioamateur doit s'identifier :",
+  "opties": [
+   "en mentionnant le numéro d'ordre et la date de délivrance du certificat de radioamateur",
+   "en mentionnant le nom et l'adresse",
+   "en mentionnant l'indicatif d'appel",
+   "en mentionnant le nom, l'adresse et la date de naissance"
+  ],
+  "uitleg": "Vous vous identifiez avec votre indicatif d'appel.",
+  "waarom_fout": {
+   "A": "le numéro du certificat ne se dit pas.",
+   "B": "le nom et l'adresse ne sont pas l'identification.",
+   "D": "les données personnelles ne sont pas l'identification."
+  },
+  "onderwerp": "identification de la station"
+ },
+ {
+  "id": "O020",
+  "vraag": "Une station de radioamateur doit s'identifier :",
+  "opties": [
+   "en mentionnant l'adresse",
+   "en mentionnant le nom",
+   "en mentionnant le nom et l'adresse",
+   "en mentionnant l'indicatif d'appel"
+  ],
+  "onderwerp": "identification de la station"
+ },
+ {
+  "id": "O021",
+  "vraag": "Un radioamateur peut contacter les autres stations radio suivantes :",
+  "opties": [
+   "d'autres radioamateurs et des stations CB",
+   "uniquement d'autres radioamateurs",
+   "d'autres radioamateurs et des services de secours comme les pompiers et la police",
+   "d'autres radioamateurs et d'autres services d'utilité publique"
+  ],
+  "uitleg": "Uniquement d'autres radioamateurs.",
+  "waarom_fout": {
+   "A": "pas les stations CB.",
+   "C": "pas les services de secours.",
+   "D": "pas les services d'utilité publique."
+  },
+  "onderwerp": "conditions et interdictions"
+ },
+ {
+  "id": "O022",
+  "vraag": "Un radioamateur ne peut pas entrer en liaison avec :",
+  "opties": [
+   "des radioamateurs qui ont une licence d'une catégorie supérieure",
+   "des radioamateurs qui ont une licence d'une catégorie inférieure",
+   "des radioamateurs de pays dont la licence n'est pas reconnue en Belgique",
+   "des services d'utilité publique"
+  ],
+  "uitleg": "Vous ne pouvez pas contacter les services d'utilité publique.",
+  "waarom_fout": {
+   "A": "avec une classe supérieure, vous pouvez parler.",
+   "B": "avec une classe inférieure aussi.",
+   "C": "avec des radioamateurs étrangers aussi."
+  },
+  "onderwerp": "conditions et interdictions"
+ },
+ {
+  "id": "O023",
+  "vraag": "Un radioamateur peut-il émettre des codes secrets, qui ne peuvent être déchiffrés que par le destinataire ?",
+  "opties": [
+   "Non, sous aucune condition",
+   "Oui, sans limitation",
+   "Oui, uniquement s'il les mentionne dans le carnet de trafic, afin que l'IBPT puisse déchiffrer le message secret lors d'un contrôle du carnet de trafic",
+   "Oui, uniquement si le même message est aussi émis en langage clair immédiatement après"
+  ],
+  "uitleg": "Vous ne pouvez émettre des codes secrets sous aucune condition.",
+  "waarom_fout": {
+   "B": "c'est interdit.",
+   "C": "pas non plus en les mentionnant dans le carnet de trafic.",
+   "D": "pas non plus si vous le répétez ensuite en clair."
+  },
+  "onderwerp": "conditions et interdictions"
+ },
+ {
+  "id": "O024",
+  "vraag": "Les émissions suivantes sont interdites aux radioamateurs :",
+  "opties": [
+   "les émissions qui n'ont aucune valeur technique ou scientifique",
+   "les émissions qui, vu leur faible importance, intéressent peu d'autres radioamateurs",
+   "les émissions de radiodiffusion",
+   "les émissions dans lesquelles seuls des sujets personnels sont abordés"
+  ],
+  "uitleg": "Les émissions de radiodiffusion sont interdites.",
+  "waarom_fout": {
+   "A": "de telles émissions ne sont pas interdites.",
+   "B": "pas interdites.",
+   "D": "les sujets personnels ne sont pas interdits."
+  },
+  "onderwerp": "conditions et interdictions"
+ },
+ {
+  "id": "O025",
+  "vraag": "Les émissions suivantes sont interdites aux radioamateurs :",
+  "opties": [
+   "les émissions qui n'ont aucune valeur technique ou scientifique",
+   "les programmes musicaux",
+   "les émissions qui, vu leur faible importance, intéressent peu d'autres radioamateurs",
+   "les émissions dans lesquelles seuls des sujets personnels sont abordés"
+  ],
+  "uitleg": "Les programmes musicaux sont interdits.",
+  "waarom_fout": {
+   "A": "pas interdites.",
+   "C": "pas interdites.",
+   "D": "pas interdites."
+  },
+  "onderwerp": "conditions et interdictions"
+ },
+ {
+  "id": "O026",
+  "vraag": "Les émissions suivantes sont interdites aux radioamateurs :",
+  "opties": [
+   "les messages de détresse",
+   "les messages de détresse faux ou trompeurs",
+   "les messages de détresse adressés à des radioamateurs étrangers",
+   "les messages de détresse vers des pays qui ne sont pas affiliés à la CEPT"
+  ],
+  "uitleg": "Les messages de détresse faux ou trompeurs sont interdits.",
+  "waarom_fout": {
+   "A": "les vrais messages de détresse ne sont pas interdits.",
+   "C": "pas interdits non plus s'ils sont vrais.",
+   "D": "pas interdits s'ils sont vrais."
+  },
+  "onderwerp": "conditions et interdictions"
+ },
+ {
+  "id": "O027",
+  "vraag": "Les émissions suivantes sont autorisées pour les radioamateurs :",
+  "opties": [
+   "les programmes musicaux",
+   "les messages de détresse faux ou trompeurs",
+   "les émissions de radiodiffusion",
+   "les émissions qui n'ont aucune valeur technique ou scientifique"
+  ],
+  "onderwerp": "conditions et interdictions"
+ },
+ {
+  "id": "O028",
+  "vraag": "La station émettrice d'un radioamateur peut être utilisée par :",
+  "opties": [
+   "tout le monde, mais sous la surveillance du titulaire de la licence",
+   "le titulaire de la licence et les personnes qui habitent sous le même toit",
+   "le titulaire de la licence et d'autres radioamateurs qui ont une licence appropriée",
+   "uniquement le titulaire de la licence"
+  ],
+  "uitleg": "Le titulaire et d'autres radioamateurs avec une licence appropriée.",
+  "waarom_fout": {
+   "A": "une personne sans certificat ne peut pas utiliser la station.",
+   "B": "les personnes du ménage sans certificat non plus.",
+   "D": "d'autres radioamateurs avec un certificat approprié le peuvent."
+  },
+  "onderwerp": "conditions et interdictions"
+ },
+ {
+  "id": "O029",
+  "vraag": "Un radioamateur doit avertir l'IBPT en cas de :",
+  "opties": [
+   "acquisition d'un nouvel émetteur radio",
+   "changement d'adresse",
+   "perturbation de la réception radio ou TV chez les voisins",
+   "achat et vente d'un émetteur radio"
+  ],
+  "uitleg": "Vous signalez un changement d'adresse à l'IBPT.",
+  "waarom_fout": {
+   "A": "il n'est pas nécessaire de signaler un nouvel émetteur.",
+   "C": "une perturbation chez les voisins n'entraîne pas d'obligation de signalement.",
+   "D": "il n'est pas nécessaire de signaler l'achat ou la vente."
+  },
+  "onderwerp": "contrôle par l'IBPT"
+ },
+ {
+  "id": "O030",
+  "vraag": "Les agents de l'IBPT ont le droit :",
+  "opties": [
+   "de visiter et d'inspecter votre station de radioamateur",
+   "en cas de perturbation, de couper l'alimentation électrique de votre habitation",
+   "de visiter et d'inspecter votre station de radioamateur, à condition de l'annoncer au moins 24 heures à l'avance",
+   "de visiter et d'inspecter votre station de radioamateur, à condition d'être en présence d'un huissier"
+  ],
+  "uitleg": "L'IBPT peut visiter et inspecter votre station, à tout moment.",
+  "waarom_fout": {
+   "B": "cela ne fait pas partie des compétences.",
+   "C": "aucune annonce n'est nécessaire.",
+   "D": "aucun huissier n'est nécessaire."
+  },
+  "onderwerp": "contrôle par l'IBPT"
+ },
+ {
+  "id": "O031",
+  "vraag": "L'IBPT a le droit :",
+  "opties": [
+   "d'imposer des restrictions et, uniquement si on refuse de les respecter, de fermer complètement la station de radioamateur",
+   "de fermer complètement la station de radioamateur, mais pas d'imposer des restrictions",
+   "d'imposer des restrictions, mais pas de fermer complètement la station de radioamateur",
+   "d'imposer des restrictions ou de fermer complètement la station de radioamateur"
+  ],
+  "uitleg": "L'IBPT peut imposer des restrictions ou fermer complètement la station.",
+  "waarom_fout": {
+   "A": "il n'est pas obligé d'imposer d'abord des restrictions.",
+   "B": "il peut aussi imposer des restrictions.",
+   "C": "il peut aussi fermer."
+  },
+  "onderwerp": "contrôle par l'IBPT"
+ },
+ {
+  "id": "O032",
+  "vraag": "Le carnet de trafic doit mentionner au moins les données suivantes :",
+  "opties": [
+   "la date et l'heure de l'émission, l'indicatif d'appel de la station correspondante, la bande de fréquences et la classe d'émission utilisées, et le nom ou l'indicatif de tout autre utilisateur",
+   "la date et l'heure de l'émission, l'indicatif d'appel et le domicile de la station correspondante, le nom ou l'indicatif de tout autre utilisateur",
+   "la date et l'heure de l'émission, l'indicatif d'appel de la station correspondante, la bande de fréquences et la puissance d'émission utilisées, le nom ou l'indicatif de tout autre utilisateur",
+   "la date et l'heure de l'émission, l'indicatif d'appel de la station correspondante, la classe d'émission et la puissance d'émission, le nom ou l'indicatif de tout autre utilisateur"
+  ],
+  "onderwerp": "carnet de trafic (journal)"
+ },
+ {
+  "id": "O033",
+  "vraag": "Chaque radioamateur est obligé de tenir un carnet de trafic dans lequel il :",
+  "opties": [
+   "note toutes les liaisons radio établies avec sa ou ses stations fixes",
+   "note toutes les liaisons radio établies avec sa ou ses stations mobiles",
+   "note toutes les liaisons radio établies avec sa ou ses stations portables",
+   "note toutes les liaisons radio établies avec toutes ses stations"
+  ],
+  "onderwerp": "carnet de trafic (journal)"
+ },
+ {
+  "id": "O034",
+  "vraag": "Chaque radioamateur est obligé de tenir un carnet de trafic sous la forme suivante :",
+  "opties": [
+   "uniquement par écrit",
+   "par écrit ou sous la forme d'un fichier informatique",
+   "uniquement sous la forme d'un fichier informatique",
+   "par écrit et sous la forme d'un fichier informatique"
+  ],
+  "onderwerp": "carnet de trafic (journal)"
+ },
+ {
+  "id": "O035",
+  "vraag": "Chaque radioamateur est obligé de conserver le carnet de trafic au moins jusqu'à :",
+  "opties": [
+   "ce que l'IBPT lui donne l'autorisation de le détruire",
+   "au moins deux ans après la première émission enregistrée",
+   "aussi longtemps qu'il est titulaire d'une licence de radioamateur",
+   "au moins deux ans après la dernière émission enregistrée"
+  ],
+  "onderwerp": "carnet de trafic (journal)"
+ }
+]

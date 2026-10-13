@@ -1,0 +1,386 @@
+[
+ {
+  "id": "E-h03-01",
+  "bron": "extra",
+  "hoofdstuk": 3,
+  "vraag": "Wat doet een weerstand in een stroomkring?",
+  "opties": [
+   "Hij maakt spanning",
+   "Hij verzet zich tegen het vloeien van stroom",
+   "Hij slaat stroom op",
+   "Hij verandert gelijkspanning in wisselspanning"
+  ],
+  "juist": "B",
+  "uitleg": "Een weerstand werkt de stroom tegen (doelstelling 3b.2).",
+  "waarom_fout": {
+   "A": "spanning komt van een spanningsbron, zoals een batterij.",
+   "C": "dat doet een batterij of een condensator.",
+   "D": "dat doet een omvormer, geen weerstand."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "techniek",
+  "in_examen": true
+ },
+ {
+  "id": "E-h03-02",
+  "bron": "extra",
+  "hoofdstuk": 3,
+  "vraag": "Hoe groter de weerstand bij dezelfde spanning, hoe:",
+  "opties": [
+   "groter de stroom",
+   "kleiner de stroom",
+   "groter de spanning",
+   "kleiner de spanning"
+  ],
+  "juist": "B",
+  "uitleg": "I = U ÷ R: groter R, kleinere stroom.",
+  "waarom_fout": {
+   "A": "net omgekeerd.",
+   "C": "de spanning blijft gelijk, die komt van de batterij.",
+   "D": "de spanning blijft gelijk."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "techniek",
+  "in_examen": true
+ },
+ {
+  "id": "E-h03-03",
+  "bron": "extra",
+  "hoofdstuk": 3,
+  "vraag": "Hoeveel volt is 2,5 kV?",
+  "opties": [
+   "0,0025 V",
+   "25 V",
+   "250 V",
+   "2 500 V"
+  ],
+  "juist": "D",
+  "uitleg": "Kilo = maal 1000: 2,5 × 1000 = 2 500 V.",
+  "waarom_fout": {
+   "A": "gedeeld in plaats van vermenigvuldigd.",
+   "B": "slechts maal 10.",
+   "C": "slechts maal 100."
+  },
+  "moeilijkheid": 2,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "techniek",
+  "in_examen": true
+ },
+ {
+  "id": "E-h03-04",
+  "bron": "extra",
+  "hoofdstuk": 3,
+  "vraag": "Hoeveel ampère is 300 mA?",
+  "opties": [
+   "300 A",
+   "30 A",
+   "3 A",
+   "0,3 A"
+  ],
+  "juist": "D",
+  "uitleg": "Milli = delen door 1000: 300 ÷ 1000 = 0,3 A.",
+  "waarom_fout": {
+   "A": "de milli is vergeten.",
+   "B": "slechts gedeeld door 10.",
+   "C": "slechts gedeeld door 100."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "techniek",
+  "in_examen": true
+ },
+ {
+  "id": "E-h03-05",
+  "bron": "extra",
+  "hoofdstuk": 3,
+  "vraag": "In het schema is de spanning 6 V en de weerstand 2 kΩ. Hoe groot is de stroom?",
+  "opties": [
+   "3 A",
+   "3 mA",
+   "12 kA",
+   "0,33 mA"
+  ],
+  "juist": "B",
+  "uitleg": "Omzetten: 2 kΩ = 2 000 Ω. I = 6 ÷ 2 000 = 0,003 A = 3 mA.",
+  "waarom_fout": {
+   "A": "de kilo is vergeten.",
+   "C": "vermenigvuldigd in plaats van gedeeld.",
+   "D": "omgekeerd gedeeld."
+  },
+  "moeilijkheid": 2,
+  "svg": "h03-schema-ur",
+  "status": "ok",
+  "examendeel": "techniek",
+  "in_examen": true
+ },
+ {
+  "id": "E-h03-06",
+  "bron": "extra",
+  "hoofdstuk": 3,
+  "vraag": "In het schema loopt 50 mA door een weerstand van 200 Ω. Hoe groot is de spanning?",
+  "opties": [
+   "10 V",
+   "4 V",
+   "10 kV",
+   "0,25 V"
+  ],
+  "juist": "A",
+  "uitleg": "Omzetten: 50 mA = 0,05 A. U = I × R = 0,05 × 200 = 10 V.",
+  "waarom_fout": {
+   "B": "gedeeld (200 ÷ 50).",
+   "C": "de milli is vergeten.",
+   "D": "omgekeerd gedeeld."
+  },
+  "moeilijkheid": 2,
+  "svg": "h03-schema-ur",
+  "status": "ok",
+  "examendeel": "techniek",
+  "in_examen": true
+ },
+ {
+  "id": "E-h03-07",
+  "bron": "extra",
+  "hoofdstuk": 3,
+  "vraag": "In het schema is de spanning 9 V en het vermogen 4,5 W. Hoe groot is de stroom?",
+  "opties": [
+   "2 A",
+   "0,5 A",
+   "40,5 A",
+   "13,5 A"
+  ],
+  "juist": "B",
+  "uitleg": "I = P ÷ U = 4,5 ÷ 9 = 0,5 A.",
+  "waarom_fout": {
+   "A": "omgekeerd gedeeld (9 ÷ 4,5).",
+   "C": "vermenigvuldigd.",
+   "D": "opgeteld."
+  },
+  "moeilijkheid": 2,
+  "svg": "h03-schema-ur",
+  "status": "ok",
+  "examendeel": "techniek",
+  "in_examen": true
+ },
+ {
+  "id": "E-h03-08",
+  "bron": "extra",
+  "hoofdstuk": 3,
+  "vraag": "Een toestel verbruikt 25 W bij 5 A. Op welke spanning werkt het?",
+  "opties": [
+   "5 V",
+   "125 V",
+   "0,2 V",
+   "20 V"
+  ],
+  "juist": "A",
+  "uitleg": "U = P ÷ I = 25 ÷ 5 = 5 V.",
+  "waarom_fout": {
+   "B": "vermenigvuldigd.",
+   "C": "omgekeerd gedeeld.",
+   "D": "afgetrokken."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "techniek",
+  "in_examen": true
+ },
+ {
+  "id": "E-h03-09",
+  "bron": "extra",
+  "hoofdstuk": 3,
+  "vraag": "In het schema is de spanning 20 V en de stroom 50 mA. Welk vermogen verbruikt de weerstand?",
+  "opties": [
+   "1 W",
+   "1 000 W",
+   "0,4 W",
+   "2,5 mW"
+  ],
+  "juist": "A",
+  "uitleg": "Omzetten: 50 mA = 0,05 A. P = 20 × 0,05 = 1 W.",
+  "waarom_fout": {
+   "B": "de milli is vergeten.",
+   "C": "gedeeld (20 ÷ 50).",
+   "D": "omgekeerd gedeeld en verkeerde eenheid."
+  },
+  "moeilijkheid": 3,
+  "svg": "h03-schema-ur",
+  "status": "ok",
+  "examendeel": "techniek",
+  "in_examen": true
+ },
+ {
+  "id": "E-h03-10",
+  "bron": "extra",
+  "hoofdstuk": 3,
+  "vraag": "Welke spanning heeft het Belgische lichtnet?",
+  "opties": [
+   "12 V",
+   "110 V",
+   "230 V",
+   "400 V"
+  ],
+  "juist": "C",
+  "uitleg": "Het stopcontact geeft 230 V wisselspanning, 50 Hz.",
+  "waarom_fout": {
+   "A": "12 V is een autobatterij.",
+   "B": "110 V is onder meer in de Verenigde Staten.",
+   "D": "400 V is driefasige krachtstroom, niet het gewone stopcontact."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "techniek",
+  "in_examen": true
+ },
+ {
+  "id": "E-h03-11",
+  "bron": "extra",
+  "hoofdstuk": 3,
+  "vraag": "De periode van een sinus is 0,02 s. Welke frequentie heeft ze?",
+  "opties": [
+   "0,02 Hz",
+   "20 Hz",
+   "50 Hz",
+   "200 Hz"
+  ],
+  "juist": "C",
+  "uitleg": "f = 1 ÷ T = 1 ÷ 0,02 = 50 Hz. Dat is precies het lichtnet.",
+  "waarom_fout": {
+   "A": "dat is de periode.",
+   "B": "verkeerde deling.",
+   "D": "factor 4 te hoog."
+  },
+  "moeilijkheid": 3,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "techniek",
+  "in_examen": true
+ },
+ {
+  "id": "E-h03-12",
+  "bron": "extra",
+  "hoofdstuk": 3,
+  "vraag": "Wat is de amplitude van een sinus?",
+  "opties": [
+   "De tijd van één golf",
+   "Het aantal golven per seconde",
+   "De hoogste waarde, van nul tot de top",
+   "De afstand tussen twee toppen in meter"
+  ],
+  "juist": "C",
+  "uitleg": "De amplitude is de grootste uitslag, gemeten vanaf nul.",
+  "waarom_fout": {
+   "A": "dat is de periode.",
+   "B": "dat is de frequentie.",
+   "D": "dat is de golflengte."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "techniek",
+  "in_examen": true
+ },
+ {
+  "id": "E-h03-13",
+  "bron": "extra",
+  "hoofdstuk": 3,
+  "vraag": "Wat betekent RF?",
+  "opties": [
+   "radiofrequentie",
+   "reflectiefactor",
+   "restfrequentie",
+   "richtfactor"
+  ],
+  "juist": "A",
+  "uitleg": "RF = radiofrequentie: de frequenties van radiogolven.",
+  "waarom_fout": {
+   "B": "bestaat in deze betekenis niet.",
+   "C": "bestaat niet.",
+   "D": "bestaat niet."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "techniek",
+  "in_examen": true
+ },
+ {
+  "id": "E-h03-14",
+  "bron": "extra",
+  "hoofdstuk": 3,
+  "vraag": "Een radioamateur zendt op 432 MHz. In welk gebied ligt dat?",
+  "opties": [
+   "HF",
+   "VHF",
+   "UHF",
+   "AF"
+  ],
+  "juist": "C",
+  "uitleg": "UHF loopt van 300 tot 3000 MHz.",
+  "waarom_fout": {
+   "A": "HF loopt tot 30 MHz.",
+   "B": "VHF loopt tot 300 MHz.",
+   "D": "AF is geluid."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "techniek",
+  "in_examen": true
+ },
+ {
+  "id": "E-h03-15",
+  "bron": "extra",
+  "hoofdstuk": 3,
+  "vraag": "Welke frequentie hoort bij de 80 meterband?",
+  "opties": [
+   "ongeveer 3,75 MHz",
+   "ongeveer 24 MHz",
+   "ongeveer 80 MHz",
+   "ongeveer 240 MHz"
+  ],
+  "juist": "A",
+  "uitleg": "f = 300 ÷ 80 = 3,75 MHz. De 80 meterband ligt van 3,5 tot 3,8 MHz.",
+  "waarom_fout": {
+   "B": "300 ÷ 80 is geen 24.",
+   "C": "de bandnaam is geen frequentie.",
+   "D": "vermenigvuldigd in plaats van gedeeld."
+  },
+  "moeilijkheid": 2,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "techniek",
+  "in_examen": true
+ },
+ {
+  "id": "E-h03-16",
+  "bron": "extra",
+  "hoofdstuk": 3,
+  "vraag": "Waarom vraagt het examen bij rekenvragen naar de eenheid (bv. W of mW)?",
+  "opties": [
+   "Omdat dezelfde cijfers met een andere eenheid vaak als fout antwoord staan",
+   "Omdat de eenheid niet belangrijk is",
+   "Omdat je altijd in mW moet antwoorden",
+   "Omdat het examen geen rekenvragen heeft"
+  ],
+  "juist": "A",
+  "uitleg": "De afleiders gebruiken vaak het juiste getal met de verkeerde eenheid. Let daarom altijd op k, m en M.",
+  "waarom_fout": {
+   "B": "de eenheid is net doorslaggevend.",
+   "C": "de eenheid hangt af van de vraag.",
+   "D": "er zijn wel rekenvragen."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "techniek",
+  "in_examen": true
+ }
+]

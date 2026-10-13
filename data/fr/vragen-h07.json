@@ -1,0 +1,733 @@
+[
+ {
+  "id": "C-h07-1a",
+  "vraag": "Que signifie CEM ?",
+  "opties": [
+   "contrôle électrique des moteurs",
+   "compatibilité électromagnétique",
+   "circuit de modulation supplémentaire",
+   "centre électronique de mesure"
+  ],
+  "uitleg": "Compatibilité électromagnétique.",
+  "waarom_fout": {
+   "A": "inventé.",
+   "C": "inventé.",
+   "D": "inventé."
+  },
+  "onderwerp": "CEM"
+ },
+ {
+  "id": "C-h07-1b",
+  "vraag": "Quel fil peut capter votre signal et perturber un appareil ?",
+  "opties": [
+   "uniquement le câble d'antenne de la télévision",
+   "n'importe quel fil, y compris le réseau électrique et les câbles de haut-parleurs",
+   "uniquement les fils de plus de 100 m",
+   "aucun fil"
+  ],
+  "uitleg": "Chaque fil peut se comporter comme une antenne.",
+  "waarom_fout": {
+   "A": "pas seulement celui-là.",
+   "C": "les fils courts aussi.",
+   "D": "c'est possible."
+  },
+  "onderwerp": "CEM"
+ },
+ {
+  "id": "C-h07-1c",
+  "vraag": "À quelles fréquences même les petits fils à l'intérieur d'un appareil captent-ils votre signal ?",
+  "opties": [
+   "uniquement sur 160 m",
+   "VHF et UHF",
+   "uniquement sur 80 m",
+   "jamais"
+  ],
+  "uitleg": "En VHF et UHF, l'onde est assez courte pour un rayonnement direct.",
+  "waarom_fout": {
+   "A": "là, l'onde est très longue.",
+   "C": "là aussi.",
+   "D": "c'est possible en VHF/UHF."
+  },
+  "onderwerp": "CEM"
+ },
+ {
+  "id": "C-h07-2a",
+  "vraag": "Quelle installation donne le moins de risque de perturbation ?",
+  "opties": [
+   "long fil bas à côté de la maison",
+   "dipôle haut et loin de la maison",
+   "dipôle au grenier",
+   "long fil fixé à la gouttière"
+  ],
+  "uitleg": "Loin, haut et symétrique.",
+  "waarom_fout": {
+   "A": "bas, proche, asymétrique : la pire.",
+   "C": "juste à côté des appareils.",
+   "D": "juste à côté de la maison et asymétrique."
+  },
+  "onderwerp": "éviter les perturbations"
+ },
+ {
+  "id": "C-h07-2b",
+  "vraag": "Quelle modulation donne le plus de risque de perturbation ?",
+  "opties": [
+   "CW",
+   "FM",
+   "SSB",
+   "PSK31"
+  ],
+  "uitleg": "La SSB donne le plus de risque.",
+  "waarom_fout": {
+   "A": "beaucoup moins.",
+   "B": "beaucoup moins.",
+   "D": "beaucoup moins."
+  },
+  "onderwerp": "éviter les perturbations"
+ },
+ {
+  "id": "C-h07-2c",
+  "vraag": "Quelle est une première étape simple si vous perturbez ?",
+  "opties": [
+   "réduire la puissance",
+   "augmenter la puissance",
+   "parler plus fort",
+   "passer en SSB"
+  ],
+  "uitleg": "Moins de puissance = moins de risque de perturbation.",
+  "waarom_fout": {
+   "B": "cela aggrave le problème.",
+   "C": "cela aggrave le problème.",
+   "D": "la SSB donne justement plus de risque."
+  },
+  "onderwerp": "éviter les perturbations"
+ },
+ {
+  "id": "C-h07-3a",
+  "vraag": "Quel appareil l'immunité concerne-t-elle ?",
+  "opties": [
+   "l'émetteur",
+   "l'appareil perturbé",
+   "l'antenne",
+   "le ROS-mètre"
+  ],
+  "uitleg": "L'immunité est une propriété de l'appareil qui est perturbé.",
+  "waarom_fout": {
+   "A": "non.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "immunité"
+ },
+ {
+  "id": "C-h07-3b",
+  "vraag": "Pourquoi un tore de ferrite est-il une solution sûre ?",
+  "opties": [
+   "parce qu'il coupe le courant",
+   "parce que vous ne devez ni couper ni raccorder les fils",
+   "parce qu'il abaisse la tension",
+   "parce qu'il est relié à la terre"
+  ],
+  "uitleg": "Vous enroulez simplement le câble à travers le tore.",
+  "waarom_fout": {
+   "A": "le 230 V passe normalement.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "immunité"
+ },
+ {
+  "id": "C-h07-3c",
+  "vraag": "Vous placez un filtre dans le cordon secteur de la télévision de votre voisin. Où de préférence ?",
+  "opties": [
+   "à la prise de courant",
+   "au milieu du cordon",
+   "tout près de la télévision",
+   "dans le tableau électrique"
+  ],
+  "uitleg": "Le plus près possible de l'appareil perturbé.",
+  "waarom_fout": {
+   "A": "le cordon qui suit capte à nouveau du signal.",
+   "B": "là aussi, le morceau vers la télévision capte à nouveau.",
+   "D": "beaucoup trop loin."
+  },
+  "onderwerp": "immunité"
+ },
+ {
+  "id": "C-h07-4a",
+  "vraag": "À quoi ressemble une bonne terre HF ?",
+  "opties": [
+   "longue et fine",
+   "courte et épaisse, vers un piquet de terre",
+   "par la prise de courant",
+   "par la conduite d'eau du voisin"
+  ],
+  "uitleg": "Courte et épaisse vers un piquet de terre.",
+  "waarom_fout": {
+   "A": "long et fin fonctionne mal.",
+   "C": "c'est justement ce qu'on veut éviter.",
+   "D": "non."
+  },
+  "onderwerp": "terre"
+ },
+ {
+  "id": "C-h07-4b",
+  "vraag": "Une terre HF remplace-t-elle la terre de sécurité de la maison ?",
+  "opties": [
+   "oui",
+   "non",
+   "uniquement en HF",
+   "uniquement au-delà de 100 W"
+  ],
+  "uitleg": "Jamais : la terre de sécurité reste toujours nécessaire.",
+  "waarom_fout": {
+   "A": "non.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "terre"
+ },
+ {
+  "id": "C-h07-5a",
+  "vraag": "Quel service de l'IBPT vient mesurer sur place ?",
+  "opties": [
+   "l'UBA",
+   "le NCS",
+   "la VRT",
+   "la police"
+  ],
+  "uitleg": "Le NCS, le service national de contrôle du spectre.",
+  "waarom_fout": {
+   "A": "l'UBA est l'association des radioamateurs.",
+   "C": "un radiodiffuseur.",
+   "D": "pas compétente pour les mesures."
+  },
+  "onderwerp": "voisins"
+ },
+ {
+  "id": "C-h07-5b",
+  "vraag": "À qui demandez-vous de l'aide avant de vous adresser à l'IBPT ?",
+  "opties": [
+   "à la commission CEM de l'UBA",
+   "à la commune",
+   "au gestionnaire de réseau",
+   "au magasin de télévisions"
+  ],
+  "uitleg": "Des radioamateurs expérimentés et la commission CEM de l'UBA.",
+  "waarom_fout": {
+   "B": "pas compétente.",
+   "C": "pas la première étape.",
+   "D": "pas la première étape."
+  },
+  "onderwerp": "voisins"
+ },
+ {
+  "id": "C-h07-5c",
+  "vraag": "Votre station fonctionne selon les règles et le NCS vient mesurer. Que devez-vous craindre ?",
+  "opties": [
+   "une saisie",
+   "rien",
+   "une amende",
+   "la perte de votre licence"
+  ],
+  "uitleg": "Une station qui fonctionne correctement n'a rien à craindre.",
+  "waarom_fout": {
+   "A": "pas pour une station correcte.",
+   "C": "pas pour une station correcte.",
+   "D": "pas pour une station correcte."
+  },
+  "onderwerp": "voisins"
+ },
+ {
+  "id": "E-h07-01",
+  "vraag": "Quelle source dans la maison peut perturber votre récepteur ?",
+  "opties": [
+   "une ampoule à incandescence éteinte",
+   "un chargeur ou une lampe LED",
+   "une table en bois",
+   "un livre"
+  ],
+  "uitleg": "Les chargeurs, les lampes LED et les ordinateurs peuvent rayonner des perturbations.",
+  "waarom_fout": {
+   "A": "un appareil éteint ne perturbe pas.",
+   "C": "pas d'électronique.",
+   "D": "pas d'électronique."
+  },
+  "onderwerp": "CEM"
+ },
+ {
+  "id": "E-h07-02",
+  "vraag": "Comment raccorder de préférence un dipôle pour limiter les perturbations ?",
+  "opties": [
+   "directement avec le câble coaxial",
+   "via un balun",
+   "via un câble de haut-parleur",
+   "via un cordon secteur"
+  ],
+  "uitleg": "Un balun évite que l'extérieur du câble coaxial rayonne aussi (voir chapitre 5).",
+  "waarom_fout": {
+   "A": "le blindage se met alors à rayonner aussi.",
+   "C": "inadapté.",
+   "D": "inadapté et dangereux."
+  },
+  "onderwerp": "éviter les perturbations"
+ },
+ {
+  "id": "E-h07-03",
+  "vraag": "Vous perturbez la télévision de votre voisin sur 20 m en SSB. Quel changement aidera probablement le moins ?",
+  "opties": [
+   "réduire la puissance",
+   "passer en CW",
+   "augmenter le gain de votre micro",
+   "éloigner votre antenne de la maison"
+  ],
+  "uitleg": "Un gain micro plus élevé n'aide pas et peut même provoquer une surmodulation.",
+  "waarom_fout": {
+   "A": "cela aide.",
+   "B": "la CW donne moins de risque.",
+   "D": "cela aide."
+  },
+  "onderwerp": "éviter les perturbations"
+ },
+ {
+  "id": "E-h07-04",
+  "vraag": "Que fait un filtre secteur ?",
+  "opties": [
+   "il laisse passer le 50 Hz et bloque la HF",
+   "il bloque le 50 Hz et laisse passer la HF",
+   "il augmente la tension",
+   "il mesure le ROS"
+  ],
+  "uitleg": "Le 50 Hz doit passer, la HF non.",
+  "waarom_fout": {
+   "B": "c'est l'inverse.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "immunité"
+ },
+ {
+  "id": "E-h07-05",
+  "vraag": "Qu'est-ce qu'une self de choc ?",
+  "opties": [
+   "une bobine qui freine le courant HF sur un câble",
+   "une bobine qui augmente la puissance",
+   "une sorte de microphone",
+   "un élément d'antenne"
+  ],
+  "uitleg": "Une self de choc (souvent un tore de ferrite) freine le courant HF.",
+  "waarom_fout": {
+   "B": "non.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "immunité"
+ },
+ {
+  "id": "E-h07-06",
+  "vraag": "Qui est responsable si la perturbation vient d'un appareil mal protégé du voisin ?",
+  "opties": [
+   "toujours le radioamateur",
+   "en principe le voisin, mais collaborer est vivement conseillé",
+   "le magasin",
+   "l'IBPT"
+  ],
+  "uitleg": "En principe, c'est au voisin de prendre des mesures, mais la collaboration est la meilleure voie.",
+  "waarom_fout": {
+   "A": "pas toujours.",
+   "C": "non.",
+   "D": "l'IBPT contrôle, mais n'est pas responsable."
+  },
+  "onderwerp": "voisins"
+ },
+ {
+  "id": "E-h07-07",
+  "vraag": "Pourquoi le fil d'une terre HF doit-il être court ?",
+  "opties": [
+   "parce que les fils longs coûtent plus cher",
+   "parce qu'un fil long se comporte lui-même comme une antenne et évacue mal la HF",
+   "parce que la commune l'impose",
+   "parce que le cuivre est lourd"
+  ],
+  "uitleg": "Plus il est court, mieux le courant HF va vers le sol.",
+  "waarom_fout": {
+   "A": "ce n'est pas la raison.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "terre"
+ },
+ {
+  "id": "O204",
+  "vraag": "La compatibilité électromagnétique (CEM) signifie :",
+  "opties": [
+   "la conversion de la puissance d'émission en une onde électromagnétique par une antenne",
+   "la possibilité de raccorder un émetteur, une ligne de transmission et une antenne entre eux sans pertes",
+   "le fait d'éviter les perturbations entre toutes sortes d'appareils électroniques",
+   "le fait d'utiliser l'énergie électrique de la manière la plus économe possible"
+  ],
+  "uitleg": "CEM = éviter que des appareils électroniques se perturbent entre eux.",
+  "waarom_fout": {
+   "A": "c'est le rôle d'une antenne.",
+   "B": "cela concerne l'adaptation (ROS), pas la CEM.",
+   "D": "c'est l'économie d'énergie."
+  },
+  "onderwerp": "bases de la CEM"
+ },
+ {
+  "id": "O205",
+  "vraag": "Les émetteurs radio peuvent :",
+  "opties": [
+   "provoquer des perturbations dans des appareils électroniques et des récepteurs radio situés à proximité",
+   "provoquer des perturbations dans des appareils électroniques et des récepteurs radio situés très loin",
+   "irriter les animaux domestiques parce que ceux-ci peuvent entendre les ondes radio rayonnées",
+   "irriter les animaux domestiques parce que ceux-ci peuvent entendre les ondes magnétiques rayonnées"
+  ],
+  "uitleg": "Un émetteur peut perturber des appareils et des radios situés à proximité.",
+  "waarom_fout": {
+   "B": "il s'agit d'appareils proches, pas éloignés.",
+   "C": "les animaux n'entendent pas les ondes radio.",
+   "D": "les animaux n'entendent pas non plus les ondes magnétiques."
+  },
+  "onderwerp": "bases de la CEM"
+ },
+ {
+  "id": "O206",
+  "vraag": "Les récepteurs radio :",
+  "opties": [
+   "ne peuvent être perturbés que par des appareils électroniques situés très loin",
+   "sont toujours perturbés par tous les autres appareils électroniques situés à proximité",
+   "ne peuvent jamais être perturbés par d'autres appareils électroniques situés à proximité",
+   "peuvent parfois être perturbés par d'autres appareils électroniques situés à proximité"
+  ],
+  "uitleg": "Un récepteur peut parfois être perturbé par des appareils proches.",
+  "waarom_fout": {
+   "A": "il s'agit d'appareils proches.",
+   "B": "pas toujours et pas par tous les appareils.",
+   "C": "c'est possible."
+  },
+  "onderwerp": "bases de la CEM"
+ },
+ {
+  "id": "O207",
+  "vraag": "Des appareils électroniques situés à proximité d'un émetteur radio peuvent être perturbés parce que :",
+  "opties": [
+   "la distance entre l'appareil perturbé et l'émetteur radio est exactement d'une longueur d'onde",
+   "des conducteurs qui ne sont pas destinés à servir d'antenne (par ex. le réseau électrique) captent les ondes radio",
+   "la distance entre l'appareil perturbé et l'émetteur radio est trop grande",
+   "des conducteurs qui ne sont pas destinés à servir d'antenne (par ex. le réseau électrique) captent les ondes sonores"
+  ],
+  "uitleg": "Des fils qui ne sont pas des antennes (comme le réseau électrique) captent les ondes radio.",
+  "waarom_fout": {
+   "A": "une distance d'exactement une longueur d'onde n'est pas la cause.",
+   "C": "une distance trop grande donne justement moins de perturbations.",
+   "D": "il s'agit d'ondes radio, pas d'ondes sonores."
+  },
+  "onderwerp": "bases de la CEM"
+ },
+ {
+  "id": "O208",
+  "vraag": "À proximité d'un émetteur radio, une perturbation par rayonnement direct dans un appareil électronique peut apparaître si :",
+  "opties": [
+   "la distance entre l'appareil perturbé et l'émetteur radio est exactement d'une demi-longueur d'onde",
+   "la distance entre l'appareil perturbé et l'émetteur radio est exactement d'une longueur d'onde",
+   "l'émetteur radio se trouve à proximité de l'appareil perturbé",
+   "la distance entre l'appareil perturbé et l'émetteur radio est trop grande"
+  ],
+  "uitleg": "Le rayonnement direct apparaît quand l'émetteur est proche de l'appareil.",
+  "waarom_fout": {
+   "A": "une demi-longueur d'onde n'est pas la cause.",
+   "B": "une longueur d'onde non plus.",
+   "D": "plus c'est loin, moins il y a de risque."
+  },
+  "onderwerp": "bases de la CEM"
+ },
+ {
+  "id": "O209",
+  "vraag": "Une forme de perturbation propre aux émissions radio :",
+  "opties": [
+   "la perturbation due au fait que le réseau électrique capte le signal radio",
+   "la perturbation due au fait qu'un câble de téléphone capte le signal radio",
+   "la perturbation due au fait qu'un câble de haut-parleur capte le signal radio",
+   "le rayonnement direct dans l'appareil perturbé"
+  ],
+  "uitleg": "Rayonnement direct : l'onde entre directement dans l'appareil, sans câble. C'est typique des ondes radio.",
+  "waarom_fout": {
+   "A": "le réseau peut aussi conduire d'autres perturbations (par exemple d'appareils à découpage).",
+   "B": "un câble de téléphone peut aussi conduire d'autres perturbations.",
+   "C": "un câble de haut-parleur aussi."
+  },
+  "onderwerp": "bases de la CEM"
+ },
+ {
+  "id": "O210",
+  "vraag": "Le risque de problèmes de CEM peut être réduit en :",
+  "opties": [
+   "plaçant l'antenne le plus près possible des maisons et le plus bas possible",
+   "plaçant l'antenne le plus près possible des maisons et le plus haut possible",
+   "plaçant l'antenne le plus loin possible des maisons et le plus bas possible",
+   "plaçant l'antenne le plus loin possible des maisons et le plus haut possible"
+  ],
+  "uitleg": "Le plus loin possible des maisons et le plus haut possible.",
+  "waarom_fout": {
+   "A": "proche et bas donne le plus de risque.",
+   "B": "près des maisons, c'est mauvais.",
+   "C": "bas, c'est mauvais."
+  },
+  "onderwerp": "prévention des interférences"
+ },
+ {
+  "id": "O211",
+  "vraag": "Le risque de problèmes de CEM en HF peut être réduit en :",
+  "opties": [
+   "utilisant une antenne symétrique",
+   "utilisant une antenne asymétrique",
+   "utilisant une antenne omnidirectionnelle",
+   "utilisant une antenne polarisée"
+  ],
+  "uitleg": "Une antenne symétrique (comme un dipôle) donne moins de risque de perturbation.",
+  "waarom_fout": {
+   "B": "les antennes asymétriques donnent plus de risque.",
+   "C": "omnidirectionnelle ou non, ce n'est pas la cause.",
+   "D": "toute antenne est polarisée ; cela ne dit rien."
+  },
+  "onderwerp": "prévention des interférences"
+ },
+ {
+  "id": "O212",
+  "vraag": "Le risque de problèmes de CEM en HF est :",
+  "opties": [
+   "plus grand avec un dipôle installé horizontalement qu'avec une antenne long fil alimentée en bout",
+   "plus grand avec une antenne long fil alimentée en bout qu'avec un dipôle installé horizontalement",
+   "aussi grand avec une antenne long fil alimentée en bout qu'avec un dipôle installé horizontalement",
+   "aussi petit avec une antenne long fil alimentée en bout qu'avec un dipôle installé horizontalement"
+  ],
+  "uitleg": "Un long fil alimenté en bout donne plus de risque de perturbation qu'un dipôle horizontal.",
+  "waarom_fout": {
+   "A": "c'est l'inverse.",
+   "C": "pas aussi grand.",
+   "D": "pas aussi petit."
+  },
+  "onderwerp": "prévention des interférences"
+ },
+ {
+  "id": "O213",
+  "vraag": "Le risque de problèmes de CEM en HF est :",
+  "opties": [
+   "uniquement fonction de l'emplacement de l'antenne d'émission",
+   "uniquement fonction de la nature de l'antenne d'émission",
+   "fonction à la fois de l'emplacement de l'antenne d'émission et de la nature de l'antenne d'émission",
+   "ni fonction de l'emplacement de l'antenne d'émission, ni fonction de la nature de l'antenne d'émission"
+  ],
+  "uitleg": "L'emplacement et le type d'antenne jouent tous les deux un rôle.",
+  "waarom_fout": {
+   "A": "pas seulement l'emplacement.",
+   "B": "pas seulement le type.",
+   "D": "les deux jouent justement un rôle."
+  },
+  "onderwerp": "prévention des interférences"
+ },
+ {
+  "id": "O214",
+  "vraag": "Le risque de problèmes de CEM :",
+  "opties": [
+   "augmente si la puissance de sortie de l'émetteur est augmentée",
+   "augmente si la puissance de sortie de l'émetteur est diminuée",
+   "est indépendant de la puissance de sortie de l'émetteur",
+   "augmente parfois si la puissance de sortie est augmentée et parfois si la puissance de sortie est diminuée"
+  ],
+  "uitleg": "Plus de puissance = plus de risque de perturbation.",
+  "waarom_fout": {
+   "B": "c'est l'inverse.",
+   "C": "la puissance joue un rôle.",
+   "D": "toujours plus de risque avec plus de puissance."
+  },
+  "onderwerp": "prévention des interférences"
+ },
+ {
+  "id": "O215",
+  "vraag": "Le risque de problèmes de CEM :",
+  "opties": [
+   "est indépendant du mode de transmission utilisé (modulation)",
+   "est plus grand avec un émetteur SSB qu'avec un émetteur FM",
+   "est plus grand avec un émetteur FM qu'avec un émetteur SSB",
+   "est plus grand avec un émetteur CW (morse) qu'avec un émetteur SSB"
+  ],
+  "uitleg": "La SSB donne plus de risque de perturbation que la FM.",
+  "waarom_fout": {
+   "A": "la modulation joue un rôle.",
+   "C": "c'est l'inverse.",
+   "D": "la CW donne moins de risque que la SSB."
+  },
+  "onderwerp": "prévention des interférences"
+ },
+ {
+  "id": "O216",
+  "vraag": "Si un problème de CEM se présente, il peut éventuellement être résolu en :",
+  "opties": [
+   "manipulant plus vite si le problème se présente avec un émetteur CW (morse)",
+   "parlant plus fort dans le microphone",
+   "diminuant la puissance de sortie de l'émetteur",
+   "augmentant la puissance de sortie de l'émetteur"
+  ],
+  "uitleg": "Réduire la puissance peut résoudre un problème de CEM.",
+  "waarom_fout": {
+   "A": "manipuler plus vite ne change rien.",
+   "B": "parler plus fort aggrave le problème.",
+   "D": "plus de puissance aggrave le problème."
+  },
+  "onderwerp": "prévention des interférences"
+ },
+ {
+  "id": "O217",
+  "vraag": "« Immunité » (en CEM) signifie qu'un :",
+  "opties": [
+   "émetteur radio fonctionne correctement et ne rayonne pas de signaux indésirables",
+   "émetteur radio ne peut pas être tenu pour responsable d'éventuelles perturbations",
+   "appareil électronique fonctionne correctement en présence de fortes ondes radio",
+   "appareil électronique ne fonctionne plus correctement en présence de fortes ondes radio"
+  ],
+  "uitleg": "Immunité : un appareil fonctionne correctement, même en présence de fortes ondes radio.",
+  "waarom_fout": {
+   "A": "cela concerne l'émetteur, pas l'immunité.",
+   "B": "ce n'est pas une notion technique.",
+   "D": "c'est l'inverse : c'est justement un manque d'immunité."
+  },
+  "onderwerp": "immunité, filtres, terre HF"
+ },
+ {
+  "id": "O218",
+  "vraag": "L'immunité (CEM) d'un appareil peut être augmentée en :",
+  "opties": [
+   "installant les filtres ou les selfs de choc adéquats dans le câble secteur, le câble de haut-parleur, le câble d'antenne ou le câble de téléphone",
+   "retirant les filtres éventuellement présents dans le câble secteur, le câble de haut-parleur, le câble d'antenne ou le câble de téléphone",
+   "détruisant les filtres éventuellement présents dans le câble secteur, le câble de haut-parleur, le câble d'antenne ou le câble de téléphone",
+   "aucune des mesures décrites ci-dessus"
+  ],
+  "uitleg": "Avec les filtres ou selfs de choc adéquats dans les câbles, vous augmentez l'immunité.",
+  "waarom_fout": {
+   "B": "retirer des filtres empire la situation.",
+   "C": "détruire des filtres l'empire aussi.",
+   "D": "les filtres aident bel et bien."
+  },
+  "onderwerp": "immunité, filtres, terre HF"
+ },
+ {
+  "id": "O219",
+  "vraag": "Si l'on veut augmenter l'immunité (CEM) d'un appareil en plaçant un filtre dans un câble, le meilleur emplacement pour le filtre est :",
+  "opties": [
+   "exactement au milieu du câble",
+   "le plus loin possible de l'appareil",
+   "le plus près possible de l'appareil",
+   "à une longueur d'onde de l'appareil"
+  ],
+  "uitleg": "Un filtre se place le plus près possible de l'appareil.",
+  "waarom_fout": {
+   "A": "le morceau de câble jusqu'à l'appareil capte alors à nouveau du signal.",
+   "B": "encore pire : beaucoup de câble après le filtre.",
+   "D": "cette règle n'existe pas."
+  },
+  "onderwerp": "immunité, filtres, terre HF"
+ },
+ {
+  "id": "O220",
+  "vraag": "Pour des raisons de sécurité, il faut veiller particulièrement à ce que :",
+  "opties": [
+   "les noyaux de ferrite placés autour d'un cordon secteur soient adaptés à cet usage",
+   "les filtres raccordés au réseau électrique soient adaptés à cet usage",
+   "les filtres raccordés à un câble de haut-parleur soient adaptés à cet usage",
+   "les filtres raccordés à un câble d'antenne soient adaptés à cet usage"
+  ],
+  "uitleg": "Les filtres sur le réseau électrique doivent être adaptés à cet usage : sinon, il y a danger.",
+  "waarom_fout": {
+   "A": "un noyau de ferrite autour d'un cordon est sûr : vous ne touchez pas aux fils.",
+   "C": "un câble de haut-parleur ne porte pas de tension dangereuse.",
+   "D": "un câble d'antenne non plus."
+  },
+  "onderwerp": "immunité, filtres, terre HF"
+ },
+ {
+  "id": "O221",
+  "vraag": "Les montages faits maison, destinés à éviter les perturbations :",
+  "opties": [
+   "ne sont pas adaptés pour augmenter l'immunité d'un appareil",
+   "ne peuvent être raccordés que par un radioamateur titulaire d'une licence complète",
+   "peuvent être raccordés partout sans la moindre réserve",
+   "constituent un danger potentiel s'ils sont raccordés au réseau électrique"
+  ],
+  "uitleg": "Les montages faits maison sur le réseau électrique peuvent être dangereux.",
+  "waarom_fout": {
+   "A": "ils peuvent fonctionner, mais sur le réseau ils sont risqués.",
+   "B": "il s'agit de sécurité, pas de la classe de licence.",
+   "C": "certainement pas sans réserve."
+  },
+  "onderwerp": "immunité, filtres, terre HF"
+ },
+ {
+  "id": "O222",
+  "vraag": "Une bonne terre HF sert :",
+  "opties": [
+   "uniquement à augmenter la sécurité des appareils ménagers comme les frigos et les machines à laver",
+   "en fait à rien, mais une loi de 1935 l'impose toujours",
+   "dans une station de radioamateur, à prévoir un chemin direct pour les courants HF vers la terre, afin que ces courants HF n'arrivent pas dans le réseau de la terre de sécurité et n'y provoquent ainsi des perturbations",
+   "à garantir le bon fonctionnement de la station radio si celle-ci se trouve très haut au-dessus du rez-de-chaussée (par ex. dans un gratte-ciel)"
+  ],
+  "uitleg": "Terre HF : un chemin direct vers la terre pour les courants HF, pour qu'ils ne perturbent pas via la terre de sécurité.",
+  "waarom_fout": {
+   "A": "il s'agit de la station radio, pas des appareils ménagers.",
+   "B": "cette loi n'existe pas ; elle sert bel et bien.",
+   "D": "ce n'est pas le but."
+  },
+  "onderwerp": "immunité, filtres, terre HF"
+ },
+ {
+  "id": "O223",
+  "vraag": "Pour assurer un chemin de retour efficace des courants HF vers la terre :",
+  "opties": [
+   "il faut prévoir une bonne terre HF pour la station radio",
+   "il ne faut raccorder la station radio qu'au réseau électrique et surtout ne prévoir aucune terre supplémentaire",
+   "il faut placer la station radio sur une table métallique",
+   "il faut placer la station radio sur une table en bois (ou en un autre matériau isolant)"
+  ],
+  "uitleg": "Une bonne terre HF assure un chemin de retour efficace pour les courants HF.",
+  "waarom_fout": {
+   "B": "justement faux : sans terre propre, la HF passe par le réseau électrique.",
+   "C": "une table métallique n'est pas une terre.",
+   "D": "une table en bois non plus."
+  },
+  "onderwerp": "immunité, filtres, terre HF"
+ },
+ {
+  "id": "O224",
+  "vraag": "Si l'un de vos voisins se plaint de perturbations de sa réception TV, il est conseillé de :",
+  "opties": [
+   "ne pas réagir, car cela pourrait sinon être considéré comme une preuve de faute de votre part",
+   "le mentionner dans votre carnet de trafic, mais ne rien faire d'autre",
+   "porter immédiatement plainte pour calomnie et diffamation",
+   "examiner le problème ensemble et chercher une solution de commun accord"
+  ],
+  "uitleg": "Examiner ensemble et chercher ensemble une solution.",
+  "waarom_fout": {
+   "A": "ne pas réagir aggrave la situation.",
+   "B": "se contenter de noter ne résout rien.",
+   "C": "une plainte contre votre voisin n'aide personne."
+  },
+  "onderwerp": "aspect social des interférences"
+ },
+ {
+  "id": "O225",
+  "vraag": "Si, en cas d'interférence (perturbation), on n'arrive pas à une solution acceptable, le mieux est de :",
+  "opties": [
+   "soumettre le cas au conseil national des perturbations par ondes radio",
+   "demander conseil à l'IBPT",
+   "simplement ignorer le problème",
+   "demander conseil à l'un des organismes nationaux de radiodiffusion"
+  ],
+  "uitleg": "Si vous n'arrivez pas à vous entendre, demandez conseil à l'IBPT.",
+  "waarom_fout": {
+   "A": "ce conseil n'existe pas.",
+   "C": "ignorer ne résout rien.",
+   "D": "les radiodiffuseurs ne sont pas compétents."
+  },
+  "onderwerp": "aspect social des interférences"
+ }
+]

@@ -1,0 +1,1052 @@
+[
+ {
+  "id": "C-h15-b01a",
+  "bron": "check",
+  "hoofdstuk": 15,
+  "onderwerp": "rangorde",
+  "vraag": "Welke regel is de hoogste?",
+  "opties": [
+   "het koninklijk besluit",
+   "de wet",
+   "het ministerieel besluit",
+   "het besluit van de Raad van het BIPT"
+  ],
+  "juist": "B",
+  "uitleg": "De wet staat bovenaan, daarna KB, MB en besluit van de Raad van het BIPT.",
+  "waarom_fout": {
+   "A": "het KB staat onder de wet.",
+   "C": "het MB staat onder wet en KB.",
+   "D": "het besluit van de Raad van het BIPT staat onderaan."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "wetsverwijzing": "handboek 15.1.1",
+  "pagina": "s01"
+ },
+ {
+  "id": "C-h15-b01b",
+  "bron": "check",
+  "hoofdstuk": 15,
+  "onderwerp": "Instituut",
+  "vraag": "Wie wordt in de wet en het KB bedoeld met \"het Instituut\"?",
+  "opties": [
+   "de UBA",
+   "het BIPT",
+   "de ITU",
+   "de CEPT"
+  ],
+  "juist": "B",
+  "uitleg": "Het Instituut is het Belgisch Instituut voor postdiensten en telecommunicatie (BIPT).",
+  "waarom_fout": {
+   "A": "de UBA is een vereniging.",
+   "C": "de ITU is internationaal (VN).",
+   "D": "de CEPT is Europees."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "wetsverwijzing": "KB art. 1, 2°",
+  "pagina": "s01"
+ },
+ {
+  "id": "C-h15-b02a",
+  "bron": "check",
+  "hoofdstuk": 15,
+  "onderwerp": "radiogolven",
+  "vraag": "Onder welke frequentie liggen radiogolven volgens de wet?",
+  "opties": [
+   "300 GHz",
+   "3000 MHz",
+   "3000 GHz",
+   "30 000 GHz"
+  ],
+  "juist": "C",
+  "uitleg": "Radiogolven of hertzgolven hebben een frequentie onder 3000 GHz.",
+  "waarom_fout": {
+   "A": "te laag.",
+   "B": "dat is maar 3 GHz.",
+   "D": "te hoog."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "wetsverwijzing": "wet art. 2, 31°",
+  "pagina": "w01"
+ },
+ {
+  "id": "C-h15-b02b",
+  "bron": "check",
+  "hoofdstuk": 15,
+  "onderwerp": "radiostation",
+  "vraag": "Wat hoort volgens de wet bij een radiostation?",
+  "opties": [
+   "enkel het zendtoestel",
+   "het toestel, de antennes en alle onderdelen nodig om het te laten werken",
+   "enkel het zendtoestel en de microfoon",
+   "enkel de antenne"
+  ],
+  "juist": "B",
+  "uitleg": "Een radiostation is het geheel: toestel, antennes en alle onderdelen nodig voor de werking.",
+  "waarom_fout": {
+   "A": "ook antennes en onderdelen horen erbij.",
+   "C": "te beperkt.",
+   "D": "te beperkt."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "wetsverwijzing": "wet art. 2, 38°",
+  "pagina": "w01"
+ },
+ {
+  "id": "C-h15-b02c",
+  "bron": "check",
+  "hoofdstuk": 15,
+  "onderwerp": "radiospectrum",
+  "vraag": "Wat is het radiospectrum?",
+  "opties": [
+   "het geheel van de radiofrequenties",
+   "de frequenties van radiogolven",
+   "de aanwijzing van een frequentieband voor een dienst",
+   "een frequentie voor één houder"
+  ],
+  "juist": "A",
+  "uitleg": "Het radiospectrum is het geheel van de radiofrequenties.",
+  "waarom_fout": {
+   "B": "dat is de definitie van radiofrequenties.",
+   "C": "dat is spectrumtoewijzing.",
+   "D": "dat is een exclusieve frequentie."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "wetsverwijzing": "wet art. 2, 33°",
+  "pagina": "w01"
+ },
+ {
+  "id": "C-h15-b03a",
+  "bron": "check",
+  "hoofdstuk": 15,
+  "onderwerp": "soorten station",
+  "vraag": "Een station dat verplaatst kan worden maar enkel gebruikt wordt als het stilstaat, is:",
+  "opties": [
+   "vast",
+   "transportabel",
+   "mobiel",
+   "draagbaar"
+  ],
+  "juist": "B",
+  "uitleg": "Transportabel: verplaatsbaar, enkel stilstaand gebruikt.",
+  "waarom_fout": {
+   "A": "een vast station staat bestendig op één plaats.",
+   "C": "mobiel is ingebouwd in een voertuig en werkt ook rijdend.",
+   "D": "draagbaar werkt ook in beweging."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "wetsverwijzing": "KB art. 1, 4°",
+  "pagina": "k01"
+ },
+ {
+  "id": "C-h15-b03b",
+  "bron": "check",
+  "hoofdstuk": 15,
+  "onderwerp": "ERP",
+  "vraag": "Het effectief uitgestraald vermogen (ERP) is het vermogen aan de antenne maal de antennewinst ten opzichte van:",
+  "opties": [
+   "een isotrope antenne",
+   "een dipoolantenne",
+   "een kwartgolfantenne",
+   "een yagi"
+  ],
+  "juist": "B",
+  "uitleg": "ERP: winst ten opzichte van een dipool. EIRP: ten opzichte van een isotrope antenne.",
+  "waarom_fout": {
+   "A": "dat is EIRP.",
+   "C": "geen referentie in het KB.",
+   "D": "geen referentie in het KB."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "wetsverwijzing": "KB art. 1, 10°",
+  "pagina": "k01"
+ },
+ {
+  "id": "C-h15-b03c",
+  "bron": "check",
+  "hoofdstuk": 15,
+  "onderwerp": "roepnaam",
+  "vraag": "Wat is een roepnaam volgens het KB?",
+  "opties": [
+   "een combinatie van letters, of van letters en cijfers, waarmee een radiostation of zijn gebruiker geïdentificeerd kan worden",
+   "enkel een reeks cijfers",
+   "de naam van de eigenaar",
+   "het nummer van de vergunning"
+  ],
+  "juist": "A",
+  "uitleg": "Letters, of letters en cijfers, om een station of zijn gebruiker te identificeren.",
+  "waarom_fout": {
+   "B": "niet enkel cijfers.",
+   "C": "het is geen gewone naam.",
+   "D": "het vergunningsnummer is iets anders."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "wetsverwijzing": "KB art. 1, 12°",
+  "pagina": "k01"
+ },
+ {
+  "id": "C-h15-b04a",
+  "bron": "check",
+  "hoofdstuk": 15,
+  "onderwerp": "soorten frequenties",
+  "vraag": "Welke frequentie wordt toegewezen aan één enkele houder in een bepaalde zone?",
+  "opties": [
+   "exclusief",
+   "gemeenschappelijk",
+   "collectief",
+   "secundair"
+  ],
+  "juist": "A",
+  "uitleg": "Exclusieve frequentie: één houder in een zone.",
+  "waarom_fout": {
+   "B": "verscheidene houders in een zelfde zone.",
+   "C": "verscheidene houders, om het even welke zone.",
+   "D": "dat is een status, geen soort frequentie."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "wetsverwijzing": "KB art. 1, 19°",
+  "pagina": "k01"
+ },
+ {
+  "id": "C-h15-b04b",
+  "bron": "check",
+  "hoofdstuk": 15,
+  "onderwerp": "collectief",
+  "vraag": "Welke bescherming hebben stations op een collectieve frequentie?",
+  "opties": [
+   "volledige bescherming",
+   "bescherming tegen andere netten op dezelfde frequentie",
+   "geen enkele bescherming tegen storing van een andere rechtmatige gebruiker",
+   "bescherming enkel 's nachts"
+  ],
+  "juist": "C",
+  "uitleg": "Op collectieve frequenties is er geen enkele bescherming tegen storing van een andere rechtmatige gebruiker.",
+  "waarom_fout": {
+   "A": "nee.",
+   "B": "nee.",
+   "D": "nee."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "wetsverwijzing": "KB art. 19",
+  "pagina": "k11"
+ },
+ {
+  "id": "C-h15-b04c",
+  "bron": "check",
+  "hoofdstuk": 15,
+  "onderwerp": "gedrag",
+  "vraag": "Wat moet je doen op een gemeenschappelijke of collectieve frequentie?",
+  "opties": [
+   "zo lang mogelijk zenden om de frequentie vast te houden",
+   "de duur van je uitzendingen beperken tot de strikte behoeften en nutteloze commentaren vermijden",
+   "altijd met maximum vermogen zenden",
+   "eerst toestemming vragen aan het BIPT"
+  ],
+  "juist": "B",
+  "uitleg": "Beperk de duur tot de strikte behoeften en vermijd nutteloze commentaren.",
+  "waarom_fout": {
+   "A": "inpalmen is net verboden.",
+   "C": "staat niet in de regel.",
+   "D": "niet nodig."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "wetsverwijzing": "KB art. 19",
+  "pagina": "k11"
+ },
+ {
+  "id": "C-h15-b05a",
+  "bron": "check",
+  "hoofdstuk": 15,
+  "onderwerp": "taken",
+  "vraag": "Welke taak heeft het BIPT NIET volgens de wet?",
+  "opties": [
+   "het beheer van het radiofrequentiespectrum",
+   "de coördinatie van de radiofrequenties",
+   "de controle op het gebruik van de radiofrequenties",
+   "het onderzoek van aanvragen voor radio- en televisieomroep"
+  ],
+  "juist": "D",
+  "uitleg": "Het BIPT onderzoekt aanvragen voor het spectrum, behalve die voor radio- en televisieomroep.",
+  "waarom_fout": {
+   "A": "wel een taak.",
+   "B": "wel een taak.",
+   "C": "wel een taak."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "wetsverwijzing": "wet art. 13",
+  "pagina": "w02"
+ },
+ {
+  "id": "C-h15-b05b",
+  "bron": "check",
+  "hoofdstuk": 15,
+  "onderwerp": "technische voorschriften",
+  "vraag": "Wie mag technische voorschriften uitvaardigen over het gebruik van radioapparatuur?",
+  "opties": [
+   "het BIPT",
+   "de UBA",
+   "de IARU",
+   "de gemeente"
+  ],
+  "juist": "A",
+  "uitleg": "Het Instituut (BIPT) is daarvoor bevoegd.",
+  "waarom_fout": {
+   "B": "de UBA is een vereniging.",
+   "C": "de IARU is internationaal.",
+   "D": "nee."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "wetsverwijzing": "wet art. 40",
+  "pagina": "w02"
+ },
+ {
+  "id": "C-h15-b06a",
+  "bron": "check",
+  "hoofdstuk": 15,
+  "onderwerp": "categorie",
+  "vraag": "In welke categorie vallen de radioamateurs?",
+  "opties": [
+   "4e",
+   "5e",
+   "6e",
+   "7e"
+  ],
+  "juist": "B",
+  "uitleg": "Radioamateurs zijn de 5e categorie.",
+  "waarom_fout": {
+   "A": "zeevaart.",
+   "C": "luchtvaart.",
+   "D": "houdersvergunningen."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "wetsverwijzing": "KB art. 4",
+  "pagina": "k02"
+ },
+ {
+  "id": "C-h15-b06b",
+  "bron": "check",
+  "hoofdstuk": 15,
+  "onderwerp": "vergunningsplicht",
+  "vraag": "Heb je een vergunning nodig om een zendtoestel enkel te bezitten, zonder het te gebruiken?",
+  "opties": [
+   "nee, enkel gebruiken is vergunningsplichtig",
+   "ja, ook houden vereist een schriftelijke vergunning",
+   "enkel als het toestel meer dan 25 W heeft",
+   "enkel als je het in een voertuig hebt"
+  ],
+  "juist": "B",
+  "uitleg": "Ook het houden vereist een schriftelijke vergunning, behalve in de gevallen die de Koning vrijstelt (art. 13/1, § 2).",
+  "waarom_fout": {
+   "A": "ook houden.",
+   "C": "vermogen speelt geen rol.",
+   "D": "nee."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "wetsverwijzing": "wet art. 13/1, § 1",
+  "pagina": "w03"
+ },
+ {
+  "id": "C-h15-b06c",
+  "bron": "check",
+  "hoofdstuk": 15,
+  "onderwerp": "buitenland",
+  "vraag": "Een Franse radioamateur verblijft twee maanden in België. Heeft hij een Belgische vergunning nodig?",
+  "opties": [
+   "ja, altijd",
+   "nee, als hij in het buitenland woont, minder dan drie maanden blijft en een vergunning volgens T/R 61-01 of (05)06 heeft",
+   "nee, nooit",
+   "enkel als hij op HF zendt"
+  ],
+  "juist": "B",
+  "uitleg": "Vrijstelling voor amateurs uit het buitenland, minder dan drie maanden, met een CEPT-conforme vergunning.",
+  "waarom_fout": {
+   "A": "hij is vrijgesteld.",
+   "C": "enkel onder voorwaarden.",
+   "D": "nee."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "wetsverwijzing": "KB art. 3, bijlage 2",
+  "pagina": "k02"
+ },
+ {
+  "id": "C-h15-b07a",
+  "bron": "check",
+  "hoofdstuk": 15,
+  "onderwerp": "leeftijd",
+  "vraag": "Vanaf welke leeftijd kan een vergunning van de 5e categorie verleend worden?",
+  "opties": [
+   "ouder dan 12 jaar",
+   "ouder dan 14 jaar",
+   "ouder dan 16 jaar",
+   "ouder dan 18 jaar"
+  ],
+  "juist": "A",
+  "uitleg": "5e categorie: natuurlijke personen ouder dan 12 jaar.",
+  "waarom_fout": {
+   "B": "nee.",
+   "C": "nee.",
+   "D": "dat geldt voor andere vergunningen."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "wetsverwijzing": "KB art. 5/1, § 3",
+  "pagina": "k04"
+ },
+ {
+  "id": "C-h15-b07b",
+  "bron": "check",
+  "hoofdstuk": 15,
+  "onderwerp": "kopie",
+  "vraag": "Is een kopie van je vergunning geldig bij een controle?",
+  "opties": [
+   "ja, altijd",
+   "nee, zonder voorafgaand en schriftelijk akkoord van het BIPT is een kopie zonder waarde",
+   "ja, als ze gekleurd is",
+   "ja, op je smartphone"
+  ],
+  "juist": "B",
+  "uitleg": "Je toont het origineel. Een kopie heeft geen waarde zonder voorafgaand schriftelijk akkoord.",
+  "waarom_fout": {
+   "A": "nee.",
+   "C": "nee.",
+   "D": "nee."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "wetsverwijzing": "KB art. 8, § 3",
+  "pagina": "k04"
+ },
+ {
+  "id": "C-h15-b07c",
+  "bron": "check",
+  "hoofdstuk": 15,
+  "onderwerp": "overdraagbaar",
+  "vraag": "Mag je je vergunning overdragen aan een vriend?",
+  "opties": [
+   "ja",
+   "nee, de vergunning is niet overdraagbaar",
+   "ja, met een brief aan het BIPT",
+   "enkel aan een familielid"
+  ],
+  "juist": "B",
+  "uitleg": "De vergunning is niet overdraagbaar.",
+  "waarom_fout": {
+   "A": "nee.",
+   "C": "nee.",
+   "D": "nee."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "wetsverwijzing": "KB art. 7",
+  "pagina": "k04"
+ },
+ {
+  "id": "C-h15-b08a",
+  "bron": "check",
+  "hoofdstuk": 15,
+  "onderwerp": "geldigheid",
+  "vraag": "Hoe lang is een bedieningscertificaat geldig?",
+  "opties": [
+   "1 jaar",
+   "3 jaar",
+   "5 jaar, verlengbaar",
+   "onbeperkt"
+  ],
+  "juist": "C",
+  "uitleg": "Vijf jaar vanaf de afgifte, verlengbaar.",
+  "waarom_fout": {
+   "A": "nee; het jaarlijks recht wordt per jaar betaald, maar dat is geen geldigheidsduur van het certificaat.",
+   "B": "3 jaar is de uitsluiting na bedrog.",
+   "D": "nee."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "wetsverwijzing": "KB art. 17/1, § 1",
+  "pagina": "k07"
+ },
+ {
+  "id": "C-h15-b08b",
+  "bron": "check",
+  "hoofdstuk": 15,
+  "onderwerp": "herexamen",
+  "vraag": "Je bent gezakt. Wanneer mag je je opnieuw inschrijven?",
+  "opties": [
+   "meteen",
+   "na een maand vanaf de examendatum",
+   "na drie maanden",
+   "na een jaar"
+  ],
+  "juist": "B",
+  "uitleg": "Na een termijn van een maand vanaf de examendatum.",
+  "waarom_fout": {
+   "A": "nee.",
+   "C": "nee.",
+   "D": "nee."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "wetsverwijzing": "KB art. 17/3, § 1",
+  "pagina": "k07"
+ },
+ {
+  "id": "C-h15-b08c",
+  "bron": "check",
+  "hoofdstuk": 15,
+  "onderwerp": "klassen",
+  "vraag": "Met welk certificaat komt het Belgische klasse A-bedieningscertificaat overeen?",
+  "opties": [
+   "HAREC (T/R 61-02)",
+   "ECC (05)06",
+   "ECC-rapport 89",
+   "CEPT Novice"
+  ],
+  "juist": "A",
+  "uitleg": "Klasse A = HAREC, CEPT-aanbeveling T/R 61-02.",
+  "waarom_fout": {
+   "B": "dat is klasse B.",
+   "C": "dat is klasse C.",
+   "D": "dat is klasse B."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "wetsverwijzing": "KB art. 17/1, § 3",
+  "pagina": "k07"
+ },
+ {
+  "id": "C-h15-b09a",
+  "bron": "check",
+  "hoofdstuk": 15,
+  "onderwerp": "stationsvergunning",
+  "vraag": "Wat moet je hebben voor je een stationsvergunning van de 5e categorie aanvraagt?",
+  "opties": [
+   "een bedieningscertificaat dat het gebruik van dat station toestaat",
+   "een lidkaart van de UBA",
+   "een logboek",
+   "een CE-markering"
+  ],
+  "juist": "A",
+  "uitleg": "Je bent vooraf houder van een passend bedieningscertificaat.",
+  "waarom_fout": {
+   "B": "niet verplicht.",
+   "C": "niet verplicht.",
+   "D": "geen voorwaarde voor de vergunning."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "wetsverwijzing": "KB art. 17/5",
+  "pagina": "k09"
+ },
+ {
+  "id": "C-h15-b09b",
+  "bron": "check",
+  "hoofdstuk": 15,
+  "onderwerp": "stationsvergunning",
+  "vraag": "Wat dekt één stationsvergunning voor een natuurlijke persoon?",
+  "opties": [
+   "enkel één vast station",
+   "één vast station, alsook een mobiel en een draagbaar station",
+   "onbeperkt veel stations",
+   "enkel een mobiel station"
+  ],
+  "juist": "B",
+  "uitleg": "Eén vast station plus een mobiel en een draagbaar station.",
+  "waarom_fout": {
+   "A": "ook mobiel en draagbaar.",
+   "C": "nee, extra stations vraag je bij.",
+   "D": "nee."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "wetsverwijzing": "KB art. 17/5",
+  "pagina": "k09"
+ },
+ {
+  "id": "C-h15-b09c",
+  "bron": "check",
+  "hoofdstuk": 15,
+  "onderwerp": "remote",
+  "vraag": "Welke natuurlijke persoon mag een vergunning vragen voor een van op afstand bediend station?",
+  "opties": [
+   "iedereen met een certificaat",
+   "enkel klasse A, als het station vanop Belgisch grondgebied bediend wordt",
+   "enkel klasse C",
+   "niemand"
+  ],
+  "juist": "B",
+  "uitleg": "Enkel klasse A, en enkel vanop Belgisch grondgebied.",
+  "waarom_fout": {
+   "A": "nee.",
+   "C": "nee.",
+   "D": "het kan wel."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "wetsverwijzing": "KB art. 17/5",
+  "pagina": "k09"
+ },
+ {
+  "id": "C-h15-b10a",
+  "bron": "check",
+  "hoofdstuk": 15,
+  "onderwerp": "duidelijke taal",
+  "vraag": "Waarvoor wordt een station van de 5e categorie gebruikt?",
+  "opties": [
+   "voor de uitzending in duidelijke taal van informatie over technische onderzoekingen en verwante onderwerpen",
+   "voor reclame",
+   "voor omroep van muziek",
+   "voor berichten van derden"
+  ],
+  "juist": "A",
+  "uitleg": "In duidelijke taal, over technische onderzoekingen en verwante onderwerpen.",
+  "waarom_fout": {
+   "B": "verboden.",
+   "C": "verboden.",
+   "D": "verboden."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "wetsverwijzing": "KB art. 17/7",
+  "pagina": "k10"
+ },
+ {
+  "id": "C-h15-b10b",
+  "bron": "check",
+  "hoofdstuk": 15,
+  "onderwerp": "secundair",
+  "vraag": "Je zendt op een band waar radioamateurs secundair zijn. Een primaire dienst wordt actief. Wat doe je?",
+  "opties": [
+   "gewoon verder zenden",
+   "in alle omstandigheden voorrang geven aan de primaire dienst",
+   "je vermogen verhogen",
+   "de primaire dienst vragen te stoppen"
+  ],
+  "juist": "B",
+  "uitleg": "De gebruiker geeft in alle omstandigheden voorrang aan diensten met primaire status.",
+  "waarom_fout": {
+   "A": "nee.",
+   "C": "nee.",
+   "D": "nee."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "wetsverwijzing": "KB art. 9, § 2, 1°",
+  "pagina": "k05"
+ },
+ {
+  "id": "C-h15-b10c",
+  "bron": "check",
+  "hoofdstuk": 15,
+  "onderwerp": "boordcommandant",
+  "vraag": "Wat heb je nodig om vanuit een vliegtuig te zenden (ON3XYZ/AM)?",
+  "opties": [
+   "niets",
+   "de voorafgaande schriftelijke toestemming van de boordcommandant",
+   "een mondelinge toestemming van een steward",
+   "een speciale roepnaam van de luchthaven"
+  ],
+  "juist": "B",
+  "uitleg": "Voorafgaande schriftelijke toestemming van de boordcommandant, en zijn verbintenis om controleurs toegang te geven.",
+  "waarom_fout": {
+   "A": "nee.",
+   "C": "schriftelijk en van de boordcommandant.",
+   "D": "nee."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "wetsverwijzing": "KB art. 9, § 2, 2°",
+  "pagina": "k05"
+ },
+ {
+  "id": "C-h15-b11a",
+  "bron": "check",
+  "hoofdstuk": 15,
+  "onderwerp": "zelfbouw",
+  "vraag": "Wie mag zelf radioapparatuur bouwen of ombouwen voor eigen gebruik?",
+  "opties": [
+   "iedereen",
+   "enkel houders van de hoogste vergunning (klasse A)",
+   "klasse B en C",
+   "enkel handelaars"
+  ],
+  "juist": "B",
+  "uitleg": "De uitzondering van art. 34 geldt voor houders van de hoogste vergunning: klasse A.",
+  "waarom_fout": {
+   "A": "nee.",
+   "C": "die gebruiken enkel commerciële apparatuur.",
+   "D": "nee."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "wetsverwijzing": "wet art. 34, 2°; KB art. 17/1",
+  "pagina": "w05"
+ },
+ {
+  "id": "C-h15-b11b",
+  "bron": "check",
+  "hoofdstuk": 15,
+  "onderwerp": "CE",
+  "vraag": "Welke markering moet commerciële radioapparatuur dragen?",
+  "opties": [
+   "CE",
+   "RTT",
+   "UBA",
+   "ISO"
+  ],
+  "juist": "A",
+  "uitleg": "Radioapparatuur draagt een CE-markering van conformiteit.",
+  "waarom_fout": {
+   "B": "oud typekeuringsnummer, enkel bij heel oude toestellen.",
+   "C": "nee.",
+   "D": "nee."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "wetsverwijzing": "wet art. 32, § 3",
+  "pagina": "w05"
+ },
+ {
+  "id": "C-h15-b11c",
+  "bron": "check",
+  "hoofdstuk": 15,
+  "onderwerp": "verkoop",
+  "vraag": "Aan wie mag je een vergunningsplichtig zendtoestel verkopen?",
+  "opties": [
+   "aan iedereen",
+   "enkel aan iemand die de nodige vergunning heeft",
+   "enkel aan familie",
+   "enkel aan een handelaar"
+  ],
+  "juist": "B",
+  "uitleg": "Verkopen, verhuren, uitlenen of schenken aan iemand zonder vergunning is verboden.",
+  "waarom_fout": {
+   "A": "nee.",
+   "C": "ook familie moet een vergunning hebben.",
+   "D": "nee."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "wetsverwijzing": "wet art. 42, § 1",
+  "pagina": "w07"
+ },
+ {
+  "id": "C-h15-b12a",
+  "bron": "check",
+  "hoofdstuk": 15,
+  "onderwerp": "noodsein",
+  "vraag": "Is het verboden om te proberen een vals noodsein uit te zenden, ook als het niet lukt?",
+  "opties": [
+   "nee, enkel uitzenden is verboden",
+   "ja, ook trachten uit te zenden is verboden",
+   "enkel op HF",
+   "enkel op noodfrequenties"
+  ],
+  "juist": "B",
+  "uitleg": "Valse of bedrieglijke noodseinen uitzenden of trachten uit te zenden is verboden.",
+  "waarom_fout": {
+   "A": "ook de poging.",
+   "C": "overal.",
+   "D": "overal."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "wetsverwijzing": "wet art. 41, 1°",
+  "pagina": "w06"
+ },
+ {
+  "id": "C-h15-b12b",
+  "bron": "check",
+  "hoofdstuk": 15,
+  "onderwerp": "toevallig",
+  "vraag": "Je vangt toevallig een politiebericht op. Wat mag je ermee doen?",
+  "opties": [
+   "het doorvertellen aan je buren",
+   "niets: niet weergeven, niet meedelen, niet gebruiken, zelfs het bestaan niet bekendmaken",
+   "het opnemen voor later",
+   "het op sociale media zetten zonder namen"
+  ],
+  "juist": "B",
+  "uitleg": "Onopzettelijk ontvangen berichten mag je niet weergeven, meedelen of gebruiken, zelfs het bestaan niet bekendmaken.",
+  "waarom_fout": {
+   "A": "nee.",
+   "C": "nee.",
+   "D": "nee."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "wetsverwijzing": "wet art. 41, 2°",
+  "pagina": "w06"
+ },
+ {
+  "id": "C-h15-b13a",
+  "bron": "check",
+  "hoofdstuk": 15,
+  "onderwerp": "storing",
+  "vraag": "Wanneer onderzoekt het BIPT een schadelijke storing?",
+  "opties": [
+   "enkel na een klacht",
+   "op eigen initiatief of na een klacht",
+   "enkel na een vonnis",
+   "enkel als de UBA het vraagt"
+  ],
+  "juist": "B",
+  "uitleg": "Op eigen initiatief of na een klacht.",
+  "waarom_fout": {
+   "A": "ook op eigen initiatief.",
+   "C": "nee.",
+   "D": "nee."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "wetsverwijzing": "wet art. 15",
+  "pagina": "w04"
+ },
+ {
+  "id": "C-h15-b13b",
+  "bron": "check",
+  "hoofdstuk": 15,
+  "onderwerp": "termijn",
+  "vraag": "Hoeveel tijd kan het BIPT maximaal geven om een storing op te lossen?",
+  "opties": [
+   "10 dagen",
+   "30 dagen",
+   "60 dagen",
+   "90 dagen"
+  ],
+  "juist": "B",
+  "uitleg": "Maximum dertig dagen.",
+  "waarom_fout": {
+   "A": "nee.",
+   "C": "zestig dagen is onverwacht bezit.",
+   "D": "nee."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "wetsverwijzing": "KB art. 51, § 2; art. 52, § 3",
+  "pagina": "k15"
+ },
+ {
+  "id": "C-h15-b13c",
+  "bron": "check",
+  "hoofdstuk": 15,
+  "onderwerp": "kosten",
+  "vraag": "Wie betaalt de kosten om een schadelijke storing door apparatuur op te heffen?",
+  "opties": [
+   "het BIPT",
+   "de verantwoordelijke gebruiker van de apparatuur of installatie",
+   "de gestoorde persoon",
+   "de UBA"
+  ],
+  "juist": "B",
+  "uitleg": "De kosten zijn ten laste van de verantwoordelijke gebruiker.",
+  "waarom_fout": {
+   "A": "nee.",
+   "C": "nee.",
+   "D": "nee."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "wetsverwijzing": "wet art. 15",
+  "pagina": "w04"
+ },
+ {
+  "id": "C-h15-b14a",
+  "bron": "check",
+  "hoofdstuk": 15,
+  "onderwerp": "schorsing",
+  "vraag": "Wie kan een vergunning schorsen of intrekken?",
+  "opties": [
+   "de UBA",
+   "het BIPT",
+   "de gemeente",
+   "de politie"
+  ],
+  "juist": "B",
+  "uitleg": "Het Instituut kan op elk ogenblik schorsen of intrekken.",
+  "waarom_fout": {
+   "A": "nee.",
+   "C": "nee.",
+   "D": "nee."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "wetsverwijzing": "KB art. 10, § 1",
+  "pagina": "k06"
+ },
+ {
+  "id": "C-h15-b14b",
+  "bron": "check",
+  "hoofdstuk": 15,
+  "onderwerp": "onrechtmatig",
+  "vraag": "Iemand gebruikt je station zonder jouw toestemming op onrechtmatige wijze. Wat zegt het KB?",
+  "opties": [
+   "niets, het was een ander",
+   "het heeft de onmiddellijke intrekking van je vergunning tot gevolg",
+   "je krijgt een waarschuwing",
+   "de ander verliest zijn roepnaam"
+  ],
+  "juist": "B",
+  "uitleg": "Ieder onrechtmatig gebruik, zelfs door een ander, leidt tot onmiddellijke intrekking.",
+  "waarom_fout": {
+   "A": "de houder blijft verantwoordelijk.",
+   "C": "nee.",
+   "D": "nee."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "wetsverwijzing": "KB art. 11",
+  "pagina": "k06"
+ },
+ {
+  "id": "C-h15-b14c",
+  "bron": "check",
+  "hoofdstuk": 15,
+  "onderwerp": "brief",
+  "vraag": "Hoe wordt een schorsing of intrekking aan de houder meegedeeld?",
+  "opties": [
+   "telefonisch",
+   "met een ter post aangetekende brief",
+   "via de UBA",
+   "via de website"
+  ],
+  "juist": "B",
+  "uitleg": "Met een aangetekende brief.",
+  "waarom_fout": {
+   "A": "nee.",
+   "C": "nee.",
+   "D": "nee."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "wetsverwijzing": "KB art. 10, § 2",
+  "pagina": "k06"
+ },
+ {
+  "id": "C-h15-b15a",
+  "bron": "check",
+  "hoofdstuk": 15,
+  "onderwerp": "dossierrecht",
+  "vraag": "Wanneer betaal je het dossierrecht voor het examen?",
+  "opties": [
+   "bij de inschrijving",
+   "na het examen",
+   "binnen 30 dagen na de factuur",
+   "bij de afgifte van het certificaat"
+  ],
+  "juist": "A",
+  "uitleg": "Op het ogenblik van de inschrijving.",
+  "waarom_fout": {
+   "B": "nee.",
+   "C": "dat geldt voor vergunningen.",
+   "D": "dat is het certificaat."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "wetsverwijzing": "KB art. 35",
+  "pagina": "k12"
+ },
+ {
+  "id": "C-h15-b15b",
+  "bron": "check",
+  "hoofdstuk": 15,
+  "onderwerp": "te laat",
+  "vraag": "Je vraagt een vergunning aan minder dan twintig werkdagen voor de gewenste datum. Wat gebeurt er met het dossierrecht?",
+  "opties": [
+   "niets",
+   "het wordt verdubbeld",
+   "het wordt vervijfvoudigd",
+   "het wordt gehalveerd"
+  ],
+  "juist": "B",
+  "uitleg": "Minder dan twintig werkdagen: verdubbeld.",
+  "waarom_fout": {
+   "A": "nee.",
+   "C": "dat is minder dan vijf werkdagen.",
+   "D": "de helft geldt bij een wijziging."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "wetsverwijzing": "KB art. 35",
+  "pagina": "k12"
+ },
+ {
+  "id": "C-h15-b15c",
+  "bron": "check",
+  "hoofdstuk": 15,
+  "onderwerp": "vrijstelling",
+  "vraag": "Wie is vrijgesteld van het dossierrecht voor vergunningen van individuele stations van de 5e categorie?",
+  "opties": [
+   "iedereen met klasse A",
+   "65-plussers, minderjarigen en personen met minstens 12 punten vermindering van zelfredzaamheid",
+   "leden van de UBA",
+   "iedereen die in Brussel woont"
+  ],
+  "juist": "B",
+  "uitleg": "65-plussers, minderjarigen, minstens 12 punten zelfredzaamheid, of verdienvermogen verminderd tot een derde of minder.",
+  "waarom_fout": {
+   "A": "nee.",
+   "C": "nee.",
+   "D": "nee."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "wetsverwijzing": "KB art. 36",
+  "pagina": "k12"
+ }
+]

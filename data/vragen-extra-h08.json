@@ -1,0 +1,227 @@
+[
+ {
+  "id": "E-h08-01",
+  "bron": "extra",
+  "hoofdstuk": 8,
+  "onderwerp": "spellen",
+  "vraag": "Hoe spel je het woord VOLT?",
+  "opties": [
+   "Victor Oscar Lima Tango",
+   "Victory Oscar Lima Tango",
+   "Victor Otto Lima Tom",
+   "Victor Oscar London Tango"
+  ],
+  "juist": "A",
+  "uitleg": "Victor Oscar Lima Tango.",
+  "waarom_fout": {
+   "B": "Victory is fout.",
+   "C": "Otto en Tom zijn fout.",
+   "D": "London is fout."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "procedures",
+  "in_examen": true
+ },
+ {
+  "id": "E-h08-02",
+  "bron": "extra",
+  "hoofdstuk": 8,
+  "onderwerp": "spellen",
+  "vraag": "Hoe spel je de roepnaam ON3QX?",
+  "opties": [
+   "Oscar November 3 Quebec X-ray",
+   "Oscar Nancy 3 Queen Xavier",
+   "Oscar November 3 Quebec Xylofoon",
+   "Ontario November 3 Quebec X-ray"
+  ],
+  "juist": "A",
+  "uitleg": "Oscar November 3 Quebec X-ray.",
+  "waarom_fout": {
+   "B": "Nancy, Queen en Xavier zijn fout.",
+   "C": "Xylofoon is fout.",
+   "D": "Ontario is fout."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "procedures",
+  "in_examen": true
+ },
+ {
+  "id": "E-h08-03",
+  "bron": "extra",
+  "hoofdstuk": 8,
+  "onderwerp": "repeater",
+  "vraag": "Wat moet je kennen om via een repeater te werken?",
+  "opties": [
+   "alleen de uitgangsfrequentie",
+   "uitgangsfrequentie, shift en openingsmethode (1750 Hz of CTCSS)",
+   "alleen de CTCSS-toon",
+   "de roepnaam van de beheerder"
+  ],
+  "juist": "B",
+  "uitleg": "Frequentie, shift en hoe je de repeater opent.",
+  "waarom_fout": {
+   "A": "onvolledig.",
+   "C": "onvolledig.",
+   "D": "niet nodig."
+  },
+  "moeilijkheid": 2,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "procedures",
+  "in_examen": true
+ },
+ {
+  "id": "E-h08-04",
+  "bron": "extra",
+  "hoofdstuk": 8,
+  "onderwerp": "repeater",
+  "vraag": "Hoe lang zend je de 1750 Hz-toegangstoon ongeveer?",
+  "opties": [
+   "een paar seconden",
+   "een kwartier",
+   "de hele verbinding",
+   "niet: hij wordt automatisch uitgezonden door de repeater"
+  ],
+  "juist": "A",
+  "uitleg": "Een paar seconden is genoeg.",
+  "waarom_fout": {
+   "B": "veel te lang.",
+   "C": "dat is CTCSS.",
+   "D": "jij zendt de toon."
+  },
+  "moeilijkheid": 2,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "procedures",
+  "in_examen": true
+ },
+ {
+  "id": "E-h08-05",
+  "bron": "extra",
+  "hoofdstuk": 8,
+  "onderwerp": "bandplan",
+  "vraag": "Je wilt op 20 m een CW-contest werken. Welke frequentie is het best?",
+  "opties": [
+   "14 030 kHz",
+   "14 200 kHz",
+   "14 230 kHz",
+   "14 100 kHz"
+  ],
+  "juist": "A",
+  "uitleg": "Voorkeur voor CW-contests: 14 000 tot 14 060 kHz.",
+  "waarom_fout": {
+   "B": "fonie-contestgebied.",
+   "C": "SSTV en fax.",
+   "D": "bakensegment."
+  },
+  "moeilijkheid": 2,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "procedures",
+  "in_examen": true
+ },
+ {
+  "id": "E-h08-06",
+  "bron": "extra",
+  "hoofdstuk": 8,
+  "onderwerp": "bandplan",
+  "vraag": "Je wilt op 2 m in SSB werken. Welke frequentie is het best?",
+  "opties": [
+   "144,300 MHz",
+   "145,500 MHz",
+   "144,050 MHz",
+   "145,900 MHz"
+  ],
+  "juist": "A",
+  "uitleg": "SSB: 144 150 tot 144 400 kHz.",
+  "waarom_fout": {
+   "B": "FM-oproepfrequentie.",
+   "C": "CW.",
+   "D": "satellieten."
+  },
+  "moeilijkheid": 2,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "procedures",
+  "in_examen": true
+ },
+ {
+  "id": "E-h08-07",
+  "bron": "extra",
+  "hoofdstuk": 8,
+  "onderwerp": "S-meter",
+  "vraag": "Je verstaat alles perfect en de S-meter wijst S9 aan. Welk rapport geef je?",
+  "opties": [
+   "95",
+   "59",
+   "99",
+   "55"
+  ],
+  "juist": "B",
+  "uitleg": "Eerst verstaanbaarheid (5), dan sterkte (9).",
+  "waarom_fout": {
+   "A": "omgekeerd.",
+   "C": "verstaanbaarheid gaat maar tot 5.",
+   "D": "de sterkte is 9, niet 5."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "procedures",
+  "in_examen": true
+ },
+ {
+  "id": "E-h08-08",
+  "bron": "extra",
+  "hoofdstuk": 8,
+  "onderwerp": "aansluiten",
+  "vraag": "Wat gebeurt er als je de voeding met de verkeerde polariteit aansluit?",
+  "opties": [
+   "niets",
+   "de zender kan beschadigd raken",
+   "je zendt op een andere frequentie",
+   "de SWR wordt 1 : 1"
+  ],
+  "juist": "B",
+  "uitleg": "Verkeerde polariteit kan de zender beschadigen.",
+  "waarom_fout": {
+   "A": "wel degelijk gevaarlijk.",
+   "C": "nee.",
+   "D": "nee."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "procedures",
+  "in_examen": true
+ },
+ {
+  "id": "E-h08-09",
+  "bron": "extra",
+  "hoofdstuk": 8,
+  "onderwerp": "SSB",
+  "vraag": "Welke zijband gebruik je meestal op 40 m (7 MHz)?",
+  "opties": [
+   "USB",
+   "LSB",
+   "FM",
+   "AM"
+  ],
+  "juist": "B",
+  "uitleg": "Onder 10 MHz gebruikt men meestal LSB.",
+  "waarom_fout": {
+   "A": "USB boven 10 MHz.",
+   "C": "geen zijband.",
+   "D": "geen zijband."
+  },
+  "moeilijkheid": 2,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "procedures",
+  "in_examen": true
+ }
+]

@@ -1,0 +1,552 @@
+[
+ {
+  "id": "C-h03-01",
+  "bron": "check",
+  "hoofdstuk": 3,
+  "vraag": "De schakelaar van een zaklamp staat open. Wat gebeurt er?",
+  "opties": [
+   "Er loopt een kleine stroom",
+   "Er loopt geen stroom",
+   "De batterij loopt sneller leeg",
+   "Het lampje brandt feller"
+  ],
+  "juist": "B",
+  "uitleg": "Een open schakelaar onderbreekt de kring. Zonder gesloten kring loopt er geen stroom.",
+  "waarom_fout": {
+   "A": "in een open kring loopt helemaal niets.",
+   "C": "zonder stroom wordt de batterij niet gebruikt.",
+   "D": "het lampje brandt zelfs niet."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h03-02",
+  "bron": "check",
+  "hoofdstuk": 3,
+  "vraag": "Welke letter gebruik je voor stroom?",
+  "opties": [
+   "U",
+   "I",
+   "R",
+   "P"
+  ],
+  "juist": "B",
+  "uitleg": "Stroom is I, gemeten in ampère.",
+  "waarom_fout": {
+   "A": "U is spanning.",
+   "C": "R is weerstand.",
+   "D": "P is vermogen."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h03-03",
+  "bron": "check",
+  "hoofdstuk": 3,
+  "vraag": "In de vergelijking met water staat een smalle buis voor:",
+  "opties": [
+   "de spanning",
+   "de stroom",
+   "de weerstand",
+   "het vermogen"
+  ],
+  "juist": "C",
+  "uitleg": "Een smalle buis remt het water af, zoals een weerstand de stroom afremt.",
+  "waarom_fout": {
+   "A": "spanning is de druk (hoogte van de toren).",
+   "B": "stroom is het water dat doorloopt.",
+   "D": "vermogen is druk maal hoeveelheid."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h03-04",
+  "bron": "check",
+  "hoofdstuk": 3,
+  "vraag": "Hoeveel is 20 mA in ampère?",
+  "opties": [
+   "20 A",
+   "2 A",
+   "0,2 A",
+   "0,02 A"
+  ],
+  "juist": "D",
+  "uitleg": "Naar ampère (grotere eenheid): delen door 1000. 20 ÷ 1000 = 0,02 A.",
+  "waarom_fout": {
+   "A": "de milli is vergeten.",
+   "B": "slechts door 10 gedeeld.",
+   "C": "slechts door 100 gedeeld."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h03-05",
+  "bron": "check",
+  "hoofdstuk": 3,
+  "vraag": "Hoeveel is 4,7 kΩ in ohm?",
+  "opties": [
+   "0,0047 Ω",
+   "47 Ω",
+   "470 Ω",
+   "4 700 Ω"
+  ],
+  "juist": "D",
+  "uitleg": "Kilo is maal 1000: 4,7 × 1000 = 4 700 Ω.",
+  "waarom_fout": {
+   "A": "gedeeld in plaats van vermenigvuldigd.",
+   "B": "slechts maal 10.",
+   "C": "slechts maal 100."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h03-06",
+  "bron": "check",
+  "hoofdstuk": 3,
+  "vraag": "Wat is het verschil tussen 5 mW en 5 MW?",
+  "opties": [
+   "Geen verschil",
+   "5 MW is duizend keer meer",
+   "5 MW is een miljard keer meer",
+   "5 mW is meer"
+  ],
+  "juist": "C",
+  "uitleg": "m = 0,001 en M = 1 000 000. Van milli naar mega is 1 000 000 000 keer: een miljard.",
+  "waarom_fout": {
+   "A": "kleine en grote m betekenen iets totaal anders.",
+   "B": "duizend keer is het verschil tussen milli en basis, of basis en kilo.",
+   "D": "milli is net heel klein."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h03-07",
+  "bron": "check",
+  "hoofdstuk": 3,
+  "vraag": "Je zoekt de stroom. Welke formule gebruik je?",
+  "opties": [
+   "I = U × R",
+   "I = U ÷ R",
+   "I = R ÷ U",
+   "I = U + R"
+  ],
+  "juist": "B",
+  "uitleg": "Bedek I in de driehoek: U staat boven R, dus delen: I = U ÷ R.",
+  "waarom_fout": {
+   "A": "vermenigvuldigen geeft de spanning (U = I × R).",
+   "C": "de deling is omgekeerd.",
+   "D": "optellen komt in deze formules niet voor."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h03-08",
+  "bron": "check",
+  "hoofdstuk": 3,
+  "vraag": "Een batterij van 12 V over een weerstand van 3 Ω. Hoeveel stroom loopt er?",
+  "opties": [
+   "36 A",
+   "4 A",
+   "0,25 A",
+   "15 A"
+  ],
+  "juist": "B",
+  "uitleg": "I = U ÷ R = 12 ÷ 3 = 4 A.",
+  "waarom_fout": {
+   "A": "vermenigvuldigd in plaats van gedeeld.",
+   "C": "omgekeerd gedeeld (3 ÷ 12).",
+   "D": "opgeteld."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h03-09",
+  "bron": "check",
+  "hoofdstuk": 3,
+  "vraag": "Je verdubbelt de weerstand, de spanning blijft gelijk. Wat gebeurt er met de stroom?",
+  "opties": [
+   "Die verdubbelt",
+   "Die halveert",
+   "Die blijft gelijk",
+   "Die wordt nul"
+  ],
+  "juist": "B",
+  "uitleg": "I = U ÷ R: deel je door het dubbele, dan krijg je de helft.",
+  "waarom_fout": {
+   "A": "groter R geeft kleinere stroom.",
+   "C": "de stroom hangt af van R.",
+   "D": "er blijft stroom lopen, alleen minder."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h03-10",
+  "bron": "check",
+  "hoofdstuk": 3,
+  "vraag": "12 V en 2 A. Hoeveel vermogen?",
+  "opties": [
+   "6 W",
+   "14 W",
+   "24 W",
+   "0,17 W"
+  ],
+  "juist": "C",
+  "uitleg": "P = U × I = 12 × 2 = 24 W.",
+  "waarom_fout": {
+   "A": "gedeeld in plaats van vermenigvuldigd.",
+   "B": "opgeteld.",
+   "D": "omgekeerd gedeeld."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h03-11",
+  "bron": "check",
+  "hoofdstuk": 3,
+  "vraag": "Welke eenheid heeft vermogen?",
+  "opties": [
+   "volt",
+   "ampère",
+   "ohm",
+   "watt"
+  ],
+  "juist": "D",
+  "uitleg": "Vermogen meet je in watt (W).",
+  "waarom_fout": {
+   "A": "volt is spanning.",
+   "B": "ampère is stroom.",
+   "C": "ohm is weerstand."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h03-12",
+  "bron": "check",
+  "hoofdstuk": 3,
+  "vraag": "Een toestel van 60 W op 12 V. Hoeveel stroom?",
+  "opties": [
+   "5 A",
+   "720 A",
+   "0,2 A",
+   "48 A"
+  ],
+  "juist": "A",
+  "uitleg": "I = P ÷ U = 60 ÷ 12 = 5 A.",
+  "waarom_fout": {
+   "B": "vermenigvuldigd.",
+   "C": "omgekeerd gedeeld.",
+   "D": "afgetrokken."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h03-13",
+  "bron": "check",
+  "hoofdstuk": 3,
+  "vraag": "Je sluit een gloeilamp omgekeerd aan op een batterij. Wat gebeurt er?",
+  "opties": [
+   "Ze brandt niet",
+   "Ze brandt gewoon",
+   "Ze gaat stuk",
+   "De batterij ontploft"
+  ],
+  "juist": "B",
+  "uitleg": "Een gloeilamp werkt in beide richtingen.",
+  "waarom_fout": {
+   "A": "ze brandt wel.",
+   "C": "een gloeilamp gaat daar niet van stuk.",
+   "D": "er gebeurt niets bijzonders."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h03-14",
+  "bron": "check",
+  "hoofdstuk": 3,
+  "vraag": "Waarom moet je een zendontvanger met de juiste polariteit aansluiten?",
+  "opties": [
+   "Anders werkt de antenne niet",
+   "Anders kan het toestel beschadigd worden",
+   "Anders zendt het op de verkeerde frequentie",
+   "Dat hoeft niet"
+  ],
+  "juist": "B",
+  "uitleg": "Elektronische toestellen kunnen kapotgaan of zelfs brand veroorzaken bij verkeerde polariteit.",
+  "waarom_fout": {
+   "A": "de antenne heeft er niets mee te maken.",
+   "C": "de frequentie verandert er niet door.",
+   "D": "het is wel belangrijk."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h03-15",
+  "bron": "check",
+  "hoofdstuk": 3,
+  "vraag": "Welk symbool is dit?",
+  "opties": [
+   "weerstand",
+   "zekering",
+   "batterij",
+   "gloeilamp"
+  ],
+  "juist": "B",
+  "uitleg": "De draad loopt dwars door het rechthoekje: een zekering.",
+  "waarom_fout": {
+   "A": "bij een weerstand loopt de draad niet door het rechthoekje.",
+   "C": "een batterij zijn twee strepen.",
+   "D": "een gloeilamp is een bol met een kruis."
+  },
+  "moeilijkheid": 1,
+  "svg": "sym-zekering",
+  "status": "ok"
+ },
+ {
+  "id": "C-h03-16",
+  "bron": "check",
+  "hoofdstuk": 3,
+  "vraag": "Welk symbool is dit?",
+  "opties": [
+   "microfoon",
+   "luidspreker",
+   "antenne",
+   "aarding"
+  ],
+  "juist": "D",
+  "uitleg": "Drie strepen die kleiner worden: de aarding.",
+  "waarom_fout": {
+   "A": "microfoon is een rondje met een streep.",
+   "B": "luidspreker is een trechter.",
+   "C": "antenne is een mast met armpjes."
+  },
+  "moeilijkheid": 1,
+  "svg": "sym-aarding",
+  "status": "ok"
+ },
+ {
+  "id": "C-h03-17",
+  "bron": "check",
+  "hoofdstuk": 3,
+  "vraag": "Een batterij levert:",
+  "opties": [
+   "wisselspanning",
+   "gelijkspanning",
+   "een sinus",
+   "50 Hz"
+  ],
+  "juist": "B",
+  "uitleg": "Een batterij geeft altijd dezelfde spanning in dezelfde richting: gelijkspanning (DC).",
+  "waarom_fout": {
+   "A": "wisselspanning komt uit het stopcontact.",
+   "C": "een sinus is een wisselspanning.",
+   "D": "50 Hz is het lichtnet."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h03-18",
+  "bron": "check",
+  "hoofdstuk": 3,
+  "vraag": "Eén golf duurt 0,5 seconde. Wat is de frequentie?",
+  "opties": [
+   "0,5 Hz",
+   "2 Hz",
+   "5 Hz",
+   "50 Hz"
+  ],
+  "juist": "B",
+  "uitleg": "f = 1 ÷ T = 1 ÷ 0,5 = 2 Hz: twee golven per seconde.",
+  "waarom_fout": {
+   "A": "dat is de periode, niet de frequentie.",
+   "C": "verkeerde deling.",
+   "D": "dat is het lichtnet."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h03-19",
+  "bron": "check",
+  "hoofdstuk": 3,
+  "vraag": "Wat maakt een sinusvormige spanning?",
+  "opties": [
+   "een oscillator",
+   "een zekering",
+   "een weerstand",
+   "een batterij"
+  ],
+  "juist": "A",
+  "uitleg": "Een oscillator maakt een sinus.",
+  "waarom_fout": {
+   "B": "een zekering beveiligt tegen te grote stroom.",
+   "C": "een weerstand remt stroom.",
+   "D": "een batterij geeft gelijkspanning."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h03-20",
+  "bron": "check",
+  "hoofdstuk": 3,
+  "vraag": "Wat betekent AF?",
+  "opties": [
+   "antennefrequentie",
+   "audiofrequentie",
+   "alle frequenties",
+   "amplitudefrequentie"
+  ],
+  "juist": "B",
+  "uitleg": "AF = audiofrequentie: frequenties die je kunt horen.",
+  "waarom_fout": {
+   "A": "bestaat niet.",
+   "C": "bestaat niet.",
+   "D": "bestaat niet."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h03-21",
+  "bron": "check",
+  "hoofdstuk": 3,
+  "vraag": "Een frequentie van 145 MHz ligt in:",
+  "opties": [
+   "HF",
+   "VHF",
+   "UHF",
+   "AF"
+  ],
+  "juist": "B",
+  "uitleg": "VHF loopt van 30 tot 300 MHz. 145 MHz valt daartussen.",
+  "waarom_fout": {
+   "A": "HF stopt bij 30 MHz.",
+   "C": "UHF begint pas bij 300 MHz.",
+   "D": "AF is geluid, enkele kHz."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h03-22",
+  "bron": "check",
+  "hoofdstuk": 3,
+  "vraag": "Een frequentie van 7 MHz ligt in:",
+  "opties": [
+   "HF",
+   "VHF",
+   "UHF",
+   "AF"
+  ],
+  "juist": "A",
+  "uitleg": "HF loopt van 3 tot 30 MHz.",
+  "waarom_fout": {
+   "B": "VHF begint bij 30 MHz.",
+   "C": "UHF begint bij 300 MHz.",
+   "D": "AF is geluid."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h03-23",
+  "bron": "check",
+  "hoofdstuk": 3,
+  "vraag": "Welke golflengte hoort bij 3 MHz?",
+  "opties": [
+   "1 m",
+   "10 m",
+   "100 m",
+   "900 m"
+  ],
+  "juist": "C",
+  "uitleg": "λ = 300 ÷ 3 = 100 m.",
+  "waarom_fout": {
+   "A": "factor 100 te klein.",
+   "B": "factor 10 te klein.",
+   "D": "vermenigvuldigd in plaats van gedeeld."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h03-24",
+  "bron": "check",
+  "hoofdstuk": 3,
+  "vraag": "Wat gebeurt er met de golflengte als de frequentie hoger wordt?",
+  "opties": [
+   "Ze wordt langer",
+   "Ze wordt korter",
+   "Ze blijft gelijk",
+   "Dat hangt af van het vermogen"
+  ],
+  "juist": "B",
+  "uitleg": "λ = 300 ÷ f: deel je door een groter getal, dan krijg je minder. Hogere frequentie, kortere golf.",
+  "waarom_fout": {
+   "A": "net omgekeerd.",
+   "C": "ze hangt af van de frequentie.",
+   "D": "het vermogen speelt geen rol."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h03-25",
+  "bron": "check",
+  "hoofdstuk": 3,
+  "vraag": "In de formule λ = 300 ÷ f staat f in:",
+  "opties": [
+   "Hz",
+   "kHz",
+   "MHz",
+   "GHz"
+  ],
+  "juist": "C",
+  "uitleg": "De formule met 300 werkt met f in MHz en λ in meter.",
+  "waarom_fout": {
+   "A": "dan zou je 300 000 000 moeten gebruiken.",
+   "B": "dan zou je 300 000 moeten gebruiken.",
+   "D": "dan zou je 0,3 moeten gebruiken."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ }
+]

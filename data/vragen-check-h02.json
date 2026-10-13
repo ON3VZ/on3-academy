@@ -1,0 +1,510 @@
+[
+ {
+  "id": "C-h02-1a",
+  "bron": "check",
+  "hoofdstuk": 2,
+  "onderwerp": "certificaat",
+  "vraag": "Waarover gaat een bedieningscertificaat?",
+  "opties": [
+   "over je station",
+   "over jou als persoon: je mag zenden",
+   "over je antenne",
+   "over je adres"
+  ],
+  "juist": "B",
+  "uitleg": "Het certificaat hoort bij de persoon.",
+  "waarom_fout": {
+   "A": "dat is de stationsvergunning.",
+   "C": "nee.",
+   "D": "nee."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h02-1b",
+  "bron": "check",
+  "hoofdstuk": 2,
+  "onderwerp": "certificaat",
+  "vraag": "Hoe lang is een bedieningscertificaat geldig?",
+  "opties": [
+   "1 jaar",
+   "5 jaar, verlengbaar",
+   "levenslang",
+   "10 jaar"
+  ],
+  "juist": "B",
+  "uitleg": "5 jaar, verlengbaar (KB art. 17/1).",
+  "waarom_fout": {
+   "A": "nee.",
+   "C": "nee.",
+   "D": "nee."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "wetsverwijzing": "KB 18-12-2009, art. 17/1 § 1"
+ },
+ {
+  "id": "C-h02-1c",
+  "bron": "check",
+  "hoofdstuk": 2,
+  "onderwerp": "certificaat",
+  "vraag": "Je hebt een certificaat maar geen stationsvergunning. Waar mag je zenden?",
+  "opties": [
+   "nergens",
+   "op een clubstation of het station van een andere radioamateur",
+   "overal",
+   "alleen met een portofoon"
+  ],
+  "juist": "B",
+  "uitleg": "Zonder eigen vergunning: club of station van een ander.",
+  "waarom_fout": {
+   "A": "wel op een club- of ander station.",
+   "C": "nee.",
+   "D": "ook daarvoor heb je strikt een vergunning nodig."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h02-2a",
+  "bron": "check",
+  "hoofdstuk": 2,
+  "onderwerp": "klassen",
+  "vraag": "Welke klasse mag zelf zendtoestellen bouwen?",
+  "opties": [
+   "klasse A",
+   "klasse B",
+   "klasse C",
+   "alle klassen"
+  ],
+  "juist": "A",
+  "uitleg": "Alleen klasse A (HAREC).",
+  "waarom_fout": {
+   "B": "enkel gekochte toestellen.",
+   "C": "enkel gekochte toestellen.",
+   "D": "nee."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h02-2b",
+  "bron": "check",
+  "hoofdstuk": 2,
+  "onderwerp": "klassen",
+  "vraag": "Op hoeveel banden mag klasse C zenden?",
+  "opties": [
+   "6",
+   "8",
+   "12",
+   "26"
+  ],
+  "juist": "B",
+  "uitleg": "8 banden.",
+  "waarom_fout": {
+   "A": "nee.",
+   "C": "klasse B.",
+   "D": "klasse A (26 of meer)."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h02-2c",
+  "bron": "check",
+  "hoofdstuk": 2,
+  "onderwerp": "klassen",
+  "vraag": "Welke klasse heet ook HAREC?",
+  "opties": [
+   "klasse A",
+   "klasse B",
+   "klasse C",
+   "geen enkele"
+  ],
+  "juist": "A",
+  "uitleg": "Klasse A = HAREC.",
+  "waarom_fout": {
+   "B": "CEPT Novice.",
+   "C": "basiscertificaat.",
+   "D": "nee."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h02-3a",
+  "bron": "check",
+  "hoofdstuk": 2,
+  "onderwerp": "roepnaam",
+  "vraag": "Is OS5ABC een Belgische roepnaam?",
+  "opties": [
+   "ja",
+   "nee, alleen ON is Belgisch",
+   "nee, er zijn te veel letters",
+   "nee, het cijfer klopt niet"
+  ],
+  "juist": "A",
+  "uitleg": "OS ligt in de reeks ON tot OT.",
+  "waarom_fout": {
+   "B": "OO tot OT zijn ook Belgisch.",
+   "C": "drie letters mag.",
+   "D": "één cijfer: klopt."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h02-3b",
+  "bron": "check",
+  "hoofdstuk": 2,
+  "onderwerp": "roepnaam",
+  "vraag": "Hoeveel letters mogen er na het cijfer staan?",
+  "opties": [
+   "altijd drie",
+   "één tot drie",
+   "vier",
+   "geen"
+  ],
+  "juist": "B",
+  "uitleg": "Eén tot drie letters.",
+  "waarom_fout": {
+   "A": "ook één of twee mag.",
+   "C": "te veel.",
+   "D": "er moet minstens één letter staan."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h02-3c",
+  "bron": "check",
+  "hoofdstuk": 2,
+  "onderwerp": "roepnaam",
+  "vraag": "Welke roepnaam is NIET Belgisch?",
+  "opties": [
+   "OO3ABC",
+   "OT3ABC",
+   "OU3ABC",
+   "OR3ABC"
+  ],
+  "juist": "C",
+  "uitleg": "OU valt buiten de reeks ON tot OT.",
+  "waarom_fout": {
+   "A": "OO is Belgisch.",
+   "B": "OT is Belgisch.",
+   "D": "OR is Belgisch."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h02-4a",
+  "bron": "check",
+  "hoofdstuk": 2,
+  "onderwerp": "aanhangsel",
+  "vraag": "Je zendt vanuit een luchtballon. Welk aanhangsel?",
+  "opties": [
+   "/M",
+   "/MM",
+   "/AM",
+   "/P"
+  ],
+  "juist": "C",
+  "uitleg": "/AM: aeronautisch mobiel.",
+  "waarom_fout": {
+   "A": "op land.",
+   "B": "op een schip.",
+   "D": "draagbaar op de grond."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h02-4b",
+  "bron": "check",
+  "hoofdstuk": 2,
+  "onderwerp": "aanhangsel",
+  "vraag": "Je zendt met je portofoon op een velddag in een park. Welk aanhangsel?",
+  "opties": [
+   "/P",
+   "/A",
+   "/M",
+   "/MM"
+  ],
+  "juist": "A",
+  "uitleg": "/P: draagbaar of tijdelijk.",
+  "waarom_fout": {
+   "B": "vast station op een ander adres.",
+   "C": "in een voertuig.",
+   "D": "op een schip."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h02-4c",
+  "bron": "check",
+  "hoofdstuk": 2,
+  "onderwerp": "identificatie",
+  "vraag": "Een QSO duurt 20 minuten. Hoe vaak noem je minstens je roepnaam?",
+  "opties": [
+   "één keer",
+   "bij begin, einde en minstens om de 5 minuten",
+   "alleen aan het einde",
+   "om de 10 minuten"
+  ],
+  "juist": "B",
+  "uitleg": "Begin, einde en minstens om de 5 minuten.",
+  "waarom_fout": {
+   "A": "te weinig.",
+   "C": "te weinig.",
+   "D": "te weinig."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "wetsverwijzing": "KB 18-12-2009, art. 17/8 § 3"
+ },
+ {
+  "id": "C-h02-5a",
+  "bron": "check",
+  "hoofdstuk": 2,
+  "onderwerp": "regels",
+  "vraag": "Mag je als radioamateur met een CB-station praten?",
+  "opties": [
+   "ja",
+   "nee",
+   "alleen op 10 m",
+   "alleen in nood met toestemming van de UBA"
+  ],
+  "juist": "B",
+  "uitleg": "Enkel met andere radioamateurs.",
+  "waarom_fout": {
+   "A": "nee.",
+   "C": "nee.",
+   "D": "nee."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h02-5b",
+  "bron": "check",
+  "hoofdstuk": 2,
+  "onderwerp": "regels",
+  "vraag": "Je speelt een liedje af over de radio voor een vriend. Mag dat?",
+  "opties": [
+   "ja",
+   "nee, muziekprogramma's zijn verboden",
+   "ja, als het kort is",
+   "alleen op FM"
+  ],
+  "juist": "B",
+  "uitleg": "Muziekprogramma's zijn verboden.",
+  "waarom_fout": {
+   "A": "nee.",
+   "C": "nee.",
+   "D": "nee."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h02-5c",
+  "bron": "check",
+  "hoofdstuk": 2,
+  "onderwerp": "regels",
+  "vraag": "Een ON3 bedient het station van een klasse A-amateur. Met hoeveel vermogen mag hij op 20 m zenden?",
+  "opties": [
+   "1500 W",
+   "100 W",
+   "25 W",
+   "50 W"
+  ],
+  "juist": "C",
+  "uitleg": "Altijd binnen de grenzen van je eigen certificaat: klasse C op HF = 25 W.",
+  "waarom_fout": {
+   "A": "dat is klasse A.",
+   "B": "dat is klasse B.",
+   "D": "50 W geldt voor 2 m en 70 cm."
+  },
+  "moeilijkheid": 2,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h02-6a",
+  "bron": "check",
+  "hoofdstuk": 2,
+  "onderwerp": "BIPT",
+  "vraag": "Wat moet je melden aan het BIPT?",
+  "opties": [
+   "elke nieuwe antenne",
+   "je adresverandering",
+   "elke QSO",
+   "je vakantie"
+  ],
+  "juist": "B",
+  "uitleg": "Adresverandering.",
+  "waarom_fout": {
+   "A": "nee.",
+   "C": "nee.",
+   "D": "nee."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h02-6b",
+  "bron": "check",
+  "hoofdstuk": 2,
+  "onderwerp": "BIPT",
+  "vraag": "Moet je nog een logboek bijhouden?",
+  "opties": [
+   "ja, wettelijk verplicht",
+   "nee, het is niet meer wettelijk verplicht",
+   "alleen voor klasse C",
+   "alleen voor /M"
+  ],
+  "juist": "B",
+  "uitleg": "Niet meer verplicht, wel nuttig.",
+  "waarom_fout": {
+   "A": "niet meer.",
+   "C": "nee.",
+   "D": "nee."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h02-6c",
+  "bron": "check",
+  "hoofdstuk": 2,
+  "onderwerp": "BIPT",
+  "vraag": "Wanneer mag het BIPT je station inspecteren?",
+  "opties": [
+   "alleen na aankondiging",
+   "op elk moment",
+   "alleen met een deurwaarder",
+   "nooit"
+  ],
+  "juist": "B",
+  "uitleg": "Op elk moment.",
+  "waarom_fout": {
+   "A": "niet nodig.",
+   "C": "niet nodig.",
+   "D": "wel."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h02-7a",
+  "bron": "check",
+  "hoofdstuk": 2,
+  "onderwerp": "frequenties",
+  "vraag": "Wat is het maximum vermogen voor klasse C op 40 m?",
+  "opties": [
+   "10 W",
+   "25 W",
+   "50 W",
+   "100 W"
+  ],
+  "juist": "B",
+  "uitleg": "25 W op HF.",
+  "waarom_fout": {
+   "A": "nee.",
+   "C": "50 W is voor 2 m en 70 cm.",
+   "D": "klasse B."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h02-7b",
+  "bron": "check",
+  "hoofdstuk": 2,
+  "onderwerp": "frequenties",
+  "vraag": "Wat betekent status S (secundair)?",
+  "opties": [
+   "je bent de enige gebruiker",
+   "je mag niet storen en bent niet beschermd",
+   "je mag meer vermogen gebruiken",
+   "je mag niet zenden"
+  ],
+  "juist": "B",
+  "uitleg": "Secundair: niet storen, geen bescherming.",
+  "waarom_fout": {
+   "A": "dat is PEX.",
+   "C": "nee.",
+   "D": "zenden mag wel."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h02-7c",
+  "bron": "check",
+  "hoofdstuk": 2,
+  "onderwerp": "frequenties",
+  "vraag": "Welke soort uitzending mag klasse C niet gebruiken?",
+  "opties": [
+   "CW",
+   "SSB",
+   "amateurtelevisie (ATV)",
+   "FM"
+  ],
+  "juist": "C",
+  "uitleg": "Alle klassen van uitzending behalve ATV en D-ATV.",
+  "waarom_fout": {
+   "A": "mag.",
+   "B": "mag.",
+   "D": "mag."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h02-7d",
+  "bron": "check",
+  "hoofdstuk": 2,
+  "onderwerp": "frequenties",
+  "vraag": "Mag een ON3 zenden op 24,940 MHz (12 m)?",
+  "opties": [
+   "ja, met 25 W",
+   "ja, met 50 W",
+   "nee",
+   "ja, alleen in CW"
+  ],
+  "juist": "C",
+  "uitleg": "12 m staat niet in de tabel voor klasse C.",
+  "waarom_fout": {
+   "A": "nee.",
+   "B": "nee.",
+   "D": "nee."
+  },
+  "moeilijkheid": 2,
+  "svg": null,
+  "status": "ok"
+ }
+]

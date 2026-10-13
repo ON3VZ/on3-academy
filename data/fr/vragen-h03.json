@@ -1,0 +1,1556 @@
+[
+ {
+  "id": "C-h03-01",
+  "vraag": "L'interrupteur d'une lampe de poche est ouvert. Que se passe-t-il ?",
+  "opties": [
+   "Un petit courant circule",
+   "Aucun courant ne circule",
+   "La pile se vide plus vite",
+   "L'ampoule brille plus fort"
+  ],
+  "uitleg": "Un interrupteur ouvert coupe le circuit. Sans circuit fermé, aucun courant ne circule.",
+  "waarom_fout": {
+   "A": "dans un circuit ouvert, rien du tout ne circule.",
+   "C": "sans courant, la pile n'est pas utilisée.",
+   "D": "l'ampoule ne s'allume même pas."
+  }
+ },
+ {
+  "id": "C-h03-02",
+  "vraag": "Quelle lettre utilise-t-on pour le courant ?",
+  "opties": [
+   "U",
+   "I",
+   "R",
+   "P"
+  ],
+  "uitleg": "Le courant, c'est I, mesuré en ampères.",
+  "waarom_fout": {
+   "A": "U est la tension.",
+   "C": "R est la résistance.",
+   "D": "P est la puissance."
+  }
+ },
+ {
+  "id": "C-h03-03",
+  "vraag": "Dans la comparaison avec l'eau, un tuyau étroit représente :",
+  "opties": [
+   "la tension",
+   "le courant",
+   "la résistance",
+   "la puissance"
+  ],
+  "uitleg": "Un tuyau étroit freine l'eau, comme une résistance freine le courant.",
+  "waarom_fout": {
+   "A": "la tension est la pression (la hauteur du château d'eau).",
+   "B": "le courant est l'eau qui passe.",
+   "D": "la puissance est la pression multipliée par la quantité."
+  }
+ },
+ {
+  "id": "C-h03-04",
+  "vraag": "Combien font 20 mA en ampères ?",
+  "opties": [
+   "20 A",
+   "2 A",
+   "0,2 A",
+   "0,02 A"
+  ],
+  "uitleg": "Vers les ampères (unité plus grande) : diviser par 1000. 20 ÷ 1000 = 0,02 A.",
+  "waarom_fout": {
+   "A": "le milli a été oublié.",
+   "B": "divisé seulement par 10.",
+   "C": "divisé seulement par 100."
+  }
+ },
+ {
+  "id": "C-h03-05",
+  "vraag": "Combien font 4,7 kΩ en ohms ?",
+  "opties": [
+   "0,0047 Ω",
+   "47 Ω",
+   "470 Ω",
+   "4 700 Ω"
+  ],
+  "uitleg": "Kilo, c'est fois 1000 : 4,7 × 1000 = 4 700 Ω.",
+  "waarom_fout": {
+   "A": "divisé au lieu de multiplié.",
+   "B": "seulement fois 10.",
+   "C": "seulement fois 100."
+  }
+ },
+ {
+  "id": "C-h03-06",
+  "vraag": "Quelle est la différence entre 5 mW et 5 MW ?",
+  "opties": [
+   "Aucune différence",
+   "5 MW, c'est mille fois plus",
+   "5 MW, c'est un milliard de fois plus",
+   "5 mW, c'est plus"
+  ],
+  "uitleg": "m = 0,001 et M = 1 000 000. De milli à méga, c'est un milliard de fois (1 000 000 000).",
+  "waarom_fout": {
+   "A": "le petit m et le grand M signifient deux choses totalement différentes.",
+   "B": "mille fois, c'est la différence entre milli et l'unité de base, ou entre l'unité de base et kilo.",
+   "D": "milli, au contraire, c'est très petit."
+  }
+ },
+ {
+  "id": "C-h03-07",
+  "vraag": "Vous cherchez le courant. Quelle formule utilisez-vous ?",
+  "opties": [
+   "I = U × R",
+   "I = U ÷ R",
+   "I = R ÷ U",
+   "I = U + R"
+  ],
+  "uitleg": "Cachez I dans le triangle : U est au-dessus de R, donc on divise : I = U ÷ R.",
+  "waarom_fout": {
+   "A": "multiplier donne la tension (U = I × R).",
+   "C": "la division est inversée.",
+   "D": "l'addition n'apparaît pas dans ces formules."
+  }
+ },
+ {
+  "id": "C-h03-08",
+  "vraag": "Une pile de 12 V aux bornes d'une résistance de 3 Ω. Quel courant circule ?",
+  "opties": [
+   "36 A",
+   "4 A",
+   "0,25 A",
+   "15 A"
+  ],
+  "uitleg": "I = U ÷ R = 12 ÷ 3 = 4 A.",
+  "waarom_fout": {
+   "A": "multiplié au lieu de divisé.",
+   "C": "division inversée (3 ÷ 12).",
+   "D": "additionné."
+  }
+ },
+ {
+  "id": "C-h03-09",
+  "vraag": "Vous doublez la résistance, la tension reste la même. Que devient le courant ?",
+  "opties": [
+   "Il double",
+   "Il est divisé par deux",
+   "Il reste le même",
+   "Il devient nul"
+  ],
+  "uitleg": "I = U ÷ R : si vous divisez par le double, vous obtenez la moitié.",
+  "waarom_fout": {
+   "A": "une R plus grande donne un courant plus petit.",
+   "C": "le courant dépend de R.",
+   "D": "le courant continue de circuler, simplement moins."
+  }
+ },
+ {
+  "id": "C-h03-10",
+  "vraag": "12 V et 2 A. Quelle puissance ?",
+  "opties": [
+   "6 W",
+   "14 W",
+   "24 W",
+   "0,17 W"
+  ],
+  "uitleg": "P = U × I = 12 × 2 = 24 W.",
+  "waarom_fout": {
+   "A": "divisé au lieu de multiplié.",
+   "B": "additionné.",
+   "D": "division inversée."
+  }
+ },
+ {
+  "id": "C-h03-11",
+  "vraag": "Quelle est l'unité de la puissance ?",
+  "opties": [
+   "volt",
+   "ampère",
+   "ohm",
+   "watt"
+  ],
+  "uitleg": "La puissance se mesure en watts (W).",
+  "waarom_fout": {
+   "A": "le volt, c'est la tension.",
+   "B": "l'ampère, c'est le courant.",
+   "C": "l'ohm, c'est la résistance."
+  }
+ },
+ {
+  "id": "C-h03-12",
+  "vraag": "Un appareil de 60 W sous 12 V. Quel courant ?",
+  "opties": [
+   "5 A",
+   "720 A",
+   "0,2 A",
+   "48 A"
+  ],
+  "uitleg": "I = P ÷ U = 60 ÷ 12 = 5 A.",
+  "waarom_fout": {
+   "B": "multiplié.",
+   "C": "division inversée.",
+   "D": "soustrait."
+  }
+ },
+ {
+  "id": "C-h03-13",
+  "vraag": "Vous branchez une ampoule à incandescence à l'envers sur une pile. Que se passe-t-il ?",
+  "opties": [
+   "Elle ne s'allume pas",
+   "Elle s'allume normalement",
+   "Elle grille",
+   "La pile explose"
+  ],
+  "uitleg": "Une ampoule à incandescence fonctionne dans les deux sens.",
+  "waarom_fout": {
+   "A": "elle s'allume bel et bien.",
+   "C": "une ampoule à incandescence ne grille pas pour cela.",
+   "D": "il ne se passe rien de particulier."
+  }
+ },
+ {
+  "id": "C-h03-14",
+  "vraag": "Pourquoi faut-il brancher un émetteur-récepteur avec la bonne polarité ?",
+  "opties": [
+   "Sinon l'antenne ne fonctionne pas",
+   "Sinon l'appareil peut être endommagé",
+   "Sinon il émet sur la mauvaise fréquence",
+   "Ce n'est pas nécessaire"
+  ],
+  "uitleg": "Les appareils électroniques peuvent tomber en panne, voire provoquer un incendie, en cas de mauvaise polarité.",
+  "waarom_fout": {
+   "A": "l'antenne n'a rien à voir avec cela.",
+   "C": "la fréquence ne change pas pour autant.",
+   "D": "c'est au contraire important."
+  }
+ },
+ {
+  "id": "C-h03-15",
+  "vraag": "Quel est ce symbole ?",
+  "opties": [
+   "résistance",
+   "fusible",
+   "pile",
+   "ampoule à incandescence"
+  ],
+  "uitleg": "Le fil traverse le petit rectangle de part en part : c'est un fusible.",
+  "waarom_fout": {
+   "A": "pour une résistance, le fil ne traverse pas le petit rectangle.",
+   "C": "une pile, ce sont deux traits.",
+   "D": "une ampoule à incandescence est un rond avec une croix."
+  }
+ },
+ {
+  "id": "C-h03-16",
+  "vraag": "Quel est ce symbole ?",
+  "opties": [
+   "microphone",
+   "haut-parleur",
+   "antenne",
+   "terre"
+  ],
+  "uitleg": "Trois traits de plus en plus petits : la terre.",
+  "waarom_fout": {
+   "A": "le microphone est un rond avec un trait.",
+   "B": "le haut-parleur est un entonnoir.",
+   "C": "l'antenne est un mât avec de petits bras."
+  }
+ },
+ {
+  "id": "C-h03-17",
+  "vraag": "Une pile fournit :",
+  "opties": [
+   "une tension alternative",
+   "une tension continue",
+   "une sinusoïde",
+   "50 Hz"
+  ],
+  "uitleg": "Une pile donne toujours la même tension dans le même sens : une tension continue (DC).",
+  "waarom_fout": {
+   "A": "la tension alternative vient de la prise de courant.",
+   "C": "une sinusoïde est une tension alternative.",
+   "D": "50 Hz, c'est le réseau électrique."
+  }
+ },
+ {
+  "id": "C-h03-18",
+  "vraag": "Une onde dure 0,5 seconde. Quelle est la fréquence ?",
+  "opties": [
+   "0,5 Hz",
+   "2 Hz",
+   "5 Hz",
+   "50 Hz"
+  ],
+  "uitleg": "f = 1 ÷ T = 1 ÷ 0,5 = 2 Hz : deux ondes par seconde.",
+  "waarom_fout": {
+   "A": "c'est la période, pas la fréquence.",
+   "C": "mauvaise division.",
+   "D": "c'est le réseau électrique."
+  }
+ },
+ {
+  "id": "C-h03-19",
+  "vraag": "Qu'est-ce qui produit une tension sinusoïdale ?",
+  "opties": [
+   "un oscillateur",
+   "un fusible",
+   "une résistance",
+   "une pile"
+  ],
+  "uitleg": "Un oscillateur produit une sinusoïde.",
+  "waarom_fout": {
+   "B": "un fusible protège contre un courant trop fort.",
+   "C": "une résistance freine le courant.",
+   "D": "une pile donne une tension continue."
+  }
+ },
+ {
+  "id": "C-h03-20",
+  "vraag": "Que signifie AF ?",
+  "opties": [
+   "fréquence d'antenne",
+   "audiofréquence",
+   "toutes les fréquences",
+   "fréquence d'amplitude"
+  ],
+  "uitleg": "AF = audiofréquence : les fréquences que l'on peut entendre.",
+  "waarom_fout": {
+   "A": "cela n'existe pas.",
+   "C": "cela n'existe pas.",
+   "D": "cela n'existe pas."
+  }
+ },
+ {
+  "id": "C-h03-21",
+  "vraag": "Une fréquence de 145 MHz se situe en :",
+  "opties": [
+   "HF",
+   "VHF",
+   "UHF",
+   "AF (BF)"
+  ],
+  "uitleg": "La VHF va de 30 à 300 MHz. 145 MHz se trouve entre les deux.",
+  "waarom_fout": {
+   "A": "la HF s'arrête à 30 MHz.",
+   "C": "l'UHF ne commence qu'à 300 MHz.",
+   "D": "l'AF (BF), c'est du son, quelques kHz."
+  }
+ },
+ {
+  "id": "C-h03-22",
+  "vraag": "Une fréquence de 7 MHz se situe en :",
+  "opties": [
+   "HF",
+   "VHF",
+   "UHF",
+   "AF (BF)"
+  ],
+  "uitleg": "La HF va de 3 à 30 MHz.",
+  "waarom_fout": {
+   "B": "la VHF commence à 30 MHz.",
+   "C": "l'UHF commence à 300 MHz.",
+   "D": "l'AF (BF), c'est du son."
+  }
+ },
+ {
+  "id": "C-h03-23",
+  "vraag": "Quelle longueur d'onde correspond à 3 MHz ?",
+  "opties": [
+   "1 m",
+   "10 m",
+   "100 m",
+   "900 m"
+  ],
+  "uitleg": "λ = 300 ÷ 3 = 100 m.",
+  "waarom_fout": {
+   "A": "un facteur 100 trop petit.",
+   "B": "un facteur 10 trop petit.",
+   "D": "multiplié au lieu de divisé."
+  }
+ },
+ {
+  "id": "C-h03-24",
+  "vraag": "Que devient la longueur d'onde quand la fréquence augmente ?",
+  "opties": [
+   "Elle devient plus longue",
+   "Elle devient plus courte",
+   "Elle reste la même",
+   "Cela dépend de la puissance"
+  ],
+  "uitleg": "λ = 300 ÷ f : si vous divisez par un nombre plus grand, vous obtenez moins. Fréquence plus haute, onde plus courte.",
+  "waarom_fout": {
+   "A": "c'est exactement l'inverse.",
+   "C": "elle dépend de la fréquence.",
+   "D": "la puissance ne joue aucun rôle."
+  }
+ },
+ {
+  "id": "C-h03-25",
+  "vraag": "Dans la formule λ = 300 ÷ f, f est exprimée en :",
+  "opties": [
+   "Hz",
+   "kHz",
+   "MHz",
+   "GHz"
+  ],
+  "uitleg": "La formule avec 300 fonctionne avec f en MHz et λ en mètres.",
+  "waarom_fout": {
+   "A": "il faudrait alors utiliser 300 000 000.",
+   "B": "il faudrait alors utiliser 300 000.",
+   "D": "il faudrait alors utiliser 0,3."
+  }
+ },
+ {
+  "id": "E-h03-01",
+  "vraag": "Que fait une résistance dans un circuit électrique ?",
+  "opties": [
+   "Elle produit une tension",
+   "Elle s'oppose au passage du courant",
+   "Elle stocke le courant",
+   "Elle transforme une tension continue en tension alternative"
+  ],
+  "uitleg": "Une résistance s'oppose au courant (objectif 3b.2).",
+  "waarom_fout": {
+   "A": "la tension vient d'une source de tension, comme une pile.",
+   "C": "c'est le rôle d'une pile ou d'un condensateur.",
+   "D": "c'est le rôle d'un onduleur, pas d'une résistance."
+  }
+ },
+ {
+  "id": "E-h03-02",
+  "vraag": "Plus la résistance est grande à tension égale, plus :",
+  "opties": [
+   "le courant est grand",
+   "le courant est petit",
+   "la tension est grande",
+   "la tension est petite"
+  ],
+  "uitleg": "I = U ÷ R : R plus grande, courant plus petit.",
+  "waarom_fout": {
+   "A": "c'est exactement l'inverse.",
+   "C": "la tension reste la même, elle vient de la pile.",
+   "D": "la tension reste la même."
+  }
+ },
+ {
+  "id": "E-h03-03",
+  "vraag": "Combien de volts font 2,5 kV ?",
+  "opties": [
+   "0,0025 V",
+   "25 V",
+   "250 V",
+   "2 500 V"
+  ],
+  "uitleg": "Kilo = fois 1000 : 2,5 × 1000 = 2 500 V.",
+  "waarom_fout": {
+   "A": "divisé au lieu de multiplié.",
+   "B": "seulement fois 10.",
+   "C": "seulement fois 100."
+  }
+ },
+ {
+  "id": "E-h03-04",
+  "vraag": "Combien d'ampères font 300 mA ?",
+  "opties": [
+   "300 A",
+   "30 A",
+   "3 A",
+   "0,3 A"
+  ],
+  "uitleg": "Milli = diviser par 1000 : 300 ÷ 1000 = 0,3 A.",
+  "waarom_fout": {
+   "A": "le milli a été oublié.",
+   "B": "divisé seulement par 10.",
+   "C": "divisé seulement par 100."
+  }
+ },
+ {
+  "id": "E-h03-05",
+  "vraag": "Dans le schéma, la tension est de 6 V et la résistance de 2 kΩ. Quelle est l'intensité du courant ?",
+  "opties": [
+   "3 A",
+   "3 mA",
+   "12 kA",
+   "0,33 mA"
+  ],
+  "uitleg": "Conversion : 2 kΩ = 2 000 Ω. I = 6 ÷ 2 000 = 0,003 A = 3 mA.",
+  "waarom_fout": {
+   "A": "le kilo a été oublié.",
+   "C": "multiplié au lieu de divisé.",
+   "D": "division inversée."
+  }
+ },
+ {
+  "id": "E-h03-06",
+  "vraag": "Dans le schéma, un courant de 50 mA traverse une résistance de 200 Ω. Quelle est la tension ?",
+  "opties": [
+   "10 V",
+   "4 V",
+   "10 kV",
+   "0,25 V"
+  ],
+  "uitleg": "Conversion : 50 mA = 0,05 A. U = I × R = 0,05 × 200 = 10 V.",
+  "waarom_fout": {
+   "B": "divisé (200 ÷ 50).",
+   "C": "le milli a été oublié.",
+   "D": "division inversée."
+  }
+ },
+ {
+  "id": "E-h03-07",
+  "vraag": "Dans le schéma, la tension est de 9 V et la puissance de 4,5 W. Quelle est l'intensité du courant ?",
+  "opties": [
+   "2 A",
+   "0,5 A",
+   "40,5 A",
+   "13,5 A"
+  ],
+  "uitleg": "I = P ÷ U = 4,5 ÷ 9 = 0,5 A.",
+  "waarom_fout": {
+   "A": "division inversée (9 ÷ 4,5).",
+   "C": "multiplié.",
+   "D": "additionné."
+  }
+ },
+ {
+  "id": "E-h03-08",
+  "vraag": "Un appareil consomme 25 W pour 5 A. Sous quelle tension fonctionne-t-il ?",
+  "opties": [
+   "5 V",
+   "125 V",
+   "0,2 V",
+   "20 V"
+  ],
+  "uitleg": "U = P ÷ I = 25 ÷ 5 = 5 V.",
+  "waarom_fout": {
+   "B": "multiplié.",
+   "C": "division inversée.",
+   "D": "soustrait."
+  }
+ },
+ {
+  "id": "E-h03-09",
+  "vraag": "Dans le schéma, la tension est de 20 V et le courant de 50 mA. Quelle puissance la résistance consomme-t-elle ?",
+  "opties": [
+   "1 W",
+   "1 000 W",
+   "0,4 W",
+   "2,5 mW"
+  ],
+  "uitleg": "Conversion : 50 mA = 0,05 A. P = 20 × 0,05 = 1 W.",
+  "waarom_fout": {
+   "B": "le milli a été oublié.",
+   "C": "divisé (20 ÷ 50).",
+   "D": "division inversée et mauvaise unité."
+  }
+ },
+ {
+  "id": "E-h03-10",
+  "vraag": "Quelle est la tension du réseau électrique belge ?",
+  "opties": [
+   "12 V",
+   "110 V",
+   "230 V",
+   "400 V"
+  ],
+  "uitleg": "La prise de courant donne 230 V en tension alternative, 50 Hz.",
+  "waarom_fout": {
+   "A": "12 V, c'est une batterie de voiture.",
+   "B": "110 V, c'est notamment aux États-Unis.",
+   "D": "400 V, c'est le courant triphasé (force motrice), pas la prise de courant ordinaire."
+  }
+ },
+ {
+  "id": "E-h03-11",
+  "vraag": "La période d'une sinusoïde est de 0,02 s. Quelle est sa fréquence ?",
+  "opties": [
+   "0,02 Hz",
+   "20 Hz",
+   "50 Hz",
+   "200 Hz"
+  ],
+  "uitleg": "f = 1 ÷ T = 1 ÷ 0,02 = 50 Hz. C'est exactement le réseau électrique.",
+  "waarom_fout": {
+   "A": "c'est la période.",
+   "B": "mauvaise division.",
+   "D": "un facteur 4 trop haut."
+  }
+ },
+ {
+  "id": "E-h03-12",
+  "vraag": "Qu'est-ce que l'amplitude d'une sinusoïde ?",
+  "opties": [
+   "La durée d'une onde",
+   "Le nombre d'ondes par seconde",
+   "La valeur la plus haute, de zéro jusqu'au sommet",
+   "La distance entre deux sommets, en mètres"
+  ],
+  "uitleg": "L'amplitude est le plus grand écart, mesuré à partir de zéro.",
+  "waarom_fout": {
+   "A": "c'est la période.",
+   "B": "c'est la fréquence.",
+   "D": "c'est la longueur d'onde."
+  }
+ },
+ {
+  "id": "E-h03-13",
+  "vraag": "Que signifie RF ?",
+  "opties": [
+   "radiofréquence",
+   "facteur de réflexion",
+   "fréquence résiduelle",
+   "facteur de directivité"
+  ],
+  "uitleg": "RF = radiofréquence : les fréquences des ondes radio.",
+  "waarom_fout": {
+   "B": "n'existe pas dans ce sens.",
+   "C": "n'existe pas.",
+   "D": "n'existe pas."
+  }
+ },
+ {
+  "id": "E-h03-14",
+  "vraag": "Un radioamateur émet sur 432 MHz. Dans quelle gamme est-ce ?",
+  "opties": [
+   "HF",
+   "VHF",
+   "UHF",
+   "AF (BF)"
+  ],
+  "uitleg": "L'UHF va de 300 à 3000 MHz.",
+  "waarom_fout": {
+   "A": "la HF va jusqu'à 30 MHz.",
+   "B": "la VHF va jusqu'à 300 MHz.",
+   "D": "l'AF (BF), c'est du son."
+  }
+ },
+ {
+  "id": "E-h03-15",
+  "vraag": "Quelle fréquence correspond à la bande des 80 mètres ?",
+  "opties": [
+   "environ 3,75 MHz",
+   "environ 24 MHz",
+   "environ 80 MHz",
+   "environ 240 MHz"
+  ],
+  "uitleg": "f = 300 ÷ 80 = 3,75 MHz. La bande des 80 mètres va de 3,5 à 3,8 MHz.",
+  "waarom_fout": {
+   "B": "300 ÷ 80 ne donne pas 24.",
+   "C": "le nom de la bande n'est pas une fréquence.",
+   "D": "multiplié au lieu de divisé."
+  }
+ },
+ {
+  "id": "E-h03-16",
+  "vraag": "Pourquoi l'examen insiste-t-il sur l'unité (par ex. W ou mW) dans les questions de calcul ?",
+  "opties": [
+   "Parce que les mêmes chiffres avec une autre unité apparaissent souvent comme mauvaise réponse",
+   "Parce que l'unité n'est pas importante",
+   "Parce qu'il faut toujours répondre en mW",
+   "Parce que l'examen ne contient pas de questions de calcul"
+  ],
+  "uitleg": "Les distracteurs utilisent souvent le bon nombre avec la mauvaise unité. Faites donc toujours attention à k, m et M.",
+  "waarom_fout": {
+   "B": "l'unité est au contraire déterminante.",
+   "C": "l'unité dépend de la question.",
+   "D": "il y a bel et bien des questions de calcul."
+  }
+ },
+ {
+  "id": "O036",
+  "vraag": "L'unité de tension est :",
+  "opties": [
+   "Ampère",
+   "Volt",
+   "Ohm",
+   "Watt"
+  ],
+  "uitleg": "L'unité de tension est le volt. Question posée dans l'autre sens : le volt est l'unité de tension.",
+  "waarom_fout": {
+   "A": "l'ampère est l'unité de courant.",
+   "C": "l'ohm est l'unité de résistance.",
+   "D": "le watt est l'unité de puissance."
+  },
+  "onderwerp": "unités U I R P"
+ },
+ {
+  "id": "O037",
+  "vraag": "L'unité de courant est :",
+  "opties": [
+   "Ampère",
+   "Volt",
+   "Ohm",
+   "Watt"
+  ],
+  "uitleg": "L'unité de courant est l'ampère. Question posée dans l'autre sens : l'ampère est l'unité de courant.",
+  "waarom_fout": {
+   "B": "le volt est l'unité de tension.",
+   "C": "l'ohm est l'unité de résistance.",
+   "D": "le watt est l'unité de puissance."
+  },
+  "onderwerp": "unités U I R P"
+ },
+ {
+  "id": "O038",
+  "vraag": "L'unité de résistance est :",
+  "opties": [
+   "Ampère",
+   "Volt",
+   "Ohm",
+   "Watt"
+  ],
+  "uitleg": "L'unité de résistance est l'ohm. Question posée dans l'autre sens : l'ohm est l'unité de résistance.",
+  "waarom_fout": {
+   "A": "l'ampère est l'unité de courant.",
+   "B": "le volt est l'unité de tension.",
+   "D": "le watt est l'unité de puissance."
+  },
+  "onderwerp": "unités U I R P"
+ },
+ {
+  "id": "O039",
+  "vraag": "L'unité de puissance est :",
+  "opties": [
+   "ampère",
+   "volt",
+   "ohm",
+   "watt"
+  ],
+  "uitleg": "L'unité de puissance est le watt. Question posée dans l'autre sens : le watt est l'unité de puissance.",
+  "waarom_fout": {
+   "A": "l'ampère est l'unité de courant.",
+   "B": "le volt est l'unité de tension.",
+   "C": "l'ohm est l'unité de résistance."
+  },
+  "onderwerp": "unités U I R P"
+ },
+ {
+  "id": "O040",
+  "vraag": "L'ampère est l'unité de :",
+  "opties": [
+   "courant",
+   "tension",
+   "résistance",
+   "puissance"
+  ],
+  "onderwerp": "unités U I R P"
+ },
+ {
+  "id": "O041",
+  "vraag": "Le volt est l'unité de :",
+  "opties": [
+   "courant",
+   "tension",
+   "résistance",
+   "puissance"
+  ],
+  "onderwerp": "unités U I R P"
+ },
+ {
+  "id": "O042",
+  "vraag": "L'ohm est l'unité de :",
+  "opties": [
+   "courant",
+   "tension",
+   "résistance",
+   "puissance"
+  ],
+  "onderwerp": "unités U I R P"
+ },
+ {
+  "id": "O043",
+  "vraag": "Le watt est l'unité de :",
+  "opties": [
+   "courant",
+   "tension",
+   "résistance",
+   "puissance"
+  ],
+  "onderwerp": "unités U I R P"
+ },
+ {
+  "id": "O044",
+  "vraag": "Si, dans le schéma, la tension est égale à 5 V et le courant est égal à 2 mA, la puissance consommée par la résistance est égale à :",
+  "opties": [
+   "10 W",
+   "2,5 mW",
+   "10 mW",
+   "2,5 W"
+  ],
+  "uitleg": "P = U × I = 5 V × 0,002 A = 0,01 W = 10 mW. Raccourci : des volts multipliés par des milliampères donnent des milliwatts, 5 × 2 = 10 mW.",
+  "waarom_fout": {
+   "A": "10 W, c'est mille fois trop : le courant est de 2 mA, pas de 2 A.",
+   "B": "2,5 vient d'une division (5 ÷ 2), alors que la puissance est une multiplication.",
+   "D": "une division au lieu d'une multiplication, et en plus la mauvaise unité."
+  },
+  "onderwerp": "loi d'Ohm et puissance (schéma)"
+ },
+ {
+  "id": "O045",
+  "vraag": "Si, dans le schéma, la tension est égale à 500 mV et la puissance consommée par la résistance est égale à 10 W, le courant est égal à :",
+  "opties": [
+   "50 mA",
+   "20 A",
+   "5 A",
+   "200 mA"
+  ],
+  "uitleg": "I = P ÷ U. D'abord convertir : 500 mV = 0,5 V. I = 10 ÷ 0,5 = 20 A (diviser par 0,5, c'est multiplier par 2).",
+  "waarom_fout": {
+   "A": "50 mA provient d'une mauvaise conversion des unités.",
+   "C": "5 A s'obtient en calculant 10 × 0,5 : multiplier au lieu de diviser.",
+   "D": "200 mA, c'est cent fois trop peu."
+  },
+  "onderwerp": "loi d'Ohm et puissance (schéma)"
+ },
+ {
+  "id": "O046",
+  "vraag": "Si, dans le schéma, le courant est égal à 150 mA et la puissance consommée par la résistance est égale à 3 W, la tension est égale à :",
+  "opties": [
+   "20 V",
+   "20 kV",
+   "450 V",
+   "450 mV"
+  ],
+  "uitleg": "U = P ÷ I. D'abord convertir : 150 mA = 0,15 A. U = 3 ÷ 0,15 = 20 V.",
+  "waarom_fout": {
+   "B": "20 kV, c'est mille fois trop.",
+   "C": "450 s'obtient en calculant 3 × 150 : multiplier au lieu de diviser.",
+   "D": "450 mV, c'est aussi multiplier au lieu de diviser."
+  },
+  "onderwerp": "loi d'Ohm et puissance (schéma)"
+ },
+ {
+  "id": "O047",
+  "vraag": "Si l'on augmente la valeur de la résistance dans le schéma :",
+  "opties": [
+   "le courant diminuera",
+   "le courant augmentera",
+   "le courant ne changera pas",
+   "le courant augmentera ou diminuera selon la polarité de la source de tension"
+  ],
+  "uitleg": "À tension égale, I = U ÷ R : si vous divisez par un nombre plus grand, le courant diminue. Inversement : si vous diminuez la résistance, le courant augmente.",
+  "waarom_fout": {
+   "B": "c'est ce qui se passe quand on diminue la résistance.",
+   "C": "le courant dépend bel et bien de la résistance : I = U ÷ R.",
+   "D": "la polarité ne joue aucun rôle ici, une résistance fonctionne dans les deux sens."
+  },
+  "onderwerp": "loi d'Ohm et puissance (schéma)"
+ },
+ {
+  "id": "O048",
+  "vraag": "Si l'on diminue la valeur de la résistance dans le schéma :",
+  "opties": [
+   "le courant diminuera",
+   "le courant augmentera",
+   "le courant ne changera pas",
+   "le courant augmentera ou diminuera selon la polarité de la source de tension"
+  ],
+  "onderwerp": "loi d'Ohm et puissance (schéma)"
+ },
+ {
+  "id": "O049",
+  "vraag": "Si, dans le schéma, la résistance est égale à 10 kΩ et la tension est égale à 5 V, le courant est égal à :",
+  "opties": [
+   "2 mA",
+   "0,5 mA",
+   "50 kA",
+   "2 A"
+  ],
+  "uitleg": "I = U ÷ R. D'abord convertir : 10 kΩ = 10 000 Ω. I = 5 ÷ 10 000 = 0,0005 A = 0,5 mA.",
+  "waarom_fout": {
+   "A": "2 mA s'obtient en calculant 10 ÷ 5 : la division est inversée.",
+   "C": "50 kA, c'est une multiplication (5 × 10 k) : beaucoup trop.",
+   "D": "2 A : division inversée et kilo oublié."
+  },
+  "onderwerp": "loi d'Ohm et puissance (schéma)"
+ },
+ {
+  "id": "O050",
+  "vraag": "Si, dans le schéma, la résistance est égale à 100 Ω et le courant est égal à 20 mA, la tension est égale à :",
+  "opties": [
+   "5 kV",
+   "0,2 V",
+   "5 V",
+   "2 V"
+  ],
+  "uitleg": "U = I × R. D'abord convertir : 20 mA = 0,02 A. U = 0,02 × 100 = 2 V.",
+  "waarom_fout": {
+   "A": "5 kV s'obtient en calculant 100 ÷ 0,02 : diviser au lieu de multiplier.",
+   "B": "0,2 V : la virgule est décalée d'un rang.",
+   "C": "5 V : diviser (100 ÷ 20) au lieu de multiplier."
+  },
+  "onderwerp": "loi d'Ohm et puissance (schéma)"
+ },
+ {
+  "id": "O051",
+  "vraag": "Si, dans le schéma, le courant est égal à 3 A et la tension est égale à 15 V, la résistance est égale à :",
+  "opties": [
+   "45 Ω",
+   "0,2 Ω",
+   "5 Ω",
+   "2 Ω"
+  ],
+  "uitleg": "R = U ÷ I = 15 ÷ 3 = 5 Ω.",
+  "waarom_fout": {
+   "A": "45 Ω, c'est multiplier (15 × 3) au lieu de diviser.",
+   "B": "0,2 Ω, c'est la division inversée (3 ÷ 15).",
+   "D": "2 Ω ne correspond à aucune opération."
+  },
+  "onderwerp": "loi d'Ohm et puissance (schéma)"
+ },
+ {
+  "id": "O052",
+  "vraag": "Si l'on branche une résistance aux bornes d'une pile, il en résultera que :",
+  "opties": [
+   "la tension aux bornes de la pile augmentera",
+   "la valeur de la résistance augmentera",
+   "un courant circulera dans la résistance",
+   "il ne se passera rien du tout"
+  ],
+  "uitleg": "Une résistance aux bornes d'une pile forme un circuit fermé. Un courant circule donc dans la résistance.",
+  "waarom_fout": {
+   "A": "la tension de la pile n'augmente pas parce qu'on y branche quelque chose.",
+   "B": "la valeur de la résistance ne change pas.",
+   "D": "il se passe bien quelque chose : dans un circuit fermé, un courant circule."
+  },
+  "onderwerp": "pile et polarité"
+ },
+ {
+  "id": "O053",
+  "vraag": "La polarité d'une pile est :",
+  "opties": [
+   "importante aussi bien pour le branchement d'une ampoule à incandescence que pour celui d'une radio",
+   "sans importance aussi bien pour le branchement d'une ampoule à incandescence que pour celui d'une radio",
+   "importante pour le branchement d'une ampoule à incandescence, mais sans importance pour le branchement d'une radio",
+   "sans importance pour le branchement d'une ampoule à incandescence, mais importante pour le branchement d'une radio"
+  ],
+  "uitleg": "Une ampoule à incandescence s'allume dans les deux sens. Une radio est un appareil électronique et peut être endommagée si le plus et le moins sont inversés.",
+  "waarom_fout": {
+   "A": "pour une ampoule à incandescence, cela n'a pas d'importance.",
+   "B": "pour une radio, cela a de l'importance.",
+   "C": "c'est exactement l'inverse."
+  },
+  "onderwerp": "pile et polarité"
+ },
+ {
+  "id": "O054",
+  "vraag": "La polarité d'une pile est :",
+  "opties": [
+   "jamais importante, quoi que l'on branche sur la pile",
+   "toujours importante, quoi que l'on branche sur la pile",
+   "parfois importante, selon ce que l'on branche sur la pile",
+   "importante uniquement pour le branchement d'ampoules à incandescence"
+  ],
+  "uitleg": "Cela dépend de ce que vous branchez : pour une ampoule à incandescence, cela n'a pas d'importance ; pour un appareil électronique, si. Donc parfois importante.",
+  "waarom_fout": {
+   "A": "pour les appareils électroniques, c'est bel et bien important.",
+   "B": "pour une ampoule à incandescence, ce n'est pas important.",
+   "D": "c'est justement pour les ampoules à incandescence que ce n'est pas important."
+  },
+  "onderwerp": "pile et polarité"
+ },
+ {
+  "id": "O055",
+  "vraag": "Le terme AC signifie :",
+  "opties": [
+   "capacité autonome",
+   "courant continu",
+   "courant alternatif",
+   "construction générale"
+  ],
+  "uitleg": "AC = alternating current = courant alternatif (tension alternative), comme dans la prise de courant.",
+  "waarom_fout": {
+   "A": "cela n'existe pas.",
+   "B": "le courant continu, c'est DC.",
+   "D": "cela n'existe pas."
+  },
+  "onderwerp": "AC et DC"
+ },
+ {
+  "id": "O056",
+  "vraag": "Le terme DC signifie :",
+  "opties": [
+   "capacité numérique",
+   "courant continu",
+   "courant alternatif",
+   "construction numérique"
+  ],
+  "uitleg": "DC = direct current = courant continu (tension continue), comme celui d'une pile.",
+  "waarom_fout": {
+   "A": "cela n'existe pas.",
+   "C": "le courant alternatif, c'est AC.",
+   "D": "cela n'existe pas."
+  },
+  "onderwerp": "AC et DC"
+ },
+ {
+  "id": "O057",
+  "vraag": "Le symbole représenté correspond à :",
+  "opties": [
+   "une terre",
+   "un fusible",
+   "une antenne",
+   "une pile"
+  ],
+  "uitleg": "Un trait long et un trait court et épais : la pile.",
+  "waarom_fout": {
+   "A": "terre : trois traits de plus en plus petits.",
+   "B": "fusible : petit rectangle traversé par le fil.",
+   "C": "antenne : mât avec deux petits bras."
+  },
+  "onderwerp": "symboles"
+ },
+ {
+  "id": "O058",
+  "vraag": "Le symbole représenté correspond à :",
+  "opties": [
+   "une résistance",
+   "un fusible",
+   "une ampoule à incandescence",
+   "un haut-parleur"
+  ],
+  "uitleg": "Un rond avec une croix : l'ampoule à incandescence.",
+  "waarom_fout": {
+   "A": "résistance : petit rectangle vide.",
+   "B": "fusible : petit rectangle traversé par le fil.",
+   "D": "haut-parleur : entonnoir."
+  },
+  "onderwerp": "symboles"
+ },
+ {
+  "id": "O059",
+  "vraag": "Le symbole représenté correspond à :",
+  "opties": [
+   "un microphone",
+   "un fusible",
+   "une ampoule à incandescence",
+   "un haut-parleur"
+  ],
+  "uitleg": "Un rond avec un trait devant : le microphone.",
+  "waarom_fout": {
+   "B": "fusible : petit rectangle traversé par le fil.",
+   "C": "ampoule à incandescence : rond avec une croix.",
+   "D": "haut-parleur : entonnoir."
+  },
+  "onderwerp": "symboles"
+ },
+ {
+  "id": "O060",
+  "vraag": "Le symbole représenté correspond à :",
+  "opties": [
+   "une résistance",
+   "un fusible",
+   "une ampoule à incandescence",
+   "un haut-parleur"
+  ],
+  "uitleg": "Une forme d'entonnoir : le haut-parleur.",
+  "waarom_fout": {
+   "A": "résistance : petit rectangle vide.",
+   "B": "fusible : petit rectangle traversé par le fil.",
+   "C": "ampoule à incandescence : rond avec une croix."
+  },
+  "onderwerp": "symboles"
+ },
+ {
+  "id": "O061",
+  "vraag": "Le symbole représenté correspond à :",
+  "opties": [
+   "une résistance",
+   "une antenne",
+   "une terre",
+   "un interrupteur"
+  ],
+  "uitleg": "Un mât avec deux petits bras : l'antenne.",
+  "waarom_fout": {
+   "A": "résistance : petit rectangle vide.",
+   "C": "terre : trois traits de plus en plus petits.",
+   "D": "interrupteur : petit levier ouvert."
+  },
+  "onderwerp": "symboles"
+ },
+ {
+  "id": "O062",
+  "vraag": "Le symbole représenté correspond à :",
+  "opties": [
+   "un haut-parleur",
+   "une antenne",
+   "une terre",
+   "un interrupteur"
+  ],
+  "uitleg": "Trois traits de plus en plus petits : la terre.",
+  "waarom_fout": {
+   "A": "haut-parleur : entonnoir.",
+   "B": "antenne : mât avec deux petits bras.",
+   "D": "interrupteur : petit levier ouvert."
+  },
+  "onderwerp": "symboles"
+ },
+ {
+  "id": "O063",
+  "vraag": "Le symbole représenté correspond à :",
+  "opties": [
+   "un haut-parleur",
+   "une antenne",
+   "une terre",
+   "un interrupteur"
+  ],
+  "uitleg": "Un petit levier ouvert : l'interrupteur.",
+  "waarom_fout": {
+   "A": "haut-parleur : entonnoir.",
+   "B": "antenne : mât avec deux petits bras.",
+   "C": "terre : trois traits de plus en plus petits."
+  },
+  "onderwerp": "symboles"
+ },
+ {
+  "id": "O064",
+  "vraag": "Le symbole représenté correspond à :",
+  "opties": [
+   "un haut-parleur",
+   "une résistance",
+   "un fusible",
+   "un microphone"
+  ],
+  "uitleg": "Un petit rectangle vide : la résistance.",
+  "waarom_fout": {
+   "A": "haut-parleur : entonnoir.",
+   "C": "fusible : petit rectangle traversé par le fil.",
+   "D": "microphone : rond avec un trait."
+  },
+  "onderwerp": "symboles"
+ },
+ {
+  "id": "O065",
+  "vraag": "Le symbole représenté correspond à :",
+  "opties": [
+   "un haut-parleur",
+   "une résistance",
+   "un fusible",
+   "un microphone"
+  ],
+  "uitleg": "Un petit rectangle traversé de part en part par le fil : le fusible.",
+  "waarom_fout": {
+   "A": "haut-parleur : entonnoir.",
+   "B": "résistance : petit rectangle vide.",
+   "D": "microphone : rond avec un trait."
+  },
+  "onderwerp": "symboles"
+ },
+ {
+  "id": "O066",
+  "vraag": "L'unité de fréquence est :",
+  "opties": [
+   "mètre",
+   "volt",
+   "hertz",
+   "longueur d'onde"
+  ],
+  "uitleg": "La fréquence (ondes par seconde) se mesure en hertz (Hz). Question posée dans l'autre sens : le hertz est l'unité de fréquence.",
+  "waarom_fout": {
+   "A": "le mètre est l'unité de longueur, par ex. de la longueur d'onde.",
+   "B": "le volt est l'unité de tension.",
+   "D": "la longueur d'onde est elle-même une grandeur, pas une unité."
+  },
+  "onderwerp": "fréquence, réseau électrique, AF"
+ },
+ {
+  "id": "O067",
+  "vraag": "Le hertz est l'unité de :",
+  "opties": [
+   "longueur d'onde",
+   "fréquence",
+   "rapport d'ondes stationnaires",
+   "tension"
+  ],
+  "onderwerp": "fréquence, réseau électrique, AF"
+ },
+ {
+  "id": "O068",
+  "vraag": "Laquelle des figures représente une onde sinusoïdale ?",
+  "opties": [
+   "figure A",
+   "figure B",
+   "figure C",
+   "figure D"
+  ],
+  "uitleg": "C est une sinusoïde pure : arrondie, aussi loin au-dessus qu'en dessous de zéro, sans cassures.",
+  "waarom_fout": {
+   "A": "déformée : elle présente une bosse.",
+   "B": "reste toujours au-dessus de zéro : une onde repliée, pas une sinusoïde.",
+   "D": "une onde carrée à angles droits."
+  },
+  "onderwerp": "fréquence, réseau électrique, AF"
+ },
+ {
+  "id": "O069",
+  "vraag": "Un signal sinusoïdal est généré dans un :",
+  "opties": [
+   "modulateur",
+   "amplificateur sinusoïdal",
+   "multivibrateur",
+   "oscillateur"
+  ],
+  "uitleg": "Un oscillateur produit une tension alternative sinusoïdale.",
+  "waarom_fout": {
+   "A": "un modulateur place un message sur une porteuse, il ne produit pas de sinusoïde.",
+   "B": "cette notion n'existe pas.",
+   "C": "un multivibrateur produit des ondes carrées, pas une sinusoïde."
+  },
+  "onderwerp": "fréquence, réseau électrique, AF"
+ },
+ {
+  "id": "O070",
+  "vraag": "La fréquence du réseau électrique est de :",
+  "opties": [
+   "25 Hz",
+   "50 Hz",
+   "100 Hz",
+   "200 Hz"
+  ],
+  "uitleg": "En Belgique, le réseau électrique fonctionne à 50 Hz (et 230 V).",
+  "waarom_fout": {
+   "A": "25 Hz n'est pas utilisé pour le réseau électrique.",
+   "C": "100 Hz, c'est le double.",
+   "D": "200 Hz, c'est beaucoup trop haut."
+  },
+  "onderwerp": "fréquence, réseau électrique, AF"
+ },
+ {
+  "id": "O071",
+  "vraag": "La fréquence de l'ouïe humaine s'étend de :",
+  "opties": [
+   "10 Hz à 1,5 kHz",
+   "100 Hz à 1,5 kHz",
+   "100 Hz à 15 kHz",
+   "300 Hz à 3 kHz"
+  ],
+  "uitleg": "Un être humain entend environ de 100 Hz à 15 kHz.",
+  "waarom_fout": {
+   "A": "1,5 kHz est beaucoup trop bas comme limite supérieure.",
+   "B": "1,5 kHz est beaucoup trop bas comme limite supérieure.",
+   "D": "300 Hz à 3 kHz, c'est la gamme de la parole, pas de l'ouïe."
+  },
+  "onderwerp": "fréquence, réseau électrique, AF"
+ },
+ {
+  "id": "O072",
+  "vraag": "La bande de fréquences pour la communication audio s'étend de :",
+  "opties": [
+   "100 Hz à 15 kHz",
+   "300 Hz à 15 kHz",
+   "100 Hz à 3 kHz",
+   "300 Hz à 3 kHz"
+  ],
+  "uitleg": "Pour une parole compréhensible, 300 Hz à 3 kHz suffisent.",
+  "waarom_fout": {
+   "A": "c'est toute l'ouïe, plus que nécessaire pour la parole.",
+   "B": "gamme mélangée, cela n'existe pas comme norme.",
+   "C": "gamme mélangée, cela n'existe pas comme norme."
+  },
+  "onderwerp": "fréquence, réseau électrique, AF"
+ },
+ {
+  "id": "O073",
+  "vraag": "La bande de fréquences HF s'étend de :",
+  "opties": [
+   "300 kHz à 3 MHz",
+   "3 MHz à 30 MHz",
+   "30 MHz à 300 MHz",
+   "300 MHz à 3000 MHz"
+  ],
+  "uitleg": "La HF va de 3 à 30 MHz. Question posée dans l'autre sens : la gamme de 3 à 30 MHz s'appelle HF. Retenez 3, 30, 300, 3000.",
+  "waarom_fout": {
+   "A": "c'est la MF (ondes moyennes).",
+   "C": "c'est la VHF.",
+   "D": "c'est l'UHF."
+  },
+  "onderwerp": "HF VHF UHF et répartition du spectre"
+ },
+ {
+  "id": "O074",
+  "vraag": "La bande de fréquences VHF s'étend de :",
+  "opties": [
+   "300 kHz à 3 MHz",
+   "3 MHz à 30 MHz",
+   "30 MHz à 300 MHz",
+   "300 MHz à 3000 MHz"
+  ],
+  "uitleg": "La VHF va de 30 à 300 MHz. Question posée dans l'autre sens : la gamme de 30 à 300 MHz s'appelle VHF. Retenez 3, 30, 300, 3000.",
+  "waarom_fout": {
+   "A": "c'est la MF (ondes moyennes).",
+   "B": "c'est la HF.",
+   "D": "c'est l'UHF."
+  },
+  "onderwerp": "HF VHF UHF et répartition du spectre"
+ },
+ {
+  "id": "O075",
+  "vraag": "La bande de fréquences UHF s'étend de :",
+  "opties": [
+   "300 kHz à 3 MHz",
+   "3 MHz à 30 MHz",
+   "30 MHz à 300 MHz",
+   "300 MHz à 3000 MHz"
+  ],
+  "uitleg": "L'UHF va de 300 à 3000 MHz. Question posée dans l'autre sens : la gamme de 300 à 3000 MHz s'appelle UHF. Retenez 3, 30, 300, 3000.",
+  "waarom_fout": {
+   "A": "c'est la MF (ondes moyennes).",
+   "B": "c'est la HF.",
+   "C": "c'est la VHF."
+  },
+  "onderwerp": "HF VHF UHF et répartition du spectre"
+ },
+ {
+  "id": "O076",
+  "vraag": "La gamme de fréquences comprise entre 3 MHz et 30 MHz s'appelle :",
+  "opties": [
+   "UHF",
+   "VHF",
+   "HF",
+   "MF"
+  ],
+  "onderwerp": "HF VHF UHF et répartition du spectre"
+ },
+ {
+  "id": "O077",
+  "vraag": "La gamme de fréquences comprise entre 30 MHz et 300 MHz s'appelle :",
+  "opties": [
+   "UHF",
+   "VHF",
+   "HF",
+   "MF"
+  ],
+  "onderwerp": "HF VHF UHF et répartition du spectre"
+ },
+ {
+  "id": "O078",
+  "vraag": "La gamme de fréquences comprise entre 300 MHz et 3000 MHz s'appelle :",
+  "opties": [
+   "UHF",
+   "VHF",
+   "HF",
+   "MF"
+  ],
+  "onderwerp": "HF VHF UHF et répartition du spectre"
+ },
+ {
+  "id": "O079",
+  "vraag": "La répartition du spectre des fréquences se fait :",
+  "opties": [
+   "en attribuant des bandes de fréquences aux différents pays",
+   "en attribuant des bandes de fréquences à des services spécifiques tels que la radiodiffusion, l'aviation, les radioamateurs …",
+   "en divisant le spectre des fréquences en segments de 1 MHz, chacun attribué à un utilisateur spécifique",
+   "en divisant le spectre des fréquences en segments de 0,1 MHz, chacun attribué à un utilisateur spécifique"
+  ],
+  "uitleg": "Le spectre est réparti par type de service : radiodiffusion, aviation, navigation maritime, radioamateurs, ...",
+  "waarom_fout": {
+   "A": "pas par pays : tous les pays utilisent la même répartition par service.",
+   "C": "il n'y a pas de blocs fixes de 1 MHz par utilisateur.",
+   "D": "il n'y a pas de blocs fixes de 0,1 MHz par utilisateur."
+  },
+  "onderwerp": "HF VHF UHF et répartition du spectre"
+ },
+ {
+  "id": "O080",
+  "vraag": "Une fréquence de 50 MHz correspond à une longueur d'onde de :",
+  "opties": [
+   "150000 mètres",
+   "150 mètres",
+   "60 mètres",
+   "6 mètres"
+  ],
+  "uitleg": "λ = 300 ÷ f = 300 ÷ 50 = 6 m.",
+  "waarom_fout": {
+   "A": "multiplier au lieu de diviser.",
+   "B": "150 mètres correspondent à 2 MHz.",
+   "C": "un facteur 10 de travers : 60 mètres correspondent à 5 MHz."
+  },
+  "onderwerp": "longueur d'onde"
+ },
+ {
+  "id": "O081",
+  "vraag": "Une longueur d'onde de 20 mètres correspond à une fréquence de :",
+  "opties": [
+   "6 MHz",
+   "14 MHz",
+   "21 MHz",
+   "6000 MHz"
+  ],
+  "uitleg": "f = 300 ÷ λ = 300 ÷ 20 = 15 MHz. 15 MHz ne figure pas parmi les réponses : la plus proche est 14 MHz. C'est aussi la vraie bande des 20 mètres (14,000 à 14,350 MHz), dont le nom est arrondi.",
+  "waarom_fout": {
+   "A": "6 MHz correspond à 50 m.",
+   "C": "21 MHz correspond à environ 14 m (la bande des 15 mètres).",
+   "D": "multiplié au lieu de divisé."
+  },
+  "onderwerp": "longueur d'onde"
+ },
+ {
+  "id": "O278",
+  "vraag": "Une fréquence de 5 MHz correspond à une longueur d'onde de :",
+  "opties": [
+   "150000 mètres",
+   "150 mètres",
+   "60 mètres",
+   "6 mètres"
+  ],
+  "uitleg": "λ = 300 ÷ f = 300 ÷ 5 = 60 m.",
+  "waarom_fout": {
+   "A": "150000 mètres correspondent à environ 0,002 MHz (2 kHz).",
+   "B": "150 mètres correspondent à 2 MHz.",
+   "D": "un facteur 10 de travers : 6 mètres correspondent à 50 MHz."
+  },
+  "onderwerp": "calcul de la longueur d'onde"
+ },
+ {
+  "id": "O279",
+  "vraag": "Une fréquence de 10 MHz correspond à une longueur d'onde de :",
+  "opties": [
+   "3000 mètres",
+   "300 mètres",
+   "30 mètres",
+   "3 mètres"
+  ],
+  "uitleg": "λ = 300 ÷ f = 300 ÷ 10 = 30 m.",
+  "waarom_fout": {
+   "A": "multiplier au lieu de diviser.",
+   "B": "un facteur 10 de travers : 300 mètres correspondent à 1 MHz.",
+   "D": "un facteur 10 de travers : 3 mètres correspondent à 100 MHz."
+  },
+  "onderwerp": "calcul de la longueur d'onde"
+ },
+ {
+  "id": "O280",
+  "vraag": "Une fréquence de 100 MHz correspond à une longueur d'onde de :",
+  "opties": [
+   "150000 mètres",
+   "150 mètres",
+   "30 mètres",
+   "3 mètres"
+  ],
+  "uitleg": "λ = 300 ÷ f = 300 ÷ 100 = 3 m.",
+  "waarom_fout": {
+   "A": "150000 mètres correspondent à environ 0,002 MHz (2 kHz).",
+   "B": "150 mètres correspondent à 2 MHz.",
+   "C": "un facteur 10 de travers : 30 mètres correspondent à 10 MHz."
+  },
+  "onderwerp": "calcul de la longueur d'onde"
+ },
+ {
+  "id": "O281",
+  "vraag": "Une fréquence de 25 MHz correspond à une longueur d'onde de :",
+  "opties": [
+   "7500 mètres",
+   "750 mètres",
+   "120 mètres",
+   "12 mètres"
+  ],
+  "uitleg": "λ = 300 ÷ f = 300 ÷ 25 = 12 m.",
+  "waarom_fout": {
+   "A": "multiplier au lieu de diviser.",
+   "B": "750 mètres correspondent à environ 0,4 MHz.",
+   "C": "un facteur 10 de travers : 120 mètres correspondent à environ 2,5 MHz."
+  },
+  "onderwerp": "calcul de la longueur d'onde"
+ },
+ {
+  "id": "O282",
+  "vraag": "Une fréquence de 1 MHz correspond à une longueur d'onde de :",
+  "opties": [
+   "3000 mètres",
+   "300 mètres",
+   "30 mètres",
+   "3 mètres"
+  ],
+  "uitleg": "λ = 300 ÷ f = 300 ÷ 1 = 300 m.",
+  "waarom_fout": {
+   "A": "multiplier au lieu de diviser.",
+   "C": "un facteur 10 de travers : 30 mètres correspondent à 10 MHz.",
+   "D": "3 mètres correspondent à 100 MHz."
+  },
+  "onderwerp": "calcul de la longueur d'onde"
+ },
+ {
+  "id": "O283",
+  "vraag": "Une longueur d'onde de 10 mètres correspond à une fréquence de :",
+  "opties": [
+   "6 MHz",
+   "14 MHz",
+   "30 MHz",
+   "300 MHz"
+  ],
+  "uitleg": "f = 300 ÷ λ = 300 ÷ 10 = 30 MHz.",
+  "waarom_fout": {
+   "A": "6 MHz correspond à 50 m.",
+   "B": "14 MHz correspond à environ 21,4 m.",
+   "D": "un facteur 10 de travers : 300 MHz correspond à 1 m."
+  },
+  "onderwerp": "calcul de la longueur d'onde"
+ },
+ {
+  "id": "O284",
+  "vraag": "Une longueur d'onde de 30 mètres correspond à une fréquence de :",
+  "opties": [
+   "6 MHz",
+   "10 MHz",
+   "21 MHz",
+   "6000 MHz"
+  ],
+  "uitleg": "f = 300 ÷ λ = 300 ÷ 30 = 10 MHz.",
+  "waarom_fout": {
+   "A": "6 MHz correspond à 50 m.",
+   "C": "21 MHz correspond à environ 14,3 m.",
+   "D": "6000 MHz correspond à environ 0,1 m."
+  },
+  "onderwerp": "calcul de la longueur d'onde"
+ },
+ {
+  "id": "O285",
+  "vraag": "Une longueur d'onde de 1 mètre correspond à une fréquence de :",
+  "opties": [
+   "6 MHz",
+   "14 MHz",
+   "300 MHz",
+   "6000 MHz"
+  ],
+  "uitleg": "f = 300 ÷ λ = 300 ÷ 1 = 300 MHz.",
+  "waarom_fout": {
+   "A": "6 MHz correspond à 50 m.",
+   "B": "14 MHz correspond à environ 21,4 m.",
+   "D": "6000 MHz correspond à environ 0,1 m."
+  },
+  "onderwerp": "calcul de la longueur d'onde"
+ },
+ {
+  "id": "O286",
+  "vraag": "Une longueur d'onde de 100 mètres correspond à une fréquence de :",
+  "opties": [
+   "3 MHz",
+   "6 MHz",
+   "21 MHz",
+   "6000 MHz"
+  ],
+  "uitleg": "f = 300 ÷ λ = 300 ÷ 100 = 3 MHz.",
+  "waarom_fout": {
+   "B": "6 MHz correspond à 50 m.",
+   "C": "21 MHz correspond à environ 14,3 m.",
+   "D": "6000 MHz correspond à environ 0,1 m."
+  },
+  "onderwerp": "calcul de la longueur d'onde"
+ },
+ {
+  "id": "O287",
+  "vraag": "Une longueur d'onde de 15 mètres correspond à une fréquence de :",
+  "opties": [
+   "20 MHz",
+   "40 MHz",
+   "144 MHz",
+   "6000 MHz"
+  ],
+  "uitleg": "f = 300 ÷ λ = 300 ÷ 15 = 20 MHz.",
+  "waarom_fout": {
+   "B": "40 MHz correspond à environ 7,5 m.",
+   "C": "144 MHz correspond à environ 2,1 m.",
+   "D": "6000 MHz correspond à environ 0,1 m."
+  },
+  "onderwerp": "calcul de la longueur d'onde"
+ }
+]

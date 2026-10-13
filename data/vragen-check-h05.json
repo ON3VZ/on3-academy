@@ -1,0 +1,738 @@
+[
+ {
+  "id": "C-h05-1a",
+  "bron": "check",
+  "hoofdstuk": 5,
+  "onderwerp": "antenne",
+  "vraag": "Je hebt één antenne op het dak. Kun je daarmee zenden én ontvangen?",
+  "opties": [
+   "alleen zenden",
+   "alleen ontvangen",
+   "allebei",
+   "alleen als je twee kabels gebruikt"
+  ],
+  "juist": "C",
+  "uitleg": "Een antenne werkt in twee richtingen.",
+  "waarom_fout": {
+   "A": "ze kan ook ontvangen.",
+   "B": "ze kan ook zenden.",
+   "D": "één kabel volstaat."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h05-1b",
+  "bron": "check",
+  "hoofdstuk": 5,
+  "onderwerp": "antenne",
+  "vraag": "Je maakt een antenne langer. Wat gebeurt er met de resonantiefrequentie?",
+  "opties": [
+   "ze wordt hoger",
+   "ze wordt lager",
+   "ze blijft gelijk",
+   "de antenne werkt niet meer"
+  ],
+  "juist": "B",
+  "uitleg": "Langer = lagere frequentie, zoals een langere gitaarsnaar een lagere toon geeft.",
+  "waarom_fout": {
+   "A": "omgekeerd.",
+   "C": "de lengte bepaalt net de frequentie.",
+   "D": "ze werkt nog, maar op een andere frequentie."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h05-1c",
+  "bron": "check",
+  "hoofdstuk": 5,
+  "onderwerp": "antenne",
+  "vraag": "Waarom is een antenne voor 2 m veel kleiner dan een antenne voor 80 m?",
+  "opties": [
+   "omdat VHF verticaal gepolariseerd is",
+   "omdat de golflengte veel korter is",
+   "omdat een VHF-antenne anders werkt",
+   "omdat een VHF-zender minder vermogen heeft"
+  ],
+  "juist": "B",
+  "uitleg": "De afmetingen volgen de golflengte.",
+  "waarom_fout": {
+   "A": "polarisatie bepaalt de maat niet.",
+   "C": "het principe is hetzelfde.",
+   "D": "vermogen bepaalt de maat niet."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h05-2a",
+  "bron": "check",
+  "hoofdstuk": 5,
+  "onderwerp": "dipool",
+  "vraag": "Hoe lang is een dipool voor 15 MHz?",
+  "opties": [
+   "5 m",
+   "10 m",
+   "20 m",
+   "40 m"
+  ],
+  "juist": "B",
+  "uitleg": "λ = 300 ÷ 15 = 20 m. De helft is 10 m.",
+  "waarom_fout": {
+   "A": "5 m is een kwart golflengte.",
+   "C": "20 m is de volledige golflengte.",
+   "D": "40 m klopt niet."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h05-2b",
+  "bron": "check",
+  "hoofdstuk": 5,
+  "onderwerp": "dipool",
+  "vraag": "Waar is de stroom in een halve-golf-dipool het grootst?",
+  "opties": [
+   "aan de uiteinden",
+   "in het midden",
+   "overal even groot",
+   "op een kwart van de lengte"
+  ],
+  "juist": "B",
+  "uitleg": "In het midden (bij het voedingspunt) is de stroom het grootst, aan de uiteinden nul.",
+  "waarom_fout": {
+   "A": "daar is de stroom nul.",
+   "C": "de stroom verloopt als een halve sinus.",
+   "D": "daar is hij nog niet maximaal."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h05-2c",
+  "bron": "check",
+  "hoofdstuk": 5,
+  "onderwerp": "dipool",
+  "vraag": "Waar sluit je de coax aan op een dipool?",
+  "opties": [
+   "aan één uiteinde",
+   "in het midden",
+   "aan beide uiteinden",
+   "op een kwart van de lengte"
+  ],
+  "juist": "B",
+  "uitleg": "Een dipool wordt in het midden gevoed.",
+  "waarom_fout": {
+   "A": "dat is een eindgevoede antenne.",
+   "C": "nee, één voedingspunt in het midden.",
+   "D": "nee, in het midden."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h05-3a",
+  "bron": "check",
+  "hoofdstuk": 5,
+  "onderwerp": "grondvlak",
+  "vraag": "Wat doet het grondvlak bij een kwartgolfantenne?",
+  "opties": [
+   "het houdt de antenne recht",
+   "het vormt als een spiegel de ontbrekende helft",
+   "het beschermt tegen bliksem",
+   "het versterkt het signaal"
+  ],
+  "juist": "B",
+  "uitleg": "Het grondvlak spiegelt de staaf, samen gedragen ze zich als een dipool.",
+  "waarom_fout": {
+   "A": "dat is mechanisch, niet de functie.",
+   "C": "dat is niet de reden.",
+   "D": "het versterkt niets."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h05-3b",
+  "bron": "check",
+  "hoofdstuk": 5,
+  "onderwerp": "groundplane",
+  "vraag": "Hoe heten de schuine draden van een groundplane-antenne?",
+  "opties": [
+   "directoren",
+   "reflectoren",
+   "radialen",
+   "baluns"
+  ],
+  "juist": "C",
+  "uitleg": "De schuine draden heten radialen.",
+  "waarom_fout": {
+   "A": "directoren horen bij een yagi.",
+   "B": "reflectoren horen bij een yagi.",
+   "D": "een balun is een aanpassingsstuk."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h05-3c",
+  "bron": "check",
+  "hoofdstuk": 5,
+  "onderwerp": "5/8",
+  "vraag": "Waarom heeft een 5/8 λ-antenne een spoel?",
+  "opties": [
+   "om de antenne in resonantie te brengen",
+   "om bliksem af te leiden",
+   "om horizontale polarisatie te krijgen",
+   "om meer vermogen te maken"
+  ],
+  "juist": "A",
+  "uitleg": "Een 5/8 λ is niet vanzelf in resonantie: de spoel lost dat op.",
+  "waarom_fout": {
+   "B": "dat is niet de functie.",
+   "C": "de antenne staat verticaal, dus verticale polarisatie.",
+   "D": "een spoel maakt geen vermogen."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h05-4a",
+  "bron": "check",
+  "hoofdstuk": 5,
+  "onderwerp": "yagi",
+  "vraag": "In welke richting straalt een yagi het meest?",
+  "opties": [
+   "naar de kant van de reflector",
+   "naar de kant van de directoren",
+   "dwars op de drager",
+   "overal even sterk"
+  ],
+  "juist": "B",
+  "uitleg": "Naar de kant van de directoren.",
+  "waarom_fout": {
+   "A": "de reflector zit achteraan.",
+   "C": "dat is bij een dipool.",
+   "D": "dat is een rondstraler."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h05-4b",
+  "bron": "check",
+  "hoofdstuk": 5,
+  "onderwerp": "yagi",
+  "vraag": "Welk element van een yagi is iets langer dan de straler?",
+  "opties": [
+   "de director",
+   "de reflector",
+   "de drager",
+   "de radiaal"
+  ],
+  "juist": "B",
+  "uitleg": "De reflector is iets langer, de directoren iets korter.",
+  "waarom_fout": {
+   "A": "de director is korter.",
+   "C": "de drager is geen element.",
+   "D": "radialen horen bij een groundplane."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h05-4c",
+  "bron": "check",
+  "hoofdstuk": 5,
+  "onderwerp": "rondstraler",
+  "vraag": "Welke antenne straalt in alle richtingen even sterk?",
+  "opties": [
+   "horizontale dipool",
+   "yagi",
+   "verticale dipool",
+   "eindgevoede langedraad"
+  ],
+  "juist": "C",
+  "uitleg": "Een verticale dipool is een rondstraler.",
+  "waarom_fout": {
+   "A": "twee voorkeurrichtingen.",
+   "B": "richtantenne.",
+   "D": "niet rondstralend."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h05-5a",
+  "bron": "check",
+  "hoofdstuk": 5,
+  "onderwerp": "polarisatie",
+  "vraag": "Je correspondent gebruikt op 2 m een verticale antenne. Hoe zet jij je yagi het best?",
+  "opties": [
+   "horizontaal",
+   "verticaal",
+   "schuin, 45 graden",
+   "maakt niet uit"
+  ],
+  "juist": "B",
+  "uitleg": "Op VHF moeten beide kanten dezelfde polarisatie gebruiken: verticaal.",
+  "waarom_fout": {
+   "A": "verschillende polarisatie geeft een veel zwakker signaal.",
+   "C": "dan verlies je ook signaal.",
+   "D": "op VHF maakt het net wel uit."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h05-5b",
+  "bron": "check",
+  "hoofdstuk": 5,
+  "onderwerp": "polarisatie",
+  "vraag": "Een groundplane geeft welke polarisatie?",
+  "opties": [
+   "horizontaal",
+   "verticaal",
+   "afhankelijk van de coax",
+   "geen"
+  ],
+  "juist": "B",
+  "uitleg": "De straler staat rechtop, dus verticale polarisatie.",
+  "waarom_fout": {
+   "A": "de straler staat niet liggend.",
+   "C": "de coax bepaalt het niet.",
+   "D": "elke antenne heeft een polarisatie."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h05-6a",
+  "bron": "check",
+  "hoofdstuk": 5,
+  "onderwerp": "ERP",
+  "vraag": "Een zender levert 20 W aan een antenne met winst 3. ERP?",
+  "opties": [
+   "23 W",
+   "60 W",
+   "17 W",
+   "6,7 W"
+  ],
+  "juist": "B",
+  "uitleg": "20 × 3 = 60 W.",
+  "waarom_fout": {
+   "A": "optellen is fout.",
+   "C": "aftrekken is fout.",
+   "D": "delen is fout."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h05-6b",
+  "bron": "check",
+  "hoofdstuk": 5,
+  "onderwerp": "ERP",
+  "vraag": "Welke antenne is de referentie voor de winst bij ERP?",
+  "opties": [
+   "de yagi",
+   "de dipool",
+   "de dummy load",
+   "de groundplane"
+  ],
+  "juist": "B",
+  "uitleg": "Bij ERP vergelijk je met een dipool.",
+  "waarom_fout": {
+   "A": "de yagi heeft net winst tegenover de dipool.",
+   "C": "een dummy load straalt niet.",
+   "D": "nee, de dipool."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h05-6c",
+  "bron": "check",
+  "hoofdstuk": 5,
+  "onderwerp": "ERP",
+  "vraag": "Je hebt 50 W ERP met een antenne met winst 5. Hoeveel levert de zender?",
+  "opties": [
+   "250 W",
+   "10 W",
+   "45 W",
+   "55 W"
+  ],
+  "juist": "B",
+  "uitleg": "P = ERP ÷ G = 50 ÷ 5 = 10 W.",
+  "waarom_fout": {
+   "A": "dat is vermenigvuldigen in plaats van delen.",
+   "C": "aftrekken is fout.",
+   "D": "optellen is fout."
+  },
+  "moeilijkheid": 2,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h05-7a",
+  "bron": "check",
+  "hoofdstuk": 5,
+  "onderwerp": "coax",
+  "vraag": "Welke laag van de coax draagt het signaal?",
+  "opties": [
+   "de mantel",
+   "de afscherming",
+   "de binnengeleider",
+   "het diëlektricum"
+  ],
+  "juist": "C",
+  "uitleg": "De binnengeleider (koperdraad in het midden) draagt het signaal.",
+  "waarom_fout": {
+   "A": "de mantel beschermt tegen weer.",
+   "B": "de afscherming houdt het signaal binnen.",
+   "D": "het diëlektricum isoleert."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h05-7b",
+  "bron": "check",
+  "hoofdstuk": 5,
+  "onderwerp": "coax",
+  "vraag": "Wat doet het diëlektricum?",
+  "opties": [
+   "het signaal dragen",
+   "de binnengeleider in het midden houden",
+   "water tegenhouden",
+   "uitstralen"
+  ],
+  "juist": "B",
+  "uitleg": "Het diëlektricum isoleert en houdt de binnengeleider in het midden.",
+  "waarom_fout": {
+   "A": "dat doet de binnengeleider.",
+   "C": "dat doet de mantel.",
+   "D": "een kabel mag niet uitstralen."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h05-7c",
+  "bron": "check",
+  "hoofdstuk": 5,
+  "onderwerp": "connector",
+  "vraag": "Welke connector sluit je met een kwartslag (bajonet)?",
+  "opties": [
+   "PL259",
+   "BNC",
+   "N",
+   "SMA"
+  ],
+  "juist": "B",
+  "uitleg": "BNC heeft een bajonetsluiting.",
+  "waarom_fout": {
+   "A": "PL259 heeft een schroefring.",
+   "C": "N heeft een schroefring.",
+   "D": "SMA heeft schroefdraad."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h05-8a",
+  "bron": "check",
+  "hoofdstuk": 5,
+  "onderwerp": "SWR",
+  "vraag": "Welke SWR is perfect?",
+  "opties": [
+   "0",
+   "1 : 1",
+   "2 : 1",
+   "oneindig"
+  ],
+  "juist": "B",
+  "uitleg": "1 : 1 betekent: er komt niets terug.",
+  "waarom_fout": {
+   "A": "de SWR kan niet lager dan 1.",
+   "C": "2 : 1 is aanvaardbaar, niet perfect.",
+   "D": "oneindig = alles komt terug."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h05-8b",
+  "bron": "check",
+  "hoofdstuk": 5,
+  "onderwerp": "SWR",
+  "vraag": "Wat gebeurt er met gereflecteerd vermogen in de zender (zonder ATU)?",
+  "opties": [
+   "het wordt opnieuw uitgezonden",
+   "het wordt warmte",
+   "het verdwijnt",
+   "het laadt de batterij"
+  ],
+  "juist": "B",
+  "uitleg": "Het wordt omgezet in warmte en kan de eindtrap beschadigen.",
+  "waarom_fout": {
+   "A": "nee.",
+   "C": "energie verdwijnt niet.",
+   "D": "nee."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h05-8c",
+  "bron": "check",
+  "hoofdstuk": 5,
+  "onderwerp": "SWR",
+  "vraag": "Je SWR is plots hoog op een frequentie die vroeger goed was. Wat controleer je eerst?",
+  "opties": [
+   "de microfoon",
+   "de antenne en de coax",
+   "de modulator",
+   "de voeding"
+  ],
+  "juist": "B",
+  "uitleg": "Een plotse hoge SWR wijst op een fout in antenne of kabel.",
+  "waarom_fout": {
+   "A": "de microfoon beïnvloedt de SWR niet.",
+   "C": "de modulator ook niet.",
+   "D": "de voeding ook niet."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h05-8d",
+  "bron": "check",
+  "hoofdstuk": 5,
+  "onderwerp": "SWR",
+  "vraag": "Je dipool geeft de laagste SWR op 6,9 MHz, maar je wilt 7,1 MHz. Wat doe je?",
+  "opties": [
+   "de dipool iets inkorten",
+   "de dipool iets verlengen",
+   "meer vermogen geven",
+   "een andere coax nemen"
+  ],
+  "juist": "A",
+  "uitleg": "Minimum te laag in frequentie = antenne te lang: inkorten.",
+  "waarom_fout": {
+   "B": "langer maakt de frequentie nog lager.",
+   "C": "vermogen verandert de SWR niet.",
+   "D": "de lengte van de antenne is het probleem."
+  },
+  "moeilijkheid": 2,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h05-9a",
+  "bron": "check",
+  "hoofdstuk": 5,
+  "onderwerp": "ATU",
+  "vraag": "Wat verandert een ATU aan de SWR tussen ATU en antenne?",
+  "opties": [
+   "ze wordt 1 : 1",
+   "niets",
+   "ze wordt hoger",
+   "ze wordt nul"
+  ],
+  "juist": "B",
+  "uitleg": "Een ATU verandert niets aan de antenne. Alleen de zender ziet 1 : 1.",
+  "waarom_fout": {
+   "A": "dat is tussen zender en ATU.",
+   "C": "nee.",
+   "D": "de SWR kan niet nul zijn."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h05-9b",
+  "bron": "check",
+  "hoofdstuk": 5,
+  "onderwerp": "ATU",
+  "vraag": "Waar zet je de ATU?",
+  "opties": [
+   "tussen zender en antennekabel",
+   "tussen microfoon en zender",
+   "in de voeding",
+   "bovenaan de mast, na de antenne"
+  ],
+  "juist": "A",
+  "uitleg": "De ATU zit tussen zender (met SWR-meter) en de kabel naar de antenne.",
+  "waarom_fout": {
+   "B": "daar zit de audio.",
+   "C": "nee.",
+   "D": "na de antenne komt niets meer."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h05-9c",
+  "bron": "check",
+  "hoofdstuk": 5,
+  "onderwerp": "ATU",
+  "vraag": "Waarvoor is een ATU vooral handig?",
+  "opties": [
+   "om een HF-antenne op meer frequenties te gebruiken",
+   "om de polarisatie te wijzigen",
+   "om meer winst te krijgen",
+   "om de modulatie te verbeteren"
+  ],
+  "juist": "A",
+  "uitleg": "Met een ATU kun je een antenne ook gebruiken op frequenties waarvoor ze niet op maat is.",
+  "waarom_fout": {
+   "B": "polarisatie hangt van de antenne af.",
+   "C": "een ATU geeft geen winst.",
+   "D": "modulatie heeft er niets mee te maken."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h05-10a",
+  "bron": "check",
+  "hoofdstuk": 5,
+  "onderwerp": "balun",
+  "vraag": "Waarvoor staat balun?",
+  "opties": [
+   "balanced to unbalanced",
+   "band luminance unit",
+   "basic antenna line unit",
+   "balanced uniform"
+  ],
+  "juist": "A",
+  "uitleg": "Balun = balanced (symmetrisch) to unbalanced (asymmetrisch).",
+  "waarom_fout": {
+   "B": "verzonnen.",
+   "C": "verzonnen.",
+   "D": "verzonnen."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h05-10b",
+  "bron": "check",
+  "hoofdstuk": 5,
+  "onderwerp": "symmetrie",
+  "vraag": "Is coaxkabel symmetrisch of asymmetrisch?",
+  "opties": [
+   "symmetrisch",
+   "asymmetrisch",
+   "afhankelijk van de lengte",
+   "afhankelijk van de frequentie"
+  ],
+  "juist": "B",
+  "uitleg": "Binnen een draad, buiten een buis: twee verschillende delen.",
+  "waarom_fout": {
+   "A": "de delen zijn niet gelijk.",
+   "C": "nee.",
+   "D": "nee."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h05-10c",
+  "bron": "check",
+  "hoofdstuk": 5,
+  "onderwerp": "balun",
+  "vraag": "Wat gebeurt er als je coax zonder balun aan een dipool hangt?",
+  "opties": [
+   "de antenne werkt helemaal niet",
+   "de buitenkant van de coax gaat meestralen",
+   "de polarisatie draait",
+   "de zender ontploft"
+  ],
+  "juist": "B",
+  "uitleg": "Het werkt, maar de afscherming gaat meestralen: meer kans op storingen.",
+  "waarom_fout": {
+   "A": "het werkt wel.",
+   "C": "de polarisatie blijft.",
+   "D": "nee."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h05-11a",
+  "bron": "check",
+  "hoofdstuk": 5,
+  "onderwerp": "dummy load",
+  "vraag": "Wat gebeurt er met het vermogen in een dummy load?",
+  "opties": [
+   "het wordt uitgestraald",
+   "het wordt warmte",
+   "het gaat terug naar de zender",
+   "het wordt opgeslagen"
+  ],
+  "juist": "B",
+  "uitleg": "Een dummy load zet het vermogen om in warmte.",
+  "waarom_fout": {
+   "A": "net niet: hij straalt niets uit.",
+   "C": "de SWR is net heel laag.",
+   "D": "nee."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h05-11b",
+  "bron": "check",
+  "hoofdstuk": 5,
+  "onderwerp": "dummy load",
+  "vraag": "Wanneer gebruik je een dummy load?",
+  "opties": [
+   "om verder te komen op HF",
+   "om een zender te testen zonder te storen",
+   "om de SWR van je antenne te verbeteren",
+   "om te ontvangen"
+  ],
+  "juist": "B",
+  "uitleg": "Je test de zender zonder uit te stralen.",
+  "waarom_fout": {
+   "A": "er gaat niets de lucht in.",
+   "C": "hij vervangt de antenne, hij verbetert ze niet.",
+   "D": "hij is om te zenden zonder uit te stralen."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ }
+]

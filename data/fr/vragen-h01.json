@@ -1,0 +1,70 @@
+[
+ {
+  "id": "O226",
+  "vraag": "Le but d'une licence de radioamateur est :",
+  "opties": [
+   "communiquer avec d'autres radioamateurs",
+   "se perfectionner dans le domaine de la radiocommunication et de la technique radio",
+   "développer des activités commerciales dans le domaine de la radiocommunication",
+   "développer des activités sociales dans le domaine de la radiocommunication"
+  ],
+  "uitleg": "Le but est de vous perfectionner en radiocommunication et en technique radio.",
+  "waarom_fout": {
+   "A": "vous le faites, bien sûr, mais ce n'est pas le but de la licence.",
+   "C": "les activités commerciales sont justement interdites.",
+   "D": "les activités sociales ne sont pas le but."
+  },
+  "onderwerp": "but du radioamateurisme"
+ },
+ {
+  "id": "C-h01-1a",
+  "vraag": "En tant que radioamateur, pouvez-vous proposer un service payant par radio ?",
+  "opties": [
+   "oui",
+   "non, tout aspect commercial est interdit",
+   "seulement le week-end",
+   "seulement avec l'autorisation de l'UBA"
+  ],
+  "uitleg": "Le radioamateurisme n'est pas commercial.",
+  "waarom_fout": {
+   "A": "non.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "but"
+ },
+ {
+  "id": "C-h01-1b",
+  "vraag": "Quel sujet est tabou dans un QSO ?",
+  "opties": [
+   "la météo",
+   "votre antenne",
+   "la politique",
+   "la propagation"
+  ],
+  "uitleg": "La politique et la religion sont taboues.",
+  "waarom_fout": {
+   "A": "permis.",
+   "B": "permis.",
+   "D": "permis."
+  },
+  "onderwerp": "but"
+ },
+ {
+  "id": "C-h01-1c",
+  "vraag": "Quel est le but de la licence de radioamateur ?",
+  "opties": [
+   "établir le plus de liaisons possible",
+   "se perfectionner en radiocommunication et en technique radio",
+   "gagner de l'argent",
+   "diffuser des nouvelles"
+  ],
+  "uitleg": "Se perfectionner en radiocommunication et en technique radio.",
+  "waarom_fout": {
+   "A": "ce n'est pas le but.",
+   "C": "interdit.",
+   "D": "la radiodiffusion est interdite."
+  },
+  "onderwerp": "but"
+ }
+]

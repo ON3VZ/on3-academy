@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="nl-BE" data-mode="light">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#0B1E30">
+<meta name="description" content="Studieplatform voor het Belgische ON3-examen (klasse C). Enkel een hulpmiddel, niet verbonden met het BIPT.">
+<title>ON3 Academy</title>
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="assets/icons/icon-192.png">
+<link rel="apple-touch-icon" href="assets/icons/icon-192.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<div class="modal hidden" id="discModal">
+  <div class="box">
+    <h2 data-t="disc_titel">Welkom</h2>
+    <div class="disc-big">
+      <p style="margin-top:0"><b data-t="disc_1"></b></p>
+      <ul><li data-t="disc_2"></li><li data-t="disc_3"></li><li data-t="disc_4"></li><li data-t="disc_5"></li><li data-t="disc_6"></li></ul>
+    </div>
+    <p style="margin-top:18px"><button class="btn pri" id="discOk" data-t="disc_ok">Begrepen</button></p>
+  </div>
+</div>
+
+<header class="top"><div class="in">
+  <a class="brand" href="#/"><small data-t="app_sub"></small><span>ON3 <em>ACADEMY</em></span></a>
+  <span class="sp"></span>
+  <div class="smeter" title="Je score">
+    <span>S</span>
+    <div style="flex:1"><div class="scale"><div class="bar" id="sbar"></div></div>
+    <div class="ticks"><span>1</span><span>3</span><span>5</span><span>7</span><span>9</span><span>+20</span></div></div>
+    <span class="sval" id="sval">S0</span>
+  </div>
+  <div class="lang"><button data-l="nl" class="on">NL</button><button data-l="fr">FR</button></div>
+  <button class="btn" id="themeBtn" title="Licht of donker">&#9788;</button>
+</div></header>
+<nav class="topnav"><div class="in">
+  <a href="#/" data-nav="home" data-t="nav_home"></a>
+  <a href="#/h/h15" data-nav="wet" data-t="nav_wet"></a>
+  <a href="#/examen" data-nav="examen" data-t="nav_examen"></a>
+  <a href="#/fouten" data-nav="fouten" data-t="nav_fouten"></a>
+  <a href="#/voortgang" data-nav="voortgang" data-t="nav_voortgang"></a>
+</div></nav>
+
+<main class="wrap" id="app"></main>
+
+<footer class="disc-foot" data-t="foot"></footer>
+
+<noscript><p style="padding:20px">Dit platform heeft JavaScript nodig.</p></noscript>
+<script src="js/content.js"></script>
+<script src="js/omreken.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

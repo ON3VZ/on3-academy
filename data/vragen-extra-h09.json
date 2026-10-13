@@ -1,0 +1,152 @@
+[
+ {
+  "id": "E-h09-01",
+  "bron": "extra",
+  "hoofdstuk": 9,
+  "onderwerp": "zekering",
+  "vraag": "Waarom mag een zekering niet te groot zijn?",
+  "opties": [
+   "omdat ze dan te snel springt",
+   "omdat ze dan bij een defect niet springt en er brand kan ontstaan",
+   "omdat ze dan meer kost",
+   "omdat ze dan storing geeft"
+  ],
+  "juist": "B",
+  "uitleg": "Te groot = geen bescherming bij een defect.",
+  "waarom_fout": {
+   "A": "dat gebeurt bij een te kleine zekering.",
+   "C": "niet de reden.",
+   "D": "nee."
+  },
+  "moeilijkheid": 2,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "procedures",
+  "in_examen": true
+ },
+ {
+  "id": "E-h09-02",
+  "bron": "extra",
+  "hoofdstuk": 9,
+  "onderwerp": "zekering",
+  "vraag": "Waar zit de zekering van een toestel op 13,8 V meestal?",
+  "opties": [
+   "in de plusdraad, dicht bij de voeding of batterij",
+   "in de coax",
+   "in de antenne",
+   "nergens"
+  ],
+  "juist": "A",
+  "uitleg": "Volgens de fabrikant, meestal in de plusdraad bij de bron.",
+  "waarom_fout": {
+   "B": "nee.",
+   "C": "nee.",
+   "D": "elk toestel heeft een zekering nodig."
+  },
+  "moeilijkheid": 2,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "procedures",
+  "in_examen": true
+ },
+ {
+  "id": "E-h09-03",
+  "bron": "extra",
+  "hoofdstuk": 9,
+  "onderwerp": "aarding",
+  "vraag": "Wat doet een verliesstroomschakelaar?",
+  "opties": [
+   "hij schakelt uit als er stroom weglekt, bijvoorbeeld door een persoon",
+   "hij verhoogt het vermogen",
+   "hij meet de SWR",
+   "hij filtert storing"
+  ],
+  "juist": "A",
+  "uitleg": "Hij vergelijkt heen- en terugstroom en schakelt uit bij een verschil.",
+  "waarom_fout": {
+   "B": "nee.",
+   "C": "nee.",
+   "D": "nee."
+  },
+  "moeilijkheid": 2,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "procedures",
+  "in_examen": true
+ },
+ {
+  "id": "E-h09-04",
+  "bron": "extra",
+  "hoofdstuk": 9,
+  "onderwerp": "ongeval",
+  "vraag": "Waarom giet je geen water over iemand die geëlektrocuteerd is?",
+  "opties": [
+   "omdat water elektriciteit geleidt",
+   "omdat het koud is",
+   "omdat het slachtoffer dan nat wordt",
+   "dat mag wel"
+  ],
+  "juist": "A",
+  "uitleg": "Water geleidt: gevaar voor iedereen.",
+  "waarom_fout": {
+   "B": "niet de reden.",
+   "C": "niet de reden.",
+   "D": "nee."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "procedures",
+  "in_examen": true
+ },
+ {
+  "id": "E-h09-05",
+  "bron": "extra",
+  "hoofdstuk": 9,
+  "onderwerp": "antenne",
+  "vraag": "Je wilt je dipool aanpassen. Wat doe je eerst?",
+  "opties": [
+   "de zender uitschakelen",
+   "het vermogen verhogen",
+   "de SWR-meter loskoppelen",
+   "niets"
+  ],
+  "juist": "A",
+  "uitleg": "Nooit aan een antenne werken terwijl er gezonden wordt.",
+  "waarom_fout": {
+   "B": "gevaarlijk.",
+   "C": "niet nodig.",
+   "D": "gevaarlijk."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "procedures",
+  "in_examen": true
+ },
+ {
+  "id": "E-h09-06",
+  "bron": "extra",
+  "hoofdstuk": 9,
+  "onderwerp": "antenne",
+  "vraag": "Waarom is onweer gevaarlijk voor een radioamateur met een hoge antenne?",
+  "opties": [
+   "bliksem slaat in op hoge, uitstekende punten",
+   "de SWR stijgt",
+   "de propagatie wordt slechter",
+   "het is niet gevaarlijk"
+  ],
+  "juist": "A",
+  "uitleg": "Hoge antennes trekken bliksem aan: bliksembeveiliging nodig.",
+  "waarom_fout": {
+   "B": "niet het gevaar.",
+   "C": "niet het gevaar.",
+   "D": "wel degelijk."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "procedures",
+  "in_examen": true
+ }
+]

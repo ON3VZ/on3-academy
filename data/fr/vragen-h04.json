@@ -1,0 +1,1470 @@
+[
+ {
+  "id": "O082",
+  "vraag": "Dans le schéma fonctionnel d'un émetteur, A est :",
+  "opties": [
+   "l'amplificateur de microphone",
+   "le modulateur",
+   "le générateur de fréquence",
+   "l'amplificateur de puissance RF"
+  ],
+  "uitleg": "La lettre A du schéma est le générateur de fréquence.",
+  "waarom_fout": {
+   "A": "c'est le bloc D.",
+   "B": "c'est le bloc B.",
+   "D": "c'est le bloc C."
+  },
+  "onderwerp": "schéma fonctionnel de l'émetteur et générateur de fréquence"
+ },
+ {
+  "id": "O083",
+  "vraag": "Dans le schéma fonctionnel d'un émetteur, B est :",
+  "opties": [
+   "le générateur de fréquence",
+   "l'amplificateur de puissance RF",
+   "le modulateur",
+   "l'amplificateur de microphone"
+  ],
+  "uitleg": "La lettre B du schéma est le modulateur.",
+  "waarom_fout": {
+   "A": "c'est le bloc A.",
+   "B": "c'est le bloc C.",
+   "D": "c'est le bloc D."
+  },
+  "onderwerp": "schéma fonctionnel de l'émetteur et générateur de fréquence"
+ },
+ {
+  "id": "O084",
+  "vraag": "Dans le schéma fonctionnel d'un émetteur, C est :",
+  "opties": [
+   "l'amplificateur de puissance RF",
+   "le générateur de fréquence",
+   "la ligne de transmission",
+   "le modulateur"
+  ],
+  "uitleg": "La lettre C du schéma est l'amplificateur de puissance RF.",
+  "waarom_fout": {
+   "B": "c'est le bloc A.",
+   "C": "c'est le bloc F.",
+   "D": "c'est le bloc B."
+  },
+  "onderwerp": "schéma fonctionnel de l'émetteur et générateur de fréquence"
+ },
+ {
+  "id": "O085",
+  "vraag": "Dans le schéma fonctionnel d'un émetteur, D est :",
+  "opties": [
+   "l'amplificateur de puissance RF",
+   "le microphone",
+   "le modulateur",
+   "l'amplificateur de microphone"
+  ],
+  "uitleg": "La lettre D du schéma est l'amplificateur de microphone.",
+  "waarom_fout": {
+   "A": "c'est le bloc C.",
+   "B": "c'est le bloc E.",
+   "C": "c'est le bloc B."
+  },
+  "onderwerp": "schéma fonctionnel de l'émetteur et générateur de fréquence"
+ },
+ {
+  "id": "O086",
+  "vraag": "Dans le schéma fonctionnel d'un émetteur, E est :",
+  "opties": [
+   "l'antenne",
+   "le générateur de fréquence",
+   "l'amplificateur de microphone",
+   "le microphone"
+  ],
+  "uitleg": "La lettre E du schéma est le microphone.",
+  "waarom_fout": {
+   "A": "c'est le bloc G.",
+   "B": "c'est le bloc A.",
+   "C": "c'est le bloc D."
+  },
+  "onderwerp": "schéma fonctionnel de l'émetteur et générateur de fréquence"
+ },
+ {
+  "id": "O087",
+  "vraag": "Dans le schéma fonctionnel d'un émetteur, F est :",
+  "opties": [
+   "la ligne de transmission",
+   "l'antenne",
+   "le modulateur",
+   "l'amplificateur de microphone"
+  ],
+  "uitleg": "La lettre F du schéma est la ligne de transmission.",
+  "waarom_fout": {
+   "B": "c'est le bloc G.",
+   "C": "c'est le bloc B.",
+   "D": "c'est le bloc D."
+  },
+  "onderwerp": "schéma fonctionnel de l'émetteur et générateur de fréquence"
+ },
+ {
+  "id": "O088",
+  "vraag": "Dans le schéma fonctionnel d'un émetteur, G est :",
+  "opties": [
+   "l'amplificateur de puissance RF",
+   "la ligne de transmission",
+   "l'antenne",
+   "le microphone"
+  ],
+  "uitleg": "La lettre G du schéma est l'antenne.",
+  "waarom_fout": {
+   "A": "c'est le bloc C.",
+   "B": "c'est le bloc F.",
+   "D": "c'est le bloc E."
+  },
+  "onderwerp": "schéma fonctionnel de l'émetteur et générateur de fréquence"
+ },
+ {
+  "id": "O089",
+  "vraag": "Dans le schéma fonctionnel d'un émetteur, l'amplificateur de puissance RF est relié à :",
+  "opties": [
+   "uniquement le modulateur",
+   "le modulateur et la ligne de transmission",
+   "le générateur de fréquence et l'amplificateur de microphone",
+   "l'amplificateur de microphone et l'antenne"
+  ],
+  "uitleg": "L'amplificateur final reçoit le signal modulé du modulateur et le transmet à la ligne de transmission.",
+  "waarom_fout": {
+   "A": "il reçoit le signal du modulateur, mais doit aussi le transmettre à la ligne de transmission.",
+   "C": "le générateur de fréquence et l'amplificateur de microphone sont reliés au modulateur.",
+   "D": "l'antenne est reliée à la ligne de transmission, pas directement à l'amplificateur final."
+  },
+  "onderwerp": "schéma fonctionnel de l'émetteur et générateur de fréquence"
+ },
+ {
+  "id": "O090",
+  "vraag": "Dans le schéma fonctionnel d'un émetteur, le générateur de fréquence est relié à :",
+  "opties": [
+   "uniquement l'amplificateur de microphone",
+   "le modulateur et la ligne de transmission",
+   "uniquement le modulateur",
+   "l'amplificateur de microphone et l'amplificateur de puissance RF"
+  ],
+  "uitleg": "Le générateur de fréquence fournit la porteuse uniquement au modulateur.",
+  "waarom_fout": {
+   "A": "l'amplificateur de microphone n'est pas relié au générateur de fréquence.",
+   "B": "la ligne de transmission est reliée à l'amplificateur final.",
+   "D": "aucun des deux n'est relié au générateur de fréquence."
+  },
+  "onderwerp": "schéma fonctionnel de l'émetteur et générateur de fréquence"
+ },
+ {
+  "id": "O091",
+  "vraag": "Dans le schéma fonctionnel d'un émetteur, le modulateur est relié à :",
+  "opties": [
+   "uniquement le microphone",
+   "le générateur de fréquence et la ligne de transmission",
+   "uniquement l'amplificateur de microphone",
+   "l'amplificateur de microphone, le générateur de fréquence et l'amplificateur de puissance RF"
+  ],
+  "uitleg": "Le modulateur est au milieu : la porteuse vient du générateur de fréquence, l'audio de l'amplificateur de microphone, et le résultat part vers l'amplificateur de puissance RF.",
+  "waarom_fout": {
+   "A": "entre le microphone et le modulateur se trouve l'amplificateur de microphone.",
+   "B": "la ligne de transmission n'est pas reliée au modulateur.",
+   "C": "une porteuse entre aussi, et un signal part vers l'amplificateur final."
+  },
+  "onderwerp": "schéma fonctionnel de l'émetteur et générateur de fréquence"
+ },
+ {
+  "id": "O092",
+  "vraag": "Dans le schéma fonctionnel d'un émetteur, la ligne de transmission est reliée à :",
+  "opties": [
+   "uniquement l'antenne",
+   "l'amplificateur de puissance RF et l'antenne",
+   "uniquement le générateur de fréquence",
+   "l'amplificateur de microphone, le générateur de fréquence et l'amplificateur de puissance RF"
+  ],
+  "uitleg": "La ligne de transmission (câble coaxial) relie l'amplificateur de puissance RF à l'antenne.",
+  "waarom_fout": {
+   "A": "à l'autre extrémité se trouve l'amplificateur final.",
+   "C": "le générateur de fréquence est relié au modulateur.",
+   "D": "ces trois blocs sont tous reliés au modulateur."
+  },
+  "onderwerp": "schéma fonctionnel de l'émetteur et générateur de fréquence"
+ },
+ {
+  "id": "O093",
+  "vraag": "Dans le schéma fonctionnel d'un émetteur, l'antenne est reliée à :",
+  "opties": [
+   "uniquement la ligne de transmission",
+   "l'amplificateur de puissance RF et le générateur de fréquence",
+   "uniquement le modulateur",
+   "l'amplificateur de microphone et le générateur de fréquence"
+  ],
+  "uitleg": "L'antenne est reliée uniquement à la ligne de transmission.",
+  "waarom_fout": {
+   "B": "l'antenne n'est reliée ni directement à l'amplificateur final, ni au générateur de fréquence.",
+   "C": "le modulateur se trouve au milieu de l'émetteur, loin de l'antenne.",
+   "D": "ils sont tous les deux reliés au modulateur."
+  },
+  "onderwerp": "schéma fonctionnel de l'émetteur et générateur de fréquence"
+ },
+ {
+  "id": "O094",
+  "vraag": "Dans le schéma fonctionnel d'un émetteur, le microphone est relié à :",
+  "opties": [
+   "uniquement le générateur de fréquence",
+   "l'amplificateur de puissance RF et le générateur de fréquence",
+   "l'amplificateur de microphone et le modulateur",
+   "uniquement l'amplificateur de microphone"
+  ],
+  "uitleg": "Le microphone va uniquement vers l'amplificateur de microphone.",
+  "waarom_fout": {
+   "A": "le générateur de fréquence n'a rien à voir avec le microphone.",
+   "B": "aucun des deux n'est relié au microphone.",
+   "C": "entre le microphone et le modulateur se trouve l'amplificateur de microphone ; le microphone ne touche pas le modulateur."
+  },
+  "onderwerp": "schéma fonctionnel de l'émetteur et générateur de fréquence"
+ },
+ {
+  "id": "O095",
+  "vraag": "Dans le schéma fonctionnel d'un émetteur, l'amplificateur de microphone est relié à :",
+  "opties": [
+   "uniquement le générateur de fréquence",
+   "le modulateur et le générateur de fréquence",
+   "le microphone et le modulateur",
+   "uniquement le microphone"
+  ],
+  "uitleg": "L'amplificateur de microphone se trouve entre le microphone et le modulateur.",
+  "waarom_fout": {
+   "A": "le générateur de fréquence est relié au modulateur, pas à l'amplificateur de microphone.",
+   "B": "le générateur de fréquence n'en fait pas partie.",
+   "D": "il transmet aussi le signal au modulateur."
+  },
+  "onderwerp": "schéma fonctionnel de l'émetteur et générateur de fréquence"
+ },
+ {
+  "id": "O096",
+  "vraag": "La fréquence sur laquelle fonctionne un émetteur est déterminée par :",
+  "opties": [
+   "l'amplificateur de puissance RF",
+   "la ligne de transmission",
+   "le générateur de fréquence",
+   "le modulateur"
+  ],
+  "uitleg": "Le générateur de fréquence produit la porteuse et fixe ainsi la fréquence d'émission. Question posée à l'envers : le générateur de fréquence détermine la fréquence d'émission, et non le type de modulation, la puissance ou l'accord.",
+  "waarom_fout": {
+   "A": "il ne fait qu'amplifier, sur la même fréquence.",
+   "B": "elle ne fait que transporter le signal.",
+   "D": "il apporte le message, mais ne choisit pas la fréquence."
+  },
+  "onderwerp": "schéma fonctionnel de l'émetteur et générateur de fréquence"
+ },
+ {
+  "id": "O097",
+  "vraag": "La fréquence sur laquelle fonctionne un émetteur est déterminée par :",
+  "opties": [
+   "l'amplificateur de microphone",
+   "l'antenne",
+   "le générateur de fréquence",
+   "l'amplificateur de puissance RF"
+  ],
+  "uitleg": "Le générateur de fréquence détermine la fréquence d'émission.",
+  "waarom_fout": {
+   "A": "il ne travaille qu'avec l'audio.",
+   "B": "l'antenne rayonne ce qu'elle reçoit.",
+   "D": "il amplifie sur la même fréquence."
+  },
+  "onderwerp": "schéma fonctionnel de l'émetteur et générateur de fréquence"
+ },
+ {
+  "id": "O098",
+  "vraag": "Le générateur de fréquence détermine :",
+  "opties": [
+   "la fréquence sur laquelle fonctionne l'émetteur",
+   "le type de modulation (AM, FM ou SSB)",
+   "la puissance d'émission",
+   "l'accord correct entre l'émetteur et l'antenne"
+  ],
+  "uitleg": "Le générateur de fréquence détermine la fréquence sur laquelle fonctionne l'émetteur, et rien d'autre.",
+  "waarom_fout": {
+   "B": "le type de modulation dépend du modulateur.",
+   "C": "la puissance vient de l'amplificateur de puissance RF.",
+   "D": "l'accord dépend de l'antenne et de la ligne de transmission."
+  },
+  "onderwerp": "schéma fonctionnel de l'émetteur et générateur de fréquence"
+ },
+ {
+  "id": "O099",
+  "vraag": "Le générateur de fréquence détermine :",
+  "opties": [
+   "la puissance d'émission",
+   "la qualité de la modulation en AM",
+   "la fréquence sur laquelle fonctionne l'émetteur",
+   "le ROS"
+  ],
+  "uitleg": "Le générateur de fréquence détermine uniquement la fréquence.",
+  "waarom_fout": {
+   "A": "la puissance vient de l'amplificateur de puissance RF.",
+   "B": "la qualité de la modulation dépend de l'amplificateur de microphone et du modulateur.",
+   "D": "le ROS dépend de l'antenne et de la ligne de transmission."
+  },
+  "onderwerp": "schéma fonctionnel de l'émetteur et générateur de fréquence"
+ },
+ {
+  "id": "O100",
+  "vraag": "Si l'émetteur fonctionne sur une fréquence en dehors des bandes attribuées, cela est causé par :",
+  "opties": [
+   "l'utilisation d'une mauvaise antenne",
+   "l'utilisation d'une ligne de transmission inadaptée",
+   "un mauvais réglage du générateur de fréquence",
+   "un mauvais raccordement du microphone"
+  ],
+  "uitleg": "Celui qui émet en dehors des bandes a mal réglé le générateur de fréquence.",
+  "waarom_fout": {
+   "A": "une antenne ne change pas la fréquence d'émission.",
+   "B": "une ligne de transmission ne change pas non plus la fréquence.",
+   "D": "le microphone se trouve du côté audio."
+  },
+  "onderwerp": "schéma fonctionnel de l'émetteur et générateur de fréquence"
+ },
+ {
+  "id": "O101",
+  "vraag": "Si l'émetteur fonctionne sur une fréquence en dehors des bandes attribuées, alors :",
+  "opties": [
+   "la limitation de puissance imposée aux titulaires d'une licence de base ne s'applique plus",
+   "d'autres utilisateurs peuvent être perturbés",
+   "on peut répondre à l'appel d'un autre radioamateur, mais pas lancer soi-même un appel CQ",
+   "il est permis d'établir des liaisons radio avec des non-radioamateurs"
+  ],
+  "uitleg": "Celui qui émet en dehors des bandes peut perturber d'autres utilisateurs. Il n'y a pas de règles plus souples à cet endroit.",
+  "waarom_fout": {
+   "A": "la limite de puissance reste d'application ; émettre en dehors de la bande n'est déjà pas autorisé en soi.",
+   "C": "en dehors de la bande, vous ne pouvez pas émettre du tout.",
+   "D": "les personnes avec qui vous pouvez établir des liaisons ne dépendent pas de la fréquence ; ces règles restent d'application (voir le chapitre sur la législation)."
+  },
+  "onderwerp": "schéma fonctionnel de l'émetteur et générateur de fréquence"
+ },
+ {
+  "id": "O102",
+  "vraag": "La modulation de la porteuse RF se fait dans :",
+  "opties": [
+   "l'amplificateur de puissance RF",
+   "l'amplificateur de microphone",
+   "le modulateur",
+   "la ligne de transmission"
+  ],
+  "uitleg": "Le mot le dit déjà : la modulation se fait dans le modulateur.",
+  "waarom_fout": {
+   "A": "il amplifie le signal déjà modulé.",
+   "B": "il n'amplifie que l'audio.",
+   "D": "elle ne fait que transporter."
+  },
+  "onderwerp": "schéma fonctionnel de l'émetteur et générateur de fréquence"
+ },
+ {
+  "id": "O103",
+  "vraag": "Une porteuse RF est modulée par :",
+  "opties": [
+   "un signal à haute fréquence",
+   "un signal audio ou de données",
+   "un signal de fréquence à peu près égale à celle de la porteuse RF",
+   "un signal de fréquence plus élevée que celle de la porteuse RF"
+  ],
+  "uitleg": "Une porteuse est modulée par le message : un signal audio ou de données, qui est à basse fréquence.",
+  "waarom_fout": {
+   "A": "la porteuse elle-même est déjà le signal à haute fréquence.",
+   "C": "le message a une fréquence beaucoup plus basse.",
+   "D": "au contraire, il a une fréquence beaucoup plus basse."
+  },
+  "onderwerp": "modulation"
+ },
+ {
+  "id": "O104",
+  "vraag": "Dans un émetteur, un signal audio sert à :",
+  "opties": [
+   "piloter l'amplificateur de puissance RF",
+   "adapter l'antenne à l'émetteur",
+   "moduler la porteuse RF",
+   "moduler un signal de données"
+  ],
+  "uitleg": "Le signal audio sert à moduler la porteuse RF.",
+  "waarom_fout": {
+   "A": "l'amplificateur de puissance RF reçoit le signal modulé venant du modulateur.",
+   "B": "l'adaptation à l'antenne n'a rien à voir avec l'audio.",
+   "D": "on ne module pas un signal de données avec de l'audio ; il est lui-même converti en tonalités audio."
+  },
+  "onderwerp": "modulation"
+ },
+ {
+  "id": "O105",
+  "vraag": "En modulation d'amplitude (AM), ce qui varie, c'est :",
+  "opties": [
+   "la longueur d'onde du signal RF au rythme de la modulation",
+   "la fréquence du signal RF au rythme de la modulation",
+   "la vitesse du signal RF au rythme de la modulation",
+   "la tension du signal RF au rythme de la modulation"
+  ],
+  "uitleg": "En AM, la hauteur (amplitude) de l'onde suit l'audio. Cette hauteur est une tension.",
+  "waarom_fout": {
+   "A": "la longueur d'onde dépend de la fréquence, et celle-ci reste constante en AM.",
+   "B": "c'est la FM.",
+   "C": "les ondes radio vont toujours à la même vitesse (vitesse de la lumière)."
+  },
+  "onderwerp": "modulation"
+ },
+ {
+  "id": "O106",
+  "vraag": "En modulation de fréquence (FM) :",
+  "opties": [
+   "la puissance de sortie de l'émetteur ne varie pas au rythme de la modulation",
+   "la puissance de sortie de l'émetteur varie au rythme de la modulation",
+   "la fréquence du signal RF ne varie pas au rythme de la modulation",
+   "la tension du signal RF varie au rythme de la modulation"
+  ],
+  "uitleg": "En FM, l'amplitude reste constante, donc la puissance de sortie aussi. Seule la fréquence bouge.",
+  "waarom_fout": {
+   "B": "c'est le cas en AM.",
+   "C": "justement, elle varie : c'est pour cela qu'on parle de FM.",
+   "D": "c'est le cas en AM."
+  },
+  "onderwerp": "modulation"
+ },
+ {
+  "id": "O107",
+  "vraag": "SSB est l'abréviation de :",
+  "opties": [
+   "static sideband modulation (modulation à bande latérale statique)",
+   "single sideband modulation (modulation à bande latérale unique)",
+   "strong sideband modulation (modulation à bande latérale forte)",
+   "simple sideband modulation (modulation à bande latérale simple)"
+  ],
+  "uitleg": "SSB = single sideband : bande latérale unique (BLU).",
+  "waarom_fout": {
+   "A": "n'existe pas.",
+   "C": "n'existe pas.",
+   "D": "n'existe pas."
+  },
+  "onderwerp": "modulation"
+ },
+ {
+  "id": "O108",
+  "vraag": "Un modem est utilisé pour :",
+  "opties": [
+   "adapter l'émetteur à l'antenne",
+   "générer un signal RF en communication de données",
+   "générer des tonalités audio en communication de données",
+   "éviter la surexcitation d'un émetteur"
+  ],
+  "uitleg": "Un modem convertit les données en tonalités audio. Ces tonalités modulent ensuite l'émetteur.",
+  "waarom_fout": {
+   "A": "c'est le rôle d'une boîte d'accord.",
+   "B": "le signal RF vient du générateur de fréquence.",
+   "D": "on évite la surexcitation avec le gain du microphone."
+  },
+  "onderwerp": "modulation"
+ },
+ {
+  "id": "O109",
+  "vraag": "Le signal A est :",
+  "opties": [
+   "un signal non modulé (porteuse)",
+   "un signal modulé en fréquence (FM)",
+   "un signal modulé en amplitude (AM)",
+   "un signal CW (morse)"
+  ],
+  "uitleg": "Les sommets montent et descendent, la distance entre les ondes reste la même : AM.",
+  "waarom_fout": {},
+  "onderwerp": "reconnaître les signaux"
+ },
+ {
+  "id": "O110",
+  "vraag": "Le signal B est :",
+  "opties": [
+   "un signal non modulé (porteuse)",
+   "un signal modulé en fréquence (FM)",
+   "un signal modulé en amplitude (AM)",
+   "un signal CW (morse)"
+  ],
+  "uitleg": "Tous les sommets sont à la même hauteur et à la même distance : une porteuse non modulée.",
+  "waarom_fout": {},
+  "onderwerp": "reconnaître les signaux"
+ },
+ {
+  "id": "O111",
+  "vraag": "Le signal C est :",
+  "opties": [
+   "un signal non modulé (porteuse)",
+   "un signal modulé en fréquence (FM)",
+   "un signal modulé en amplitude (AM)",
+   "un signal CW (morse)"
+  ],
+  "uitleg": "Les sommets sont à la même hauteur, les ondes se rapprochent et s'écartent : FM.",
+  "waarom_fout": {},
+  "onderwerp": "reconnaître les signaux"
+ },
+ {
+  "id": "O112",
+  "vraag": "Le signal D est :",
+  "opties": [
+   "un signal non modulé (porteuse)",
+   "un signal modulé en fréquence (FM)",
+   "un signal modulé en amplitude (AM)",
+   "un signal CW (morse)"
+  ],
+  "uitleg": "Le signal est alternativement présent et complètement absent : CW (morse).",
+  "waarom_fout": {},
+  "onderwerp": "reconnaître les signaux"
+ },
+ {
+  "id": "O113",
+  "vraag": "Dans un émetteur, l'amplification de puissance se fait dans :",
+  "opties": [
+   "le générateur de fréquence",
+   "l'amplificateur de microphone",
+   "le modulateur",
+   "l'étage final"
+  ],
+  "uitleg": "La puissance est produite dans le dernier étage avant l'antenne : l'étage final (amplificateur final HF).",
+  "waarom_fout": {
+   "A": "il ne produit qu'une faible porteuse.",
+   "B": "il amplifie l'audio, pas la puissance HF.",
+   "C": "il ne fait que mélanger."
+  },
+  "onderwerp": "étage final"
+ },
+ {
+  "id": "O114",
+  "vraag": "L'utilisation d'une antenne d'émission mal adaptée peut avoir pour conséquence que :",
+  "opties": [
+   "l'émetteur émet sur une mauvaise fréquence",
+   "la modulation de l'émetteur est déformée",
+   "l'étage final de l'émetteur est endommagé",
+   "le générateur de fréquence de l'émetteur est endommagé"
+  ],
+  "uitleg": "Avec une antenne mal adaptée, de la puissance revient vers l'émetteur. L'étage final peut alors être endommagé.",
+  "waarom_fout": {
+   "A": "la fréquence dépend du générateur de fréquence.",
+   "B": "la modulation dépend de l'amplificateur de microphone et du modulateur.",
+   "D": "le générateur de fréquence se trouve au début de la chaîne et ne s'en aperçoit pas."
+  },
+  "onderwerp": "étage final"
+ },
+ {
+  "id": "O115",
+  "vraag": "La surmodulation d'un signal modulé en amplitude provoque :",
+  "opties": [
+   "des interférences sur les fréquences voisines",
+   "une mauvaise adaptation entre l'émetteur et l'antenne",
+   "un endommagement de l'étage final de l'émetteur",
+   "un endommagement du modulateur de l'émetteur"
+  ],
+  "uitleg": "Un signal surmodulé est déformé et devient plus large, ce qui provoque des perturbations sur les fréquences voisines.",
+  "waarom_fout": {
+   "B": "l'adaptation dépend de l'antenne et du câble.",
+   "C": "ce n'est pas la conséquence ; le problème se trouve dans le signal lui-même.",
+   "D": "ce n'est pas non plus la conséquence."
+  },
+  "onderwerp": "surmodulation et excursion"
+ },
+ {
+  "id": "O116",
+  "vraag": "La surmodulation d'un signal modulé en amplitude peut être causée par :",
+  "opties": [
+   "une antenne mal adaptée",
+   "un signal audio trop faible",
+   "un mauvais réglage du générateur de fréquence",
+   "un mauvais réglage de l'amplificateur de microphone"
+  ],
+  "uitleg": "L'amplificateur de microphone détermine la force du signal audio. S'il est réglé trop haut, vous surmodulez.",
+  "waarom_fout": {
+   "A": "l'antenne n'a aucune influence sur la modulation.",
+   "B": "un signal trop faible donne au contraire trop peu de modulation.",
+   "C": "il détermine la fréquence."
+  },
+  "onderwerp": "surmodulation et excursion"
+ },
+ {
+  "id": "O117",
+  "vraag": "La surmodulation d'un signal modulé en amplitude peut être causée par :",
+  "opties": [
+   "une antenne mal adaptée",
+   "un signal audio ou de données trop faible",
+   "un mauvais réglage du générateur de fréquence",
+   "un signal audio ou de données trop fort"
+  ],
+  "uitleg": "La surmodulation vient d'un signal audio ou de données trop fort à l'entrée du modulateur.",
+  "waarom_fout": {
+   "A": "l'antenne n'a aucune influence sur la modulation.",
+   "B": "un signal faible donne au contraire trop peu de modulation.",
+   "C": "il détermine uniquement la fréquence."
+  },
+  "onderwerp": "surmodulation et excursion"
+ },
+ {
+  "id": "O118",
+  "vraag": "Une excursion de fréquence trop grande d'un signal modulé en fréquence peut être causée par :",
+  "opties": [
+   "un mauvais réglage du générateur de fréquence",
+   "un signal audio ou de données trop faible",
+   "un signal audio ou de données trop fort",
+   "une antenne mal adaptée"
+  ],
+  "uitleg": "En FM, la force du signal audio détermine jusqu'où la fréquence s'écarte. Trop fort = excursion trop grande.",
+  "waarom_fout": {
+   "A": "il détermine la fréquence centrale, pas l'excursion.",
+   "B": "un signal faible donne au contraire une petite excursion.",
+   "D": "l'antenne n'influence pas la modulation."
+  },
+  "onderwerp": "surmodulation et excursion"
+ },
+ {
+  "id": "O119",
+  "vraag": "Une excursion de fréquence trop grande d'un signal modulé en fréquence peut être causée par :",
+  "opties": [
+   "un mauvais réglage de l'amplificateur de puissance RF",
+   "un signal audio trop faible",
+   "une antenne mal adaptée",
+   "un mauvais réglage de l'amplificateur de microphone"
+  ],
+  "uitleg": "L'amplificateur de microphone détermine la force du signal audio. Réglé trop haut, il donne une excursion de fréquence trop grande.",
+  "waarom_fout": {
+   "A": "l'amplificateur final n'influence pas l'excursion.",
+   "B": "un signal faible donne au contraire une petite excursion.",
+   "C": "l'antenne n'influence pas la modulation."
+  },
+  "onderwerp": "surmodulation et excursion"
+ },
+ {
+  "id": "O120",
+  "vraag": "Une excursion de fréquence trop grande d'un signal modulé en fréquence provoque :",
+  "opties": [
+   "une mauvaise adaptation entre l'émetteur et l'antenne",
+   "un endommagement de l'étage final de l'émetteur",
+   "un endommagement du modulateur de l'émetteur",
+   "des interférences sur les fréquences voisines"
+  ],
+  "uitleg": "Une excursion trop grande rend le signal FM trop large, de sorte qu'il perturbe les fréquences voisines.",
+  "waarom_fout": {
+   "A": "cela dépend de l'antenne et du câble.",
+   "B": "ce n'est pas la conséquence ; le problème se trouve dans le signal lui-même.",
+   "C": "ce n'est pas non plus la conséquence."
+  },
+  "onderwerp": "surmodulation et excursion"
+ },
+ {
+  "id": "O121",
+  "vraag": "Dans le schéma fonctionnel d'un récepteur, A est :",
+  "opties": [
+   "le haut-parleur",
+   "la ligne de transmission",
+   "l'antenne",
+   "l'amplificateur audio"
+  ],
+  "uitleg": "La lettre A du schéma est l'antenne.",
+  "waarom_fout": {
+   "A": "c'est le bloc F.",
+   "B": "c'est le bloc B.",
+   "D": "c'est le bloc E."
+  },
+  "onderwerp": "récepteur"
+ },
+ {
+  "id": "O122",
+  "vraag": "Dans le schéma fonctionnel d'un récepteur, B est :",
+  "opties": [
+   "la ligne de transmission",
+   "l'antenne",
+   "le démodulateur (détecteur)",
+   "l'accord et l'amplification RF"
+  ],
+  "uitleg": "La lettre B du schéma est la ligne de transmission.",
+  "waarom_fout": {
+   "B": "c'est le bloc A.",
+   "C": "c'est le bloc D.",
+   "D": "c'est le bloc C."
+  },
+  "onderwerp": "récepteur"
+ },
+ {
+  "id": "O123",
+  "vraag": "Dans le schéma fonctionnel d'un récepteur, C est :",
+  "opties": [
+   "l'accord et l'amplification RF",
+   "l'amplificateur audio",
+   "la ligne de transmission",
+   "le démodulateur (détecteur)"
+  ],
+  "uitleg": "La lettre C du schéma est l'accord et l'amplification RF.",
+  "waarom_fout": {
+   "B": "c'est le bloc E.",
+   "C": "c'est le bloc B.",
+   "D": "c'est le bloc D."
+  },
+  "onderwerp": "récepteur"
+ },
+ {
+  "id": "O124",
+  "vraag": "Dans le schéma fonctionnel d'un récepteur, D est :",
+  "opties": [
+   "l'amplificateur audio",
+   "le démodulateur (détecteur)",
+   "l'antenne",
+   "l'accord et l'amplification RF"
+  ],
+  "uitleg": "La lettre D du schéma est le démodulateur (détecteur).",
+  "waarom_fout": {
+   "A": "c'est le bloc E.",
+   "C": "c'est le bloc A.",
+   "D": "c'est le bloc C."
+  },
+  "onderwerp": "récepteur"
+ },
+ {
+  "id": "O125",
+  "vraag": "Dans le schéma fonctionnel d'un récepteur, E est :",
+  "opties": [
+   "le haut-parleur",
+   "l'accord et l'amplification RF",
+   "l'amplificateur audio",
+   "le démodulateur (détecteur)"
+  ],
+  "uitleg": "La lettre E du schéma est l'amplificateur audio.",
+  "waarom_fout": {
+   "A": "c'est le bloc F.",
+   "B": "c'est le bloc C.",
+   "D": "c'est le bloc D."
+  },
+  "onderwerp": "récepteur"
+ },
+ {
+  "id": "O126",
+  "vraag": "Dans le schéma fonctionnel d'un récepteur, F est :",
+  "opties": [
+   "le haut-parleur",
+   "la ligne de transmission",
+   "l'antenne",
+   "l'amplificateur audio"
+  ],
+  "uitleg": "La lettre F du schéma est le haut-parleur.",
+  "waarom_fout": {
+   "B": "c'est le bloc B.",
+   "C": "c'est le bloc A.",
+   "D": "c'est le bloc E."
+  },
+  "onderwerp": "récepteur"
+ },
+ {
+  "id": "O127",
+  "vraag": "Dans le schéma fonctionnel d'un récepteur, la ligne de transmission est reliée à :",
+  "opties": [
+   "uniquement l'antenne",
+   "l'amplificateur audio et le haut-parleur",
+   "l'antenne et l'accord + amplification RF",
+   "uniquement le haut-parleur"
+  ],
+  "uitleg": "La ligne de transmission (câble coaxial) se trouve entre l'antenne et le premier bloc : accord + amplification RF.",
+  "waarom_fout": {
+   "A": "à l'autre extrémité se trouve encore l'accord + amplification RF.",
+   "B": "ils se trouvent tout à l'arrière.",
+   "D": "le haut-parleur est relié à l'amplificateur audio."
+  },
+  "onderwerp": "récepteur"
+ },
+ {
+  "id": "O128",
+  "vraag": "Dans le schéma fonctionnel d'un récepteur, l'accord + amplification RF est relié à :",
+  "opties": [
+   "uniquement l'amplificateur audio",
+   "l'antenne et la ligne de transmission",
+   "l'amplificateur audio et le démodulateur",
+   "la ligne de transmission et le démodulateur"
+  ],
+  "uitleg": "L'accord + amplification RF reçoit le signal de la ligne de transmission et le transmet au démodulateur.",
+  "waarom_fout": {
+   "A": "l'amplificateur audio ne vient qu'après le démodulateur.",
+   "B": "l'antenne n'est pas reliée directement à ce bloc, il y a une ligne de transmission entre les deux.",
+   "C": "l'amplificateur audio n'y est pas relié."
+  },
+  "onderwerp": "récepteur"
+ },
+ {
+  "id": "O129",
+  "vraag": "Dans le schéma fonctionnel d'un récepteur, le démodulateur est relié à :",
+  "opties": [
+   "uniquement l'amplificateur audio",
+   "l'amplificateur audio et l'accord + amplification RF",
+   "l'antenne et l'amplificateur audio",
+   "uniquement l'accord + amplification RF"
+  ],
+  "uitleg": "Le démodulateur est au milieu : le signal vient de l'accord + amplification RF et va vers l'amplificateur audio.",
+  "waarom_fout": {
+   "A": "un signal entre aussi, venant de l'accord + amplification RF.",
+   "C": "l'antenne n'est pas reliée au démodulateur.",
+   "D": "le signal doit aussi continuer, vers l'amplificateur audio."
+  },
+  "onderwerp": "récepteur"
+ },
+ {
+  "id": "O130",
+  "vraag": "Dans le schéma fonctionnel d'un récepteur, l'amplificateur audio est relié à :",
+  "opties": [
+   "uniquement l'antenne",
+   "le démodulateur et le haut-parleur",
+   "l'antenne et l'accord + amplification RF",
+   "uniquement le haut-parleur"
+  ],
+  "uitleg": "L'amplificateur audio reçoit la parole du démodulateur et l'envoie vers le haut-parleur.",
+  "waarom_fout": {
+   "A": "l'antenne se trouve tout à l'avant.",
+   "C": "ils se trouvent à l'avant, pas à l'amplificateur audio.",
+   "D": "un signal entre aussi, venant du démodulateur."
+  },
+  "onderwerp": "récepteur"
+ },
+ {
+  "id": "O131",
+  "vraag": "Dans le schéma fonctionnel d'un récepteur, le haut-parleur est relié à :",
+  "opties": [
+   "uniquement le démodulateur",
+   "l'amplificateur audio et le démodulateur",
+   "l'amplificateur audio et l'accord + amplification RF",
+   "uniquement l'amplificateur audio"
+  ],
+  "uitleg": "Le haut-parleur est relié uniquement à l'amplificateur audio.",
+  "waarom_fout": {
+   "A": "entre le démodulateur et le haut-parleur se trouve l'amplificateur audio.",
+   "B": "le démodulateur ne touche pas le haut-parleur.",
+   "C": "l'accord se trouve à l'avant."
+  },
+  "onderwerp": "récepteur"
+ },
+ {
+  "id": "O132",
+  "vraag": "Dans le schéma fonctionnel d'un récepteur, l'antenne est reliée à :",
+  "opties": [
+   "uniquement la ligne de transmission",
+   "le démodulateur et le haut-parleur",
+   "la ligne de transmission, l'accord et l'amplification RF",
+   "uniquement l'amplificateur audio"
+  ],
+  "uitleg": "L'antenne est reliée uniquement à la ligne de transmission.",
+  "waarom_fout": {
+   "B": "ils se trouvent à l'arrière.",
+   "C": "entre l'antenne et l'accord se trouve la ligne de transmission : l'antenne ne touche que celle-ci.",
+   "D": "l'amplificateur audio se trouve à l'arrière."
+  },
+  "onderwerp": "récepteur"
+ },
+ {
+  "id": "O133",
+  "vraag": "L'accord d'un récepteur se fait dans :",
+  "opties": [
+   "la ligne de transmission",
+   "l'amplificateur audio",
+   "les étages d'entrée",
+   "le démodulateur"
+  ],
+  "uitleg": "L'accord (choisir le signal voulu) se fait à l'avant, dans les étages d'entrée. Question posée à l'envers : dans les étages d'entrée se fait l'accord.",
+  "waarom_fout": {
+   "A": "la ligne de transmission ne fait que transporter.",
+   "B": "il amplifie la parole à l'arrière.",
+   "D": "il extrait la parole du signal, après l'accord."
+  },
+  "onderwerp": "récepteur"
+ },
+ {
+  "id": "O134",
+  "vraag": "Dans les étages d'entrée d'un récepteur se fait :",
+  "opties": [
+   "la démodulation",
+   "l'accord",
+   "l'amplification audio",
+   "absolument rien"
+  ],
+  "onderwerp": "récepteur"
+ },
+ {
+  "id": "O135",
+  "vraag": "Dans un récepteur, la démodulation se fait :",
+  "opties": [
+   "dans la ligne de transmission",
+   "dans l'étage d'entrée",
+   "dans l'étage de sortie",
+   "entre l'étage d'entrée et l'étage de sortie"
+  ],
+  "uitleg": "La démodulation se fait entre l'étage d'entrée (accord) et l'étage de sortie (amplification audio).",
+  "waarom_fout": {
+   "A": "la ligne de transmission ne fait que transporter.",
+   "B": "c'est là que se fait l'accord.",
+   "C": "c'est là que se fait l'amplification audio."
+  },
+  "onderwerp": "récepteur"
+ },
+ {
+  "id": "O136",
+  "vraag": "Dans un récepteur, l'amplification audio se fait :",
+  "opties": [
+   "entre l'étage d'entrée et l'étage de sortie",
+   "dans l'étage de sortie",
+   "dans l'étage d'entrée",
+   "dans la ligne de transmission"
+  ],
+  "uitleg": "L'amplification audio se fait à l'arrière, dans l'étage de sortie. Question posée à l'envers : dans l'étage de sortie se fait l'amplification audio.",
+  "waarom_fout": {
+   "A": "c'est là que se fait la démodulation.",
+   "C": "c'est là que se fait l'accord.",
+   "D": "la ligne de transmission ne fait que transporter."
+  },
+  "onderwerp": "récepteur"
+ },
+ {
+  "id": "O137",
+  "vraag": "Dans l'étage de sortie d'un récepteur :",
+  "opties": [
+   "se fait la démodulation",
+   "se fait l'accord",
+   "se fait l'amplification audio",
+   "il ne se passe absolument rien"
+  ],
+  "onderwerp": "récepteur"
+ },
+ {
+  "id": "C-h04-1a",
+  "vraag": "Qu'est-ce qu'une porteuse ?",
+  "opties": [
+   "Le signal du microphone",
+   "Une onde à haute fréquence sans message",
+   "Le signal qui sort du haut-parleur",
+   "Une onde qui n'existe qu'en FM"
+  ],
+  "uitleg": "La porteuse est l'onde HF « vide » que produit l'émetteur. Ce n'est qu'après la modulation qu'elle contient un message.",
+  "waarom_fout": {
+   "A": "c'est le signal audio, à basse fréquence.",
+   "C": "c'est ce que le récepteur restitue à la fin.",
+   "D": "tout type de modulation part d'une porteuse."
+  },
+  "onderwerp": "modulation"
+ },
+ {
+  "id": "C-h04-1b",
+  "vraag": "Moduler signifie :",
+  "opties": [
+   "faire varier la porteuse au rythme de la voix ou des données",
+   "rendre le signal plus fort",
+   "amener le signal à l'antenne",
+   "choisir la fréquence de l'émetteur"
+  ],
+  "uitleg": "Moduler = placer le message dans la porteuse en faisant suivre le message par l'une de ses propriétés.",
+  "waarom_fout": {
+   "B": "c'est amplifier (amplificateur final).",
+   "C": "c'est le rôle de la ligne d'alimentation.",
+   "D": "c'est le rôle du générateur de fréquence."
+  },
+  "onderwerp": "modulation"
+ },
+ {
+  "id": "C-h04-1c",
+  "vraag": "Quelles sont les deux propriétés de la porteuse que l'on peut faire varier ?",
+  "opties": [
+   "la couleur et la vitesse",
+   "l'amplitude et la fréquence",
+   "la longueur et le poids",
+   "la tension et la résistance"
+  ],
+  "uitleg": "L'amplitude (hauteur) donne l'AM, la fréquence (vitesse des oscillations) donne la FM.",
+  "waarom_fout": {
+   "A": "une onde radio n'a pas de couleur, et sa vitesse est toujours celle de la lumière.",
+   "C": "ce ne sont pas des propriétés d'une onde.",
+   "D": "la résistance est une propriété d'un composant, pas de l'onde."
+  },
+  "onderwerp": "modulation"
+ },
+ {
+  "id": "C-h04-2a",
+  "vraag": "Sur un dessin, les sommets sont partout à la même hauteur, mais les ondes sont parfois plus rapprochées. Quel signal est-ce ?",
+  "opties": [
+   "AM",
+   "FM",
+   "CW",
+   "une simple porteuse"
+  ],
+  "uitleg": "Même hauteur et distance variable entre les ondes : la fréquence change. C'est de la FM.",
+  "waarom_fout": {
+   "A": "en AM, c'est la hauteur qui change.",
+   "C": "en CW, le signal disparaît complètement par moments.",
+   "D": "une porteuse a partout la même distance entre les ondes."
+  },
+  "onderwerp": "AM/FM"
+ },
+ {
+  "id": "C-h04-2b",
+  "vraag": "Avec quelle modulation la puissance d'émission reste-t-elle constante pendant que vous parlez ?",
+  "opties": [
+   "AM",
+   "SSB",
+   "FM",
+   "avec les trois"
+  ],
+  "uitleg": "En FM, la hauteur de l'onde reste la même, donc la puissance aussi. Seule la fréquence se déplace.",
+  "waarom_fout": {
+   "A": "en AM, la hauteur et donc la puissance montent et descendent.",
+   "B": "en SSB, il n'y a même aucune puissance quand vous vous taisez.",
+   "D": "seulement en FM."
+  },
+  "onderwerp": "AM/FM"
+ },
+ {
+  "id": "C-h04-2c",
+  "vraag": "Sur un dessin, les sommets restent partout à la même hauteur, mais les ondes sont tantôt rapprochées, tantôt écartées. Que voyez-vous ?",
+  "opties": [
+   "AM",
+   "FM",
+   "CW",
+   "une porteuse non modulée"
+  ],
+  "uitleg": "La distance entre les ondes change : la fréquence change. C'est de la FM.",
+  "waarom_fout": {
+   "A": "en AM, c'est la hauteur des sommets qui change.",
+   "C": "en CW, le signal disparaît par moments.",
+   "D": "une porteuse a partout la même distance entre les ondes."
+  },
+  "onderwerp": "AM/FM"
+ },
+ {
+  "id": "C-h04-3a",
+  "vraag": "De quelles 3 parties se compose un signal AM ?",
+  "opties": [
+   "porteuse, bande latérale inférieure, bande latérale supérieure",
+   "microphone, amplificateur, antenne",
+   "LSB, USB et FM",
+   "porteuse, audio et données"
+  ],
+  "uitleg": "AM = une porteuse au milieu, avec une bande latérale à gauche et une à droite.",
+  "waarom_fout": {
+   "B": "ce sont des blocs d'un émetteur, pas des parties du signal.",
+   "C": "la FM est un autre type de modulation.",
+   "D": "l'audio et les données sont ce que vous y mettez, pas les parties du spectre."
+  },
+  "onderwerp": "SSB"
+ },
+ {
+  "id": "C-h04-3b",
+  "vraag": "Vous émettez 10 W en SSB. Avec quelle puissance AM êtes-vous reçu à peu près aussi fort ?",
+  "opties": [
+   "10 W",
+   "20 W",
+   "60 W",
+   "100 W"
+  ],
+  "uitleg": "En AM, seul 1/6 de la puissance va dans la bande latérale dont vous avez besoin. 6 × 10 W = 60 W.",
+  "waarom_fout": {
+   "A": "en AM, vous n'avez alors que 10 × 1/6 ≈ 1,7 W de puissance utile.",
+   "B": "la différence est plus grande qu'un facteur 2.",
+   "D": "trop ; un facteur 6 suffit."
+  },
+  "onderwerp": "SSB"
+ },
+ {
+  "id": "C-h04-3c",
+  "vraag": "Quelle est la forme de modulation la plus simple ?",
+  "opties": [
+   "SSB",
+   "FM",
+   "CW (porteuse allumée et éteinte)",
+   "données avec deux tonalités"
+  ],
+  "uitleg": "En CW, vous allumez et éteignez simplement la porteuse. On ne peut pas faire plus simple.",
+  "waarom_fout": {
+   "A": "la SSB demande des filtres pour supprimer la porteuse et une bande latérale.",
+   "B": "la FM demande une fréquence qui varie.",
+   "D": "pour cela, il vous faut un ordinateur et un modem."
+  },
+  "onderwerp": "CW"
+ },
+ {
+  "id": "C-h04-3d",
+  "vraag": "Que fait un TNC en communication de données ?",
+  "opties": [
+   "Il amplifie le signal jusqu'à 100 W",
+   "Il convertit les bits en deux tonalités audio",
+   "Il choisit la fréquence",
+   "Il remplace l'antenne"
+  ],
+  "uitleg": "Le TNC (modem radio) convertit les zéros et les uns en deux tonalités différentes qui entrent dans l'émetteur.",
+  "waarom_fout": {
+   "A": "c'est le rôle de l'amplificateur final.",
+   "C": "c'est le rôle du générateur de fréquence.",
+   "D": "une antenne reste toujours nécessaire."
+  },
+  "onderwerp": "données"
+ },
+ {
+  "id": "C-h04-4a",
+  "vraag": "Quel bloc détermine la fréquence sur laquelle vous émettez ?",
+  "opties": [
+   "l'antenne",
+   "le générateur de fréquence",
+   "l'amplificateur final",
+   "l'amplificateur de microphone"
+  ],
+  "uitleg": "Le générateur de fréquence (oscillateur) produit la porteuse et fixe donc la fréquence.",
+  "waarom_fout": {
+   "A": "l'antenne ne fait que rayonner ce qu'elle reçoit.",
+   "C": "il rend le signal plus fort, il ne change pas sa fréquence.",
+   "D": "il travaille avec l'audio, pas avec la fréquence d'émission."
+  },
+  "onderwerp": "émetteur"
+ },
+ {
+  "id": "C-h04-4b",
+  "vraag": "À quels blocs le modulateur est-il relié ?",
+  "opties": [
+   "uniquement au microphone",
+   "au générateur de fréquence et à l'antenne",
+   "au générateur de fréquence, à l'amplificateur de microphone et à l'amplificateur final",
+   "uniquement à l'amplificateur final"
+  ],
+  "uitleg": "Le modulateur est au milieu : la porteuse arrive de la gauche, l'audio d'en bas, et le résultat part vers la droite, vers l'amplificateur final.",
+  "waarom_fout": {
+   "A": "entre le microphone et le modulateur se trouve encore l'amplificateur de microphone.",
+   "B": "l'antenne est reliée à la ligne d'alimentation.",
+   "D": "la porteuse et l'audio entrent aussi."
+  },
+  "onderwerp": "émetteur"
+ },
+ {
+  "id": "C-h04-4c",
+  "vraag": "Mettez dans le bon ordre, de la voix à l'antenne :",
+  "opties": [
+   "microphone, modulateur, amplificateur de microphone, amplificateur final, antenne",
+   "microphone, amplificateur de microphone, modulateur, amplificateur final, ligne d'alimentation, antenne",
+   "microphone, amplificateur final, modulateur, antenne",
+   "microphone, ligne d'alimentation, modulateur, antenne"
+  ],
+  "uitleg": "D'abord, vous amplifiez votre voix, puis elle entre dans le modulateur, ensuite tout est rendu puissant et envoyé vers l'antenne par le câble coaxial.",
+  "waarom_fout": {
+   "A": "l'amplificateur de microphone vient avant le modulateur.",
+   "C": "l'amplificateur final vient après le modulateur.",
+   "D": "la ligne d'alimentation se trouve entre l'amplificateur final et l'antenne."
+  },
+  "onderwerp": "émetteur"
+ },
+ {
+  "id": "C-h04-5a",
+  "vraag": "Que voyez-vous sur le dessin d'un signal AM surmodulé ?",
+  "opties": [
+   "des sommets aplatis",
+   "des ondes qui se rapprochent",
+   "un signal qui disparaît complètement",
+   "une sinusoïde parfaite"
+  ],
+  "uitleg": "Le signal veut monter plus haut que l'émetteur ne le peut. Les sommets sont coupés et deviennent plats.",
+  "waarom_fout": {
+   "B": "c'est de la FM.",
+   "C": "c'est du CW.",
+   "D": "c'est une porteuse non modulée."
+  },
+  "onderwerp": "surmodulation"
+ },
+ {
+  "id": "C-h04-5b",
+  "vraag": "Votre modulation sonne déformée et une station voisine se plaint de perturbations. Que faites-vous d'abord ?",
+  "opties": [
+   "augmenter la puissance",
+   "baisser le gain du microphone",
+   "prendre une autre antenne",
+   "régler le générateur de fréquence"
+  ],
+  "uitleg": "Une déformation et des perturbations à côté de votre fréquence indiquent un signal audio trop fort. Baissez le gain du microphone (MIC GAIN).",
+  "waarom_fout": {
+   "A": "cela ne fait qu'aggraver les perturbations.",
+   "C": "l'antenne n'a rien à voir ici.",
+   "D": "il détermine la fréquence, pas la modulation."
+  },
+  "onderwerp": "surmodulation"
+ },
+ {
+  "id": "C-h04-5c",
+  "vraag": "En FM, quelle est la conséquence d'un microphone dans lequel on parle trop fort ?",
+  "opties": [
+   "la puissance diminue",
+   "l'excursion de fréquence devient trop grande et vous perturbez les fréquences voisines",
+   "l'antenne est endommagée",
+   "il ne se passe rien en FM"
+  ],
+  "uitleg": "En FM, le volume détermine jusqu'où la fréquence s'écarte. Trop fort = signal trop large = perturbations pour les voisins.",
+  "waarom_fout": {
+   "A": "en FM, la puissance reste constante.",
+   "C": "l'antenne ne s'en aperçoit pas.",
+   "D": "en FM aussi, cela pose problème."
+  },
+  "onderwerp": "surmodulation"
+ },
+ {
+  "id": "C-h04-6a",
+  "vraag": "Que fait le démodulateur ?",
+  "opties": [
+   "choisir le signal",
+   "extraire la parole de l'onde radio",
+   "rendre la parole plus forte",
+   "capter l'onde radio"
+  ],
+  "uitleg": "Le démodulateur extrait à nouveau la parole ou les données de l'onde radio.",
+  "waarom_fout": {
+   "A": "c'est l'accord, dans l'étage d'entrée.",
+   "C": "c'est le rôle de l'amplificateur audio.",
+   "D": "c'est le rôle de l'antenne."
+  },
+  "onderwerp": "récepteur"
+ },
+ {
+  "id": "C-h04-6b",
+  "vraag": "Quel bloc du récepteur est l'inverse du modulateur de l'émetteur ?",
+  "opties": [
+   "l'amplificateur audio",
+   "l'accord",
+   "le démodulateur",
+   "l'antenne"
+  ],
+  "uitleg": "Le modulateur place la parole dans l'onde, le démodulateur l'en extrait.",
+  "waarom_fout": {
+   "A": "il ne fait qu'amplifier.",
+   "B": "il choisit le signal.",
+   "D": "elle capte."
+  },
+  "onderwerp": "récepteur"
+ },
+ {
+  "id": "C-h04-6c",
+  "vraag": "Mettez le récepteur dans le bon ordre, de l'antenne au haut-parleur :",
+  "opties": [
+   "antenne, démodulateur, accord, amplificateur audio, haut-parleur",
+   "antenne, ligne de transmission, accord + amplification RF, démodulateur, amplificateur audio, haut-parleur",
+   "antenne, amplificateur audio, démodulateur, accord, haut-parleur",
+   "antenne, ligne de transmission, amplificateur audio, accord, haut-parleur"
+  ],
+  "uitleg": "D'abord l'accord, puis la démodulation, puis l'amplification pour le haut-parleur.",
+  "waarom_fout": {
+   "A": "l'accord vient avant la démodulation, et la ligne de transmission manque.",
+   "C": "complètement à l'envers.",
+   "D": "l'amplificateur audio vient tout à la fin."
+  },
+  "onderwerp": "récepteur"
+ },
+ {
+  "id": "E-h04-01",
+  "vraag": "Un émetteur AM de 60 W est modulé à fond. Quelle puissance se trouve dans la porteuse ?",
+  "opties": [
+   "10 W",
+   "20 W",
+   "30 W",
+   "40 W"
+  ],
+  "uitleg": "La porteuse reçoit 2/3 du total : 60 × 2/3 = 40 W.",
+  "waarom_fout": {
+   "A": "c'est une bande latérale (1/6).",
+   "B": "ce sont les deux bandes latérales ensemble.",
+   "C": "ce serait la moitié ; c'est 2/3."
+  },
+  "onderwerp": "SSB"
+ },
+ {
+  "id": "E-h04-02",
+  "vraag": "Votre voix va jusqu'à 3 kHz. Quelle est la largeur de votre signal AM ?",
+  "opties": [
+   "1,5 kHz",
+   "3 kHz",
+   "6 kHz",
+   "12 kHz"
+  ],
+  "uitleg": "L'AM a deux bandes latérales de 3 kHz chacune : 2 × 3 = 6 kHz.",
+  "waarom_fout": {
+   "A": "trop étroit, c'est moins qu'une bande latérale.",
+   "B": "c'est la largeur de la SSB.",
+   "D": "c'est deux fois trop large."
+  },
+  "onderwerp": "SSB"
+ },
+ {
+  "id": "E-h04-03",
+  "vraag": "Votre affichage indique 7,150 MHz en LSB. Vous sifflez une tonalité de 2 kHz. Sur quelle fréquence se trouve votre signal ?",
+  "opties": [
+   "7,148 MHz",
+   "7,150 MHz",
+   "7,152 MHz",
+   "7,170 MHz"
+  ],
+  "uitleg": "LSB = soustraire : 7,150 MHz − 0,002 MHz = 7,148 MHz.",
+  "waarom_fout": {
+   "B": "c'est la fréquence affichée elle-même.",
+   "C": "ce serait le cas en USB.",
+   "D": "erreur de calcul : 2 kHz, c'est 0,002 MHz, pas 0,020 MHz."
+  },
+  "onderwerp": "SSB"
+ },
+ {
+  "id": "E-h04-04",
+  "vraag": "Pourquoi peut-on supprimer la porteuse en SSB ?",
+  "opties": [
+   "elle est pleine de bruit",
+   "elle ne contient aucun message",
+   "elle est trop faible",
+   "elle est interdite"
+  ],
+  "uitleg": "La porteuse est toujours la même et ne dit rien. La supprimer économise de la puissance.",
+  "waarom_fout": {
+   "A": "ce n'est pas la raison.",
+   "C": "au contraire, elle contient la plus grande partie de la puissance.",
+   "D": "pas interdite, simplement inutile."
+  },
+  "onderwerp": "SSB"
+ },
+ {
+  "id": "E-h04-05",
+  "vraag": "Que signifie USB ?",
+  "opties": [
+   "Universal Serial Bus",
+   "Upper Sideband, la bande latérale supérieure",
+   "Under Side Band, la bande latérale inférieure",
+   "Ultra Short Band"
+  ],
+  "uitleg": "USB = upper sideband. LSB = lower sideband.",
+  "waarom_fout": {
+   "A": "c'est la connexion informatique, pas le terme radio.",
+   "C": "la bande latérale inférieure, c'est la LSB.",
+   "D": "n'existe pas."
+  },
+  "onderwerp": "SSB"
+ },
+ {
+  "id": "E-h04-06",
+  "vraag": "Vous émettez des données avec un TNC. Quel bloc de l'émetteur reçoit les tonalités audio ?",
+  "opties": [
+   "le générateur de fréquence",
+   "l'amplificateur de microphone, à la place du microphone",
+   "l'antenne",
+   "l'amplificateur final"
+  ],
+  "uitleg": "L'ordinateur avec le modem remplace le microphone. Les tonalités entrent donc dans le modulateur par le côté audio.",
+  "waarom_fout": {
+   "A": "il ne produit que la porteuse.",
+   "C": "l'antenne ne reçoit que le signal final.",
+   "D": "il reçoit le signal déjà modulé."
+  },
+  "onderwerp": "données"
+ },
+ {
+  "id": "E-h04-07",
+  "vraag": "Quelle partie transforme le signal électrique en ondes radio ?",
+  "opties": [
+   "le modulateur",
+   "l'amplificateur final",
+   "la ligne d'alimentation",
+   "l'antenne"
+  ],
+  "uitleg": "Ce n'est que dans l'antenne que le signal électrique devient une onde radio qui part dans l'espace.",
+  "waarom_fout": {
+   "A": "il ne fait que mélanger la porteuse et l'audio.",
+   "B": "il rend le signal plus fort, mais celui-ci reste électrique.",
+   "C": "elle transporte le signal jusqu'à l'antenne."
+  },
+  "onderwerp": "émetteur"
+ },
+ {
+  "id": "E-h04-08",
+  "vraag": "Un émetteur FM de 25 W transmet une phrase forte, puis une phrase calme. Qu'arrive-t-il à la puissance de sortie ?",
+  "opties": [
+   "elle reste à 25 W",
+   "elle augmente pendant la phrase forte",
+   "elle diminue pendant la phrase calme",
+   "elle disparaît entre les mots"
+  ],
+  "uitleg": "En FM, l'amplitude, et donc la puissance, reste constante. Seule la fréquence varie.",
+  "waarom_fout": {
+   "B": "cela arriverait en AM.",
+   "C": "cela arriverait en AM.",
+   "D": "cela arrive en SSB, pas en FM."
+  },
+  "onderwerp": "AM/FM"
+ },
+ {
+  "id": "E-h04-09",
+  "vraag": "En SSB, l'indicateur ALC dévie loin en dehors de la zone indiquée. Qu'est-ce que cela signifie généralement ?",
+  "opties": [
+   "tout est parfait",
+   "votre signal audio est trop fort",
+   "votre antenne est défectueuse",
+   "votre fréquence est fausse"
+  ],
+  "uitleg": "Un ALC qui dévie loin signifie que l'émetteur doit freiner votre audio trop fort. Baissez le MIC GAIN.",
+  "waarom_fout": {
+   "A": "dans la zone, c'est bien ; loin en dehors, non.",
+   "C": "l'état de l'antenne se voit sur le ROS-mètre, pas sur l'ALC.",
+   "D": "l'ALC ne dit rien sur la fréquence."
+  },
+  "onderwerp": "surmodulation"
+ },
+ {
+  "id": "E-h04-10",
+  "vraag": "Quel accessoire utilise-t-on en CW à la place d'un microphone ?",
+  "opties": [
+   "un TNC",
+   "un manipulateur",
+   "un haut-parleur",
+   "un ROS-mètre"
+  ],
+  "uitleg": "Avec un manipulateur, vous allumez et éteignez la porteuse en morse.",
+  "waarom_fout": {
+   "A": "il sert aux données.",
+   "C": "il sert à la réception.",
+   "D": "il mesure l'adaptation de l'antenne."
+  },
+  "onderwerp": "CW"
+ },
+ {
+  "id": "E-h04-11",
+  "vraag": "Vous recevez un signal de données. Où va le signal après l'amplificateur audio ?",
+  "opties": [
+   "vers l'antenne",
+   "vers un ordinateur",
+   "vers le modulateur",
+   "vers la ligne de transmission"
+  ],
+  "uitleg": "Pour les données, le signal démodulé ne va pas vers un haut-parleur mais vers un ordinateur (avec un modem ou une carte son).",
+  "waarom_fout": {
+   "A": "l'antenne se trouve à l'avant.",
+   "C": "un récepteur n'a pas de modulateur.",
+   "D": "la ligne de transmission se trouve à l'avant."
+  },
+  "onderwerp": "récepteur"
+ },
+ {
+  "id": "E-h04-12",
+  "vraag": "Dans quel étage d'un récepteur choisissez-vous la station que vous voulez entendre ?",
+  "opties": [
+   "le premier étage",
+   "le deuxième étage",
+   "le troisième étage",
+   "dans le haut-parleur"
+  ],
+  "uitleg": "L'accord se fait dans le premier étage, l'étage d'entrée.",
+  "waarom_fout": {
+   "B": "c'est là que se fait la démodulation.",
+   "C": "c'est là que l'audio est amplifié.",
+   "D": "le haut-parleur ne fait que produire du son."
+  },
+  "onderwerp": "récepteur"
+ },
+ {
+  "id": "E-h04-13",
+  "vraag": "Quel bloc un émetteur possède-t-il, mais pas un récepteur ?",
+  "opties": [
+   "une antenne",
+   "une ligne de transmission",
+   "un modulateur",
+   "un amplificateur"
+  ],
+  "uitleg": "L'émetteur module, le récepteur démodule. L'antenne, la ligne de transmission et les amplificateurs se trouvent dans les deux.",
+  "waarom_fout": {
+   "A": "les deux ont une antenne.",
+   "B": "les deux ont une ligne de transmission.",
+   "D": "les deux ont des amplificateurs."
+  },
+  "onderwerp": "récepteur"
+ }
+]

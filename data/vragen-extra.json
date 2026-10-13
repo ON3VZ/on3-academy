@@ -1,0 +1,327 @@
+[
+ {
+  "id": "E-h04-01",
+  "bron": "extra",
+  "hoofdstuk": 4,
+  "onderwerp": "SSB",
+  "vraag": "Een AM-zender van 60 W is volledig gemoduleerd. Hoeveel vermogen zit er in de draaggolf?",
+  "opties": [
+   "10 W",
+   "20 W",
+   "30 W",
+   "40 W"
+  ],
+  "juist": "D",
+  "uitleg": "De draaggolf krijgt 2/3 van het totaal: 60 × 2/3 = 40 W.",
+  "waarom_fout": {
+   "A": "dat is één zijband (1/6).",
+   "B": "dat zijn beide zijbanden samen.",
+   "C": "dat zou de helft zijn; het is 2/3."
+  },
+  "moeilijkheid": 2,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "techniek",
+  "in_examen": true
+ },
+ {
+  "id": "E-h04-02",
+  "bron": "extra",
+  "hoofdstuk": 4,
+  "onderwerp": "SSB",
+  "vraag": "Je spraak gaat tot 3 kHz. Hoe breed is je AM-signaal?",
+  "opties": [
+   "1,5 kHz",
+   "3 kHz",
+   "6 kHz",
+   "12 kHz"
+  ],
+  "juist": "C",
+  "uitleg": "AM heeft twee zijbanden van elk 3 kHz: 2 × 3 = 6 kHz.",
+  "waarom_fout": {
+   "A": "te smal, dat is minder dan één zijband.",
+   "B": "dat is de breedte van SSB.",
+   "D": "dat is dubbel te breed."
+  },
+  "moeilijkheid": 2,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "techniek",
+  "in_examen": true
+ },
+ {
+  "id": "E-h04-03",
+  "bron": "extra",
+  "hoofdstuk": 4,
+  "onderwerp": "SSB",
+  "vraag": "Je display toont 7,150 MHz in LSB. Je fluit een toon van 2 kHz. Op welke frequentie ligt je signaal?",
+  "opties": [
+   "7,148 MHz",
+   "7,150 MHz",
+   "7,152 MHz",
+   "7,170 MHz"
+  ],
+  "juist": "A",
+  "uitleg": "LSB = aftrekken: 7,150 MHz − 0,002 MHz = 7,148 MHz.",
+  "waarom_fout": {
+   "B": "dat is de afgelezen frequentie zelf.",
+   "C": "zo zou het bij USB zijn.",
+   "D": "rekenfout: 2 kHz is 0,002 MHz, niet 0,020 MHz."
+  },
+  "moeilijkheid": 3,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "techniek",
+  "in_examen": true
+ },
+ {
+  "id": "E-h04-04",
+  "bron": "extra",
+  "hoofdstuk": 4,
+  "onderwerp": "SSB",
+  "vraag": "Waarom mag je bij SSB de draaggolf weglaten?",
+  "opties": [
+   "ze zit vol met ruis",
+   "ze bevat geen boodschap",
+   "ze is te zwak",
+   "ze is verboden"
+  ],
+  "juist": "B",
+  "uitleg": "De draaggolf is altijd hetzelfde en zegt niets. Weglaten bespaart vermogen.",
+  "waarom_fout": {
+   "A": "dat is niet de reden.",
+   "C": "ze bevat juist het grootste deel van het vermogen.",
+   "D": "niet verboden, gewoon nutteloos."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "techniek",
+  "in_examen": true
+ },
+ {
+  "id": "E-h04-05",
+  "bron": "extra",
+  "hoofdstuk": 4,
+  "onderwerp": "SSB",
+  "vraag": "Wat betekent USB?",
+  "opties": [
+   "Universal Serial Bus",
+   "Upper Sideband, de bovenste zijband",
+   "Under Side Band, de onderste zijband",
+   "Ultra Short Band"
+  ],
+  "juist": "B",
+  "uitleg": "USB = upper sideband. LSB = lower sideband.",
+  "waarom_fout": {
+   "A": "dat is de computeraansluiting, niet de radioterm.",
+   "C": "de onderste zijband is LSB.",
+   "D": "bestaat niet."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "techniek",
+  "in_examen": true
+ },
+ {
+  "id": "E-h04-06",
+  "bron": "extra",
+  "hoofdstuk": 4,
+  "onderwerp": "data",
+  "vraag": "Je zendt data met een TNC. Welk blok van de zender krijgt de audiotonen binnen?",
+  "opties": [
+   "de frequentiegenerator",
+   "de microfoonversterker, in plaats van de microfoon",
+   "de antenne",
+   "de eindversterker"
+  ],
+  "juist": "B",
+  "uitleg": "De computer met modem vervangt de microfoon. De tonen gaan dus via de audiokant de modulator in.",
+  "waarom_fout": {
+   "A": "die maakt alleen de draaggolf.",
+   "C": "de antenne krijgt pas het eindsignaal.",
+   "D": "die krijgt het al gemoduleerde signaal."
+  },
+  "moeilijkheid": 2,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "techniek",
+  "in_examen": true
+ },
+ {
+  "id": "E-h04-07",
+  "bron": "extra",
+  "hoofdstuk": 4,
+  "onderwerp": "zender",
+  "vraag": "Welk deel zet het elektrische signaal om in radiogolven?",
+  "opties": [
+   "de modulator",
+   "de eindversterker",
+   "de voedingslijn",
+   "de antenne"
+  ],
+  "juist": "D",
+  "uitleg": "Pas in de antenne wordt het elektrische signaal een radiogolf die de ruimte in gaat.",
+  "waarom_fout": {
+   "A": "die mengt alleen draaggolf en audio.",
+   "B": "die maakt het signaal sterker, maar nog elektrisch.",
+   "C": "die vervoert het signaal naar de antenne."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "techniek",
+  "in_examen": true
+ },
+ {
+  "id": "E-h04-08",
+  "bron": "extra",
+  "hoofdstuk": 4,
+  "onderwerp": "AM/FM",
+  "vraag": "Een FM-zender van 25 W zendt een luide en daarna een stille zin uit. Wat gebeurt er met het uitgangsvermogen?",
+  "opties": [
+   "blijft 25 W",
+   "stijgt bij de luide zin",
+   "daalt bij de stille zin",
+   "valt weg tussen de woorden"
+  ],
+  "juist": "A",
+  "uitleg": "Bij FM blijft de amplitude, en dus het vermogen, constant. Alleen de frequentie zwaait.",
+  "waarom_fout": {
+   "B": "dat zou bij AM gebeuren.",
+   "C": "dat zou bij AM gebeuren.",
+   "D": "dat gebeurt bij SSB, niet bij FM."
+  },
+  "moeilijkheid": 2,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "techniek",
+  "in_examen": true
+ },
+ {
+  "id": "E-h04-09",
+  "bron": "extra",
+  "hoofdstuk": 4,
+  "onderwerp": "overmodulatie",
+  "vraag": "Bij SSB slaat de ALC-meter ver buiten de aangeduide zone uit. Wat betekent dat meestal?",
+  "opties": [
+   "alles is perfect",
+   "je audiosignaal is te sterk",
+   "je antenne is stuk",
+   "je frequentie is fout"
+  ],
+  "juist": "B",
+  "uitleg": "Een ALC die ver uitslaat betekent dat de zender je te sterke audio moet afremmen. Zet MIC GAIN lager.",
+  "waarom_fout": {
+   "A": "binnen de zone is goed, ver erbuiten niet.",
+   "C": "de antenne zie je op de SWR-meter, niet op de ALC.",
+   "D": "de ALC zegt niets over de frequentie."
+  },
+  "moeilijkheid": 2,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "techniek",
+  "in_examen": true
+ },
+ {
+  "id": "E-h04-10",
+  "bron": "extra",
+  "hoofdstuk": 4,
+  "onderwerp": "CW",
+  "vraag": "Welk hulpmiddel gebruik je bij CW in plaats van een microfoon?",
+  "opties": [
+   "een TNC",
+   "een seinsleutel",
+   "een luidspreker",
+   "een SWR-meter"
+  ],
+  "juist": "B",
+  "uitleg": "Met een seinsleutel zet je de draaggolf aan en uit in morse.",
+  "waarom_fout": {
+   "A": "die is voor data.",
+   "C": "die is voor ontvangen.",
+   "D": "die meet de aanpassing van de antenne."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "techniek",
+  "in_examen": true
+ },
+ {
+  "id": "E-h04-11",
+  "bron": "extra",
+  "hoofdstuk": 4,
+  "onderwerp": "ontvanger",
+  "vraag": "Je ontvangt een datasignaal. Waar gaat het signaal na de audioversterker naartoe?",
+  "opties": [
+   "naar de antenne",
+   "naar een computer",
+   "naar de modulator",
+   "naar de transmissielijn"
+  ],
+  "juist": "B",
+  "uitleg": "Bij data gaat het gedemoduleerde signaal niet naar een luidspreker maar naar een computer (met modem of geluidskaart).",
+  "waarom_fout": {
+   "A": "de antenne zit vooraan.",
+   "C": "een ontvanger heeft geen modulator.",
+   "D": "de transmissielijn zit vooraan."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "techniek",
+  "in_examen": true
+ },
+ {
+  "id": "E-h04-12",
+  "bron": "extra",
+  "hoofdstuk": 4,
+  "onderwerp": "ontvanger",
+  "vraag": "In welke trap van een ontvanger kies je het station dat je wilt horen?",
+  "opties": [
+   "de eerste trap",
+   "de tweede trap",
+   "de derde trap",
+   "in de luidspreker"
+  ],
+  "juist": "A",
+  "uitleg": "Afstemmen gebeurt in de eerste trap, de ingangstrap.",
+  "waarom_fout": {
+   "B": "daar wordt gedemoduleerd.",
+   "C": "daar wordt de audio versterkt.",
+   "D": "de luidspreker maakt alleen geluid."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "techniek",
+  "in_examen": true
+ },
+ {
+  "id": "E-h04-13",
+  "bron": "extra",
+  "hoofdstuk": 4,
+  "onderwerp": "ontvanger",
+  "vraag": "Welk blok heeft een zender wel, maar een ontvanger niet?",
+  "opties": [
+   "een antenne",
+   "een transmissielijn",
+   "een modulator",
+   "een versterker"
+  ],
+  "juist": "C",
+  "uitleg": "De zender moduleert, de ontvanger demoduleert. Antenne, transmissielijn en versterkers hebben ze allebei.",
+  "waarom_fout": {
+   "A": "beide hebben een antenne.",
+   "B": "beide hebben een transmissielijn.",
+   "D": "beide hebben versterkers."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "techniek",
+  "in_examen": true
+ }
+]

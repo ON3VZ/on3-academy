@@ -1,0 +1,646 @@
+[
+ {
+  "id": "C-h08-1a",
+  "bron": "check",
+  "hoofdstuk": 8,
+  "onderwerp": "QSO",
+  "vraag": "Wat betekent CQ?",
+  "opties": [
+   "einde van de verbinding",
+   "algemene oproep",
+   "noodoproep",
+   "ik ga naar een andere frequentie"
+  ],
+  "juist": "B",
+  "uitleg": "CQ = algemene oproep.",
+  "waarom_fout": {
+   "A": "nee.",
+   "C": "nee.",
+   "D": "dat is QSY."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h08-1b",
+  "bron": "check",
+  "hoofdstuk": 8,
+  "onderwerp": "QSO",
+  "vraag": "Wat betekent QSY?",
+  "opties": [
+   "naar een andere frequentie gaan",
+   "ik ben bezet",
+   "ik roep op",
+   "herhaal"
+  ],
+  "juist": "A",
+  "uitleg": "QSY = van frequentie veranderen.",
+  "waarom_fout": {
+   "B": "nee.",
+   "C": "dat is CQ.",
+   "D": "nee."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h08-1c",
+  "bron": "check",
+  "hoofdstuk": 8,
+  "onderwerp": "QSO",
+  "vraag": "Wat is een sked?",
+  "opties": [
+   "een afgesproken verbinding",
+   "een soort antenne",
+   "een rapport",
+   "een repeater"
+  ],
+  "juist": "A",
+  "uitleg": "Een sked is een vooraf afgesproken verbinding.",
+  "waarom_fout": {
+   "B": "nee.",
+   "C": "nee.",
+   "D": "nee."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h08-2a",
+  "bron": "check",
+  "hoofdstuk": 8,
+  "onderwerp": "spellen",
+  "vraag": "Hoe spel je de letter Q?",
+  "opties": [
+   "Queen",
+   "Quebec",
+   "Quiz",
+   "Quality"
+  ],
+  "juist": "B",
+  "uitleg": "Q = Quebec.",
+  "waarom_fout": {
+   "A": "fout.",
+   "C": "fout.",
+   "D": "fout."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h08-2b",
+  "bron": "check",
+  "hoofdstuk": 8,
+  "onderwerp": "spellen",
+  "vraag": "Hoe spel je ON3K?",
+  "opties": [
+   "Oscar November 3 Kilo",
+   "Otto Nancy 3 Kilo",
+   "Oscar Nancy 3 Kentucky",
+   "Ontario November 3 Kilo"
+  ],
+  "juist": "A",
+  "uitleg": "Oscar November 3 Kilo.",
+  "waarom_fout": {
+   "B": "Otto en Nancy zijn fout.",
+   "C": "Nancy en Kentucky zijn fout.",
+   "D": "Ontario is fout."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h08-2c",
+  "bron": "check",
+  "hoofdstuk": 8,
+  "onderwerp": "spellen",
+  "vraag": "Welk woord hoort bij F?",
+  "opties": [
+   "Fox",
+   "Foxtrot",
+   "Frank",
+   "France"
+  ],
+  "juist": "B",
+  "uitleg": "F = Foxtrot.",
+  "waarom_fout": {
+   "A": "te kort: Foxtrot.",
+   "C": "fout.",
+   "D": "fout."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h08-3a",
+  "bron": "check",
+  "hoofdstuk": 8,
+  "onderwerp": "repeater",
+  "vraag": "Hoe groot is de shift op 2 m meestal?",
+  "opties": [
+   "12,5 kHz",
+   "600 kHz",
+   "1750 Hz",
+   "7,6 MHz"
+  ],
+  "juist": "B",
+  "uitleg": "600 kHz.",
+  "waarom_fout": {
+   "A": "dat is de kanaalafstand.",
+   "C": "dat is de toegangstoon.",
+   "D": "nee."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h08-3b",
+  "bron": "check",
+  "hoofdstuk": 8,
+  "onderwerp": "repeater",
+  "vraag": "Een repeater zendt uit op 145,700 MHz met een shift van −600 kHz. Op welke frequentie zend jij?",
+  "opties": [
+   "145,700 MHz",
+   "145,100 MHz",
+   "146,300 MHz",
+   "145,500 MHz"
+  ],
+  "juist": "B",
+  "uitleg": "145,700 − 0,600 = 145,100 MHz.",
+  "waarom_fout": {
+   "A": "dat is de uitgang.",
+   "C": "verkeerde richting.",
+   "D": "dat is de oproepfrequentie."
+  },
+  "moeilijkheid": 2,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h08-3c",
+  "bron": "check",
+  "hoofdstuk": 8,
+  "onderwerp": "repeater",
+  "vraag": "Wat is CTCSS?",
+  "opties": [
+   "een heel lage toon die mee uitgezonden wordt om een repeater te openen",
+   "een soort antenne",
+   "een digitale mode",
+   "een rapport"
+  ],
+  "juist": "A",
+  "uitleg": "CTCSS: lage toon tussen 67 en 254 Hz.",
+  "waarom_fout": {
+   "B": "nee.",
+   "C": "nee.",
+   "D": "nee."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h08-4a",
+  "bron": "check",
+  "hoofdstuk": 8,
+  "onderwerp": "bandplan",
+  "vraag": "Mag je zenden tussen 14 099 en 14 101 kHz?",
+  "opties": [
+   "ja, in CW",
+   "ja, in SSB",
+   "nee, dat is voor bakens",
+   "ja, in FM"
+  ],
+  "juist": "C",
+  "uitleg": "Dat stuk is gereserveerd voor bakens (IBP).",
+  "waarom_fout": {
+   "A": "nee.",
+   "B": "nee.",
+   "D": "nee."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h08-4b",
+  "bron": "check",
+  "hoofdstuk": 8,
+  "onderwerp": "bandplan",
+  "vraag": "Wat gebeurt er vooral op 14 230 kHz?",
+  "opties": [
+   "CW-contest",
+   "SSTV en fax",
+   "bakens",
+   "EME"
+  ],
+  "juist": "B",
+  "uitleg": "Oproepfrequentie voor SSTV en fax.",
+  "waarom_fout": {
+   "A": "dat is onderaan de band.",
+   "C": "14 099 tot 14 101.",
+   "D": "dat is op 2 m."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h08-4c",
+  "bron": "check",
+  "hoofdstuk": 8,
+  "onderwerp": "bandplan",
+  "vraag": "Wat betekent fonie?",
+  "opties": [
+   "morse",
+   "spraak",
+   "beeld",
+   "data"
+  ],
+  "juist": "B",
+  "uitleg": "Fonie = spraak.",
+  "waarom_fout": {
+   "A": "dat is CW.",
+   "C": "dat is SSTV.",
+   "D": "dat is digitaal."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h08-5a",
+  "bron": "check",
+  "hoofdstuk": 8,
+  "onderwerp": "bandplan",
+  "vraag": "Op welke frequentie roep je in FM op 2 m?",
+  "opties": [
+   "144,300 MHz",
+   "145,500 MHz",
+   "145,800 MHz",
+   "144,050 MHz"
+  ],
+  "juist": "B",
+  "uitleg": "145,500 MHz is de FM-oproepfrequentie.",
+  "waarom_fout": {
+   "A": "SSB-gebied.",
+   "C": "satellieten.",
+   "D": "CW-gebied."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h08-5b",
+  "bron": "check",
+  "hoofdstuk": 8,
+  "onderwerp": "bandplan",
+  "vraag": "In welk stuk van 2 m zitten de satellieten?",
+  "opties": [
+   "144 000 tot 144 035",
+   "144 400 tot 144 500",
+   "145 800 tot 146 000",
+   "144 800 tot 144 990"
+  ],
+  "juist": "C",
+  "uitleg": "145 800 tot 146 000 kHz.",
+  "waarom_fout": {
+   "A": "EME.",
+   "B": "bakens.",
+   "D": "digitaal."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h08-5c",
+  "bron": "check",
+  "hoofdstuk": 8,
+  "onderwerp": "bandplan",
+  "vraag": "Op welke frequentie luister je naar een repeater?",
+  "opties": [
+   "op de ingang",
+   "op de uitgang",
+   "op 145,500 MHz",
+   "op 144,800 MHz"
+  ],
+  "juist": "B",
+  "uitleg": "De repeater zendt op de uitgang: daar luister je.",
+  "waarom_fout": {
+   "A": "daar zend jij.",
+   "C": "oproepfrequentie.",
+   "D": "digitaal."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h08-6a",
+  "bron": "check",
+  "hoofdstuk": 8,
+  "onderwerp": "PTT",
+  "vraag": "Wat doet de PTT-knop?",
+  "opties": [
+   "het volume regelen",
+   "de zender aanzetten zolang je hem indrukt",
+   "de frequentie kiezen",
+   "de squelch openen"
+  ],
+  "juist": "B",
+  "uitleg": "Push To Talk: indrukken = zenden.",
+  "waarom_fout": {
+   "A": "nee.",
+   "C": "nee.",
+   "D": "nee."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h08-6b",
+  "bron": "check",
+  "hoofdstuk": 8,
+  "onderwerp": "PTT",
+  "vraag": "Je sluit een computer aan voor digitale modes. Waar let je op?",
+  "opties": [
+   "juiste audiosterkte en PTT-aansluiting",
+   "de kleur van de kabel",
+   "zo luid mogelijk",
+   "geen PTT nodig"
+  ],
+  "juist": "A",
+  "uitleg": "Juiste sterkte en een werkende PTT.",
+  "waarom_fout": {
+   "B": "nee.",
+   "C": "te luid geeft vervorming.",
+   "D": "zonder PTT zendt het toestel niet."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h08-6c",
+  "bron": "check",
+  "hoofdstuk": 8,
+  "onderwerp": "PTT",
+  "vraag": "Wat gebeurt er als het audiosignaal van een computer te sterk is?",
+  "opties": [
+   "niets",
+   "vervorming en storing",
+   "je zendt minder vermogen",
+   "de SWR stijgt"
+  ],
+  "juist": "B",
+  "uitleg": "Te sterk audiosignaal = overmodulatie: vervorming en storing.",
+  "waarom_fout": {
+   "A": "nee.",
+   "C": "nee.",
+   "D": "de SWR hangt van de antenne af."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h08-7a",
+  "bron": "check",
+  "hoofdstuk": 8,
+  "onderwerp": "S-meter",
+  "vraag": "Hoeveel keer zoveel spanning betekent één S-punt meer?",
+  "opties": [
+   "1,5 keer",
+   "2 keer",
+   "10 keer",
+   "100 keer"
+  ],
+  "juist": "B",
+  "uitleg": "Elk S-punt = verdubbeling van de spanning.",
+  "waarom_fout": {
+   "A": "nee.",
+   "C": "nee.",
+   "D": "nee."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h08-7b",
+  "bron": "check",
+  "hoofdstuk": 8,
+  "onderwerp": "S-meter",
+  "vraag": "Hoeveel keer zoveel spanning heeft S9 tegenover S1?",
+  "opties": [
+   "9",
+   "18",
+   "256",
+   "512"
+  ],
+  "juist": "C",
+  "uitleg": "8 stappen van × 2: 2⁸ = 256.",
+  "waarom_fout": {
+   "A": "nee: het is verdubbelen, niet optellen.",
+   "B": "nee.",
+   "D": "dat zijn 9 stappen."
+  },
+  "moeilijkheid": 2,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h08-7c",
+  "bron": "check",
+  "hoofdstuk": 8,
+  "onderwerp": "rapport",
+  "vraag": "Wat betekent rapport 57?",
+  "opties": [
+   "met moeite verstaanbaar, zwak",
+   "perfect verstaanbaar, zeer luid",
+   "perfect verstaanbaar, sterkte 7",
+   "verstaanbaar, sterkte 5"
+  ],
+  "juist": "C",
+  "uitleg": "5 = perfect verstaanbaar, 7 = sterkte 7.",
+  "waarom_fout": {
+   "A": "dat is 33.",
+   "B": "dat is 59.",
+   "D": "dat is 45."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h08-7d",
+  "bron": "check",
+  "hoofdstuk": 8,
+  "onderwerp": "squelch",
+  "vraag": "Hoe stel je de squelch juist in?",
+  "opties": [
+   "helemaal open",
+   "zonder signaal tot de ruis net wegvalt",
+   "helemaal dicht",
+   "op het maximum volume"
+  ],
+  "juist": "B",
+  "uitleg": "Net tot de ruis wegvalt, niet verder.",
+  "waarom_fout": {
+   "A": "dan hoor je constant ruis.",
+   "C": "dan hoor je zwakke stations niet.",
+   "D": "de squelch is geen volumeknop."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h08-8a",
+  "bron": "check",
+  "hoofdstuk": 8,
+  "onderwerp": "RIT",
+  "vraag": "Wat doet de RIT (clarifier)?",
+  "opties": [
+   "de zendfrequentie veranderen",
+   "de ontvangstfrequentie fijn bijregelen zonder de zendfrequentie te veranderen",
+   "het vermogen regelen",
+   "de band kiezen"
+  ],
+  "juist": "B",
+  "uitleg": "RIT regelt alleen de ontvangst bij.",
+  "waarom_fout": {
+   "A": "net niet.",
+   "C": "nee.",
+   "D": "nee."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h08-8b",
+  "bron": "check",
+  "hoofdstuk": 8,
+  "onderwerp": "SSB",
+  "vraag": "Een SSB-stem klinkt als een tekenfilmfiguur. Wat doe je?",
+  "opties": [
+   "volume hoger",
+   "heel fijn bijregelen aan de frequentie",
+   "squelch dicht",
+   "microfoonversterking hoger"
+  ],
+  "juist": "B",
+  "uitleg": "Je staat net naast de frequentie: fijn bijregelen.",
+  "waarom_fout": {
+   "A": "helpt niet.",
+   "C": "helpt niet.",
+   "D": "dat gaat over je eigen uitzending."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h08-8c",
+  "bron": "check",
+  "hoofdstuk": 8,
+  "onderwerp": "SSB",
+  "vraag": "Wat gebeurt er als de microfoonversterking te hoog staat in SSB?",
+  "opties": [
+   "niets",
+   "vervorming en storing",
+   "je ontvangt beter",
+   "de SWR daalt"
+  ],
+  "juist": "B",
+  "uitleg": "Te hoge microfoonversterking geeft vervorming en storing.",
+  "waarom_fout": {
+   "A": "nee.",
+   "C": "nee.",
+   "D": "nee."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h08-9a",
+  "bron": "check",
+  "hoofdstuk": 8,
+  "onderwerp": "aansluiten",
+  "vraag": "Waarom zend je met laag vermogen als je de SWR meet?",
+  "opties": [
+   "om de zender te beschermen als de SWR hoog is",
+   "om minder stroom te verbruiken",
+   "omdat de meter anders niet werkt",
+   "het moet niet"
+  ],
+  "juist": "A",
+  "uitleg": "Bij een hoge SWR beschermt laag vermogen de eindtrap.",
+  "waarom_fout": {
+   "B": "niet de reden.",
+   "C": "nee.",
+   "D": "het is wel aangeraden."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h08-9b",
+  "bron": "check",
+  "hoofdstuk": 8,
+  "onderwerp": "aansluiten",
+  "vraag": "Je dipool heeft na 1 % inkorten een hogere SWR. Wat nu?",
+  "opties": [
+   "verder inkorten",
+   "hem weer wat langer maken",
+   "meer vermogen geven",
+   "niets"
+  ],
+  "juist": "B",
+  "uitleg": "Gestegen = te ver: weer iets langer.",
+  "waarom_fout": {
+   "A": "maakt het erger.",
+   "C": "vermogen verandert de SWR niet.",
+   "D": "je zoekt het minimum."
+  },
+  "moeilijkheid": 2,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h08-9c",
+  "bron": "check",
+  "hoofdstuk": 8,
+  "onderwerp": "aansluiten",
+  "vraag": "Wat doe je voor je de dipool aanpast?",
+  "opties": [
+   "de zender uitzetten",
+   "het vermogen verhogen",
+   "de squelch openen",
+   "niets"
+  ],
+  "juist": "A",
+  "uitleg": "Nooit een antenne aanraken tijdens het zenden.",
+  "waarom_fout": {
+   "B": "gevaarlijk.",
+   "C": "heeft er niets mee te maken.",
+   "D": "gevaarlijk."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ }
+]

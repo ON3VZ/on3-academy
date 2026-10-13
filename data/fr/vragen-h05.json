@@ -1,0 +1,1571 @@
+[
+ {
+  "id": "C-h05-1a",
+  "vraag": "Vous avez une seule antenne sur le toit. Pouvez-vous émettre et recevoir avec elle ?",
+  "opties": [
+   "uniquement émettre",
+   "uniquement recevoir",
+   "les deux",
+   "seulement si vous utilisez deux câbles"
+  ],
+  "uitleg": "Une antenne fonctionne dans les deux sens.",
+  "waarom_fout": {
+   "A": "elle peut aussi recevoir.",
+   "B": "elle peut aussi émettre.",
+   "D": "un seul câble suffit."
+  },
+  "onderwerp": "antenne"
+ },
+ {
+  "id": "C-h05-1b",
+  "vraag": "Vous rallongez une antenne. Que devient la fréquence de résonance ?",
+  "opties": [
+   "elle augmente",
+   "elle diminue",
+   "elle reste la même",
+   "l'antenne ne fonctionne plus"
+  ],
+  "uitleg": "Plus longue = fréquence plus basse, comme une corde de guitare plus longue donne une note plus grave.",
+  "waarom_fout": {
+   "A": "c'est l'inverse.",
+   "C": "c'est justement la longueur qui détermine la fréquence.",
+   "D": "elle fonctionne encore, mais sur une autre fréquence."
+  },
+  "onderwerp": "antenne"
+ },
+ {
+  "id": "C-h05-1c",
+  "vraag": "Pourquoi une antenne pour le 2 m est-elle beaucoup plus petite qu'une antenne pour le 80 m ?",
+  "opties": [
+   "parce que la VHF est à polarisation verticale",
+   "parce que la longueur d'onde est beaucoup plus courte",
+   "parce qu'une antenne VHF fonctionne autrement",
+   "parce qu'un émetteur VHF a moins de puissance"
+  ],
+  "uitleg": "Les dimensions suivent la longueur d'onde.",
+  "waarom_fout": {
+   "A": "la polarisation ne détermine pas la taille.",
+   "C": "le principe est le même.",
+   "D": "la puissance ne détermine pas la taille."
+  },
+  "onderwerp": "antenne"
+ },
+ {
+  "id": "C-h05-2a",
+  "vraag": "Quelle est la longueur d'un dipôle pour 15 MHz ?",
+  "opties": [
+   "5 m",
+   "10 m",
+   "20 m",
+   "40 m"
+  ],
+  "uitleg": "λ = 300 ÷ 15 = 20 m. La moitié fait 10 m.",
+  "waarom_fout": {
+   "A": "5 m est un quart de longueur d'onde.",
+   "C": "20 m est la longueur d'onde entière.",
+   "D": "40 m est incorrect."
+  },
+  "onderwerp": "dipôle"
+ },
+ {
+  "id": "C-h05-2b",
+  "vraag": "Où le courant est-il le plus grand dans un dipôle demi-onde ?",
+  "opties": [
+   "aux extrémités",
+   "au milieu",
+   "partout le même",
+   "au quart de la longueur"
+  ],
+  "uitleg": "Au milieu (au point d'alimentation), le courant est le plus grand, aux extrémités il est nul.",
+  "waarom_fout": {
+   "A": "là, le courant est nul.",
+   "C": "le courant varie comme une demi-sinusoïde.",
+   "D": "là, il n'est pas encore maximal."
+  },
+  "onderwerp": "dipôle"
+ },
+ {
+  "id": "C-h05-2c",
+  "vraag": "Où raccordez-vous le coaxial sur un dipôle ?",
+  "opties": [
+   "à une extrémité",
+   "au milieu",
+   "aux deux extrémités",
+   "au quart de la longueur"
+  ],
+  "uitleg": "Un dipôle est alimenté au milieu.",
+  "waarom_fout": {
+   "A": "c'est une antenne alimentée en bout.",
+   "C": "non, un seul point d'alimentation, au milieu.",
+   "D": "non, au milieu."
+  },
+  "onderwerp": "dipôle"
+ },
+ {
+  "id": "C-h05-3a",
+  "vraag": "Que fait le plan de sol d'une antenne quart d'onde ?",
+  "opties": [
+   "il maintient l'antenne droite",
+   "comme un miroir, il forme la moitié manquante",
+   "il protège contre la foudre",
+   "il amplifie le signal"
+  ],
+  "uitleg": "Le plan de sol reflète le brin : ensemble, ils se comportent comme un dipôle.",
+  "waarom_fout": {
+   "A": "c'est mécanique, ce n'est pas sa fonction.",
+   "C": "ce n'est pas la raison.",
+   "D": "il n'amplifie rien."
+  },
+  "onderwerp": "plan de sol"
+ },
+ {
+  "id": "C-h05-3b",
+  "vraag": "Comment s'appellent les fils obliques d'une antenne ground plane ?",
+  "opties": [
+   "directeurs",
+   "réflecteurs",
+   "radians",
+   "baluns"
+  ],
+  "uitleg": "Les fils obliques s'appellent des radians.",
+  "waarom_fout": {
+   "A": "les directeurs font partie d'une yagi.",
+   "B": "les réflecteurs font partie d'une yagi.",
+   "D": "un balun est une pièce d'adaptation."
+  },
+  "onderwerp": "ground plane"
+ },
+ {
+  "id": "C-h05-3c",
+  "vraag": "Pourquoi une antenne 5/8 λ a-t-elle une bobine ?",
+  "opties": [
+   "pour mettre l'antenne en résonance",
+   "pour évacuer la foudre",
+   "pour obtenir une polarisation horizontale",
+   "pour produire plus de puissance"
+  ],
+  "uitleg": "Une 5/8 λ n'est pas naturellement en résonance : la bobine règle ce problème.",
+  "waarom_fout": {
+   "B": "ce n'est pas sa fonction.",
+   "C": "l'antenne est verticale, donc polarisation verticale.",
+   "D": "une bobine ne produit pas de puissance."
+  },
+  "onderwerp": "5/8"
+ },
+ {
+  "id": "C-h05-4a",
+  "vraag": "Dans quelle direction une yagi rayonne-t-elle le plus ?",
+  "opties": [
+   "du côté du réflecteur",
+   "du côté des directeurs",
+   "perpendiculairement au support",
+   "partout avec la même force"
+  ],
+  "uitleg": "Du côté des directeurs.",
+  "waarom_fout": {
+   "A": "le réflecteur est à l'arrière.",
+   "C": "c'est le cas d'un dipôle.",
+   "D": "c'est une antenne omnidirectionnelle."
+  },
+  "onderwerp": "yagi"
+ },
+ {
+  "id": "C-h05-4b",
+  "vraag": "Quel élément d'une yagi est un peu plus long que l'élément rayonnant ?",
+  "opties": [
+   "le directeur",
+   "le réflecteur",
+   "le support",
+   "le radian"
+  ],
+  "uitleg": "Le réflecteur est un peu plus long, les directeurs un peu plus courts.",
+  "waarom_fout": {
+   "A": "le directeur est plus court.",
+   "C": "le support n'est pas un élément.",
+   "D": "les radians font partie d'une ground plane."
+  },
+  "onderwerp": "yagi"
+ },
+ {
+  "id": "C-h05-4c",
+  "vraag": "Quelle antenne rayonne avec la même force dans toutes les directions ?",
+  "opties": [
+   "dipôle horizontal",
+   "yagi",
+   "dipôle vertical",
+   "long fil alimenté en bout"
+  ],
+  "uitleg": "Un dipôle vertical est omnidirectionnel.",
+  "waarom_fout": {
+   "A": "deux directions privilégiées.",
+   "B": "antenne directive.",
+   "D": "pas omnidirectionnel."
+  },
+  "onderwerp": "omnidirectionnelle"
+ },
+ {
+  "id": "C-h05-5a",
+  "vraag": "Votre correspondant utilise une antenne verticale sur le 2 m. Comment placez-vous au mieux votre yagi ?",
+  "opties": [
+   "à l'horizontale",
+   "à la verticale",
+   "en oblique, à 45 degrés",
+   "cela n'a pas d'importance"
+  ],
+  "uitleg": "En VHF, les deux côtés doivent utiliser la même polarisation : verticale.",
+  "waarom_fout": {
+   "A": "une polarisation différente donne un signal beaucoup plus faible.",
+   "C": "vous perdez aussi du signal.",
+   "D": "en VHF, cela a justement de l'importance."
+  },
+  "onderwerp": "polarisation"
+ },
+ {
+  "id": "C-h05-5b",
+  "vraag": "Quelle polarisation donne une ground plane ?",
+  "opties": [
+   "horizontale",
+   "verticale",
+   "cela dépend du coaxial",
+   "aucune"
+  ],
+  "uitleg": "L'élément rayonnant est debout, donc polarisation verticale.",
+  "waarom_fout": {
+   "A": "l'élément rayonnant n'est pas couché.",
+   "C": "ce n'est pas le coaxial qui la détermine.",
+   "D": "toute antenne a une polarisation."
+  },
+  "onderwerp": "polarisation"
+ },
+ {
+  "id": "C-h05-6a",
+  "vraag": "Un émetteur fournit 20 W à une antenne de gain 3. PAR ?",
+  "opties": [
+   "23 W",
+   "60 W",
+   "17 W",
+   "6,7 W"
+  ],
+  "uitleg": "20 × 3 = 60 W.",
+  "waarom_fout": {
+   "A": "additionner est faux.",
+   "C": "soustraire est faux.",
+   "D": "diviser est faux."
+  },
+  "onderwerp": "PAR"
+ },
+ {
+  "id": "C-h05-6b",
+  "vraag": "Quelle antenne sert de référence pour le gain dans la PAR ?",
+  "opties": [
+   "la yagi",
+   "le dipôle",
+   "la charge fictive",
+   "la ground plane"
+  ],
+  "uitleg": "Pour la PAR, on compare avec un dipôle.",
+  "waarom_fout": {
+   "A": "c'est justement la yagi qui a du gain par rapport au dipôle.",
+   "C": "une charge fictive ne rayonne pas.",
+   "D": "non, le dipôle."
+  },
+  "onderwerp": "PAR"
+ },
+ {
+  "id": "C-h05-6c",
+  "vraag": "Vous avez 50 W de PAR avec une antenne de gain 5. Combien fournit l'émetteur ?",
+  "opties": [
+   "250 W",
+   "10 W",
+   "45 W",
+   "55 W"
+  ],
+  "uitleg": "P = PAR ÷ G = 50 ÷ 5 = 10 W.",
+  "waarom_fout": {
+   "A": "c'est multiplier au lieu de diviser.",
+   "C": "soustraire est faux.",
+   "D": "additionner est faux."
+  },
+  "onderwerp": "PAR"
+ },
+ {
+  "id": "C-h05-7a",
+  "vraag": "Quelle couche du coaxial transporte le signal ?",
+  "opties": [
+   "la gaine",
+   "le blindage",
+   "le conducteur central",
+   "le diélectrique"
+  ],
+  "uitleg": "Le conducteur central (fil de cuivre au milieu) transporte le signal.",
+  "waarom_fout": {
+   "A": "la gaine protège contre les intempéries.",
+   "B": "le blindage garde le signal à l'intérieur.",
+   "D": "le diélectrique isole."
+  },
+  "onderwerp": "coaxial"
+ },
+ {
+  "id": "C-h05-7b",
+  "vraag": "À quoi sert le diélectrique ?",
+  "opties": [
+   "transporter le signal",
+   "maintenir le conducteur central au milieu",
+   "arrêter l'eau",
+   "rayonner"
+  ],
+  "uitleg": "Le diélectrique isole et maintient le conducteur central au milieu.",
+  "waarom_fout": {
+   "A": "c'est le rôle du conducteur central.",
+   "C": "c'est le rôle de la gaine.",
+   "D": "un câble ne doit pas rayonner."
+  },
+  "onderwerp": "coaxial"
+ },
+ {
+  "id": "C-h05-7c",
+  "vraag": "Quel connecteur se ferme d'un quart de tour (baïonnette) ?",
+  "opties": [
+   "PL259",
+   "BNC",
+   "N",
+   "SMA"
+  ],
+  "uitleg": "La BNC a une fixation à baïonnette.",
+  "waarom_fout": {
+   "A": "la PL259 a une bague à visser.",
+   "C": "la N a une bague à visser.",
+   "D": "la SMA a un filetage."
+  },
+  "onderwerp": "connecteur"
+ },
+ {
+  "id": "C-h05-8a",
+  "vraag": "Quel ROS est parfait ?",
+  "opties": [
+   "0",
+   "1 : 1",
+   "2 : 1",
+   "infini"
+  ],
+  "uitleg": "1 : 1 signifie : rien ne revient.",
+  "waarom_fout": {
+   "A": "le ROS ne peut pas être inférieur à 1.",
+   "C": "2 : 1 est acceptable, pas parfait.",
+   "D": "infini = tout revient."
+  },
+  "onderwerp": "ROS"
+ },
+ {
+  "id": "C-h05-8b",
+  "vraag": "Que devient la puissance réfléchie dans l'émetteur (sans boîte d'accord) ?",
+  "opties": [
+   "elle est émise à nouveau",
+   "elle devient de la chaleur",
+   "elle disparaît",
+   "elle recharge la batterie"
+  ],
+  "uitleg": "Elle est transformée en chaleur et peut endommager l'étage final.",
+  "waarom_fout": {
+   "A": "non.",
+   "C": "l'énergie ne disparaît pas.",
+   "D": "non."
+  },
+  "onderwerp": "ROS"
+ },
+ {
+  "id": "C-h05-8c",
+  "vraag": "Votre ROS est soudain élevé sur une fréquence qui était bonne avant. Que vérifiez-vous d'abord ?",
+  "opties": [
+   "le microphone",
+   "l'antenne et le coaxial",
+   "le modulateur",
+   "l'alimentation"
+  ],
+  "uitleg": "Un ROS soudain élevé indique un défaut dans l'antenne ou le câble.",
+  "waarom_fout": {
+   "A": "le microphone n'influence pas le ROS.",
+   "C": "le modulateur non plus.",
+   "D": "l'alimentation non plus."
+  },
+  "onderwerp": "ROS"
+ },
+ {
+  "id": "C-h05-8d",
+  "vraag": "Votre dipôle donne le ROS le plus bas sur 6,9 MHz, mais vous voulez 7,1 MHz. Que faites-vous ?",
+  "opties": [
+   "raccourcir un peu le dipôle",
+   "rallonger un peu le dipôle",
+   "augmenter la puissance",
+   "prendre un autre coaxial"
+  ],
+  "uitleg": "Minimum trop bas en fréquence = antenne trop longue : raccourcir.",
+  "waarom_fout": {
+   "B": "plus long abaisse encore la fréquence.",
+   "C": "la puissance ne change pas le ROS.",
+   "D": "c'est la longueur de l'antenne qui pose problème."
+  },
+  "onderwerp": "ROS"
+ },
+ {
+  "id": "C-h05-9a",
+  "vraag": "Que change une boîte d'accord au ROS entre la boîte d'accord et l'antenne ?",
+  "opties": [
+   "il devient 1 : 1",
+   "rien",
+   "il augmente",
+   "il devient nul"
+  ],
+  "uitleg": "Une boîte d'accord ne change rien à l'antenne. Seul l'émetteur voit 1 : 1.",
+  "waarom_fout": {
+   "A": "c'est entre l'émetteur et la boîte d'accord.",
+   "C": "non.",
+   "D": "le ROS ne peut pas être nul."
+  },
+  "onderwerp": "boîte d'accord"
+ },
+ {
+  "id": "C-h05-9b",
+  "vraag": "Où placez-vous la boîte d'accord ?",
+  "opties": [
+   "entre l'émetteur et le câble d'antenne",
+   "entre le microphone et l'émetteur",
+   "dans l'alimentation",
+   "en haut du mât, après l'antenne"
+  ],
+  "uitleg": "La boîte d'accord se place entre l'émetteur (avec le ROS-mètre) et le câble vers l'antenne.",
+  "waarom_fout": {
+   "B": "là, c'est l'audio.",
+   "C": "non.",
+   "D": "après l'antenne, il n'y a plus rien."
+  },
+  "onderwerp": "boîte d'accord"
+ },
+ {
+  "id": "C-h05-9c",
+  "vraag": "À quoi sert surtout une boîte d'accord ?",
+  "opties": [
+   "à utiliser une antenne HF sur plus de fréquences",
+   "à modifier la polarisation",
+   "à obtenir plus de gain",
+   "à améliorer la modulation"
+  ],
+  "uitleg": "Avec une boîte d'accord, vous pouvez aussi utiliser une antenne sur des fréquences pour lesquelles elle n'est pas à la bonne dimension.",
+  "waarom_fout": {
+   "B": "la polarisation dépend de l'antenne.",
+   "C": "une boîte d'accord ne donne pas de gain.",
+   "D": "la modulation n'a rien à voir avec cela."
+  },
+  "onderwerp": "boîte d'accord"
+ },
+ {
+  "id": "C-h05-10a",
+  "vraag": "Que signifie balun ?",
+  "opties": [
+   "balanced to unbalanced",
+   "band luminance unit",
+   "basic antenna line unit",
+   "balanced uniform"
+  ],
+  "uitleg": "Balun = balanced (symétrique) to unbalanced (asymétrique).",
+  "waarom_fout": {
+   "B": "inventé.",
+   "C": "inventé.",
+   "D": "inventé."
+  },
+  "onderwerp": "balun"
+ },
+ {
+  "id": "C-h05-10b",
+  "vraag": "Le câble coaxial est-il symétrique ou asymétrique ?",
+  "opties": [
+   "symétrique",
+   "asymétrique",
+   "cela dépend de la longueur",
+   "cela dépend de la fréquence"
+  ],
+  "uitleg": "À l'intérieur un fil, à l'extérieur un tube : deux parties différentes.",
+  "waarom_fout": {
+   "A": "les parties ne sont pas identiques.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "symétrie"
+ },
+ {
+  "id": "C-h05-10c",
+  "vraag": "Que se passe-t-il si vous raccordez un coaxial à un dipôle sans balun ?",
+  "opties": [
+   "l'antenne ne fonctionne pas du tout",
+   "l'extérieur du coaxial se met à rayonner aussi",
+   "la polarisation tourne",
+   "l'émetteur explose"
+  ],
+  "uitleg": "Cela fonctionne, mais le blindage se met à rayonner aussi : plus de risques de perturbations.",
+  "waarom_fout": {
+   "A": "cela fonctionne quand même.",
+   "C": "la polarisation reste la même.",
+   "D": "non."
+  },
+  "onderwerp": "balun"
+ },
+ {
+  "id": "C-h05-11a",
+  "vraag": "Que devient la puissance dans une charge fictive ?",
+  "opties": [
+   "elle est rayonnée",
+   "elle devient de la chaleur",
+   "elle retourne vers l'émetteur",
+   "elle est stockée"
+  ],
+  "uitleg": "Une charge fictive transforme la puissance en chaleur.",
+  "waarom_fout": {
+   "A": "justement pas : elle ne rayonne rien.",
+   "C": "le ROS est justement très bas.",
+   "D": "non."
+  },
+  "onderwerp": "charge fictive"
+ },
+ {
+  "id": "C-h05-11b",
+  "vraag": "Quand utilisez-vous une charge fictive ?",
+  "opties": [
+   "pour porter plus loin en HF",
+   "pour tester un émetteur sans perturber",
+   "pour améliorer le ROS de votre antenne",
+   "pour recevoir"
+  ],
+  "uitleg": "Vous testez l'émetteur sans rayonner.",
+  "waarom_fout": {
+   "A": "rien ne part dans l'air.",
+   "C": "elle remplace l'antenne, elle ne l'améliore pas.",
+   "D": "elle sert à émettre sans rayonner."
+  },
+  "onderwerp": "charge fictive"
+ },
+ {
+  "id": "E-h05-01",
+  "vraag": "Quelle est la longueur approximative d'un dipôle demi-onde pour 7 MHz ?",
+  "opties": [
+   "10,7 m",
+   "21,4 m",
+   "42,9 m",
+   "85,7 m"
+  ],
+  "uitleg": "λ = 300 ÷ 7 ≈ 42,9 m. La moitié ≈ 21,4 m.",
+  "waarom_fout": {
+   "A": "c'est un quart d'onde.",
+   "C": "c'est la longueur d'onde entière.",
+   "D": "le double de la longueur d'onde."
+  },
+  "onderwerp": "dipôle"
+ },
+ {
+  "id": "E-h05-02",
+  "vraag": "Quelle est la longueur approximative d'une antenne quart d'onde pour 145 MHz ?",
+  "opties": [
+   "13 cm",
+   "52 cm",
+   "1,03 m",
+   "2,07 m"
+  ],
+  "uitleg": "λ = 300 ÷ 145 ≈ 2,07 m. Un quart ≈ 0,52 m.",
+  "waarom_fout": {
+   "A": "trop court.",
+   "C": "c'est une demi-longueur d'onde (dipôle).",
+   "D": "c'est la longueur d'onde entière."
+  },
+  "onderwerp": "quart d'onde"
+ },
+ {
+  "id": "E-h05-03",
+  "vraag": "Un dipôle mesure 5 m. Pour quelle fréquence est-il conçu ?",
+  "opties": [
+   "15 MHz",
+   "30 MHz",
+   "60 MHz",
+   "7,5 MHz"
+  ],
+  "uitleg": "λ = 2 × 5 = 10 m. f = 300 ÷ 10 = 30 MHz.",
+  "waarom_fout": {
+   "A": "vous obtenez 15 MHz si vous prenez 5 m comme un quart de longueur d'onde. Un dipôle est une demi-longueur d'onde.",
+   "C": "5 m serait alors la longueur d'onde entière.",
+   "D": "la longueur d'onde serait alors de 40 m, ce qui ne correspond pas à un dipôle de 5 m."
+  },
+  "onderwerp": "dipôle"
+ },
+ {
+  "id": "E-h05-04",
+  "vraag": "Un émetteur fournit 5 W à une yagi de gain 8. PAR ?",
+  "opties": [
+   "13 W",
+   "40 W",
+   "3 W",
+   "0,6 W"
+  ],
+  "uitleg": "5 × 8 = 40 W.",
+  "waarom_fout": {
+   "A": "addition.",
+   "C": "soustraction.",
+   "D": "division."
+  },
+  "onderwerp": "PAR"
+ },
+ {
+  "id": "E-h05-05",
+  "vraag": "Que devient la PAR si vous prenez une antenne avec plus de gain en gardant la même puissance d'émission ?",
+  "opties": [
+   "elle diminue",
+   "elle augmente",
+   "elle reste la même",
+   "elle devient nulle"
+  ],
+  "uitleg": "PAR = P × G : plus de gain donne une PAR plus grande.",
+  "waarom_fout": {
+   "A": "c'est l'inverse.",
+   "C": "le gain fait partie de la formule.",
+   "D": "non."
+  },
+  "onderwerp": "PAR"
+ },
+ {
+  "id": "E-h05-06",
+  "vraag": "Quel élément d'une yagi est raccordé au coaxial ?",
+  "opties": [
+   "le réflecteur",
+   "le directeur",
+   "l'élément rayonnant",
+   "le support"
+  ],
+  "uitleg": "Seul l'élément rayonnant (un dipôle) est alimenté.",
+  "waarom_fout": {
+   "A": "le réflecteur n'est pas raccordé.",
+   "B": "le directeur non plus.",
+   "D": "le support ne fait que porter les éléments."
+  },
+  "onderwerp": "yagi"
+ },
+ {
+  "id": "E-h05-07",
+  "vraag": "Quelle est la longueur approximative de chaque radian d'une ground plane ?",
+  "opties": [
+   "λ/8",
+   "λ/4",
+   "λ/2",
+   "λ"
+  ],
+  "uitleg": "Chaque radian mesure environ un quart de longueur d'onde.",
+  "waarom_fout": {
+   "A": "trop court.",
+   "C": "c'est la longueur d'un dipôle.",
+   "D": "beaucoup trop long."
+  },
+  "onderwerp": "ground plane"
+ },
+ {
+  "id": "E-h05-08",
+  "vraag": "Que mesure en fait un ROS-mètre ?",
+  "opties": [
+   "la fréquence",
+   "le rapport entre la puissance aller et la puissance réfléchie",
+   "le taux de modulation",
+   "le gain de l'antenne"
+  ],
+  "uitleg": "Il compare ce qui va vers l'antenne avec ce qui revient.",
+  "waarom_fout": {
+   "A": "pour cela, il faut un fréquencemètre.",
+   "C": "non.",
+   "D": "le gain ne se mesure pas ainsi."
+  },
+  "onderwerp": "ROS"
+ },
+ {
+  "id": "E-h05-09",
+  "vraag": "Que peut endommager un ROS trop élevé ?",
+  "opties": [
+   "le microphone",
+   "l'étage final (amplificateur de puissance RF)",
+   "le haut-parleur",
+   "l'antenne"
+  ],
+  "uitleg": "La puissance réfléchie devient de la chaleur dans l'étage final.",
+  "waarom_fout": {
+   "A": "non.",
+   "C": "non.",
+   "D": "l'antenne n'est pas endommagée par le ROS."
+  },
+  "onderwerp": "ROS"
+ },
+ {
+  "id": "E-h05-10",
+  "vraag": "Quelle couche du coaxial protège surtout contre l'eau ?",
+  "opties": [
+   "conducteur central",
+   "diélectrique",
+   "blindage",
+   "gaine"
+  ],
+  "uitleg": "La gaine résiste aux intempéries et est surtout étanche.",
+  "waarom_fout": {
+   "A": "transporte le signal.",
+   "B": "isole et centre.",
+   "C": "garde la RF à l'intérieur."
+  },
+  "onderwerp": "coaxial"
+ },
+ {
+  "id": "E-h05-11",
+  "vraag": "Quel connecteur est surtout utilisé en VHF et UHF, aussi à l'extérieur ?",
+  "opties": [
+   "cinch",
+   "N",
+   "DIN",
+   "jack"
+  ],
+  "uitleg": "Le connecteur N est étanche et convient pour la VHF et l'UHF.",
+  "waarom_fout": {
+   "A": "audio.",
+   "C": "données/audio.",
+   "D": "audio."
+  },
+  "onderwerp": "connecteur"
+ },
+ {
+  "id": "E-h05-12",
+  "vraag": "Comment raccordez-vous le coaxial à une ground plane ?",
+  "opties": [
+   "conducteur central à l'élément rayonnant, blindage aux radians",
+   "blindage à l'élément rayonnant, conducteur central aux radians",
+   "les deux à l'élément rayonnant",
+   "avec un balun"
+  ],
+  "uitleg": "Conducteur central vers l'élément rayonnant, blindage vers le plan de sol (radians).",
+  "waarom_fout": {
+   "B": "c'est l'inverse.",
+   "C": "il n'y a alors pas de contrepoids.",
+   "D": "les deux sont asymétriques, un balun n'est pas nécessaire."
+  },
+  "onderwerp": "symétrie"
+ },
+ {
+  "id": "E-h05-13",
+  "vraag": "Pourquoi la polarisation a-t-elle peu d'importance en HF via l'ionosphère ?",
+  "opties": [
+   "parce que la HF n'a pas de polarisation",
+   "parce que la polarisation change au hasard lors de la réflexion",
+   "parce que toutes les antennes HF sont verticales",
+   "parce que le coaxial la corrige"
+  ],
+  "uitleg": "Lors de la réflexion dans l'ionosphère, la polarisation change au hasard.",
+  "waarom_fout": {
+   "A": "toute onde a une polarisation.",
+   "C": "non, beaucoup d'antennes HF sont horizontales.",
+   "D": "le coaxial n'agit pas sur la polarisation."
+  },
+  "onderwerp": "polarisation"
+ },
+ {
+  "id": "E-h05-14",
+  "vraag": "Quel ROS voit un émetteur raccordé à une bonne charge fictive de 50 Ω ?",
+  "opties": [
+   "environ 1 : 1",
+   "environ 3 : 1",
+   "infini",
+   "on ne peut pas le mesurer"
+  ],
+  "uitleg": "Une bonne charge fictive est parfaitement adaptée : ROS d'environ 1 : 1.",
+  "waarom_fout": {
+   "B": "elle serait alors mauvaise.",
+   "C": "tout reviendrait alors.",
+   "D": "on peut le mesurer."
+  },
+  "onderwerp": "charge fictive"
+ },
+ {
+  "id": "E-h05-15",
+  "vraag": "De quoi dépend la fréquence de résonance d'un long fil alimenté en bout ?",
+  "opties": [
+   "uniquement de la puissance",
+   "de la longueur et de la hauteur au-dessus du sol",
+   "uniquement du coaxial",
+   "de la modulation"
+  ],
+  "uitleg": "La longueur et la hauteur au-dessus du sol déterminent la résonance.",
+  "waarom_fout": {
+   "A": "la puissance ne joue aucun rôle.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "long fil"
+ },
+ {
+  "id": "O138",
+  "vraag": "Pour le transport de signaux RF, on peut :",
+  "opties": [
+   "utiliser n'importe quel câble étanche",
+   "utiliser du câble coaxial",
+   "utiliser un cordon secteur à trois conducteurs",
+   "utiliser un cordon secteur à deux conducteurs"
+  ],
+  "uitleg": "Les signaux RF passent par du câble coaxial : il est bien blindé.",
+  "waarom_fout": {
+   "A": "étanche ne dit rien sur le blindage.",
+   "C": "un cordon secteur n'est pas blindé et n'est pas conçu pour la RF.",
+   "D": "de même, un cordon secteur n'est pas une ligne de transmission."
+  },
+  "onderwerp": "ligne de transmission et connecteurs"
+ },
+ {
+  "id": "O139",
+  "vraag": "Le câble coaxial convient pour le transport de signaux RF parce que ce câble :",
+  "opties": [
+   "est bon marché et se trouve partout",
+   "est souple et étanche",
+   "a de bonnes propriétés de blindage",
+   "rayonne bien le signal RF"
+  ],
+  "uitleg": "Le coaxial convient parce qu'il est bien blindé : il ne rayonne pas et ne capte pas de perturbations.",
+  "waarom_fout": {
+   "A": "le prix n'est pas la raison.",
+   "B": "souple et étanche, c'est un plus, mais ce n'est pas la raison.",
+   "D": "un câble ne doit justement pas rayonner, c'est le rôle de l'antenne."
+  },
+  "onderwerp": "ligne de transmission et connecteurs"
+ },
+ {
+  "id": "O140",
+  "vraag": "Comme connecteur RF :",
+  "opties": [
+   "tout connecteur capable de supporter la puissance utilisée convient",
+   "seuls des connecteurs conçus spécialement à cet effet conviennent",
+   "seuls des connecteurs BNC conviennent",
+   "seuls des connecteurs PL-259 conviennent"
+  ],
+  "uitleg": "Seuls des connecteurs conçus spécialement pour la RF conviennent.",
+  "waarom_fout": {
+   "A": "supporter la puissance ne suffit pas : le connecteur doit aussi convenir pour la RF.",
+   "C": "la BNC en fait partie, mais ce n'est pas la seule.",
+   "D": "la PL-259 en fait partie, mais ce n'est pas la seule."
+  },
+  "onderwerp": "ligne de transmission et connecteurs"
+ },
+ {
+  "id": "O141",
+  "vraag": "Le blindage d'un câble coaxial doit être bien raccordé au connecteur RF :",
+  "opties": [
+   "pour éviter qu'un signal RF soit rayonné ou capté",
+   "pour que la liaison entre le câble et le connecteur soit bien étanche",
+   "sinon le blindage du câble risque de se détacher avec le temps",
+   "pour que la force de traction sur le câble soit répartie uniformément"
+  ],
+  "uitleg": "Le blindage doit être bien fixé pour qu'aucun signal RF ne sorte ni n'entre.",
+  "waarom_fout": {
+   "B": "l'étanchéité se fait avec du ruban ou de la gaine thermorétractable, pas avec le blindage.",
+   "C": "il s'agit du signal, pas de la solidité mécanique.",
+   "D": "la décharge de traction n'est pas la raison."
+  },
+  "onderwerp": "ligne de transmission et connecteurs"
+ },
+ {
+  "id": "O142",
+  "vraag": "Lequel des connecteurs est un connecteur PL-259 ?",
+  "opties": [
+   "connecteur A",
+   "connecteur B",
+   "connecteur C",
+   "connecteur D"
+  ],
+  "uitleg": "C est la PL-259 : fiche épaisse avec bague à visser et broche.",
+  "waarom_fout": {
+   "A": "A est une BNC (baïonnette).",
+   "B": "B est une fiche cinch (RCA, audio).",
+   "D": "D est une fiche DIN."
+  },
+  "onderwerp": "ligne de transmission et connecteurs"
+ },
+ {
+  "id": "O143",
+  "vraag": "Lequel des connecteurs est un connecteur BNC ?",
+  "opties": [
+   "connecteur A",
+   "connecteur B",
+   "connecteur C",
+   "connecteur D"
+  ],
+  "uitleg": "A est la BNC : reconnaissable à sa fixation à baïonnette.",
+  "waarom_fout": {
+   "B": "B est une fiche cinch (RCA, audio).",
+   "C": "C est une PL-259.",
+   "D": "D est une fiche DIN."
+  },
+  "onderwerp": "ligne de transmission et connecteurs"
+ },
+ {
+  "id": "O144",
+  "vraag": "Quelle est la partie châssis (femelle) pour un connecteur PL-259 ?",
+  "opties": [
+   "connecteur A",
+   "connecteur B",
+   "connecteur C",
+   "connecteur D"
+  ],
+  "uitleg": "B est la partie châssis (SO-239) dans laquelle on visse une PL-259.",
+  "waarom_fout": {
+   "A": "A est une prise jack (audio).",
+   "C": "C est une partie châssis BNC.",
+   "D": "D est une partie châssis DIN."
+  },
+  "onderwerp": "ligne de transmission et connecteurs"
+ },
+ {
+  "id": "O145",
+  "vraag": "Lequel des connecteurs est un connecteur BNC ?",
+  "opties": [
+   "connecteur A",
+   "connecteur B",
+   "connecteur C",
+   "connecteur D"
+  ],
+  "uitleg": "C est la partie châssis BNC : petite bride carrée avec un ergot de baïonnette.",
+  "waarom_fout": {
+   "A": "A est une prise jack.",
+   "B": "B est la partie châssis pour une PL-259.",
+   "D": "D est une partie châssis DIN."
+  },
+  "onderwerp": "ligne de transmission et connecteurs"
+ },
+ {
+  "id": "O146",
+  "vraag": "Une antenne peut :",
+  "opties": [
+   "uniquement transformer des signaux électriques en ondes radio",
+   "uniquement transformer des ondes radio en signaux électriques",
+   "aussi bien transformer des signaux électriques en ondes radio que l'inverse",
+   "uniquement transformer des signaux électriques en signaux magnétiques"
+  ],
+  "uitleg": "Une antenne fonctionne dans les deux sens : émission et réception.",
+  "waarom_fout": {
+   "A": "elle peut aussi recevoir.",
+   "B": "elle peut aussi émettre.",
+   "D": "il s'agit d'ondes radio, pas de signaux magnétiques."
+  },
+  "onderwerp": "fonction de l'antenne"
+ },
+ {
+  "id": "O147",
+  "vraag": "La transformation de signaux électriques en ondes radio se fait dans :",
+  "opties": [
+   "le modulateur",
+   "l'amplificateur de puissance",
+   "la ligne de transmission",
+   "l'antenne"
+  ],
+  "uitleg": "Du signal électrique à l'onde radio : cela se fait dans l'antenne.",
+  "waarom_fout": {
+   "A": "le modulateur combine l'audio et la porteuse.",
+   "B": "l'amplificateur de puissance rend le signal plus fort.",
+   "C": "la ligne de transmission ne fait qu'amener le signal à l'antenne."
+  },
+  "onderwerp": "fonction de l'antenne"
+ },
+ {
+  "id": "O148",
+  "vraag": "La transformation d'ondes radio en signaux électriques se fait dans :",
+  "opties": [
+   "le microphone",
+   "l'antenne",
+   "la ligne de transmission",
+   "le démodulateur"
+  ],
+  "uitleg": "De l'onde radio au signal électrique : cela se fait dans l'antenne.",
+  "waarom_fout": {
+   "A": "le microphone transforme du son, pas des ondes radio.",
+   "C": "la ligne de transmission ne fait que transporter le signal.",
+   "D": "le démodulateur extrait la parole du signal, mais celui-ci est déjà électrique."
+  },
+  "onderwerp": "fonction de l'antenne"
+ },
+ {
+  "id": "O149",
+  "vraag": "La polarisation d'une onde radio :",
+  "opties": [
+   "correspond à la direction de l'antenne : une antenne placée à l'horizontale produit des ondes à polarisation horizontale",
+   "correspond à la direction de la ligne de transmission : une ligne de transmission placée à l'horizontale produit des ondes à polarisation horizontale",
+   "est perpendiculaire à la direction de l'antenne : une antenne placée à l'horizontale produit des ondes à polarisation verticale",
+   "est perpendiculaire à la direction de la ligne de transmission : une ligne de transmission placée à l'horizontale produit des ondes à polarisation verticale"
+  ],
+  "uitleg": "La polarisation suit la direction de l'antenne.",
+  "waarom_fout": {
+   "B": "la ligne de transmission ne détermine pas la polarisation.",
+   "C": "elle n'est pas perpendiculaire, mais dans la même direction.",
+   "D": "la ligne de transmission ne joue aucun rôle."
+  },
+  "onderwerp": "polarisation"
+ },
+ {
+  "id": "O150",
+  "vraag": "Pour produire une onde radio à polarisation horizontale, il faut :",
+  "opties": [
+   "utiliser une antenne placée à la verticale",
+   "utiliser une ligne de transmission placée à la verticale",
+   "utiliser une antenne placée à l'horizontale",
+   "utiliser une ligne de transmission placée à l'horizontale"
+  ],
+  "onderwerp": "polarisation"
+ },
+ {
+  "id": "O151",
+  "vraag": "Pour produire une onde radio à polarisation verticale, il faut :",
+  "opties": [
+   "utiliser une antenne placée à la verticale",
+   "utiliser une ligne de transmission placée à la verticale",
+   "utiliser une antenne placée à l'horizontale",
+   "utiliser une ligne de transmission placée à l'horizontale"
+  ],
+  "onderwerp": "polarisation"
+ },
+ {
+  "id": "O152",
+  "vraag": "Laquelle des antennes est un dipôle λ/2 horizontal ?",
+  "opties": [
+   "antenne A",
+   "antenne B",
+   "antenne C",
+   "antenne D"
+  ],
+  "uitleg": "B est un seul trait horizontal avec une interruption au milieu : un dipôle horizontal.",
+  "waarom_fout": {
+   "A": "A a une bobine et un plan de sol : une 5/8 λ.",
+   "C": "C est un dipôle vertical.",
+   "D": "D est une yagi."
+  },
+  "onderwerp": "reconnaître les antennes"
+ },
+ {
+  "id": "O153",
+  "vraag": "Laquelle des antennes est un dipôle λ/2 vertical ?",
+  "opties": [
+   "antenne A",
+   "antenne B",
+   "antenne C",
+   "antenne D"
+  ],
+  "uitleg": "C est un seul trait vertical avec une interruption au milieu : un dipôle vertical.",
+  "waarom_fout": {
+   "A": "A est une 5/8 λ avec bobine.",
+   "B": "B est un dipôle horizontal.",
+   "D": "D est une yagi."
+  },
+  "onderwerp": "reconnaître les antennes"
+ },
+ {
+  "id": "O154",
+  "vraag": "Laquelle des antennes est une antenne Yagi ?",
+  "opties": [
+   "antenne A",
+   "antenne B",
+   "antenne C",
+   "antenne D"
+  ],
+  "uitleg": "D a plusieurs éléments parallèles sur un support : une yagi.",
+  "waarom_fout": {
+   "A": "A est une 5/8 λ.",
+   "B": "B est un dipôle horizontal.",
+   "C": "C est un dipôle vertical."
+  },
+  "onderwerp": "reconnaître les antennes"
+ },
+ {
+  "id": "O155",
+  "vraag": "Laquelle des antennes est une ground plane λ/4 :",
+  "opties": [
+   "antenne A",
+   "antenne B",
+   "antenne C",
+   "antenne D"
+  ],
+  "uitleg": "D est un brin vers le haut avec des radians obliques vers le bas : une ground plane.",
+  "waarom_fout": {
+   "A": "A est une 5/8 λ avec bobine.",
+   "B": "B est un long fil entre deux mâts.",
+   "C": "C est un dipôle vertical."
+  },
+  "onderwerp": "reconnaître les antennes"
+ },
+ {
+  "id": "O156",
+  "vraag": "Laquelle des antennes est une antenne long fil alimentée en bout ?",
+  "opties": [
+   "antenne A",
+   "antenne B",
+   "antenne C",
+   "antenne D"
+  ],
+  "uitleg": "B est un long fil entre deux mâts, alimenté d'un côté avec une mise à la terre : un long fil alimenté en bout.",
+  "waarom_fout": {
+   "A": "A est une 5/8 λ.",
+   "C": "C est un dipôle vertical.",
+   "D": "D est une ground plane."
+  },
+  "onderwerp": "reconnaître les antennes"
+ },
+ {
+  "id": "O157",
+  "vraag": "Laquelle des antennes est une antenne 5/8λ ?",
+  "opties": [
+   "antenne A",
+   "antenne B",
+   "antenne C",
+   "antenne D"
+  ],
+  "uitleg": "A est un brin avec une bobine à la base sur un plan de sol : une 5/8 λ.",
+  "waarom_fout": {
+   "B": "B est un dipôle horizontal.",
+   "C": "C est un dipôle vertical.",
+   "D": "D est une yagi."
+  },
+  "onderwerp": "reconnaître les antennes"
+ },
+ {
+  "id": "O158",
+  "vraag": "L'antenne représentée sur cette figure est une :",
+  "opties": [
+   "antenne ground plane λ/4",
+   "antenne 5/8λ",
+   "antenne dipôle",
+   "antenne Yagi"
+  ],
+  "uitleg": "Beaucoup de brins parallèles sur un seul support : une yagi.",
+  "waarom_fout": {
+   "A": "une ground plane a un brin vers le haut et des radians obliques.",
+   "B": "une 5/8 λ est un seul brin avec une bobine.",
+   "C": "un dipôle est un seul brin avec une interruption."
+  },
+  "onderwerp": "reconnaître les antennes"
+ },
+ {
+  "id": "O159",
+  "vraag": "L'antenne représentée sur cette figure est une :",
+  "opties": [
+   "antenne ground plane λ/4",
+   "antenne 5/8λ",
+   "antenne dipôle",
+   "antenne Yagi"
+  ],
+  "uitleg": "Deux brins alignés avec le point d'alimentation au milieu : un dipôle.",
+  "waarom_fout": {
+   "A": "une ground plane a des radians obliques.",
+   "B": "une 5/8 λ est verticale, avec une bobine.",
+   "D": "une yagi a plusieurs éléments parallèles."
+  },
+  "onderwerp": "reconnaître les antennes"
+ },
+ {
+  "id": "O160",
+  "vraag": "L'antenne représentée sur cette figure est une :",
+  "opties": [
+   "antenne ground plane λ/4",
+   "antenne 5/8λ",
+   "antenne dipôle",
+   "antenne Yagi"
+  ],
+  "uitleg": "Un brin vers le haut et des brins obliques vers le bas : une ground plane λ/4.",
+  "waarom_fout": {
+   "B": "une 5/8 λ a une bobine et pas de radians.",
+   "C": "un dipôle est un seul brin avec une interruption.",
+   "D": "une yagi a des éléments parallèles sur un support."
+  },
+  "onderwerp": "reconnaître les antennes"
+ },
+ {
+  "id": "O161",
+  "vraag": "Les dimensions des antennes HF et VHF sont différentes parce que :",
+  "opties": [
+   "les antennes fonctionnent selon un autre principe",
+   "les dimensions d'une antenne dépendent de la longueur d'onde pour laquelle cette antenne est utilisée",
+   "les dimensions d'une antenne sont indépendantes de la longueur d'onde pour laquelle cette antenne est utilisée",
+   "les antennes HF sont à polarisation horizontale et les antennes VHF à polarisation verticale"
+  ],
+  "uitleg": "Les dimensions dépendent de la longueur d'onde : en HF, l'onde est beaucoup plus longue qu'en VHF.",
+  "waarom_fout": {
+   "A": "le principe est le même.",
+   "C": "c'est l'inverse : elles en dépendent justement.",
+   "D": "la polarisation n'a rien à voir avec les dimensions."
+  },
+  "onderwerp": "dimensions, directivité, gain"
+ },
+ {
+  "id": "O162",
+  "vraag": "Les antennes HF et VHF fonctionnent selon :",
+  "opties": [
+   "un principe différent parce qu'elles ont une autre polarisation",
+   "un principe différent parce qu'elles ont des dimensions totalement différentes",
+   "un principe différent parce qu'elles fonctionnent sur des fréquences totalement différentes",
+   "le même principe"
+  ],
+  "uitleg": "Les antennes HF et VHF fonctionnent selon le même principe ; seule la taille diffère.",
+  "waarom_fout": {
+   "A": "la polarisation ne change pas le principe.",
+   "B": "d'autres dimensions, mais le même principe.",
+   "C": "une autre fréquence, mais le même principe."
+  },
+  "onderwerp": "dimensions, directivité, gain"
+ },
+ {
+  "id": "O163",
+  "vraag": "La longueur d'un dipôle λ/2 est d'environ :",
+  "opties": [
+   "une longueur d'onde entière",
+   "5/8 de longueur d'onde",
+   "une demi-longueur d'onde",
+   "un quart de longueur d'onde"
+  ],
+  "uitleg": "Un dipôle λ/2 mesure environ une demi-longueur d'onde.",
+  "waarom_fout": {
+   "A": "une longueur d'onde entière est deux fois plus longue.",
+   "B": "5/8 λ est une autre antenne.",
+   "D": "un quart de longueur d'onde, c'est une antenne quart d'onde."
+  },
+  "onderwerp": "dimensions, directivité, gain"
+ },
+ {
+  "id": "O164",
+  "vraag": "Laquelle des antennes ci-dessous n'est pas omnidirectionnelle ?",
+  "opties": [
+   "une antenne ground plane",
+   "une antenne λ/2 horizontale",
+   "une antenne λ/2 verticale",
+   "une antenne 5/8λ"
+  ],
+  "uitleg": "Un dipôle λ/2 horizontal rayonne surtout perpendiculairement au fil : deux directions privilégiées, donc pas omnidirectionnel.",
+  "waarom_fout": {
+   "A": "une ground plane est omnidirectionnelle.",
+   "C": "un dipôle vertical est omnidirectionnel.",
+   "D": "une 5/8 λ est omnidirectionnelle."
+  },
+  "onderwerp": "dimensions, directivité, gain"
+ },
+ {
+  "id": "O165",
+  "vraag": "Laquelle des antennes ci-dessous est omnidirectionnelle ?",
+  "opties": [
+   "une antenne ground plane",
+   "une antenne λ/2 horizontale",
+   "une antenne yagi",
+   "une antenne long fil alimentée en bout"
+  ],
+  "uitleg": "Une ground plane est omnidirectionnelle.",
+  "waarom_fout": {
+   "B": "un dipôle horizontal a deux directions privilégiées.",
+   "C": "une yagi est une antenne directive.",
+   "D": "un long fil n'est pas omnidirectionnel."
+  },
+  "onderwerp": "dimensions, directivité, gain"
+ },
+ {
+  "id": "O166",
+  "vraag": "Laquelle des antennes ci-dessous est omnidirectionnelle :",
+  "opties": [
+   "une antenne λ/2 horizontale",
+   "une antenne λ/2 verticale",
+   "une antenne yagi",
+   "une antenne long fil alimentée en bout"
+  ],
+  "uitleg": "Un dipôle λ/2 vertical est omnidirectionnel.",
+  "waarom_fout": {
+   "A": "le dipôle horizontal a deux directions privilégiées.",
+   "C": "une yagi est une antenne directive.",
+   "D": "un long fil n'est pas omnidirectionnel."
+  },
+  "onderwerp": "dimensions, directivité, gain"
+ },
+ {
+  "id": "O167",
+  "vraag": "Laquelle des antennes ci-dessous est omnidirectionnelle :",
+  "opties": [
+   "antenne long fil alimentée en bout",
+   "une antenne λ/2 horizontale",
+   "une antenne yagi",
+   "une antenne 5/8λ"
+  ],
+  "uitleg": "Une 5/8 λ est omnidirectionnelle.",
+  "waarom_fout": {
+   "A": "un long fil n'est pas omnidirectionnel.",
+   "B": "un dipôle horizontal a deux directions privilégiées.",
+   "C": "une yagi est une antenne directive."
+  },
+  "onderwerp": "dimensions, directivité, gain"
+ },
+ {
+  "id": "O168",
+  "vraag": "Laquelle des antennes ci-dessous est une antenne directive :",
+  "opties": [
+   "une antenne ground plane λ/4",
+   "une antenne λ/2 verticale",
+   "une antenne yagi",
+   "une antenne 5/8λ"
+  ],
+  "uitleg": "La yagi est une antenne directive.",
+  "waarom_fout": {
+   "A": "une ground plane est omnidirectionnelle.",
+   "B": "un dipôle vertical est omnidirectionnel.",
+   "D": "une 5/8 λ est omnidirectionnelle."
+  },
+  "onderwerp": "dimensions, directivité, gain"
+ },
+ {
+  "id": "O169",
+  "vraag": "Le gain d'une antenne Yagi est la conséquence :",
+  "opties": [
+   "de l'utilisation d'un alliage métallique spécifique",
+   "de la concentration du rayonnement",
+   "de la polarisation horizontale",
+   "de la polarisation verticale"
+  ],
+  "uitleg": "Le gain d'une yagi vient de la concentration du rayonnement dans une seule direction.",
+  "waarom_fout": {
+   "A": "le métal ne joue aucun rôle dans le gain.",
+   "C": "la polarisation indique seulement dans quelle direction l'onde oscille.",
+   "D": "de même, la polarisation ne donne pas de gain."
+  },
+  "onderwerp": "dimensions, directivité, gain"
+ },
+ {
+  "id": "O170",
+  "vraag": "La puissance apparente rayonnée (PAR ou ERP), exprimée en watts, est :",
+  "opties": [
+   "la différence entre la puissance fournie à l'antenne et le gain de l'antenne",
+   "le rapport entre la puissance fournie à l'antenne et le gain de l'antenne",
+   "la somme de la puissance fournie à l'antenne et du gain de l'antenne",
+   "le produit de la puissance fournie à l'antenne et du gain de l'antenne"
+  ],
+  "uitleg": "La PAR est le produit : puissance fournie à l'antenne multipliée par le gain de l'antenne.",
+  "waarom_fout": {
+   "A": "pas une différence (moins).",
+   "B": "pas un rapport (division).",
+   "C": "pas une somme (plus)."
+  },
+  "onderwerp": "PAR"
+ },
+ {
+  "id": "O171",
+  "vraag": "Si l'on alimente une antenne de gain 4 avec une puissance de 10 watts, la puissance apparente rayonnée (PAR ou ERP) est égale à :",
+  "opties": [
+   "6 watts",
+   "2,5 watts",
+   "14 watts",
+   "40 watts"
+  ],
+  "uitleg": "PAR = 10 W × 4 = 40 W.",
+  "waarom_fout": {
+   "A": "6 W, c'est 10 moins 4.",
+   "B": "2,5 W, c'est 10 divisé par 4.",
+   "C": "14 W, c'est 10 plus 4."
+  },
+  "onderwerp": "PAR"
+ },
+ {
+  "id": "O172",
+  "vraag": "Un système d'antenne doit :",
+  "opties": [
+   "convenir pour toutes les bandes amateurs que l'on peut utiliser",
+   "convenir spécifiquement à l'émetteur que l'on utilise, avec d'autres modèles d'émetteurs il ne fonctionnera pas",
+   "convenir pour la fréquence sur laquelle on veut émettre",
+   "convenir pour la modulation que l'on veut utiliser, un système d'antenne adapté à la SSB ne fonctionnera pas en CW"
+  ],
+  "uitleg": "Le système d'antenne doit convenir pour la fréquence sur laquelle vous émettez.",
+  "waarom_fout": {
+   "A": "il ne doit pas nécessairement fonctionner sur toutes les bandes à la fois.",
+   "B": "la marque ou le modèle de l'émetteur n'a pas d'importance.",
+   "D": "la modulation n'a pas d'importance pour l'antenne."
+  },
+  "onderwerp": "adaptation et boîte d'accord"
+ },
+ {
+  "id": "O173",
+  "vraag": "Si un système d'antenne ne convient pas pour la fréquence utilisée :",
+  "opties": [
+   "on ne peut pas l'utiliser selon l'arrêté ministériel relatif à l'établissement et à la mise en service de stations radio par des radioamateurs du 9 janvier 2001",
+   "on peut l'utiliser selon l'arrêté ministériel relatif à l'établissement et à la mise en service de stations radio par des radioamateurs du 9 janvier 2001, mais il faut le mentionner dans le carnet de trafic.",
+   "il sera adapté à l'émetteur et l'antenne fonctionnera donc efficacement",
+   "il ne sera pas adapté à l'émetteur et l'antenne ne fonctionnera donc pas efficacement"
+  ],
+  "uitleg": "Un système d'antenne qui ne convient pas pour la fréquence n'est pas adapté et ne fonctionne pas efficacement.",
+  "waarom_fout": {
+   "A": "c'est un problème technique, pas une interdiction. De plus, cette réponse renvoie à une ancienne réglementation (AM de 2001) ; aujourd'hui, c'est l'AR du 18 décembre 2009 qui s'applique.",
+   "B": "il n'y a aucune obligation de le noter dans le carnet de trafic, et cette réponse renvoie elle aussi à l'ancienne réglementation de 2001.",
+   "C": "c'est l'inverse : il n'est justement pas adapté."
+  },
+  "onderwerp": "adaptation et boîte d'accord"
+ },
+ {
+  "id": "O174",
+  "vraag": "Si une antenne n'est pas construite pour la fréquence sur laquelle on veut l'utiliser :",
+  "opties": [
+   "une boîte d'accord d'antenne (ATU) peut permettre à l'émetteur de délivrer quand même efficacement sa puissance au système d'antenne",
+   "on peut quand même l'utiliser sur cette fréquence moyennant une autorisation préalable de l'IBPT",
+   "on peut quand même l'utiliser sur cette fréquence moyennant une simple déclaration à l'IBPT",
+   "on ne peut en aucun cas l'utiliser sur cette fréquence"
+  ],
+  "uitleg": "Une boîte d'accord permet à l'émetteur de délivrer quand même efficacement sa puissance au système d'antenne.",
+  "waarom_fout": {
+   "B": "aucune autorisation de l'IBPT n'est nécessaire pour cela.",
+   "C": "ni aucune déclaration.",
+   "D": "avec une boîte d'accord, c'est possible."
+  },
+  "onderwerp": "adaptation et boîte d'accord"
+ },
+ {
+  "id": "O175",
+  "vraag": "Laquelle des antennes ci-dessous est une antenne symétrique :",
+  "opties": [
+   "une antenne long fil alimentée en bout",
+   "un dipôle λ/2",
+   "une antenne ground plane λ/4",
+   "une antenne 5/8λ"
+  ],
+  "uitleg": "Un dipôle λ/2 a deux moitiés identiques : symétrique.",
+  "waarom_fout": {
+   "A": "un long fil est asymétrique.",
+   "C": "une ground plane est asymétrique.",
+   "D": "une 5/8 λ est asymétrique."
+  },
+  "onderwerp": "symétrique et asymétrique"
+ },
+ {
+  "id": "O176",
+  "vraag": "Laquelle des antennes ci-dessous est une antenne symétrique :",
+  "opties": [
+   "une antenne Yagi",
+   "une antenne long fil alimentée en bout",
+   "une antenne ground plane λ/4",
+   "une antenne 5/8λ"
+  ],
+  "uitleg": "Une yagi est symétrique : l'élément alimenté est un dipôle.",
+  "waarom_fout": {
+   "B": "un long fil est asymétrique.",
+   "C": "une ground plane est asymétrique.",
+   "D": "une 5/8 λ est asymétrique."
+  },
+  "onderwerp": "symétrique et asymétrique"
+ },
+ {
+  "id": "O177",
+  "vraag": "Laquelle des antennes ci-dessous est une antenne asymétrique :",
+  "opties": [
+   "une antenne Yagi",
+   "un dipôle λ/2 horizontal",
+   "un dipôle λ/2 vertical",
+   "une antenne 5/8λ"
+  ],
+  "uitleg": "Une 5/8 λ est asymétrique : l'élément rayonnant et le plan de sol sont différents.",
+  "waarom_fout": {
+   "A": "une yagi est symétrique.",
+   "B": "un dipôle est symétrique, même horizontal.",
+   "C": "un dipôle est symétrique, même vertical."
+  },
+  "onderwerp": "symétrique et asymétrique"
+ },
+ {
+  "id": "O178",
+  "vraag": "Laquelle des antennes ci-dessous est une antenne asymétrique :",
+  "opties": [
+   "une antenne Yagi",
+   "une antenne ground plane λ/4",
+   "un dipôle λ/2 horizontal",
+   "un dipôle λ/2 vertical"
+  ],
+  "uitleg": "Une ground plane λ/4 est asymétrique : l'élément rayonnant et les radians sont différents.",
+  "waarom_fout": {
+   "A": "une yagi est symétrique.",
+   "C": "un dipôle est symétrique.",
+   "D": "un dipôle est symétrique."
+  },
+  "onderwerp": "symétrique et asymétrique"
+ },
+ {
+  "id": "O179",
+  "vraag": "Laquelle des antennes ci-dessous est une antenne asymétrique :",
+  "opties": [
+   "une antenne long fil alimentée en bout",
+   "une antenne Yagi",
+   "un dipôle λ/2 horizontal",
+   "un dipôle λ/2 vertical"
+  ],
+  "uitleg": "Un long fil alimenté en bout est asymétrique : d'un côté le fil, de l'autre la terre.",
+  "waarom_fout": {
+   "B": "une yagi est symétrique.",
+   "C": "un dipôle est symétrique.",
+   "D": "un dipôle est symétrique."
+  },
+  "onderwerp": "symétrique et asymétrique"
+ },
+ {
+  "id": "O180",
+  "vraag": "Un ROS-mètre indique que :",
+  "opties": [
+   "l'émetteur n'est pas surmodulé",
+   "le système d'antenne est adapté à l'émetteur",
+   "la stabilité de fréquence de l'émetteur est suffisante",
+   "l'excursion de fréquence d'un émetteur FM n'est pas trop grande"
+  ],
+  "uitleg": "Un ROS-mètre montre si le système d'antenne est adapté à l'émetteur.",
+  "waarom_fout": {
+   "A": "la surmodulation ne se mesure pas avec un ROS-mètre.",
+   "C": "la stabilité de fréquence non plus.",
+   "D": "l'excursion de fréquence non plus."
+  },
+  "onderwerp": "ROS"
+ },
+ {
+  "id": "O181",
+  "vraag": "Si l'on mesure un ROS élevé à l'émetteur, une cause possible est :",
+  "opties": [
+   "un défaut dans l'amplificateur de puissance RF de l'émetteur",
+   "un défaut dans le modulateur de l'émetteur",
+   "un défaut dans l'amplificateur micro de l'émetteur",
+   "un défaut dans l'antenne"
+  ],
+  "uitleg": "Un ROS élevé peut indiquer un défaut dans l'antenne.",
+  "waarom_fout": {
+   "A": "le ROS-mètre mesure l'adaptation de l'antenne et du câble, pas l'étage final.",
+   "B": "le modulateur n'a aucune influence sur le ROS.",
+   "C": "l'amplificateur micro non plus."
+  },
+  "onderwerp": "ROS"
+ },
+ {
+  "id": "O182",
+  "vraag": "Si l'on mesure un ROS élevé à l'émetteur, une cause possible est :",
+  "opties": [
+   "un défaut dans l'amplificateur de puissance RF de l'émetteur",
+   "un défaut dans la ligne de transmission entre l'émetteur et l'antenne",
+   "un défaut dans l'amplificateur micro de l'émetteur",
+   "un défaut dans le modulateur de l'émetteur"
+  ],
+  "uitleg": "Un ROS élevé peut indiquer un défaut dans la ligne de transmission (câble ou connecteur).",
+  "waarom_fout": {
+   "A": "le défaut ne se trouve pas dans l'émetteur.",
+   "C": "l'amplificateur micro n'a aucune influence sur le ROS.",
+   "D": "le modulateur non plus."
+  },
+  "onderwerp": "ROS"
+ },
+ {
+  "id": "O183",
+  "vraag": "Une antenne fictive (dummy load) est :",
+  "opties": [
+   "une résistance blindée qui, lorsqu'elle est raccordée à la place d'un système d'antenne, permet à l'émetteur de fonctionner sans émettre de signal",
+   "une antenne parfaitement omnidirectionnelle, qui n'existe pas en réalité",
+   "une antenne avec un gain d'antenne parfait, qui n'existe pas en réalité",
+   "le projet d'une antenne qui n'a pas encore été construite ni testée"
+  ],
+  "uitleg": "Une charge fictive est une résistance blindée : l'émetteur fonctionne, mais rien n'est émis.",
+  "waarom_fout": {
+   "B": "ce n'est pas une antenne, même pas une antenne parfaite.",
+   "C": "elle n'a pas de gain, c'est une résistance.",
+   "D": "ce n'est pas un projet mais un vrai composant."
+  },
+  "onderwerp": "charge fictive"
+ }
+]

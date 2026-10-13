@@ -1,0 +1,370 @@
+[
+ {
+  "id": "C-h06-1a",
+  "bron": "check",
+  "hoofdstuk": 6,
+  "onderwerp": "propagatie",
+  "vraag": "Met welk verschijnsel lijkt de propagatie van radiogolven het meest?",
+  "opties": [
+   "geluid in water",
+   "licht",
+   "stroom in een draad",
+   "wind"
+  ],
+  "juist": "B",
+  "uitleg": "Radiogolven gedragen zich zoals licht: rechtdoor, weerkaatsen, afbuigen.",
+  "waarom_fout": {
+   "A": "nee.",
+   "C": "nee, de golf reist door de ruimte.",
+   "D": "nee."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h06-1b",
+  "bron": "check",
+  "hoofdstuk": 6,
+  "onderwerp": "propagatie",
+  "vraag": "Wat gebeurt er met een radiogolf die tegen een grote metalen wand botst?",
+  "opties": [
+   "ze verdwijnt",
+   "ze wordt weerkaatst",
+   "ze wordt sterker",
+   "ze verandert van frequentie"
+  ],
+  "juist": "B",
+  "uitleg": "Een golf kaatst terug op een wand, zoals licht op een spiegel.",
+  "waarom_fout": {
+   "A": "ze kaatst terug.",
+   "C": "een golf wordt nooit sterker.",
+   "D": "de frequentie blijft gelijk."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h06-1c",
+  "bron": "check",
+  "hoofdstuk": 6,
+  "onderwerp": "propagatie",
+  "vraag": "Rond welke frequentie ligt de grens tussen HF en VHF?",
+  "opties": [
+   "3 MHz",
+   "30 MHz",
+   "300 MHz",
+   "3 000 MHz"
+  ],
+  "juist": "B",
+  "uitleg": "HF loopt tot 30 MHz, daarboven begint VHF.",
+  "waarom_fout": {
+   "A": "3 MHz is midden in het HF-gebied (80 m ligt rond 3,5 MHz).",
+   "C": "300 MHz is de grens VHF/UHF.",
+   "D": "veel te hoog."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h06-2a",
+  "bron": "check",
+  "hoofdstuk": 6,
+  "onderwerp": "schaduw",
+  "vraag": "Op welke band maakt een gewoon gebouw al een schaduwzone?",
+  "opties": [
+   "80 m",
+   "20 m",
+   "70 cm",
+   "160 m"
+  ],
+  "juist": "C",
+  "uitleg": "Op 70 cm is de golf zo kort dat zelfs een gewoon gebouw een schaduw werpt.",
+  "waarom_fout": {
+   "A": "HF: de golf is veel langer dan het gebouw.",
+   "B": "HF.",
+   "D": "HF."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h06-2b",
+  "bron": "check",
+  "hoofdstuk": 6,
+  "onderwerp": "gebouw",
+  "vraag": "Wat laat VHF en UHF het best door?",
+  "opties": [
+   "gewapend beton",
+   "een dikke bakstenen muur",
+   "glas",
+   "een metalen deur"
+  ],
+  "juist": "C",
+  "uitleg": "Glas laat de golf goed door.",
+  "waarom_fout": {
+   "A": "beton met metaal houdt veel tegen.",
+   "B": "dikke muren houden veel tegen.",
+   "D": "metaal houdt alles tegen."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h06-2c",
+  "bron": "check",
+  "hoofdstuk": 6,
+  "onderwerp": "schaduw",
+  "vraag": "Waarom is er op HF bijna geen schaduwzone achter een heuvel?",
+  "opties": [
+   "omdat HF-zenders sterker zijn",
+   "omdat de golf veel langer is dan de meeste obstakels",
+   "omdat HF altijd horizontaal is",
+   "omdat HF niet rechtdoor gaat"
+  ],
+  "juist": "B",
+  "uitleg": "Een obstakel werpt pas een schaduw als het groot is tegenover de golflengte.",
+  "waarom_fout": {
+   "A": "vermogen is niet de reden.",
+   "C": "polarisatie is niet de reden.",
+   "D": "ook HF gaat in principe rechtdoor."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h06-3a",
+  "bron": "check",
+  "hoofdstuk": 6,
+  "onderwerp": "bereik",
+  "vraag": "Je wilt op 2 m beter ontvangen. Wat helpt?",
+  "opties": [
+   "meer zendvermogen",
+   "de antenne hoger zetten",
+   "een lagere antenne",
+   "minder vermogen"
+  ],
+  "juist": "B",
+  "uitleg": "Hoogte helpt bij ontvangen; vermogen niet.",
+  "waarom_fout": {
+   "A": "vermogen helpt alleen bij zenden.",
+   "C": "lager is slechter.",
+   "D": "vermogen speelt bij ontvangen geen rol."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h06-3b",
+  "bron": "check",
+  "hoofdstuk": 6,
+  "onderwerp": "bereik",
+  "vraag": "Welke band heeft (bij gelijke antennehoogte) het grootste bereik?",
+  "opties": [
+   "2 m",
+   "70 cm",
+   "23 cm",
+   "allemaal even groot"
+  ],
+  "juist": "A",
+  "uitleg": "Op VHF/UHF geldt: lagere frequentie = groter bereik. 2 m is de laagste van de drie.",
+  "waarom_fout": {
+   "B": "hogere frequentie, kleiner bereik.",
+   "C": "nog hogere frequentie.",
+   "D": "de frequentie speelt mee."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h06-3c",
+  "bron": "check",
+  "hoofdstuk": 6,
+  "onderwerp": "bereik",
+  "vraag": "Tot waar reikt een VHF-signaal meestal?",
+  "opties": [
+   "een paar meter",
+   "ongeveer de horizon",
+   "de andere kant van de wereld",
+   "de maan, altijd"
+  ],
+  "juist": "B",
+  "uitleg": "Meestal niet veel verder dan de horizon.",
+  "waarom_fout": {
+   "A": "veel verder.",
+   "C": "dat is HF via de ionosfeer.",
+   "D": "nee."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h06-3d",
+  "bron": "check",
+  "hoofdstuk": 6,
+  "onderwerp": "bereik",
+  "vraag": "Waarom is een hogere antenne beter dan meer vermogen?",
+  "opties": [
+   "het is goedkoper",
+   "het helpt bij zenden én ontvangen",
+   "het verbruikt minder stroom",
+   "het verandert de polarisatie"
+  ],
+  "juist": "B",
+  "uitleg": "Een hogere antenne helpt in beide richtingen, meer vermogen alleen bij zenden.",
+  "waarom_fout": {
+   "A": "de prijs is niet de reden die je moet kennen.",
+   "C": "dat is niet de reden.",
+   "D": "de polarisatie blijft gelijk."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h06-4a",
+  "bron": "check",
+  "hoofdstuk": 6,
+  "onderwerp": "ionosfeer",
+  "vraag": "Hoe hoog ligt de ionosfeer?",
+  "opties": [
+   "1 tot 10 km",
+   "70 tot 400 km",
+   "1 000 tot 5 000 km",
+   "36 000 km"
+  ],
+  "juist": "B",
+  "uitleg": "70 tot 400 km.",
+  "waarom_fout": {
+   "A": "dat is de troposfeer.",
+   "C": "te hoog.",
+   "D": "dat is de hoogte van geostationaire satellieten."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h06-4b",
+  "bron": "check",
+  "hoofdstuk": 6,
+  "onderwerp": "ionosfeer",
+  "vraag": "Wat maakt het gas in de ionosfeer geladen (geïoniseerd)?",
+  "opties": [
+   "de radioamateurs",
+   "de straling van de zon",
+   "de maan",
+   "de wind"
+  ],
+  "juist": "B",
+  "uitleg": "De zon ioniseert de gaslagen.",
+  "waarom_fout": {
+   "A": "nee.",
+   "C": "nee.",
+   "D": "nee."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h06-4c",
+  "bron": "check",
+  "hoofdstuk": 6,
+  "onderwerp": "ionosfeer",
+  "vraag": "Wat gebeurt er meestal met een 144 MHz-golf die naar de ionosfeer gaat?",
+  "opties": [
+   "ze kaatst terug",
+   "ze gaat erdoor, de ruimte in",
+   "ze wordt sterker",
+   "ze wordt HF"
+  ],
+  "juist": "B",
+  "uitleg": "VHF gaat meestal door de ionosfeer heen.",
+  "waarom_fout": {
+   "A": "dat doet HF.",
+   "C": "nee.",
+   "D": "de frequentie verandert niet."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h06-5a",
+  "bron": "check",
+  "hoofdstuk": 6,
+  "onderwerp": "condities",
+  "vraag": "Wat heeft geen invloed op de HF-condities?",
+  "opties": [
+   "het uur van de dag",
+   "het seizoen",
+   "de modulatie (SSB of CW)",
+   "de zonnevlekkencyclus"
+  ],
+  "juist": "C",
+  "uitleg": "De modulatie speelt geen rol bij de reflectie.",
+  "waarom_fout": {
+   "A": "heeft wel invloed.",
+   "B": "heeft wel invloed.",
+   "D": "heeft wel invloed."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h06-5b",
+  "bron": "check",
+  "hoofdstuk": 6,
+  "onderwerp": "condities",
+  "vraag": "Hoe lang duurt een zonnevlekkencyclus ongeveer?",
+  "opties": [
+   "1 jaar",
+   "4 jaar",
+   "11 jaar",
+   "50 jaar"
+  ],
+  "juist": "C",
+  "uitleg": "Ongeveer 11 jaar.",
+  "waarom_fout": {
+   "A": "te kort.",
+   "B": "te kort.",
+   "D": "te lang."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h06-5c",
+  "bron": "check",
+  "hoofdstuk": 6,
+  "onderwerp": "condities",
+  "vraag": "Waarom kom je overdag op 80 m niet ver?",
+  "opties": [
+   "omdat de D-laag lage frequenties opslokt",
+   "omdat de zon de antenne opwarmt",
+   "omdat er overdag meer amateurs zijn",
+   "omdat de F-laag dan verdwijnt"
+  ],
+  "juist": "A",
+  "uitleg": "Overdag slokt de D-laag de lage frequenties op.",
+  "waarom_fout": {
+   "B": "nee.",
+   "C": "nee.",
+   "D": "de F-laag is er overdag net wel."
+  },
+  "moeilijkheid": 2,
+  "svg": null,
+  "status": "ok"
+ }
+]

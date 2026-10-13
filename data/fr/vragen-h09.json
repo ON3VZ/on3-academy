@@ -1,0 +1,754 @@
+[
+ {
+  "id": "O254",
+  "vraag": "Les hautes tensions présentent un danger de :",
+  "opties": [
+   "surchauffe",
+   "électrocution",
+   "rayonnement radio dangereux",
+   "forte consommation d'énergie"
+  ],
+  "uitleg": "Haute tension : danger d'électrocution.",
+  "waarom_fout": {
+   "A": "la surchauffe vient d'un courant élevé.",
+   "C": "il s'agit d'électricité, pas de rayonnement.",
+   "D": "la consommation d'énergie n'est pas un danger pour la sécurité."
+  },
+  "onderwerp": "sécurité électrique"
+ },
+ {
+  "id": "O255",
+  "vraag": "Il y a un danger d'électrocution en présence de :",
+  "opties": [
+   "champs magnétiques intenses",
+   "rayonnement radio dangereux",
+   "courants élevés",
+   "hautes tensions"
+  ],
+  "onderwerp": "sécurité électrique"
+ },
+ {
+  "id": "O256",
+  "vraag": "Les courants élevés présentent un danger de :",
+  "opties": [
+   "incendie ou surchauffe",
+   "électrocution",
+   "perturbation d'autres appareils",
+   "rayonnement radio dangereux"
+  ],
+  "uitleg": "Courant élevé : danger d'incendie ou de surchauffe.",
+  "waarom_fout": {
+   "B": "l'électrocution vient d'une haute tension.",
+   "C": "la perturbation n'est pas un danger pour la sécurité lié au courant élevé.",
+   "D": "il ne s'agit pas de rayonnement."
+  },
+  "onderwerp": "sécurité électrique"
+ },
+ {
+  "id": "O257",
+  "vraag": "Il y a un danger d'incendie ou de surchauffe en présence de :",
+  "opties": [
+   "hautes tensions",
+   "rayonnement radio dangereux",
+   "courants élevés",
+   "champs magnétiques intenses"
+  ],
+  "onderwerp": "sécurité électrique"
+ },
+ {
+  "id": "O258",
+  "vraag": "Les appareils raccordés au réseau électrique doivent avoir une terre de sécurité :",
+  "opties": [
+   "pour permettre la charge électrostatique",
+   "pour éviter un rayonnement radio dangereux",
+   "pour éviter l'électrocution",
+   "pour garder la consommation de courant la plus basse possible"
+  ],
+  "uitleg": "La terre de sécurité évite l'électrocution : en cas de défaut, le courant passe par la terre.",
+  "waarom_fout": {
+   "A": "se charger, c'est justement ce qu'on ne veut pas.",
+   "B": "la mise à la terre n'a rien à voir avec le rayonnement radio.",
+   "D": "la mise à la terre n'économise pas de courant."
+  },
+  "onderwerp": "sécurité électrique"
+ },
+ {
+  "id": "O259",
+  "vraag": "On peut éviter l'électrocution en ce qui concerne les appareils raccordés au réseau électrique :",
+  "opties": [
+   "en les chargeant électrostatiquement",
+   "en les équipant d'une bonne terre de sécurité",
+   "en les éteignant le moins souvent possible",
+   "en ne les utilisant pas par temps d'orage"
+  ],
+  "onderwerp": "sécurité électrique"
+ },
+ {
+  "id": "O260",
+  "vraag": "Les appareils électriques doivent être équipés d'un fusible :",
+  "opties": [
+   "pour éviter un rayonnement radio dangereux",
+   "pour rendre la charge électrostatique impossible",
+   "pour éviter l'électrocution",
+   "pour éviter la surchauffe ou l'incendie dus à un courant trop élevé"
+  ],
+  "uitleg": "Un fusible évite la surchauffe ou l'incendie dus à un courant trop élevé.",
+  "waarom_fout": {
+   "A": "un fusible ne fait rien contre le rayonnement.",
+   "B": "non.",
+   "C": "contre l'électrocution, c'est la terre qui sert."
+  },
+  "onderwerp": "sécurité électrique"
+ },
+ {
+  "id": "O261",
+  "vraag": "Le danger d'incendie ou de surchauffe d'un appareil peut être évité :",
+  "opties": [
+   "en prévoyant une bonne terre HF",
+   "en équipant l'appareil d'un fusible",
+   "en prévoyant une bonne terre de sécurité",
+   "en n'utilisant pas l'appareil à une température ambiante supérieure à 25 ºC"
+  ],
+  "onderwerp": "sécurité électrique"
+ },
+ {
+  "id": "O262",
+  "vraag": "Quand on effectue des travaux sur un appareil :",
+  "opties": [
+   "on doit d'abord retirer la fiche du cordon secteur",
+   "on doit d'abord brancher la fiche du cordon secteur sur le réseau électrique, car sinon on n'a plus de terre de sécurité",
+   "que la fiche du cordon secteur soit branchée ou non sur le réseau électrique ne joue aucun rôle",
+   "seuls les mineurs doivent d'abord retirer la fiche du cordon secteur"
+  ],
+  "uitleg": "D'abord retirer la fiche.",
+  "waarom_fout": {
+   "B": "extrêmement dangereux.",
+   "C": "cela joue justement un grand rôle.",
+   "D": "cela vaut pour tout le monde."
+  },
+  "onderwerp": "sécurité électrique"
+ },
+ {
+  "id": "O263",
+  "vraag": "Un cordon secteur a 3 fils de raccordement : un bleu, un brun et un jaune-vert. Quel est le bon raccordement sur la fiche secteur ?",
+  "opties": [
+   "le fil bleu et le fil jaune-vert à la tension du réseau, le brun à la terre de sécurité",
+   "le fil brun et le fil jaune-vert à la tension du réseau, le bleu à la terre de sécurité",
+   "le fil bleu et le fil brun à la tension du réseau, le jaune-vert à la terre de sécurité",
+   "n'importe quel raccordement est bon, la tension du réseau est en effet une tension alternative"
+  ],
+  "uitleg": "Le bleu et le brun à la tension du réseau, le jaune-vert à la terre.",
+  "waarom_fout": {
+   "A": "le jaune-vert n'est jamais un fil de tension du réseau.",
+   "B": "le jaune-vert n'est jamais un fil de tension du réseau, le bleu n'est jamais la terre.",
+   "D": "la terre doit aller sur la broche de terre, même avec une tension alternative."
+  },
+  "onderwerp": "sécurité électrique"
+ },
+ {
+  "id": "O264",
+  "vraag": "La raison principale pour laquelle on doit avoir un interrupteur clairement indiqué pour couper tout l'équipement est :",
+  "opties": [
+   "pour être sûr de couper tous les appareils le soir, afin qu'il n'y ait pas de consommation d'énergie inutile la nuit",
+   "pour couper rapidement et sûrement tous les appareils en cas d'urgence",
+   "parce que c'est une vieille tradition des radioamateurs",
+   "pour pouvoir allumer rapidement tous les appareils si une station radio très rare devient soudain active"
+  ],
+  "uitleg": "Pour couper rapidement et sûrement tous les appareils en cas d'urgence.",
+  "waarom_fout": {
+   "A": "économiser de l'énergie n'est pas la raison.",
+   "C": "ce n'est pas une tradition, c'est une question de sécurité.",
+   "D": "il s'agit de couper en cas d'urgence."
+  },
+  "onderwerp": "sécurité électrique"
+ },
+ {
+  "id": "O265",
+  "vraag": "Que doit-on faire en tout premier lieu en cas d'accident électrique :",
+  "opties": [
+   "couper la tension du réseau",
+   "noter cet accident dans mon carnet de trafic",
+   "tirer la victime électrocutée pour l'éloigner",
+   "prévenir les services de secours"
+  ],
+  "uitleg": "D'abord couper la tension du réseau.",
+  "waarom_fout": {
+   "B": "le carnet de trafic n'a aucune importance à ce moment-là.",
+   "C": "tirer la victime sous tension fait de vous une deuxième victime.",
+   "D": "d'abord couper, ensuite appeler."
+  },
+  "onderwerp": "sécurité électrique"
+ },
+ {
+  "id": "O266",
+  "vraag": "En cas d'accident électrique :",
+  "opties": [
+   "on doit refroidir la victime le plus vite possible en versant de l'eau sur elle",
+   "seule la victime elle-même peut couper la tension du réseau, pour ne pas mettre d'autres personnes en danger",
+   "on ne peut toucher la victime qu'après avoir coupé la tension du réseau",
+   "on ne peut pas non plus toucher la victime après avoir coupé la tension du réseau, car elle peut encore être chargée électrostatiquement"
+  ],
+  "uitleg": "Ne toucher la victime qu'une fois la tension coupée.",
+  "waarom_fout": {
+   "A": "l'eau est conductrice : dangereux.",
+   "B": "tout le monde peut et doit couper la tension.",
+   "D": "une fois la tension coupée, vous pouvez bel et bien toucher et aider la victime."
+  },
+  "onderwerp": "sécurité électrique"
+ },
+ {
+  "id": "O267",
+  "vraag": "Les fils qui traînent peuvent être dangereux :",
+  "opties": [
+   "parce qu'ils peuvent être la cause d'interférences (perturbations)",
+   "parce qu'ils peuvent facilement être volés",
+   "parce qu'ils peuvent influencer défavorablement le diagramme de rayonnement de l'antenne",
+   "parce qu'on peut trébucher dessus"
+  ],
+  "uitleg": "On peut trébucher dessus.",
+  "waarom_fout": {
+   "A": "la perturbation n'est pas un danger pour la sécurité lié aux fils qui traînent.",
+   "B": "le vol n'est pas un danger pour la sécurité.",
+   "C": "le diagramme de rayonnement n'a rien à voir ici."
+  },
+  "onderwerp": "installation et sécurité des antennes"
+ },
+ {
+  "id": "O268",
+  "vraag": "Les fils qui traînent peuvent être dangereux :",
+  "opties": [
+   "parce qu'ils peuvent être la cause d'interférences (perturbations)",
+   "parce qu'ils peuvent influencer défavorablement le diagramme de rayonnement de l'antenne",
+   "parce que l'isolant du fil peut être endommagé",
+   "parce qu'ils peuvent facilement être volés"
+  ],
+  "uitleg": "L'isolant peut être abîmé.",
+  "waarom_fout": {
+   "A": "la perturbation n'est pas le danger pour la sécurité.",
+   "B": "le diagramme de rayonnement n'a rien à voir ici.",
+   "D": "le vol n'est pas un danger pour la sécurité."
+  },
+  "onderwerp": "installation et sécurité des antennes"
+ },
+ {
+  "id": "O269",
+  "vraag": "Lors du montage d'antennes et de fils au-dessus du sol, on doit, pour des raisons de sécurité, veiller à ce que :",
+  "opties": [
+   "ils soient bien placés et solidement fixés",
+   "toutes les prescriptions urbanistiques soient respectées",
+   "tout soit peint dans une couleur discrète",
+   "ils ne causent pas trop de nuisances sonores par grand vent"
+  ],
+  "uitleg": "Bien placés et solidement fixés.",
+  "waarom_fout": {
+   "B": "l'urbanisme est une autre question, pas la sécurité.",
+   "C": "la couleur ne joue aucun rôle pour la sécurité.",
+   "D": "le bruit n'est pas une question de sécurité."
+  },
+  "onderwerp": "installation et sécurité des antennes"
+ },
+ {
+  "id": "O270",
+  "vraag": "Lors du montage d'antennes et de fils au-dessus du sol, on doit, pour des raisons de sécurité, veiller à ce que :",
+  "opties": [
+   "toutes les prescriptions urbanistiques soient respectées",
+   "ils ne soient pas placés trop près de lignes électriques aériennes",
+   "tout soit peint dans une couleur discrète",
+   "ils ne causent pas trop de nuisances sonores par grand vent"
+  ],
+  "uitleg": "Pas trop près de lignes électriques aériennes.",
+  "waarom_fout": {
+   "A": "l'urbanisme n'est pas une règle de sécurité.",
+   "C": "la couleur ne joue aucun rôle.",
+   "D": "le bruit n'est pas une question de sécurité."
+  },
+  "onderwerp": "installation et sécurité des antennes"
+ },
+ {
+  "id": "O271",
+  "vraag": "Lors de l'installation d'une antenne, il est indiqué :",
+  "opties": [
+   "de le faire seul, pour que des objets qui tombent ne puissent pas blesser d'autres personnes",
+   "que quelqu'un apporte son aide",
+   "de le faire un jour de grand vent, pour savoir tout de suite si l'antenne tient bien",
+   "de ne pas le faire le dimanche, pour ne pas déranger les voisins"
+  ],
+  "uitleg": "Quelqu'un doit aider.",
+  "waarom_fout": {
+   "A": "travailler seul est justement dangereux.",
+   "C": "beaucoup de vent, c'est dangereux.",
+   "D": "le jour de la semaine n'est pas une question de sécurité."
+  },
+  "onderwerp": "installation et sécurité des antennes"
+ },
+ {
+  "id": "O272",
+  "vraag": "Lors de l'installation d'une antenne :",
+  "opties": [
+   "on doit toujours prévenir l'IBPT à l'avance",
+   "on doit toujours demander une autorisation à l'IBPT à l'avance",
+   "au moins un adulte doit toujours être présent",
+   "on doit toujours utiliser une échelle"
+  ],
+  "uitleg": "Au moins un adulte doit toujours être présent.",
+  "waarom_fout": {
+   "A": "il n'est pas nécessaire de prévenir l'IBPT.",
+   "B": "aucune autorisation de l'IBPT n'est nécessaire pour installer une antenne.",
+   "D": "une échelle n'est pas toujours nécessaire."
+  },
+  "onderwerp": "installation et sécurité des antennes"
+ },
+ {
+  "id": "O273",
+  "vraag": "Pour des raisons de sécurité, l'antenne d'un émetteur de forte puissance :",
+  "opties": [
+   "ne peut pas être utilisée par forte pluie",
+   "ne peut pas être utilisée par temps de gel",
+   "ne peut pas être tournée pendant une émission",
+   "ne peut pas être touchée pendant une émission"
+  ],
+  "uitleg": "Ne pas toucher l'antenne pendant une émission.",
+  "waarom_fout": {
+   "A": "la pluie n'est pas le danger.",
+   "B": "le gel non plus.",
+   "C": "tourner l'antenne n'est pas un danger pour vous."
+  },
+  "onderwerp": "installation et sécurité des antennes"
+ },
+ {
+  "id": "O274",
+  "vraag": "Pour des raisons de sécurité, l'antenne d'un émetteur de forte puissance doit être installée de façon à ce que :",
+  "opties": [
+   "tout contact accidentel soit impossible",
+   "elle ne puisse pas être tournée pendant une émission",
+   "elle dépasse d'au moins 5 mètres tous les bâtiments des environs",
+   "elle soit visible de suffisamment loin"
+  ],
+  "uitleg": "L'installer de façon à rendre tout contact accidentel impossible.",
+  "waarom_fout": {
+   "B": "tourner l'antenne n'est pas le danger.",
+   "C": "cette règle n'existe pas.",
+   "D": "la visibilité n'est pas la question."
+  },
+  "onderwerp": "installation et sécurité des antennes"
+ },
+ {
+  "id": "O275",
+  "vraag": "Pour les antennes d'une hauteur de 30 mètres, on doit, pour des raisons de sécurité, veiller à ce que :",
+  "opties": [
+   "une protection spéciale contre la foudre soit prévue",
+   "le sommet de l'antenne ne puisse pas être touché par des avions qui atterrissent ou décollent",
+   "le pied de l'antenne ait une base d'au moins 2 mètres sur 2 mètres",
+   "la partie au-dessus de 20 mètres de hauteur soit peinte en rouge et blanc"
+  ],
+  "uitleg": "Une antenne élevée reçoit une protection spéciale contre la foudre.",
+  "waarom_fout": {
+   "B": "le trafic aérien n'est pas la question ici.",
+   "C": "cette règle n'existe pas.",
+   "D": "ce n'est pas une règle générale pour les radioamateurs."
+  },
+  "onderwerp": "installation et sécurité des antennes"
+ },
+ {
+  "id": "O276",
+  "vraag": "Une protection spéciale contre la foudre est nécessaire pour :",
+  "opties": [
+   "l'antenne d'un appareil portatif",
+   "une antenne placée à l'intérieur",
+   "une antenne à grande hauteur",
+   "une antenne UHF"
+  ],
+  "onderwerp": "installation et sécurité des antennes"
+ },
+ {
+  "id": "O277",
+  "vraag": "Quand on porte un casque d'écoute, on doit, pour des raisons de sécurité, veiller à ce que :",
+  "opties": [
+   "l'on puisse encore entendre les bruits ambiants",
+   "l'on utilise toujours un casque stéréo, pour que les deux oreilles soient sollicitées de façon égale",
+   "le câble du casque ne soit pas endommagé",
+   "un volume trop fort n'abîme pas l'audition"
+  ],
+  "uitleg": "Un volume trop fort peut abîmer votre audition.",
+  "waarom_fout": {
+   "A": "ce n'est pas la règle de sécurité visée.",
+   "B": "la stéréo n'est pas la question.",
+   "C": "un câble abîmé n'est pas la règle visée."
+  },
+  "onderwerp": "casque d'écoute"
+ },
+ {
+  "id": "E-h09-01",
+  "vraag": "Pourquoi un fusible ne peut-il pas être trop grand ?",
+  "opties": [
+   "parce qu'il saute alors trop vite",
+   "parce qu'il ne saute alors pas en cas de défaut et qu'un incendie peut se déclarer",
+   "parce qu'il coûte alors plus cher",
+   "parce qu'il cause alors des perturbations"
+  ],
+  "uitleg": "Trop grand = aucune protection en cas de défaut.",
+  "waarom_fout": {
+   "A": "cela arrive avec un fusible trop petit.",
+   "C": "ce n'est pas la raison.",
+   "D": "non."
+  },
+  "onderwerp": "fusible"
+ },
+ {
+  "id": "E-h09-02",
+  "vraag": "Où se trouve le plus souvent le fusible d'un appareil en 13,8 V ?",
+  "opties": [
+   "dans le fil positif, près de l'alimentation ou de la batterie",
+   "dans le câble coaxial",
+   "dans l'antenne",
+   "nulle part"
+  ],
+  "uitleg": "Selon le fabricant, le plus souvent dans le fil positif, près de la source.",
+  "waarom_fout": {
+   "B": "non.",
+   "C": "non.",
+   "D": "chaque appareil a besoin d'un fusible."
+  },
+  "onderwerp": "fusible"
+ },
+ {
+  "id": "E-h09-03",
+  "vraag": "Que fait un disjoncteur différentiel ?",
+  "opties": [
+   "il coupe quand du courant s'échappe, par exemple à travers une personne",
+   "il augmente la puissance",
+   "il mesure le ROS",
+   "il filtre les perturbations"
+  ],
+  "uitleg": "Il compare le courant aller et le courant retour, et coupe s'il y a une différence.",
+  "waarom_fout": {
+   "B": "non.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "mise à la terre"
+ },
+ {
+  "id": "E-h09-04",
+  "vraag": "Pourquoi ne verse-t-on pas d'eau sur une personne électrocutée ?",
+  "opties": [
+   "parce que l'eau conduit l'électricité",
+   "parce qu'elle est froide",
+   "parce que la victime est alors mouillée",
+   "c'est permis"
+  ],
+  "uitleg": "L'eau est conductrice : danger pour tout le monde.",
+  "waarom_fout": {
+   "B": "ce n'est pas la raison.",
+   "C": "ce n'est pas la raison.",
+   "D": "non."
+  },
+  "onderwerp": "accident"
+ },
+ {
+  "id": "E-h09-05",
+  "vraag": "Vous voulez modifier votre dipôle. Que faites-vous d'abord ?",
+  "opties": [
+   "éteindre l'émetteur",
+   "augmenter la puissance",
+   "débrancher le ROS-mètre",
+   "rien"
+  ],
+  "uitleg": "Ne jamais travailler sur une antenne pendant qu'on émet.",
+  "waarom_fout": {
+   "B": "dangereux.",
+   "C": "pas nécessaire.",
+   "D": "dangereux."
+  },
+  "onderwerp": "antenne"
+ },
+ {
+  "id": "E-h09-06",
+  "vraag": "Pourquoi un orage est-il dangereux pour un radioamateur qui a une antenne élevée ?",
+  "opties": [
+   "la foudre frappe les points hauts et saillants",
+   "le ROS augmente",
+   "la propagation devient moins bonne",
+   "ce n'est pas dangereux"
+  ],
+  "uitleg": "Les antennes élevées attirent la foudre : une protection contre la foudre est nécessaire.",
+  "waarom_fout": {
+   "B": "ce n'est pas le danger.",
+   "C": "ce n'est pas le danger.",
+   "D": "si, c'est bel et bien dangereux."
+  },
+  "onderwerp": "antenne"
+ },
+ {
+  "id": "C-h09-1a",
+  "vraag": "Qu'est-ce qui provoque une électrocution ?",
+  "opties": [
+   "un courant élevé dans un fil",
+   "une haute tension, qui fait passer du courant à travers votre corps",
+   "le rayonnement radio",
+   "un mauvais ROS"
+  ],
+  "uitleg": "Une haute tension fait passer du courant à travers votre corps.",
+  "waarom_fout": {
+   "A": "un courant élevé provoque un incendie.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "dangers"
+ },
+ {
+  "id": "C-h09-1b",
+  "vraag": "Un fil trop fin transporte un courant élevé. Quel est le danger ?",
+  "opties": [
+   "électrocution",
+   "surchauffe et incendie",
+   "perturbation",
+   "aucun"
+  ],
+  "uitleg": "Un courant élevé fait chauffer les fils.",
+  "waarom_fout": {
+   "A": "ça, c'est la haute tension.",
+   "C": "ce n'est pas le danger pour la sécurité.",
+   "D": "il y a bel et bien un danger."
+  },
+  "onderwerp": "dangers"
+ },
+ {
+  "id": "C-h09-2a",
+  "vraag": "Quel symbole correspond à la terre ?",
+  "opties": [
+   "un rectangle traversé par une ligne",
+   "une ligne avec trois traits de plus en plus courts",
+   "un cercle avec une croix",
+   "une ligne en zigzag"
+  ],
+  "uitleg": "Trois traits de plus en plus courts.",
+  "waarom_fout": {
+   "A": "c'est un fusible.",
+   "C": "c'est une lampe.",
+   "D": "c'est un ancien symbole de résistance."
+  },
+  "onderwerp": "mise à la terre"
+ },
+ {
+  "id": "C-h09-2b",
+  "vraag": "Que se passe-t-il en cas de défaut dans un appareil relié à la terre ?",
+  "opties": [
+   "le courant s'écoule par la terre",
+   "l'appareil se met à rayonner",
+   "le courant passe à travers l'utilisateur",
+   "il ne se passe rien"
+  ],
+  "uitleg": "Le courant choisit la terre, pas vous.",
+  "waarom_fout": {
+   "B": "non.",
+   "C": "c'est justement ce qu'on évite.",
+   "D": "du courant passe bel et bien, par la terre."
+  },
+  "onderwerp": "mise à la terre"
+ },
+ {
+  "id": "C-h09-3a",
+  "vraag": "Quel symbole correspond à un fusible ?",
+  "opties": [
+   "un rectangle traversé par une ligne",
+   "trois traits",
+   "une flèche",
+   "une bobine"
+  ],
+  "uitleg": "Un rectangle traversé par une ligne.",
+  "waarom_fout": {
+   "B": "la terre.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "fusible"
+ },
+ {
+  "id": "C-h09-3b",
+  "vraag": "Votre fusible de 5 A saute. Que faites-vous ?",
+  "opties": [
+   "le remplacer par un 10 A",
+   "le remplacer par un 5 A et chercher la cause",
+   "le ponter avec un petit fil",
+   "le supprimer"
+  ],
+  "uitleg": "La même valeur, et cherchez pourquoi il a sauté.",
+  "waarom_fout": {
+   "A": "trop grand : dangereux.",
+   "C": "extrêmement dangereux.",
+   "D": "plus aucune protection."
+  },
+  "onderwerp": "fusible"
+ },
+ {
+  "id": "C-h09-3c",
+  "vraag": "Où doit se trouver l'interrupteur général d'urgence ?",
+  "opties": [
+   "caché derrière une armoire",
+   "bien visible et facile à atteindre",
+   "au grenier",
+   "dans la voiture"
+  ],
+  "uitleg": "Visible et accessible, aussi pour les autres habitants de la maison.",
+  "waarom_fout": {
+   "A": "en cas d'urgence, vous ne le trouvez pas.",
+   "C": "trop loin.",
+   "D": "non."
+  },
+  "onderwerp": "interrupteur d'urgence"
+ },
+ {
+  "id": "C-h09-4a",
+  "vraag": "Quelle est la couleur du fil de terre ?",
+  "opties": [
+   "bleu",
+   "brun",
+   "jaune-vert",
+   "rouge"
+  ],
+  "uitleg": "Jaune-vert.",
+  "waarom_fout": {
+   "A": "le neutre.",
+   "B": "la phase.",
+   "D": "ancienne couleur, jamais la terre."
+  },
+  "onderwerp": "cordon secteur"
+ },
+ {
+  "id": "C-h09-4b",
+  "vraag": "Pourquoi le bouton marche/arrêt ne suffit-il pas quand vous travaillez dans un appareil ?",
+  "opties": [
+   "il ne coupe parfois qu'un seul fil ou pas tout",
+   "il est trop petit",
+   "il ne fonctionne que le jour",
+   "il suffit"
+  ],
+  "uitleg": "C'est pourquoi : fiche retirée.",
+  "waarom_fout": {
+   "B": "non.",
+   "C": "non.",
+   "D": "non, il faut retirer la fiche."
+  },
+  "onderwerp": "cordon secteur"
+ },
+ {
+  "id": "C-h09-4c",
+  "vraag": "Quelle est la couleur du neutre ?",
+  "opties": [
+   "bleu",
+   "brun",
+   "jaune-vert",
+   "noir"
+  ],
+  "uitleg": "Bleu.",
+  "waarom_fout": {
+   "B": "la phase.",
+   "C": "la terre.",
+   "D": "la phase."
+  },
+  "onderwerp": "cordon secteur"
+ },
+ {
+  "id": "C-h09-5a",
+  "vraag": "Quelqu'un est accroché à un appareil sous tension. Que faites-vous d'abord ?",
+  "opties": [
+   "tirer la victime pour l'éloigner",
+   "couper la tension",
+   "appeler le 112",
+   "verser de l'eau dessus"
+  ],
+  "uitleg": "D'abord couper la tension.",
+  "waarom_fout": {
+   "A": "vous devenez alors vous-même une victime.",
+   "C": "après avoir coupé.",
+   "D": "dangereux."
+  },
+  "onderwerp": "accident"
+ },
+ {
+  "id": "C-h09-5b",
+  "vraag": "Quel est le numéro d'urgence européen, qui fonctionne aussi en Belgique ?",
+  "opties": [
+   "100",
+   "112",
+   "911",
+   "999"
+  ],
+  "uitleg": "Le 112 fonctionne dans toute l'Europe, aussi depuis un GSM.",
+  "waarom_fout": {
+   "A": "le 100 est un numéro belge, mais ce n'est pas le numéro d'urgence européen.",
+   "C": "l'Amérique.",
+   "D": "le Royaume-Uni."
+  },
+  "onderwerp": "accident"
+ },
+ {
+  "id": "C-h09-6a",
+  "vraag": "Pourquoi pas d'antenne à proximité d'une ligne électrique aérienne ?",
+  "opties": [
+   "pour éviter les perturbations",
+   "parce que l'antenne peut toucher la ligne : danger de mort",
+   "parce que c'est laid",
+   "parce que l'IBPT l'interdit pour la portée"
+  ],
+  "uitleg": "Un contact avec une ligne à haute tension est mortel.",
+  "waarom_fout": {
+   "A": "il s'agit de sécurité.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "antenne"
+ },
+ {
+  "id": "C-h09-6b",
+  "vraag": "Qui doit au minimum être présent quand vous installez une antenne ?",
+  "opties": [
+   "personne",
+   "un adulte",
+   "un inspecteur de l'IBPT",
+   "un électricien"
+  ],
+  "uitleg": "Au moins un adulte.",
+  "waarom_fout": {
+   "A": "jamais seul.",
+   "C": "pas nécessaire.",
+   "D": "pas obligatoire."
+  },
+  "onderwerp": "antenne"
+ },
+ {
+  "id": "C-h09-6c",
+  "vraag": "Quelle antenne pouvez-vous toucher pendant l'émission ?",
+  "opties": [
+   "un dipôle de 100 W",
+   "l'antenne d'un talkie-walkie de faible puissance",
+   "une Yagi",
+   "un long fil"
+  ],
+  "uitleg": "Les appareils portatifs de faible puissance sont l'exception.",
+  "waarom_fout": {
+   "A": "non.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "antenne"
+ },
+ {
+  "id": "C-h09-7a",
+  "vraag": "Quel est le danger d'un casque d'écoute trop fort ?",
+  "opties": [
+   "une perte d'audition définitive",
+   "des perturbations",
+   "un ROS plus élevé",
+   "aucun"
+  ],
+  "uitleg": "Une perte d'audition, et elle est définitive.",
+  "waarom_fout": {
+   "B": "non.",
+   "C": "non.",
+   "D": "si, il y a bel et bien un danger."
+  },
+  "onderwerp": "audition"
+ }
+]

@@ -1,0 +1,177 @@
+[
+ {
+  "id": "E-h07-01",
+  "bron": "extra",
+  "hoofdstuk": 7,
+  "onderwerp": "EMC",
+  "vraag": "Welke stoorbron in huis kan je ontvanger storen?",
+  "opties": [
+   "een gloeilamp die uit staat",
+   "een lader of led-lamp",
+   "een houten tafel",
+   "een boek"
+  ],
+  "juist": "B",
+  "uitleg": "Laders, led-lampen en computers kunnen storing uitstralen.",
+  "waarom_fout": {
+   "A": "een toestel dat uit staat, stoort niet.",
+   "C": "geen elektronica.",
+   "D": "geen elektronica."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "techniek",
+  "in_examen": true
+ },
+ {
+  "id": "E-h07-02",
+  "bron": "extra",
+  "hoofdstuk": 7,
+  "onderwerp": "voorkomen",
+  "vraag": "Hoe sluit je best een dipool aan om storing te beperken?",
+  "opties": [
+   "rechtstreeks met de coax",
+   "via een balun",
+   "via een luidsprekerkabel",
+   "via een netsnoer"
+  ],
+  "juist": "B",
+  "uitleg": "Een balun voorkomt dat de buitenkant van de coax meestraalt (zie hoofdstuk 5).",
+  "waarom_fout": {
+   "A": "de afscherming gaat dan meestralen.",
+   "C": "ongeschikt.",
+   "D": "ongeschikt en gevaarlijk."
+  },
+  "moeilijkheid": 2,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "techniek",
+  "in_examen": true
+ },
+ {
+  "id": "E-h07-03",
+  "bron": "extra",
+  "hoofdstuk": 7,
+  "onderwerp": "voorkomen",
+  "vraag": "Je stoort de tv van je buur op 20 m in SSB. Welke wijziging helpt waarschijnlijk het minst?",
+  "opties": [
+   "het vermogen verlagen",
+   "overschakelen op CW",
+   "je microfoonversterking hoger zetten",
+   "je antenne verder van het huis zetten"
+  ],
+  "juist": "C",
+  "uitleg": "Hogere microfoonversterking helpt niet en kan zelfs overmodulatie geven.",
+  "waarom_fout": {
+   "A": "helpt wel.",
+   "B": "CW geeft minder kans.",
+   "D": "helpt wel."
+  },
+  "moeilijkheid": 2,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "techniek",
+  "in_examen": true
+ },
+ {
+  "id": "E-h07-04",
+  "bron": "extra",
+  "hoofdstuk": 7,
+  "onderwerp": "immuniteit",
+  "vraag": "Wat doet een netfilter?",
+  "opties": [
+   "het laat 50 Hz door en houdt HF tegen",
+   "het houdt 50 Hz tegen en laat HF door",
+   "het verhoogt de spanning",
+   "het meet de SWR"
+  ],
+  "juist": "A",
+  "uitleg": "50 Hz moet door, HF niet.",
+  "waarom_fout": {
+   "B": "omgekeerd.",
+   "C": "nee.",
+   "D": "nee."
+  },
+  "moeilijkheid": 2,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "techniek",
+  "in_examen": true
+ },
+ {
+  "id": "E-h07-05",
+  "bron": "extra",
+  "hoofdstuk": 7,
+  "onderwerp": "immuniteit",
+  "vraag": "Wat is een smoorspoel?",
+  "opties": [
+   "een spoel die HF-stroom op een kabel afremt",
+   "een spoel die het vermogen verhoogt",
+   "een soort microfoon",
+   "een antenne-element"
+  ],
+  "juist": "A",
+  "uitleg": "Een smoorspoel (vaak een ferrietring) remt HF-stroom af.",
+  "waarom_fout": {
+   "B": "nee.",
+   "C": "nee.",
+   "D": "nee."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "techniek",
+  "in_examen": true
+ },
+ {
+  "id": "E-h07-06",
+  "bron": "extra",
+  "hoofdstuk": 7,
+  "onderwerp": "buren",
+  "vraag": "Waar ligt de verantwoordelijkheid als de storing komt door een slecht beschermd toestel van de buur?",
+  "opties": [
+   "altijd bij de radioamateur",
+   "in principe bij de buur, maar meewerken is sterk aangeraden",
+   "bij de winkel",
+   "bij het BIPT"
+  ],
+  "juist": "B",
+  "uitleg": "In principe moet de buur zelf maatregelen nemen, maar samenwerken is de beste weg.",
+  "waarom_fout": {
+   "A": "niet altijd.",
+   "C": "nee.",
+   "D": "het BIPT controleert, maar is niet verantwoordelijk."
+  },
+  "moeilijkheid": 2,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "techniek",
+  "in_examen": true
+ },
+ {
+  "id": "E-h07-07",
+  "bron": "extra",
+  "hoofdstuk": 7,
+  "onderwerp": "aarding",
+  "vraag": "Waarom moet de draad van een RF-aarding kort zijn?",
+  "opties": [
+   "omdat lange draden duurder zijn",
+   "omdat een lange draad zelf als antenne gaat werken en HF niet goed afvoert",
+   "omdat het verplicht is in de gemeente",
+   "omdat koper zwaar is"
+  ],
+  "juist": "B",
+  "uitleg": "Hoe korter, hoe beter de HF-stroom naar de grond gaat.",
+  "waarom_fout": {
+   "A": "niet de reden.",
+   "C": "nee.",
+   "D": "nee."
+  },
+  "moeilijkheid": 2,
+  "svg": null,
+  "status": "ok",
+  "examendeel": "techniek",
+  "in_examen": true
+ }
+]

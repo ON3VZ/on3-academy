@@ -1,0 +1,70 @@
+[
+ {
+  "id": "C-h00-1a",
+  "vraag": "Combien de points vous faut-il au minimum à l'examen théorique de 30 questions ?",
+  "opties": [
+   "15",
+   "20",
+   "24",
+   "30"
+  ],
+  "uitleg": "80 % de 30, c'est 24.",
+  "waarom_fout": {
+   "A": "c'est 50 %.",
+   "B": "c'est 67 %.",
+   "D": "ce n'est pas si sévère."
+  },
+  "onderwerp": "examen"
+ },
+ {
+  "id": "C-h00-1b",
+  "vraag": "Que se passe-t-il en cas de réponse fausse ?",
+  "opties": [
+   "vous recevez un point de pénalité",
+   "vous recevez 0 point",
+   "vous échouez automatiquement",
+   "la question compte double"
+  ],
+  "uitleg": "Une réponse fausse ou blanche donne 0 point, sans point de pénalité.",
+  "waarom_fout": {
+   "A": "il n'y a pas de points de pénalité.",
+   "C": "pas automatiquement.",
+   "D": "non."
+  },
+  "onderwerp": "examen"
+ },
+ {
+  "id": "C-h00-2a",
+  "vraag": "Où votre progression est-elle enregistrée sur cette plateforme ?",
+  "opties": [
+   "sur un serveur, après connexion",
+   "sur votre propre appareil, dans le navigateur",
+   "à l'IBPT",
+   "dans votre e-mail"
+  ],
+  "uitleg": "Il n'y a pas de compte : tout reste en local.",
+  "waarom_fout": {
+   "A": "il n'y a pas de compte.",
+   "C": "la plateforme n'est pas liée à l'IBPT.",
+   "D": "non."
+  },
+  "onderwerp": "plateforme"
+ },
+ {
+  "id": "C-h00-2b",
+  "vraag": "Que signifie le niveau « comprendre » dans le programme d'examen ?",
+  "opties": [
+   "vous reconnaissez une chose et l'appliquez directement",
+   "vous voyez aussi pourquoi il en est ainsi",
+   "vous pouvez le chercher",
+   "ce n'est pas de la matière d'examen"
+  ],
+  "uitleg": "Comprendre : voir aussi pourquoi et où cela s'applique.",
+  "waarom_fout": {
+   "A": "c'est savoir.",
+   "C": "à l'examen, vous ne pouvez rien chercher.",
+   "D": "c'est bien de la matière d'examen."
+  },
+  "onderwerp": "plateforme"
+ }
+]

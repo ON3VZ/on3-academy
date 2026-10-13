@@ -1,0 +1,495 @@
+[
+ {
+  "id": "C-h11-1a",
+  "vraag": "Un code Q sans point d'interrogation est :",
+  "opties": [
+   "une question",
+   "une affirmation",
+   "un appel de détresse",
+   "un indicatif d'appel"
+  ],
+  "uitleg": "Sans point d'interrogation, c'est une affirmation.",
+  "waarom_fout": {
+   "A": "une question porte un point d'interrogation.",
+   "C": "ce n'est pas un appel de détresse.",
+   "D": "un indicatif d'appel commence par un préfixe de pays, jamais par Q."
+  },
+  "onderwerp": "codes Q"
+ },
+ {
+  "id": "C-h11-1b",
+  "vraag": "Combien de lettres compte un code Q et par quoi commence-t-il ?",
+  "opties": [
+   "deux, par Q",
+   "trois, par Q",
+   "trois, par un chiffre",
+   "quatre, par Q"
+  ],
+  "uitleg": "Toujours trois lettres, commençant par Q.",
+  "waarom_fout": {
+   "A": "il y en a trois.",
+   "C": "les codes chiffrés sont autre chose.",
+   "D": "il y en a trois."
+  },
+  "onderwerp": "codes Q"
+ },
+ {
+  "id": "C-h11-2a",
+  "vraag": "Quel code utilisez-vous pour demander la position de quelqu'un ?",
+  "opties": [
+   "QRG?",
+   "QTH?",
+   "QRB?",
+   "QRA?"
+  ],
+  "uitleg": "QTH est la position.",
+  "waarom_fout": {
+   "A": "QRG est la fréquence.",
+   "C": "QRB est la distance.",
+   "D": "QRA est le nom (indicatif)."
+  },
+  "onderwerp": "QTH"
+ },
+ {
+  "id": "C-h11-2b",
+  "vraag": "Que signifie « QRG? » ?",
+  "opties": [
+   "Quelle est la fréquence ?",
+   "Quelle est la distance entre nous ?",
+   "Quelle est l'heure exacte ?",
+   "Êtes-vous occupé ?"
+  ],
+  "uitleg": "QRG est la fréquence.",
+  "waarom_fout": {
+   "B": "c'est QRB.",
+   "C": "c'est QTR.",
+   "D": "c'est QRL."
+  },
+  "onderwerp": "QRG"
+ },
+ {
+  "id": "C-h11-2c",
+  "vraag": "Quelle est la distance entre deux stations ? Quel code le demande ?",
+  "opties": [
+   "QRB?",
+   "QRH?",
+   "QTR?",
+   "QSA?"
+  ],
+  "uitleg": "QRB est la distance.",
+  "waarom_fout": {
+   "B": "QRH concerne une fréquence constante.",
+   "C": "QTR est l'heure.",
+   "D": "QSA est la force du signal."
+  },
+  "onderwerp": "QRB"
+ },
+ {
+  "id": "C-h11-3a",
+  "vraag": "Vous êtes gêné par le brouillage d'autres stations. Quel code convient ?",
+  "opties": [
+   "QRM",
+   "QSB",
+   "QRP",
+   "QSY"
+  ],
+  "uitleg": "QRM est le brouillage.",
+  "waarom_fout": {
+   "B": "QSB est le fading.",
+   "C": "QRP signifie moins de puissance.",
+   "D": "QSY signifie changer de fréquence."
+  },
+  "onderwerp": "QRM"
+ },
+ {
+  "id": "C-h11-3b",
+  "vraag": "Votre signal faiblit puis revient. Quel code est-ce ?",
+  "opties": [
+   "QSB",
+   "QRM",
+   "QRK",
+   "QTH"
+  ],
+  "uitleg": "QSB est le fading.",
+  "waarom_fout": {
+   "B": "QRM est le brouillage.",
+   "C": "QRK est l'intelligibilité.",
+   "D": "QTH est la position."
+  },
+  "onderwerp": "QSB"
+ },
+ {
+  "id": "C-h11-3c",
+  "vraag": "Que demandez-vous avec « QRP? » ?",
+  "opties": [
+   "si vous devez diminuer la puissance d'émission",
+   "si vous devez augmenter la puissance d'émission",
+   "si la fréquence est occupée",
+   "si vous devez passer sur une autre fréquence"
+  ],
+  "uitleg": "QRP signifie moins de puissance.",
+  "waarom_fout": {
+   "B": "c'est QRO.",
+   "C": "c'est QRL.",
+   "D": "c'est QSY."
+  },
+  "onderwerp": "QRP"
+ },
+ {
+  "id": "C-h11-4a",
+  "vraag": "Vous entendez « QRL ». Qu'est-ce que cela signifie ?",
+  "opties": [
+   "Je suis occupé",
+   "La fréquence est libre",
+   "Je vais arrêter",
+   "J'ai des messages pour vous"
+  ],
+  "uitleg": "QRL : je suis occupé.",
+  "waarom_fout": {
+   "B": "c'est justement l'inverse.",
+   "C": "c'est QRT.",
+   "D": "c'est QTC."
+  },
+  "onderwerp": "QRL"
+ },
+ {
+  "id": "C-h11-4b",
+  "vraag": "Vous voulez passer sur une autre fréquence. Quel code ?",
+  "opties": [
+   "QSY",
+   "QSL",
+   "QRX",
+   "QRT"
+  ],
+  "uitleg": "QSY signifie passer sur une autre fréquence.",
+  "waarom_fout": {
+   "B": "QSL signifie accuser réception.",
+   "C": "QRX signifie attendre un nouvel appel.",
+   "D": "QRT signifie arrêter."
+  },
+  "onderwerp": "QSY"
+ },
+ {
+  "id": "C-h11-4c",
+  "vraag": "Que signifie « QSL » ?",
+  "opties": [
+   "J'accuse réception",
+   "Je vais arrêter",
+   "Qui m'appelle ?",
+   "Je suis occupé"
+  ],
+  "uitleg": "QSL : j'accuse réception.",
+  "waarom_fout": {
+   "B": "c'est QRT.",
+   "C": "c'est QRZ.",
+   "D": "c'est QRL."
+  },
+  "onderwerp": "QSL"
+ },
+ {
+  "id": "C-h11-4d",
+  "vraag": "Quel code utilisez-vous pour demander qui vous appelle ?",
+  "opties": [
+   "QRZ?",
+   "QRX?",
+   "QRV?",
+   "QTC?"
+  ],
+  "uitleg": "QRZ : par qui suis-je appelé ?",
+  "waarom_fout": {
+   "B": "QRX : quand me rappellerez-vous ?",
+   "C": "QRV : êtes-vous prêt à émettre ?",
+   "D": "QTC : avez-vous des messages pour moi ?"
+  },
+  "onderwerp": "QRZ"
+ },
+ {
+  "id": "C-h11-5a",
+  "vraag": "Que signifie « 73 » ?",
+  "opties": [
+   "amitiés",
+   "affectueusement, grosses bises",
+   "salutation flore et faune",
+   "fin du contact"
+  ],
+  "uitleg": "73 signifie amitiés.",
+  "waarom_fout": {
+   "B": "c'est 88.",
+   "C": "c'est 44.",
+   "D": "c'est SK."
+  },
+  "onderwerp": "73"
+ },
+ {
+  "id": "C-h11-5b",
+  "vraag": "Que signifie « 88 » ?",
+  "opties": [
+   "affectueusement, grosses bises",
+   "amitiés",
+   "salutation flore et faune",
+   "fin du contact"
+  ],
+  "uitleg": "88 signifie affectueusement, grosses bises.",
+  "waarom_fout": {
+   "B": "c'est 73.",
+   "C": "c'est 44.",
+   "D": "c'est SK."
+  },
+  "onderwerp": "88"
+ },
+ {
+  "id": "C-h11-6a",
+  "vraag": "Que signifie « K » à la fin de votre tour de parole ?",
+  "opties": [
+   "à vous : vous pouvez répondre",
+   "fin du contact",
+   "je cesse d'émettre",
+   "j'émets avec beaucoup de puissance"
+  ],
+  "uitleg": "K : à vous, l'autre peut répondre.",
+  "waarom_fout": {
+   "B": "c'est SK.",
+   "C": "c'est QRT ou SK.",
+   "D": "K ne concerne pas la puissance."
+  },
+  "onderwerp": "abréviations"
+ },
+ {
+  "id": "C-h11-6b",
+  "vraag": "Qu'est-ce qu'une YL ?",
+  "opties": [
+   "une radioamatrice",
+   "l'épouse d'un radioamateur",
+   "un collègue",
+   "un mauvais report"
+  ],
+  "uitleg": "YL : young lady, une radioamatrice.",
+  "waarom_fout": {
+   "B": "c'est une XYL.",
+   "C": "c'est un OM.",
+   "D": "non."
+  },
+  "onderwerp": "abréviations"
+ },
+ {
+  "id": "C-h11-6c",
+  "vraag": "Que signifie RST ?",
+  "opties": [
+   "readability, signal, tone",
+   "radio, signal, transmit",
+   "receive, send, tune",
+   "range, strength, time"
+  ],
+  "uitleg": "RST : intelligibilité, force, tonalité.",
+  "waarom_fout": {
+   "B": "aucune signification existante.",
+   "C": "aucune signification existante.",
+   "D": "aucune signification existante."
+  },
+  "onderwerp": "abréviations"
+ },
+ {
+  "id": "E-h11-01",
+  "vraag": "Quelle est la différence en pratique entre QRM et QRN ?",
+  "opties": [
+   "QRM est un brouillage par d'autres stations ou par l'activité humaine, QRN par l'atmosphère",
+   "QRM est un brouillage atmosphérique, QRN un brouillage par des stations",
+   "QRM est du fading, QRN du brouillage",
+   "il n'y a pas de différence"
+  ],
+  "uitleg": "QRM désigne un brouillage par des stations ou par l'activité humaine, QRN un brouillage atmosphérique (comme un orage).",
+  "waarom_fout": {
+   "B": "c'est l'inverse.",
+   "C": "le fading, c'est QSB.",
+   "D": "il y a bien une différence."
+  },
+  "onderwerp": "QRM et QRN"
+ },
+ {
+  "id": "E-h11-02",
+  "vraag": "« QRX » sans point d'interrogation signifie :",
+  "opties": [
+   "je vous rappellerai à ...",
+   "quand me rappellerez-vous ?",
+   "je cesse la transmission",
+   "je suis occupé"
+  ],
+  "uitleg": "Sans point d'interrogation, c'est une affirmation : je vous rappellerai à ...",
+  "waarom_fout": {
+   "B": "c'est la question, avec un point d'interrogation.",
+   "C": "c'est QRT.",
+   "D": "c'est QRL."
+  },
+  "onderwerp": "question ou affirmation"
+ },
+ {
+  "id": "E-h11-03",
+  "vraag": "Vous voulez savoir avec quelle force votre signal arrive. Quel code ?",
+  "opties": [
+   "QSA?",
+   "QRK?",
+   "QSB?",
+   "QRM?"
+  ],
+  "uitleg": "QSA concerne la force du signal.",
+  "waarom_fout": {
+   "B": "QRK concerne l'intelligibilité.",
+   "C": "QSB est le fading.",
+   "D": "QRM est le brouillage."
+  },
+  "onderwerp": "QSA ou QRK"
+ },
+ {
+  "id": "E-h11-04",
+  "vraag": "« QRK? » demande :",
+  "opties": [
+   "l'intelligibilité de votre signal",
+   "la force de votre signal",
+   "votre fréquence",
+   "votre puissance"
+  ],
+  "uitleg": "QRK concerne l'intelligibilité.",
+  "waarom_fout": {
+   "B": "c'est QSA.",
+   "C": "c'est QRG.",
+   "D": "c'est QRO ou QRP."
+  },
+  "onderwerp": "QRK"
+ },
+ {
+  "id": "E-h11-05",
+  "vraag": "Vous voulez que l'autre transmette plus lentement. Quel code utilisez-vous ?",
+  "opties": [
+   "QRS",
+   "QRQ",
+   "QRT",
+   "QRV"
+  ],
+  "uitleg": "QRS : transmettez plus lentement.",
+  "waarom_fout": {
+   "B": "QRQ : transmettez plus vite.",
+   "C": "QRT : cesser la transmission.",
+   "D": "QRV : prêt à émettre."
+  },
+  "onderwerp": "QRQ et QRS"
+ },
+ {
+  "id": "E-h11-06",
+  "vraag": "Vous demandez à une autre station d'augmenter sa puissance. Quel code ?",
+  "opties": [
+   "QRO",
+   "QRP",
+   "QRQ",
+   "QRM"
+  ],
+  "uitleg": "QRO : augmentez votre puissance d'émission.",
+  "waarom_fout": {
+   "B": "QRP : diminuez la puissance d'émission.",
+   "C": "QRQ : transmettez plus vite.",
+   "D": "QRM : brouillage."
+  },
+  "onderwerp": "QRO et QRP"
+ },
+ {
+  "id": "E-h11-07",
+  "vraag": "Que signifie « KN » à la fin de votre tour de parole ?",
+  "opties": [
+   "à vous, seule la station nommée peut répondre",
+   "à vous, tout le monde peut répondre",
+   "fin du contact",
+   "je travaille avec une faible puissance"
+  ],
+  "uitleg": "KN : à vous, uniquement pour la station nommée.",
+  "waarom_fout": {
+   "B": "c'est K.",
+   "C": "c'est SK.",
+   "D": "c'est QRP."
+  },
+  "onderwerp": "SK et KN"
+ },
+ {
+  "id": "E-h11-08",
+  "vraag": "Quel code demande l'heure exacte ?",
+  "opties": [
+   "QTR?",
+   "QRX?",
+   "QRY?",
+   "QTC?"
+  ],
+  "uitleg": "QTR : quelle est l'heure exacte ?",
+  "waarom_fout": {
+   "B": "QRX : quand me rappellerez-vous ?",
+   "C": "QRY : quel est mon tour ?",
+   "D": "QTC : avez-vous des messages pour moi ?"
+  },
+  "onderwerp": "QTR"
+ },
+ {
+  "id": "E-h11-09",
+  "vraag": "« QSP? » demande si vous voulez :",
+  "opties": [
+   "retransmettre à une autre station",
+   "accuser réception",
+   "répéter",
+   "augmenter"
+  ],
+  "uitleg": "QSP : voulez-vous retransmettre à ... ?",
+  "waarom_fout": {
+   "B": "c'est QSL.",
+   "C": "ce n'est pas un code Q du tableau.",
+   "D": "c'est QRO."
+  },
+  "onderwerp": "QSK et QSP"
+ },
+ {
+  "id": "E-h11-10",
+  "vraag": "Que signifie « QRH » sans point d'interrogation ?",
+  "opties": [
+   "la fréquence n'est pas constante",
+   "la fréquence est constante",
+   "la fréquence est occupée",
+   "je vais changer de fréquence"
+  ],
+  "uitleg": "QRH : la fréquence n'est pas constante.",
+  "waarom_fout": {
+   "B": "c'est justement l'inverse.",
+   "C": "occupé, c'est QRL.",
+   "D": "c'est QSY."
+  },
+  "onderwerp": "QRH"
+ },
+ {
+  "id": "E-h11-11",
+  "vraag": "Une station vous donne le report 59. Qu'est-ce que cela signifie ?",
+  "opties": [
+   "parfaitement lisible et très fort",
+   "faible mais lisible",
+   "illisible",
+   "faible puissance"
+  ],
+  "uitleg": "R5 signifie parfaitement lisible, S9 très fort.",
+  "waarom_fout": {
+   "B": "ce serait par exemple 24.",
+   "C": "dans ce cas, R est bas.",
+   "D": "le report ne dit rien sur la puissance."
+  },
+  "onderwerp": "RST"
+ },
+ {
+  "id": "E-h11-12",
+  "vraag": "Quel code chiffré entendez-vous en flore et faune (WWFF) ou en POTA comme salutation entre activateurs ?",
+  "opties": [
+   "44",
+   "73",
+   "88",
+   "SK"
+  ],
+  "uitleg": "44 est la salutation lors des activations.",
+  "waarom_fout": {
+   "B": "73 signifie amitiés en général.",
+   "C": "88 signifie affectueusement, grosses bises.",
+   "D": "SK est la fin d'un contact."
+  },
+  "onderwerp": "codes chiffrés"
+ }
+]

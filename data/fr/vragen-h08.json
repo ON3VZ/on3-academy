@@ -1,0 +1,1090 @@
+[
+ {
+  "id": "O227",
+  "vraag": "Avant d'utiliser une fréquence, vous devez d'abord écouter et demander si la fréquence est libre :",
+  "opties": [
+   "mais le fait qu'une fréquence soit déjà utilisée par d'autres ne vous empêche pas d'émettre vous-même sur cette fréquence",
+   "pour vérifier si quelqu'un écoute sur cette fréquence et répondra à votre appel",
+   "pour éviter de perturber d'autres stations radio",
+   "parce que c'est tout simplement une tradition chez les radioamateurs"
+  ],
+  "uitleg": "Vous écoutez et demandez d'abord pour ne pas perturber d'autres stations.",
+  "waarom_fout": {
+   "A": "justement, vous ne pouvez pas utiliser une fréquence occupée.",
+   "B": "le but est de ne pas perturber les autres, pas de chercher qui écoute.",
+   "D": "ce n'est pas une tradition mais une règle pour éviter les perturbations."
+  },
+  "onderwerp": "écouter, CQ, fréquence d'appel"
+ },
+ {
+  "id": "O228",
+  "vraag": "Avant d'utiliser une fréquence, vous devez d'abord :",
+  "opties": [
+   "noter la fréquence dans votre carnet de trafic",
+   "écouter et demander si la fréquence est libre",
+   "émettre une porteuse sur cette fréquence pendant quelques minutes",
+   "émettre de la musique sur cette fréquence pendant quelques minutes"
+  ],
+  "uitleg": "D'abord écouter et demander si la fréquence est libre.",
+  "waarom_fout": {
+   "A": "le carnet de trafic n'est pas la première étape.",
+   "C": "émettre une porteuse perturbe les autres.",
+   "D": "émettre de la musique est interdit."
+  },
+  "onderwerp": "écouter, CQ, fréquence d'appel"
+ },
+ {
+  "id": "O229",
+  "vraag": "Un appel « CQ » correct est :",
+  "opties": [
+   "break, break, ici ON3XYZ break, break, ici ON3XYZ break, break, ici ON3XYZ, terminé",
+   "CQ CQ CQ CQ CQ CQ CQ CQ CQ CQ CQ CQ CQ CQ CQ CQ CQ CQ CQ CQ CQ de ON3XYZ",
+   "CQ CQ CQ, ici ON3XYZ CQ CQ CQ, ici ON3XYZ CQ CQ CQ, ici ON3XYZ, terminé",
+   "CQ CQ CQ, ici ON3XYZ CQ CQ CQ, ici ON3XYZ CQ CQ CQ, ici ON3XYZ qui appelle et passe à l'écoute"
+  ],
+  "uitleg": "CQ, votre indicatif d'appel, répétés plusieurs fois, et terminer par « qui appelle et passe à l'écoute ».",
+  "waarom_fout": {
+   "A": "« break » n'est pas un appel général, et « terminé » clôture la liaison.",
+   "B": "pas de « ici » et pas de formule de fin.",
+   "C": "« terminé » signifie que vous arrêtez : or vous voulez justement une réponse."
+  },
+  "onderwerp": "écouter, CQ, fréquence d'appel"
+ },
+ {
+  "id": "O230",
+  "vraag": "En VHF/UHF, une fois la liaison établie, vous devez libérer la fréquence d'appel :",
+  "opties": [
+   "pour que cette fréquence soit à nouveau disponible le plus vite possible pour d'autres radioamateurs qui veulent lancer un appel",
+   "pour ne pas trop troubler la tranquillité des autres radioamateurs",
+   "parce que la qualité de réception est meilleure sur une autre fréquence",
+   "parce que la portée est plus grande sur une fréquence un peu plus basse"
+  ],
+  "uitleg": "Ainsi, la fréquence d'appel est vite à nouveau libre pour les autres.",
+  "waarom_fout": {
+   "B": "il ne s'agit pas de tranquillité.",
+   "C": "la réception n'est pas meilleure ailleurs.",
+   "D": "la portée ne change pas."
+  },
+  "onderwerp": "écouter, CQ, fréquence d'appel"
+ },
+ {
+  "id": "O231",
+  "vraag": "Selon l'alphabet phonétique international, le mot « WATER » s'épelle :",
+  "opties": [
+   "Whiskey Alfa Tango Echo Romeo",
+   "Whiskey America Tango Eric Radio",
+   "Walter Alfa Tango Echo Romeo",
+   "Walter America Tango Eric Radio"
+  ],
+  "uitleg": "Whiskey Alfa Tango Echo Romeo.",
+  "waarom_fout": {
+   "B": "America, Eric et Radio sont faux.",
+   "C": "Walter est faux.",
+   "D": "Walter, America, Eric et Radio sont faux."
+  },
+  "onderwerp": "alphabet phonétique"
+ },
+ {
+  "id": "O232",
+  "vraag": "Selon l'alphabet phonétique international, le mot « PLANK » s'épelle :",
+  "opties": [
+   "Peter Lima Alfa November Kilo",
+   "Papa Lima Alfa November Kilo",
+   "Papa Lima America Nancy Kilo",
+   "Peter Lima America Nancy Kentucky"
+  ],
+  "uitleg": "Papa Lima Alfa November Kilo.",
+  "waarom_fout": {
+   "A": "Peter est faux.",
+   "C": "America et Nancy sont faux.",
+   "D": "Peter, America, Nancy et Kentucky sont faux."
+  },
+  "onderwerp": "alphabet phonétique"
+ },
+ {
+  "id": "O233",
+  "vraag": "Selon l'alphabet phonétique international, le mot « SCHOR » s'épelle :",
+  "opties": [
+   "Santiago Charlie Henry Oscar Radio",
+   "Santiago Charlie Hotel Oscar Romeo",
+   "Sierra Charlie Hotel Oscar Romeo",
+   "Santiago Charlie Henry Ontario Radio"
+  ],
+  "uitleg": "Sierra Charlie Hotel Oscar Romeo.",
+  "waarom_fout": {
+   "A": "Santiago, Henry et Radio sont faux.",
+   "B": "Santiago est faux.",
+   "D": "Santiago, Henry, Ontario et Radio sont faux."
+  },
+  "onderwerp": "alphabet phonétique"
+ },
+ {
+  "id": "O234",
+  "vraag": "Selon l'alphabet phonétique international, le mot « LITER » s'épelle :",
+  "opties": [
+   "London India Tango Echo Radio",
+   "London India Tango Echo Romeo",
+   "Lima Italy Tango Echo Radio",
+   "Lima India Tango Echo Romeo"
+  ],
+  "uitleg": "Lima India Tango Echo Romeo.",
+  "waarom_fout": {
+   "A": "London et Radio sont faux.",
+   "B": "London est faux.",
+   "C": "Italy et Radio sont faux."
+  },
+  "onderwerp": "alphabet phonétique"
+ },
+ {
+  "id": "O235",
+  "vraag": "Selon l'alphabet phonétique international, le mot « BRAND » s'épelle :",
+  "opties": [
+   "Bravo Romeo Alfa November Delta",
+   "Brazil Radio America November Delta",
+   "Bravo Romeo America Nancy Delta",
+   "Brazil Radio Alfa Nancy Delta"
+  ],
+  "uitleg": "Bravo Romeo Alfa November Delta.",
+  "waarom_fout": {
+   "B": "Brazil, Radio et America sont faux.",
+   "C": "America et Nancy sont faux.",
+   "D": "Brazil, Radio et Nancy sont faux."
+  },
+  "onderwerp": "alphabet phonétique"
+ },
+ {
+  "id": "O236",
+  "vraag": "Selon l'alphabet phonétique international, le mot « GRIJP » s'épelle :",
+  "opties": [
+   "Golf Radio India Juliett Papa",
+   "Golf Romeo India Juliett Papa",
+   "Golf Romeo Yankee Papa",
+   "Golf Radio Italy Japan Peter"
+  ],
+  "uitleg": "Golf Romeo India Juliett Papa. Le IJ (une combinaison de lettres néerlandaise) s'épelle comme deux lettres : I et J.",
+  "waarom_fout": {
+   "A": "Radio est faux.",
+   "C": "le IJ n'est pas un Y ici : G-R-I-J-P font cinq lettres.",
+   "D": "Radio, Italy, Japan et Peter sont faux."
+  },
+  "onderwerp": "alphabet phonétique"
+ },
+ {
+  "id": "O237",
+  "vraag": "Selon l'alphabet phonétique international, le mot « ADZGH » s'épelle :",
+  "opties": [
+   "Alfa Delta Zoe Golf Hotel",
+   "Alfa Delta Zoulou Golf Hotel",
+   "Alfa Delta Zoulou Golf Henry",
+   "Alfa Delta Zoe Golf Henry"
+  ],
+  "uitleg": "Alfa Delta Zoulou Golf Hotel. Officiellement, on écrit Zulu ; Zoulou est l'orthographe du manuel et désigne le même mot.",
+  "waarom_fout": {
+   "A": "Zoe est faux.",
+   "C": "Henry est faux.",
+   "D": "Zoe et Henry sont faux."
+  },
+  "onderwerp": "alphabet phonétique"
+ },
+ {
+  "id": "O238",
+  "vraag": "Selon l'alphabet phonétique international, le mot « GFRWQ » s'épelle :",
+  "opties": [
+   "Golf Fox Romeo Whisky Quebec",
+   "George Fox Romeo Whisky Quebec",
+   "Golf Foxtrot Romeo Whisky Quebec",
+   "George Foxtrot Romeo Whisky Quebec"
+  ],
+  "uitleg": "Golf Foxtrot Romeo Whisky Quebec. Officiellement, on écrit Whiskey.",
+  "waarom_fout": {
+   "A": "Fox est faux : c'est Foxtrot.",
+   "B": "George et Fox sont faux.",
+   "D": "George est faux."
+  },
+  "onderwerp": "alphabet phonétique"
+ },
+ {
+  "id": "O239",
+  "vraag": "Selon l'alphabet phonétique international, le mot « HGPLB » s'épelle :",
+  "opties": [
+   "Henry Golf Papa Lama Bravo",
+   "Hotel Golf Papa Lima Bravo",
+   "Henry Golf Papa Lima Bravo",
+   "Hotel Golf Papa Lama Bravo"
+  ],
+  "uitleg": "Hotel Golf Papa Lima Bravo.",
+  "waarom_fout": {
+   "A": "Henry et Lama sont faux.",
+   "C": "Henry est faux.",
+   "D": "Lama est faux : c'est Lima."
+  },
+  "onderwerp": "alphabet phonétique"
+ },
+ {
+  "id": "O240",
+  "vraag": "Selon l'alphabet phonétique international, le mot « WCGIA » s'épelle :",
+  "opties": [
+   "Water Charlie Golf Industan Alfa",
+   "Whiskey Charlie Golf India Alfa",
+   "Water Charlie Golf India Alfa",
+   "Whiskey Charlie Golf Industan Alfa"
+  ],
+  "uitleg": "Whiskey Charlie Golf India Alfa.",
+  "waarom_fout": {
+   "A": "Water et Industan sont faux.",
+   "C": "Water est faux.",
+   "D": "Industan est faux."
+  },
+  "onderwerp": "alphabet phonétique"
+ },
+ {
+  "id": "O241",
+  "vraag": "Selon l'alphabet phonétique international, le mot « YTEQI » s'épelle :",
+  "opties": [
+   "Yankee Tango Eric Quebec Industan",
+   "Yankee Tango Eric Quebec India",
+   "Yankee Tango Echo Quebec Industan",
+   "Yankee Tango Echo Quebec India"
+  ],
+  "uitleg": "Yankee Tango Echo Quebec India.",
+  "waarom_fout": {
+   "A": "Eric et Industan sont faux.",
+   "B": "Eric est faux.",
+   "C": "Industan est faux."
+  },
+  "onderwerp": "alphabet phonétique"
+ },
+ {
+  "id": "O242",
+  "vraag": "Un relais (répéteur) est avant tout destiné à :",
+  "opties": [
+   "établir des liaisons radio pour les services de secours en cas d'urgence",
+   "augmenter la portée des stations qui ont une antenne directive non orientable dirigée vers le relais",
+   "augmenter la portée des stations mobiles",
+   "doubler la portée d'une station radio fixe"
+  ],
+  "uitleg": "Un relais est avant tout destiné à augmenter la portée des stations mobiles.",
+  "waarom_fout": {
+   "A": "le trafic de détresse n'est pas le but principal.",
+   "B": "ce n'est pas une raison d'avoir un relais.",
+   "D": "les stations fixes peuvent aussi l'utiliser, mais ce n'est pas le but, et « doubler » n'est pas correct."
+  },
+  "onderwerp": "relais"
+ },
+ {
+  "id": "O243",
+  "vraag": "Une tonalité d'accès ou CTCSS sert à :",
+  "opties": [
+   "terminer une liaison radio",
+   "commencer une liaison radio",
+   "activer un relais",
+   "lancer un appel de détresse"
+  ],
+  "uitleg": "Avec une tonalité d'accès ou le CTCSS, vous activez le relais.",
+  "waarom_fout": {
+   "A": "elle ne termine rien.",
+   "B": "elle ne commence pas une liaison : elle ouvre le relais.",
+   "D": "ce n'est pas un signal de détresse."
+  },
+  "onderwerp": "relais"
+ },
+ {
+  "id": "O244",
+  "vraag": "Le shift d'un relais est :",
+  "opties": [
+   "la tonalité nécessaire pour activer un relais",
+   "la durée maximale pendant laquelle on peut utiliser un relais",
+   "le rapport entre la puissance d'émission de votre station et la puissance d'émission du relais",
+   "la différence de fréquence entre la fréquence d'émission et la fréquence de réception d'un relais"
+  ],
+  "uitleg": "Le shift est la différence de fréquence entre la fréquence d'émission et la fréquence de réception du relais.",
+  "waarom_fout": {
+   "A": "c'est la tonalité d'accès.",
+   "B": "cela n'a rien à voir.",
+   "C": "il ne s'agit pas de puissance."
+  },
+  "onderwerp": "relais"
+ },
+ {
+  "id": "O245",
+  "vraag": "Le but d'un plan de bandes est :",
+  "opties": [
+   "de faire en sorte que les radioamateurs et d'autres services radio ne travaillent pas sur les mêmes fréquences",
+   "de faire en sorte que la plage de fréquences d'une bande amateur soit répartie entre les différents modes (types de modulation) et d'éviter ainsi les perturbations mutuelles",
+   "de faire en sorte que les radioamateurs de différents pays ne se perturbent pas",
+   "de faire en sorte que les radioamateurs qui parlent des langues différentes ne se perturbent pas"
+  ],
+  "uitleg": "Un plan de bandes répartit une bande entre les modes, pour qu'ils ne se perturbent pas.",
+  "waarom_fout": {
+   "A": "c'est la loi qui règle cela (attribution des fréquences), pas le plan de bandes.",
+   "C": "il s'agit de modes, pas de pays.",
+   "D": "il s'agit de modes, pas de langues."
+  },
+  "onderwerp": "plan de bandes"
+ },
+ {
+  "id": "O246",
+  "vraag": "Selon le plan de bandes pour 14 MHz :",
+  "opties": [
+   "on peut émettre en CW dans toute la plage entre 14000 kHz et 14350 kHz",
+   "on peut émettre en CW dans toute la plage entre 14000 kHz et 14125 kHz",
+   "on peut émettre en CW dans toute la plage entre 14060 kHz et 14125 kHz",
+   "on peut émettre en CW dans toute la plage entre 14000 kHz et 14099 kHz"
+  ],
+  "uitleg": "La CW est permise sans interruption de 14 000 à 14 099 kHz. Ensuite vient le segment des balises (14 099 à 14 101), où personne n'émet.",
+  "waarom_fout": {
+   "A": "passe par le segment des balises.",
+   "B": "passe par le segment des balises.",
+   "C": "passe par le segment des balises."
+  },
+  "onderwerp": "plan de bandes"
+ },
+ {
+  "id": "O247",
+  "vraag": "Selon le plan de bandes pour 14 MHz :",
+  "opties": [
+   "on peut émettre en SSB dans toute la plage entre 14000 kHz et 14350 kHz",
+   "on peut émettre en SSB dans toute la plage entre 14000 kHz et 14230 kHz",
+   "on peut émettre en SSB dans toute la plage entre 14099 kHz et 14230 kHz",
+   "on peut émettre en SSB dans toute la plage entre 14100 kHz et 14200 kHz"
+  ],
+  "uitleg": "La phonie (SSB) est permise à partir de 14 101 kHz. Parmi les options, 14 100 à 14 200 est celle qui s'y trouve le mieux.",
+  "waarom_fout": {
+   "A": "en bas, c'est la CW et le numérique.",
+   "B": "en bas, c'est la CW et le numérique.",
+   "C": "14 099 à 14 101 est le segment des balises."
+  },
+  "onderwerp": "plan de bandes"
+ },
+ {
+  "id": "O248",
+  "vraag": "Selon le plan de bandes pour 14 MHz, on utilise de préférence la fréquence suivante pour participer à un contest SSB :",
+  "opties": [
+   "14102 kHz",
+   "14230 kHz",
+   "14250 kHz",
+   "14330 kHz"
+  ],
+  "uitleg": "Le segment préférentiel pour les contests en phonie va de 14 125 à 14 300 kHz : 14 250 kHz s'y trouve.",
+  "waarom_fout": {
+   "A": "14 102 se trouve dans le segment pour les modes numériques, la phonie et la CW, mais pas dans le segment des contests.",
+   "B": "14 230 est la fréquence d'appel pour la SSTV et le fax.",
+   "D": "14 330 se trouve au-dessus du segment des contests."
+  },
+  "onderwerp": "plan de bandes"
+ },
+ {
+  "id": "O249",
+  "vraag": "Selon le plan de bandes pour 14 MHz (fig. 1), on utilise de préférence la fréquence suivante pour participer à un contest CW :",
+  "opties": [
+   "14105 kHz",
+   "14060 kHz",
+   "14099 kHz",
+   "14230 kHz"
+  ],
+  "uitleg": "Le segment préférentiel pour les contests CW va de 14 000 à 14 060 kHz : 14 060 se trouve à sa limite.",
+  "waarom_fout": {
+   "A": "14 105 n'est pas un segment de contest CW.",
+   "C": "14 099 est la limite du segment des balises.",
+   "D": "14 230 est pour la SSTV et le fax."
+  },
+  "onderwerp": "plan de bandes"
+ },
+ {
+  "id": "O250",
+  "vraag": "Selon le plan de bandes pour 144 MHz (fig. 2) :",
+  "opties": [
+   "on peut émettre en SSB dans toute la plage entre 144000 kHz et 144400 kHz",
+   "on peut émettre en SSB dans toute la plage entre 144150 kHz et 144500 kHz",
+   "on peut émettre en SSB dans toute la plage entre 144100 kHz et 144350 kHz",
+   "on peut émettre en SSB dans toute la plage entre 144150 kHz et 144400 kHz"
+  ],
+  "uitleg": "SSB : 144 150 à 144 400 kHz.",
+  "waarom_fout": {
+   "A": "en bas se trouvent l'EME et la CW.",
+   "B": "144 400 à 144 500, ce sont des balises.",
+   "C": "144 100 à 144 150, c'est de la CW."
+  },
+  "onderwerp": "plan de bandes"
+ },
+ {
+  "id": "O251",
+  "vraag": "Selon le plan de bandes pour 144 MHz :",
+  "opties": [
+   "on peut émettre en CW dans toute la plage entre 144000 kHz et 144400 kHz",
+   "on peut émettre en CW dans toute la plage entre 144035 kHz et 144150 kHz",
+   "on peut émettre en CW dans toute la plage entre 144050 kHz et 144350 kHz",
+   "on peut émettre en CW dans toute la plage entre 144000 kHz et 146000 kHz"
+  ],
+  "uitleg": "CW : 144 035 à 144 150 kHz.",
+  "waarom_fout": {
+   "A": "il y a là aussi la SSB et l'EME.",
+   "C": "à partir de 144 150, c'est de la SSB.",
+   "D": "toute la bande n'est pas pour la CW."
+  },
+  "onderwerp": "plan de bandes"
+ },
+ {
+  "id": "O252",
+  "vraag": "Selon le plan de bandes pour 144 MHz :",
+  "opties": [
+   "on peut émettre en FM dans toute la plage entre 144000 kHz et 146000 kHz",
+   "on peut émettre en FM dans toute la plage entre 145000 kHz et 146000 kHz",
+   "on peut émettre en FM dans toute la plage entre 145000 kHz et 145800 kHz",
+   "on peut émettre en FM dans toute la plage entre 145000 kHz et 145500 kHz"
+  ],
+  "uitleg": "FM : de 144 990 à 145 800 kHz (entrée des relais, FM, sortie des relais). 145 000 à 145 800 s'y trouve entièrement.",
+  "waarom_fout": {
+   "A": "il y a là aussi la CW, la SSB, les balises et les satellites.",
+   "B": "au-dessus de 145 800 se trouvent les satellites.",
+   "D": "ce segment est aussi de la FM, mais ce n'est pas la plage FM complète."
+  },
+  "onderwerp": "plan de bandes"
+ },
+ {
+  "id": "O253",
+  "vraag": "Selon le plan de bandes pour 144 MHz, on peut établir une liaison radio via un relais en émettant sur :",
+  "opties": [
+   "145,700 MHz",
+   "145,100 MHz",
+   "145,500 MHz",
+   "144,800 MHz"
+  ],
+  "uitleg": "Vers un relais, vous émettez sur l'entrée (144 990 à 145 194 kHz) : 145,100 MHz.",
+  "waarom_fout": {
+   "A": "145,700 est une sortie de relais : c'est là que vous écoutez.",
+   "C": "145,500 est la fréquence d'appel pour la FM.",
+   "D": "144,800 est le segment numérique."
+  },
+  "onderwerp": "plan de bandes"
+ },
+ {
+  "id": "C-h08-1a",
+  "vraag": "Que signifie CQ ?",
+  "opties": [
+   "fin de la liaison",
+   "appel général",
+   "appel de détresse",
+   "je passe sur une autre fréquence"
+  ],
+  "uitleg": "CQ = appel général.",
+  "waarom_fout": {
+   "A": "non.",
+   "C": "non.",
+   "D": "c'est QSY."
+  },
+  "onderwerp": "QSO"
+ },
+ {
+  "id": "C-h08-1b",
+  "vraag": "Que signifie QSY ?",
+  "opties": [
+   "passer sur une autre fréquence",
+   "je suis occupé",
+   "je lance appel",
+   "répétez"
+  ],
+  "uitleg": "QSY = changer de fréquence.",
+  "waarom_fout": {
+   "B": "non.",
+   "C": "c'est CQ.",
+   "D": "non."
+  },
+  "onderwerp": "QSO"
+ },
+ {
+  "id": "C-h08-1c",
+  "vraag": "Qu'est-ce qu'un sked ?",
+  "opties": [
+   "une liaison convenue à l'avance",
+   "un type d'antenne",
+   "un report",
+   "un relais"
+  ],
+  "uitleg": "Un sked est une liaison convenue à l'avance.",
+  "waarom_fout": {
+   "B": "non.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "QSO"
+ },
+ {
+  "id": "C-h08-2a",
+  "vraag": "Comment épelez-vous la lettre Q ?",
+  "opties": [
+   "Queen",
+   "Quebec",
+   "Quiz",
+   "Quality"
+  ],
+  "uitleg": "Q = Quebec.",
+  "waarom_fout": {
+   "A": "faux.",
+   "C": "faux.",
+   "D": "faux."
+  },
+  "onderwerp": "épeler"
+ },
+ {
+  "id": "C-h08-2b",
+  "vraag": "Comment épelez-vous ON3K ?",
+  "opties": [
+   "Oscar November 3 Kilo",
+   "Otto Nancy 3 Kilo",
+   "Oscar Nancy 3 Kentucky",
+   "Ontario November 3 Kilo"
+  ],
+  "uitleg": "Oscar November 3 Kilo.",
+  "waarom_fout": {
+   "B": "Otto et Nancy sont faux.",
+   "C": "Nancy et Kentucky sont faux.",
+   "D": "Ontario est faux."
+  },
+  "onderwerp": "épeler"
+ },
+ {
+  "id": "C-h08-2c",
+  "vraag": "Quel mot correspond à F ?",
+  "opties": [
+   "Fox",
+   "Foxtrot",
+   "Frank",
+   "France"
+  ],
+  "uitleg": "F = Foxtrot.",
+  "waarom_fout": {
+   "A": "trop court : Foxtrot.",
+   "C": "faux.",
+   "D": "faux."
+  },
+  "onderwerp": "épeler"
+ },
+ {
+  "id": "C-h08-3a",
+  "vraag": "Quelle est généralement la valeur du shift sur 2 m ?",
+  "opties": [
+   "12,5 kHz",
+   "600 kHz",
+   "1750 Hz",
+   "7,6 MHz"
+  ],
+  "uitleg": "600 kHz.",
+  "waarom_fout": {
+   "A": "c'est l'écart entre canaux.",
+   "C": "c'est la tonalité d'accès.",
+   "D": "non."
+  },
+  "onderwerp": "relais"
+ },
+ {
+  "id": "C-h08-3b",
+  "vraag": "Un relais émet sur 145,700 MHz avec un shift de −600 kHz. Sur quelle fréquence émettez-vous ?",
+  "opties": [
+   "145,700 MHz",
+   "145,100 MHz",
+   "146,300 MHz",
+   "145,500 MHz"
+  ],
+  "uitleg": "145,700 − 0,600 = 145,100 MHz.",
+  "waarom_fout": {
+   "A": "c'est la sortie.",
+   "C": "mauvais sens.",
+   "D": "c'est la fréquence d'appel."
+  },
+  "onderwerp": "relais"
+ },
+ {
+  "id": "C-h08-3c",
+  "vraag": "Qu'est-ce que le CTCSS ?",
+  "opties": [
+   "une tonalité très basse émise en même temps que le signal pour ouvrir un relais",
+   "un type d'antenne",
+   "un mode numérique",
+   "un report"
+  ],
+  "uitleg": "CTCSS : tonalité basse entre 67 et 254 Hz.",
+  "waarom_fout": {
+   "B": "non.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "relais"
+ },
+ {
+  "id": "C-h08-4a",
+  "vraag": "Pouvez-vous émettre entre 14 099 et 14 101 kHz ?",
+  "opties": [
+   "oui, en CW",
+   "oui, en SSB",
+   "non, c'est réservé aux balises",
+   "oui, en FM"
+  ],
+  "uitleg": "Ce segment est réservé aux balises (IBP).",
+  "waarom_fout": {
+   "A": "non.",
+   "B": "non.",
+   "D": "non."
+  },
+  "onderwerp": "plan de bandes"
+ },
+ {
+  "id": "C-h08-4b",
+  "vraag": "Que se passe-t-il surtout sur 14 230 kHz ?",
+  "opties": [
+   "contest CW",
+   "SSTV et fax",
+   "balises",
+   "EME"
+  ],
+  "uitleg": "Fréquence d'appel pour la SSTV et le fax.",
+  "waarom_fout": {
+   "A": "c'est en bas de la bande.",
+   "C": "14 099 à 14 101.",
+   "D": "c'est sur 2 m."
+  },
+  "onderwerp": "plan de bandes"
+ },
+ {
+  "id": "C-h08-4c",
+  "vraag": "Que signifie phonie ?",
+  "opties": [
+   "morse",
+   "voix",
+   "image",
+   "données"
+  ],
+  "uitleg": "Phonie = voix.",
+  "waarom_fout": {
+   "A": "c'est la CW.",
+   "C": "c'est la SSTV.",
+   "D": "c'est le numérique."
+  },
+  "onderwerp": "plan de bandes"
+ },
+ {
+  "id": "C-h08-5a",
+  "vraag": "Sur quelle fréquence lancez-vous appel en FM sur 2 m ?",
+  "opties": [
+   "144,300 MHz",
+   "145,500 MHz",
+   "145,800 MHz",
+   "144,050 MHz"
+  ],
+  "uitleg": "145,500 MHz est la fréquence d'appel FM.",
+  "waarom_fout": {
+   "A": "zone SSB.",
+   "C": "satellites.",
+   "D": "zone CW."
+  },
+  "onderwerp": "plan de bandes"
+ },
+ {
+  "id": "C-h08-5b",
+  "vraag": "Dans quel segment des 2 m se trouvent les satellites ?",
+  "opties": [
+   "144 000 à 144 035",
+   "144 400 à 144 500",
+   "145 800 à 146 000",
+   "144 800 à 144 990"
+  ],
+  "uitleg": "145 800 à 146 000 kHz.",
+  "waarom_fout": {
+   "A": "EME.",
+   "B": "balises.",
+   "D": "numérique."
+  },
+  "onderwerp": "plan de bandes"
+ },
+ {
+  "id": "C-h08-5c",
+  "vraag": "Sur quelle fréquence écoutez-vous un relais ?",
+  "opties": [
+   "sur l'entrée",
+   "sur la sortie",
+   "sur 145,500 MHz",
+   "sur 144,800 MHz"
+  ],
+  "uitleg": "Le relais émet sur la sortie : c'est là que vous écoutez.",
+  "waarom_fout": {
+   "A": "c'est là que vous émettez.",
+   "C": "fréquence d'appel.",
+   "D": "numérique."
+  },
+  "onderwerp": "plan de bandes"
+ },
+ {
+  "id": "C-h08-6a",
+  "vraag": "Que fait le bouton PTT ?",
+  "opties": [
+   "régler le volume",
+   "mettre l'émetteur en marche tant que vous l'enfoncez",
+   "choisir la fréquence",
+   "ouvrir le squelch"
+  ],
+  "uitleg": "Push To Talk : enfoncer = émettre.",
+  "waarom_fout": {
+   "A": "non.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "PTT"
+ },
+ {
+  "id": "C-h08-6b",
+  "vraag": "Vous raccordez un ordinateur pour les modes numériques. À quoi faites-vous attention ?",
+  "opties": [
+   "bon niveau audio et raccordement du PTT",
+   "la couleur du câble",
+   "le plus fort possible",
+   "pas besoin de PTT"
+  ],
+  "uitleg": "Bon niveau et un PTT qui fonctionne.",
+  "waarom_fout": {
+   "B": "non.",
+   "C": "trop fort donne de la distorsion.",
+   "D": "sans PTT, l'appareil n'émet pas."
+  },
+  "onderwerp": "PTT"
+ },
+ {
+  "id": "C-h08-6c",
+  "vraag": "Que se passe-t-il si le signal audio d'un ordinateur est trop fort ?",
+  "opties": [
+   "rien",
+   "distorsion et perturbations",
+   "vous émettez moins de puissance",
+   "le ROS augmente"
+  ],
+  "uitleg": "Signal audio trop fort = surmodulation : distorsion et perturbations.",
+  "waarom_fout": {
+   "A": "non.",
+   "C": "non.",
+   "D": "le ROS dépend de l'antenne."
+  },
+  "onderwerp": "PTT"
+ },
+ {
+  "id": "C-h08-7a",
+  "vraag": "Un point S en plus correspond à combien de fois plus de tension ?",
+  "opties": [
+   "1,5 fois",
+   "2 fois",
+   "10 fois",
+   "100 fois"
+  ],
+  "uitleg": "Chaque point S = doublement de la tension.",
+  "waarom_fout": {
+   "A": "non.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "S-mètre"
+ },
+ {
+  "id": "C-h08-7b",
+  "vraag": "Combien de fois plus de tension a S9 par rapport à S1 ?",
+  "opties": [
+   "9",
+   "18",
+   "256",
+   "512"
+  ],
+  "uitleg": "8 pas de × 2 : 2⁸ = 256.",
+  "waarom_fout": {
+   "A": "non : on double, on n'additionne pas.",
+   "B": "non.",
+   "D": "cela ferait 9 pas."
+  },
+  "onderwerp": "S-mètre"
+ },
+ {
+  "id": "C-h08-7c",
+  "vraag": "Que signifie le report 57 ?",
+  "opties": [
+   "lisible avec difficulté, faible",
+   "parfaitement lisible, très fort",
+   "parfaitement lisible, force 7",
+   "lisible, force 5"
+  ],
+  "uitleg": "5 = parfaitement lisible, 7 = force 7.",
+  "waarom_fout": {
+   "A": "c'est 33.",
+   "B": "c'est 59.",
+   "D": "c'est 45."
+  },
+  "onderwerp": "report"
+ },
+ {
+  "id": "C-h08-7d",
+  "vraag": "Comment réglez-vous correctement le squelch ?",
+  "opties": [
+   "complètement ouvert",
+   "sans signal, jusqu'à ce que le bruit disparaisse tout juste",
+   "complètement fermé",
+   "au volume maximum"
+  ],
+  "uitleg": "Juste jusqu'à ce que le bruit disparaisse, pas plus loin.",
+  "waarom_fout": {
+   "A": "vous entendez alors du bruit en permanence.",
+   "C": "vous n'entendez alors plus les stations faibles.",
+   "D": "le squelch n'est pas un bouton de volume."
+  },
+  "onderwerp": "squelch"
+ },
+ {
+  "id": "C-h08-8a",
+  "vraag": "Que fait le RIT (clarifier) ?",
+  "opties": [
+   "modifier la fréquence d'émission",
+   "corriger finement la fréquence de réception sans changer la fréquence d'émission",
+   "régler la puissance",
+   "choisir la bande"
+  ],
+  "uitleg": "Le RIT corrige seulement la réception.",
+  "waarom_fout": {
+   "A": "justement pas.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "RIT"
+ },
+ {
+  "id": "C-h08-8b",
+  "vraag": "Une voix en SSB sonne comme un personnage de dessin animé. Que faites-vous ?",
+  "opties": [
+   "monter le volume",
+   "corriger très finement la fréquence",
+   "fermer le squelch",
+   "augmenter le gain micro"
+  ],
+  "uitleg": "Vous êtes juste à côté de la fréquence : corrigez finement.",
+  "waarom_fout": {
+   "A": "n'aide pas.",
+   "C": "n'aide pas.",
+   "D": "cela concerne votre propre émission."
+  },
+  "onderwerp": "SSB"
+ },
+ {
+  "id": "C-h08-8c",
+  "vraag": "Que se passe-t-il si le gain micro est trop haut en SSB ?",
+  "opties": [
+   "rien",
+   "distorsion et perturbations",
+   "vous recevez mieux",
+   "le ROS baisse"
+  ],
+  "uitleg": "Un gain micro trop élevé donne de la distorsion et des perturbations.",
+  "waarom_fout": {
+   "A": "non.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "SSB"
+ },
+ {
+  "id": "C-h08-9a",
+  "vraag": "Pourquoi émettez-vous avec une faible puissance quand vous mesurez le ROS ?",
+  "opties": [
+   "pour protéger l'émetteur si le ROS est élevé",
+   "pour consommer moins de courant",
+   "parce que sinon l'instrument ne fonctionne pas",
+   "ce n'est pas nécessaire"
+  ],
+  "uitleg": "En cas de ROS élevé, une faible puissance protège l'étage final.",
+  "waarom_fout": {
+   "B": "ce n'est pas la raison.",
+   "C": "non.",
+   "D": "c'est bel et bien conseillé."
+  },
+  "onderwerp": "raccorder"
+ },
+ {
+  "id": "C-h08-9b",
+  "vraag": "Après avoir raccourci votre dipôle de 1 %, le ROS est plus élevé. Que faites-vous ?",
+  "opties": [
+   "continuer à raccourcir",
+   "le rallonger un peu",
+   "augmenter la puissance",
+   "rien"
+  ],
+  "uitleg": "Le ROS a augmenté = trop loin : rallongez un peu.",
+  "waarom_fout": {
+   "A": "aggrave la situation.",
+   "C": "la puissance ne change pas le ROS.",
+   "D": "vous cherchez le minimum."
+  },
+  "onderwerp": "raccorder"
+ },
+ {
+  "id": "C-h08-9c",
+  "vraag": "Que faites-vous avant de modifier le dipôle ?",
+  "opties": [
+   "éteindre l'émetteur",
+   "augmenter la puissance",
+   "ouvrir le squelch",
+   "rien"
+  ],
+  "uitleg": "Ne touchez jamais une antenne pendant l'émission.",
+  "waarom_fout": {
+   "B": "dangereux.",
+   "C": "cela n'a rien à voir.",
+   "D": "dangereux."
+  },
+  "onderwerp": "raccorder"
+ },
+ {
+  "id": "E-h08-01",
+  "vraag": "Comment épelez-vous le mot VOLT ?",
+  "opties": [
+   "Victor Oscar Lima Tango",
+   "Victory Oscar Lima Tango",
+   "Victor Otto Lima Tom",
+   "Victor Oscar London Tango"
+  ],
+  "uitleg": "Victor Oscar Lima Tango.",
+  "waarom_fout": {
+   "B": "Victory est faux.",
+   "C": "Otto et Tom sont faux.",
+   "D": "London est faux."
+  },
+  "onderwerp": "épeler"
+ },
+ {
+  "id": "E-h08-02",
+  "vraag": "Comment épelez-vous l'indicatif d'appel ON3QX ?",
+  "opties": [
+   "Oscar November 3 Quebec X-ray",
+   "Oscar Nancy 3 Queen Xavier",
+   "Oscar November 3 Quebec Xylophone",
+   "Ontario November 3 Quebec X-ray"
+  ],
+  "uitleg": "Oscar November 3 Quebec X-ray.",
+  "waarom_fout": {
+   "B": "Nancy, Queen et Xavier sont faux.",
+   "C": "Xylophone est faux.",
+   "D": "Ontario est faux."
+  },
+  "onderwerp": "épeler"
+ },
+ {
+  "id": "E-h08-03",
+  "vraag": "Que devez-vous connaître pour trafiquer via un relais ?",
+  "opties": [
+   "seulement la fréquence de sortie",
+   "la fréquence de sortie, le shift et la méthode d'ouverture (1750 Hz ou CTCSS)",
+   "seulement la tonalité CTCSS",
+   "l'indicatif d'appel du gestionnaire"
+  ],
+  "uitleg": "La fréquence, le shift et la façon d'ouvrir le relais.",
+  "waarom_fout": {
+   "A": "incomplet.",
+   "C": "incomplet.",
+   "D": "pas nécessaire."
+  },
+  "onderwerp": "relais"
+ },
+ {
+  "id": "E-h08-04",
+  "vraag": "Pendant combien de temps émettez-vous environ la tonalité d'accès de 1750 Hz ?",
+  "opties": [
+   "quelques secondes",
+   "un quart d'heure",
+   "pendant toute la liaison",
+   "jamais : elle est émise automatiquement par le relais"
+  ],
+  "uitleg": "Quelques secondes suffisent.",
+  "waarom_fout": {
+   "B": "beaucoup trop long.",
+   "C": "c'est le CTCSS.",
+   "D": "c'est vous qui émettez la tonalité."
+  },
+  "onderwerp": "relais"
+ },
+ {
+  "id": "E-h08-05",
+  "vraag": "Vous voulez participer à un contest CW sur 20 m. Quelle fréquence est la meilleure ?",
+  "opties": [
+   "14 030 kHz",
+   "14 200 kHz",
+   "14 230 kHz",
+   "14 100 kHz"
+  ],
+  "uitleg": "De préférence pour les contests CW : 14 000 à 14 060 kHz.",
+  "waarom_fout": {
+   "B": "zone des contests en phonie.",
+   "C": "SSTV et fax.",
+   "D": "segment des balises."
+  },
+  "onderwerp": "plan de bandes"
+ },
+ {
+  "id": "E-h08-06",
+  "vraag": "Vous voulez trafiquer en SSB sur 2 m. Quelle fréquence est la meilleure ?",
+  "opties": [
+   "144,300 MHz",
+   "145,500 MHz",
+   "144,050 MHz",
+   "145,900 MHz"
+  ],
+  "uitleg": "SSB : 144 150 à 144 400 kHz.",
+  "waarom_fout": {
+   "B": "fréquence d'appel FM.",
+   "C": "CW.",
+   "D": "satellites."
+  },
+  "onderwerp": "plan de bandes"
+ },
+ {
+  "id": "E-h08-07",
+  "vraag": "Vous comprenez tout parfaitement et le S-mètre indique S9. Quel report donnez-vous ?",
+  "opties": [
+   "95",
+   "59",
+   "99",
+   "55"
+  ],
+  "uitleg": "D'abord la lisibilité (5), ensuite la force (9).",
+  "waarom_fout": {
+   "A": "à l'envers.",
+   "C": "la lisibilité ne va que jusqu'à 5.",
+   "D": "la force est 9, pas 5."
+  },
+  "onderwerp": "S-mètre"
+ },
+ {
+  "id": "E-h08-08",
+  "vraag": "Que se passe-t-il si vous raccordez l'alimentation avec la mauvaise polarité ?",
+  "opties": [
+   "rien",
+   "l'émetteur peut être endommagé",
+   "vous émettez sur une autre fréquence",
+   "le ROS devient 1 : 1"
+  ],
+  "uitleg": "Une mauvaise polarité peut endommager l'émetteur.",
+  "waarom_fout": {
+   "A": "c'est bel et bien dangereux.",
+   "C": "non.",
+   "D": "non."
+  },
+  "onderwerp": "raccorder"
+ },
+ {
+  "id": "E-h08-09",
+  "vraag": "Quelle bande latérale utilise-t-on généralement sur 40 m (7 MHz) ?",
+  "opties": [
+   "USB",
+   "LSB",
+   "FM",
+   "AM"
+  ],
+  "uitleg": "Sous 10 MHz, on utilise généralement la LSB.",
+  "waarom_fout": {
+   "A": "USB au-dessus de 10 MHz.",
+   "C": "pas une bande latérale.",
+   "D": "pas une bande latérale."
+  },
+  "onderwerp": "SSB"
+ }
+]

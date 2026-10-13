@@ -1,0 +1,94 @@
+[
+ {
+  "id": "C-h00-1a",
+  "bron": "check",
+  "hoofdstuk": 0,
+  "onderwerp": "examen",
+  "vraag": "Hoeveel punten heb je minstens nodig op het theorie-examen van 30 vragen?",
+  "opties": [
+   "15",
+   "20",
+   "24",
+   "30"
+  ],
+  "juist": "C",
+  "uitleg": "80 % van 30 is 24.",
+  "waarom_fout": {
+   "A": "dat is 50 %.",
+   "B": "dat is 67 %.",
+   "D": "zo streng is het niet."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h00-1b",
+  "bron": "check",
+  "hoofdstuk": 0,
+  "onderwerp": "examen",
+  "vraag": "Wat gebeurt er met een fout antwoord?",
+  "opties": [
+   "je krijgt een strafpunt",
+   "je krijgt 0 punten",
+   "je valt automatisch door",
+   "de vraag telt dubbel"
+  ],
+  "juist": "B",
+  "uitleg": "Fout of blanco geeft 0 punten, zonder strafpunt.",
+  "waarom_fout": {
+   "A": "er zijn geen strafpunten.",
+   "C": "niet automatisch.",
+   "D": "nee."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h00-2a",
+  "bron": "check",
+  "hoofdstuk": 0,
+  "onderwerp": "platform",
+  "vraag": "Waar wordt je voortgang op dit platform bewaard?",
+  "opties": [
+   "op een server na inloggen",
+   "op je eigen toestel in de browser",
+   "bij het BIPT",
+   "in je e-mail"
+  ],
+  "juist": "B",
+  "uitleg": "Er is geen account: alles blijft lokaal.",
+  "waarom_fout": {
+   "A": "er is geen account.",
+   "C": "het platform is niet verbonden met het BIPT.",
+   "D": "niet."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ },
+ {
+  "id": "C-h00-2b",
+  "bron": "check",
+  "hoofdstuk": 0,
+  "onderwerp": "platform",
+  "vraag": "Wat betekent het niveau \"begrijpen\" in het examenprogramma?",
+  "opties": [
+   "je herkent iets en past het meteen toe",
+   "je ziet ook in waarom het zo is",
+   "je mag het opzoeken",
+   "het is geen examenstof"
+  ],
+  "juist": "B",
+  "uitleg": "Begrijpen: ook inzien waarom en waar het toepasbaar is.",
+  "waarom_fout": {
+   "A": "dat is weten.",
+   "C": "op het examen mag je niets opzoeken.",
+   "D": "het is wel examenstof."
+  },
+  "moeilijkheid": 1,
+  "svg": null,
+  "status": "ok"
+ }
+]
