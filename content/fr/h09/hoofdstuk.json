@@ -1,0 +1,107 @@
+{
+ "id": "h09",
+ "leerdoelen": [
+  "expliquer qu'une <b>haute tension</b> provoque l'électrocution et qu'un <b>courant élevé</b> provoque un incendie.",
+  "expliquer pourquoi les appareils branchés sur le réseau électrique ont besoin d'une <b>terre de sécurité</b>, et reconnaître son symbole.",
+  "expliquer à quoi sert un <b>fusible</b>, pourquoi sa valeur doit être correcte, et reconnaître son symbole.",
+  "dire pourquoi il vous faut un <b>interrupteur général d'urgence</b>.",
+  "raccorder correctement un cordon secteur : <b>brun, bleu, jaune-vert</b>.",
+  "dire ce que vous faites <b>en tout premier</b> lors d'un accident électrique.",
+  "énumérer les règles de sécurité pour les <b>câbles, les antennes, les lignes électriques et la foudre</b>.",
+  "expliquer pourquoi vous devez protéger votre <b>audition</b>."
+ ],
+ "doelstellingen": [
+  "9a.1",
+  "9a.2",
+  "9a.3",
+  "9a.4",
+  "9a.5",
+  "9a.6",
+  "9b.1",
+  "9c.1",
+  "9c.2",
+  "9c.3",
+  "9c.4",
+  "9c.5",
+  "9c.6",
+  "9d.1"
+ ],
+ "paginas": [
+  "b01-gevaren",
+  "b02-aarding",
+  "b03-zekering",
+  "b04-netsnoer",
+  "b05-ongeval",
+  "b06-opstelling",
+  "b07-hoofdtelefoon",
+  "m01-checklist",
+  "formules"
+ ],
+ "flashcards": [
+  {
+   "voor": "Haute tension",
+   "achter": "Danger d'électrocution."
+  },
+  {
+   "voor": "Courant élevé",
+   "achter": "Danger de surchauffe et d'incendie."
+  },
+  {
+   "voor": "Terre de sécurité",
+   "achter": "En cas de défaut, le courant passe par la terre et pas à travers vous : elle évite l'électrocution."
+  },
+  {
+   "voor": "Fusible",
+   "achter": "Coupe en cas de courant trop élevé : évite la surchauffe et l'incendie. Toujours la bonne valeur."
+  },
+  {
+   "voor": "Fusible trop grand",
+   "achter": "Ne saute même pas en cas de défaut : dangereux."
+  },
+  {
+   "voor": "Interrupteur général d'urgence",
+   "achter": "Pour couper rapidement et sûrement tous les appareils en cas d'urgence."
+  },
+  {
+   "voor": "Travailler dans un appareil",
+   "achter": "D'abord retirer la fiche de la prise."
+  },
+  {
+   "voor": "Couleurs du cordon secteur",
+   "achter": "Brun = phase, bleu = neutre, jaune-vert = terre."
+  },
+  {
+   "voor": "Accident électrique",
+   "achter": "D'abord couper la tension. Ensuite seulement toucher la victime. Puis le 112."
+  },
+  {
+   "voor": "Câbles qui traînent",
+   "achter": "Risque de trébucher et isolant abîmé."
+  },
+  {
+   "voor": "Installer une antenne",
+   "achter": "Bien fixée, loin des lignes électriques, avec de l'aide et au moins un adulte."
+  },
+  {
+   "voor": "Antenne pendant l'émission",
+   "achter": "Ne pas la toucher. L'installer de façon à rendre tout contact accidentel impossible."
+  },
+  {
+   "voor": "Antenne élevée",
+   "achter": "Protection contre la foudre."
+  },
+  {
+   "voor": "Casque d'écoute",
+   "achter": "Un volume trop fort peut abîmer définitivement votre audition."
+  }
+ ],
+ "samenvatting": [
+  "Haute tension = électrocution. Courant élevé = surchauffe et incendie.",
+  "Terre de sécurité contre l'électrocution, fusible de la bonne valeur contre l'incendie, interrupteur général pour les urgences.",
+  "Travailler dans un appareil : fiche retirée. Cordon secteur : brun phase, bleu neutre, jaune-vert terre.",
+  "Accident : d'abord couper la tension, ensuite seulement toucher, puis le 112.",
+  "Pas de câbles par terre, antennes solides et loin des lignes électriques, jamais seul, ne pas toucher pendant l'émission, protection contre la foudre.",
+  "Casque d'écoute pas trop fort."
+ ],
+ "opmerking": null
+}

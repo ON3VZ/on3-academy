@@ -1,0 +1,96 @@
+{
+ "id": "h06",
+ "leerdoelen": [
+  "expliquer qu'une onde radio va <b>en ligne droite</b>, sauf si elle est <b>réfléchie</b> ou <b>déviée</b>, et qu'elle devient <b>plus faible</b> en chemin.",
+  "expliquer pourquoi il y a des <b>zones d'ombre</b> en VHF et UHF derrière les collines et les bâtiments.",
+  "dire où l'on reçoit le mieux à l'intérieur et pourquoi une <b>antenne extérieure</b> est meilleure.",
+  "énumérer ce dont dépend la <b>portée en VHF et UHF</b>, et pourquoi une <b>antenne plus haute</b> vaut mieux que plus de puissance.",
+  "expliquer ce qu'est l'<b>ionosphère</b> et à quelle altitude elle se trouve.",
+  "expliquer comment la HF fait le <b>tour du monde</b> via l'ionosphère.",
+  "énumérer ce dont dépendent les conditions HF : <b>fréquence, heure, saison et cycle des taches solaires</b>."
+ ],
+ "doelstellingen": [
+  "6a.1",
+  "6a.2",
+  "6a.3",
+  "6a.4",
+  "6a.5",
+  "6b.1",
+  "6b.2"
+ ],
+ "paginas": [
+  "b01-basis",
+  "b02-schaduw",
+  "b03-bereik",
+  "b04-ionosfeer",
+  "b05-condities",
+  "m01-hf-vhf",
+  "formules"
+ ],
+ "flashcards": [
+  {
+   "voor": "Propagation",
+   "achter": "La façon dont une onde radio se déplace de l'émetteur vers le récepteur."
+  },
+  {
+   "voor": "Comment voyage une onde radio ?",
+   "achter": "En ligne droite, sauf si elle est réfléchie ou déviée. En chemin, elle devient toujours plus faible."
+  },
+  {
+   "voor": "Limite entre HF et VHF",
+   "achter": "Environ 30 MHz."
+  },
+  {
+   "voor": "Zone d'ombre",
+   "achter": "Zone derrière une colline ou un grand bâtiment, avec un signal faible ou nul. En VHF et UHF, pas en HF."
+  },
+  {
+   "voor": "Portatif à l'intérieur",
+   "achter": "Le mieux près d'une fenêtre : le verre laisse passer, le béton non."
+  },
+  {
+   "voor": "Portée VHF/UHF",
+   "achter": "Pas beaucoup plus loin que l'horizon optique. Dépend de la hauteur d'antenne, de la vue dégagée, de la puissance et de la fréquence."
+  },
+  {
+   "voor": "Antenne plus haute ou plus de puissance ?",
+   "achter": "Antenne plus haute : mieux en émission et en réception. Plus de puissance : seulement en émission."
+  },
+  {
+   "voor": "Fréquence plus haute en VHF/UHF",
+   "achter": "Portée plus petite."
+  },
+  {
+   "voor": "Ionosphère",
+   "achter": "Couches de gaz ionisé entre 70 et 400 km d'altitude. Renvoie la HF."
+  },
+  {
+   "voor": "HF à grande distance",
+   "achter": "Par réflexion dans l'ionosphère. 14 MHz sur 15 000 km, c'est possible, 144 MHz non."
+  },
+  {
+   "voor": "De quoi dépendent les conditions HF ?",
+   "achter": "De la fréquence, de l'heure de la journée, de la saison et du cycle des taches solaires. Pas de la modulation."
+  },
+  {
+   "voor": "Cycle des taches solaires",
+   "achter": "Environ 11 ans. Beaucoup de taches solaires = l'ionosphère renvoie mieux."
+  },
+  {
+   "voor": "Couche D",
+   "achter": "Couche la plus basse, seulement le jour. Absorbe les basses fréquences (160 m, 80 m)."
+  },
+  {
+   "voor": "Couche F",
+   "achter": "Couche la plus haute, renvoie la HF. Plus mince la nuit."
+  }
+ ],
+ "samenvatting": [
+  "Une onde radio va en ligne droite sauf si elle est réfléchie ou déviée, et elle devient plus faible en chemin.",
+  "VHF et UHF : zones d'ombre derrière les collines et les bâtiments, le verre laisse passer, le béton non, une antenne extérieure est meilleure.",
+  "VHF et UHF : portée à peu près jusqu'à l'horizon. Une antenne plus haute aide en émission et en réception, plus de puissance seulement en émission. Fréquence plus haute = portée plus petite.",
+  "HF : le tour du monde via l'ionosphère (70 à 400 km).",
+  "Conditions HF : fréquence, heure, saison et cycle des taches solaires (environ 11 ans)."
+ ],
+ "opmerking": null
+}

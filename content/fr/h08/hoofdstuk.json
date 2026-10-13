@@ -1,0 +1,123 @@
+{
+ "id": "h08",
+ "leerdoelen": [
+  "expliquer pourquoi vous <b>écoutez d'abord</b> et demandez si la fréquence est libre.",
+  "lancer un appel <b>CQ</b> correct.",
+  "expliquer pourquoi, en VHF/UHF, vous quittez la <b>fréquence d'appel</b> après le contact.",
+  "épeler n'importe quel mot avec l'<b>alphabet phonétique international</b>.",
+  "expliquer ce que sont un <b>relais</b>, le <b>shift</b>, la <b>tonalité de 1750 Hz</b> et le <b>CTCSS</b>.",
+  "lire un <b>plan de bandes</b> et dire où vous pouvez émettre dans un mode donné.",
+  "raccorder correctement un microphone ou un autre appareil audio (<b>PTT</b>, bon niveau).",
+  "utiliser un appareil FM et un appareil HF, lire le <b>S-mètre</b> et donner un <b>report</b>.",
+  "raccorder une station, mesurer le <b>ROS</b> et <b>régler un dipôle</b>."
+ ],
+ "doelstellingen": [
+  "8a.1",
+  "8a.2",
+  "8a.3",
+  "8a.4",
+  "8b.1",
+  "8c.1",
+  "8d.1",
+  "8e.1",
+  "8e.2",
+  "8e.3",
+  "8e.4",
+  "8e.5",
+  "8f.1",
+  "8f.2"
+ ],
+ "paginas": [
+  "b01-qso",
+  "b02-spellen",
+  "b03-repeater",
+  "b04-bandplan-14",
+  "b05-bandplan-144",
+  "b06-microfoon",
+  "b07-fm-toestel",
+  "b08-hf-ssb",
+  "b09-aansluiten",
+  "m01-proef",
+  "formules"
+ ],
+ "flashcards": [
+  {
+   "voor": "Écouter d'abord, pourquoi ?",
+   "achter": "Pour ne pas perturber les autres stations."
+  },
+  {
+   "voor": "CQ correct",
+   "achter": "CQ CQ CQ, ici ON3XYZ (plusieurs fois) ... qui appelle et passe à l'écoute."
+  },
+  {
+   "voor": "Fréquence d'appel VHF/UHF",
+   "achter": "Seulement pour établir le contact. Ensuite QSY, pour que d'autres puissent l'utiliser. FM 2 m : 145,500 MHz."
+  },
+  {
+   "voor": "A B C D E F G",
+   "achter": "Alfa Bravo Charlie Delta Echo Foxtrot Golf"
+  },
+  {
+   "voor": "H I J K L M N",
+   "achter": "Hotel India Juliett Kilo Lima Mike November"
+  },
+  {
+   "voor": "O P Q R S T U",
+   "achter": "Oscar Papa Quebec Romeo Sierra Tango Uniform"
+  },
+  {
+   "voor": "V W X Y Z",
+   "achter": "Victor Whiskey X-ray Yankee Zulu (prononcé zoulou)"
+  },
+  {
+   "voor": "Relais",
+   "achter": "Répète les signaux depuis un endroit élevé. Surtout pour augmenter la portée des stations mobiles."
+  },
+  {
+   "voor": "Shift",
+   "achter": "Différence de fréquence entre l'entrée et la sortie d'un relais. 2 m : 600 kHz."
+  },
+  {
+   "voor": "1750 Hz et CTCSS",
+   "achter": "Tonalités pour activer un relais. CTCSS : 67 à 254 Hz."
+  },
+  {
+   "voor": "Plan de bandes",
+   "achter": "Répartit une bande entre les modes, pour qu'ils ne se perturbent pas."
+  },
+  {
+   "voor": "20 m : CW et phonie",
+   "achter": "CW 14 000 à 14 099 (contest jusqu'à 14 060). Balises 14 099 à 14 101. Phonie à partir de 14 101 (contest 14 125 à 14 300)."
+  },
+  {
+   "voor": "2 m : où émettez-vous vers un relais ?",
+   "achter": "Sur l'entrée : 144 990 à 145 194 kHz, par exemple 145,100 MHz."
+  },
+  {
+   "voor": "S-mètre",
+   "achter": "S1 à S9. Chaque point S = 2 × la tension. S9 = 256 × S1."
+  },
+  {
+   "voor": "Report 59",
+   "achter": "5 = parfaitement lisible, 9 = très fort."
+  },
+  {
+   "voor": "Squelch",
+   "achter": "Coupe le bruit quand il n'y a pas de signal. À régler jusqu'à ce que le bruit disparaisse tout juste."
+  },
+  {
+   "voor": "RIT / clarifier",
+   "achter": "Corriger finement la fréquence de réception sans changer votre fréquence d'émission."
+  }
+ ],
+ "samenvatting": [
+  "Écouter d'abord et demander si la fréquence est libre. Un CQ se termine par « qui appelle et passe à l'écoute ».",
+  "En VHF/UHF, vous quittez la fréquence d'appel dès que le contact est établi.",
+  "Épeler avec Alfa, Bravo, Charlie ... Zulu. Jamais avec vos propres mots.",
+  "Relais : placé en hauteur, pour les stations mobiles. Shift = différence de fréquence. S'ouvre avec 1750 Hz ou CTCSS.",
+  "Plan de bandes = bande répartie entre les modes. Apprenez le tableau des 20 m et des 2 m.",
+  "Report : lisibilité (1 à 5) et force (1 à 9). S-mètre : chaque point = 2 × la tension.",
+  "Pratique : squelch, volume, RIT, gain micro, boîte d'accord, polarité, mesurer le ROS et régler un dipôle."
+ ],
+ "opmerking": null
+}

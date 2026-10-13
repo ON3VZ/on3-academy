@@ -1,0 +1,38 @@
+{
+ "id": "h07",
+ "leerdoelen": [
+  "expliquer ce que signifie la <b>CEM</b>.",
+  "expliquer qu'un émetteur peut perturber des appareils <b>dans le voisinage</b>, et qu'un récepteur peut être perturbé.",
+  "énumérer <b>par quels fils</b> une perturbation entre, et ce qu'est le <b>rayonnement direct</b>.",
+  "dire comment <b>réduire</b> le risque de perturbation : emplacement et type d'antenne, puissance, modulation.",
+  "expliquer ce qu'est l'<b>immunité</b> et où placer un <b>filtre</b> ou un <b>tore de ferrite</b>.",
+  "expliquer pourquoi les filtres faits maison sur le <b>réseau électrique</b> peuvent être dangereux.",
+  "expliquer à quoi sert une <b>terre HF</b>.",
+  "dire comment traiter une plainte des voisins pour perturbations et quel est le rôle de l'<b>IBPT</b>."
+ ],
+ "doelstellingen": ["7a.1", "7a.2", "7a.3", "7a.4", "7b.1", "7b.2", "7c.1", "7c.2", "7c.3", "7d.1"],
+ "paginas": ["b01-emc", "b02-voorkomen", "b03-immuniteit", "b04-aarding", "b05-buren", "m01-opsporen", "formules"],
+ "flashcards": [
+  {"voor": "CEM", "achter": "Compatibilité électromagnétique : éviter que des appareils électroniques se perturbent entre eux."},
+  {"voor": "Qui peut perturber qui ?", "achter": "Votre émetteur peut perturber des appareils dans le voisinage. Des appareils proches peuvent parfois perturber votre récepteur."},
+  {"voor": "Par où entre une perturbation ?", "achter": "Par des fils qui se comportent comme une antenne : réseau électrique, câble d'antenne de télévision, câbles de haut-parleurs et de téléphone."},
+  {"voor": "Rayonnement direct", "achter": "L'onde entre directement dans l'appareil. Surtout en VHF/UHF, quand l'émetteur est proche."},
+  {"voor": "Antenne et perturbations", "achter": "Le plus loin possible des maisons et le plus haut possible. En HF, une antenne symétrique (dipôle) vaut mieux qu'un long fil alimenté en bout."},
+  {"voor": "Puissance et perturbations", "achter": "Plus de puissance = plus de risque de perturbation. Réduire la puissance aide."},
+  {"voor": "Modulation et perturbations", "achter": "La SSB donne le plus de risque. La FM, la CW et certains modes numériques beaucoup moins."},
+  {"voor": "Immunité", "achter": "Un appareil fonctionne correctement, même à proximité de fortes ondes radio."},
+  {"voor": "Où placer un filtre ?", "achter": "Dans le câble par lequel la perturbation entre, le plus près possible de l'appareil perturbé."},
+  {"voor": "Filtres sur le réseau électrique", "achter": "Ils doivent être conçus pour cela. Les filtres faits maison peuvent être dangereux (pas les tores de ferrite)."},
+  {"voor": "Terre HF", "achter": "Chemin direct vers la terre pour les courants HF, pour qu'ils ne perturbent pas en passant par la terre du réseau électrique."},
+  {"voor": "Un voisin se plaint de perturbations", "achter": "Examiner ensemble et chercher ensemble une solution. Si cela ne marche pas : demander conseil à l'IBPT."}
+ ],
+ "samenvatting": [
+  "CEM = les appareils ne se perturbent pas entre eux. Un émetteur peut perturber des appareils proches, et inversement.",
+  "Une perturbation entre par des fils (réseau, câble d'antenne, haut-parleur, téléphone) et en VHF/UHF aussi directement.",
+  "Moins de risque : antenne loin et haute, symétrique, moins de puissance, pas de SSB mais de la FM ou de la CW.",
+  "Améliorer l'immunité avec des filtres ou des tores de ferrite, le plus près possible de l'appareil perturbé. Les filtres sur le 230 V doivent être conçus pour cela.",
+  "Terre HF : chemin court et propre vers la terre pour les courants HF.",
+  "En cas de plainte : aimable et chercher ensemble, puis l'UBA, puis l'IBPT."
+ ],
+ "opmerking": null
+}
