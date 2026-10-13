@@ -357,3 +357,7 @@ td .figwrap .fig,.figwrap.klein .fig{min-width:0!important;width:100%;height:aut
 .card.impact .offl.ok{color:var(--green,#2e9d5b)}
 .card.actueel{border-top:3px solid #8b6cf0;border-left:4px solid #8b6cf0}
 .card.actueel b.k{color:#8b6cf0}
+#discModal .box{max-height:90vh;overflow-y:auto}
+.disc-taal+.disc-taal{margin-top:22px;padding-top:14px;border-top:1px solid var(--border)}
+.disc-taal h2{margin:0 0 10px}
+.disc-taal .lbl-mono{font-size:12px;opacity:.7;vertical-align:middle}

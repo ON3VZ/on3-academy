@@ -331,7 +331,7 @@
     nav("voortgang");
     app.innerHTML = `<div class="hero compact"><div class="eyebrow">${T("nav_voortgang")}</div><h1>${T("vg_titel")}</h1></div><div class="article" id="va"></div>`;
     const a = $("#va");
-    const rows = taal().hoofdstukken.filter((h) => h.beschikbaar && !h.info).map((h) => { const s = hoofdstukStats(h.id); return `<div class="score-row"><span>${h.band} · ${h.titel}</span><span>${s.goed} / ${s.totaal} ${T("juist_kort")} · ${s.pct} %</span></div>`; }).join("");
+    const rows = taal().hoofdstukken.filter((h) => h.beschikbaar && !h.info).map((h) => { const s = hoofdstukStats(h.id); return `<div class="score-row"><span>${h.titel}</span><span>${s.goed} / ${s.totaal} ${T("juist_kort")} · ${s.pct} %</span></div>`; }).join("");
     const ex = S.examens.length ? Math.max(...S.examens.map((e) => e.score)) : null;
     a.innerHTML = `<div class="stats"><div class="stat"><div class="n">${Object.keys(S.antwoorden).length}</div><div class="c">${T("vg_beantwoord")}</div></div>
       <div class="stat"><div class="n">${Object.keys(S.fouten).length}</div><div class="c">${T("vg_infout")}</div></div>
