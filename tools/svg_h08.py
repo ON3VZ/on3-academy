@@ -60,7 +60,7 @@ SEG144 = [(144000, 144035, "EME", "bak"), (144035, 144150, "CW", "cw"), (144150,
           (144400, 144500, "bakens", "bak"), (144500, 144800, "alle modes", "all"), (144800, 144990, "digitaal", "dig"),
           (144990, 145194, "FM rep. ingang", "fm"), (145194, 145594, "FM", "fm"), (145594, 145800, "FM rep. uitgang", "fm"),
           (145800, 146000, "satelliet", "bak")]
-KLEUR = {"cw": "var(--cyan)", "dig": "var(--primary)", "bak": "var(--text3)", "fon": "var(--amber)", "fm": "var(--red)", "all": "var(--head2)"}
+KLEUR = {"cw": "var(--cyan)", "dig": "var(--primary)", "bak": "var(--text3)", "fon": "var(--amber)", "fm": "var(--red)", "all": "#8b6cf0"}
 
 
 def bandplan(seg, titel, f0, f1, ticks, w=760, h=190):
