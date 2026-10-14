@@ -140,19 +140,39 @@ def dipool():
 def ant_58(x, ybot, hoogte=150, label=True):
     """5/8 λ: grondvlak, spoel, straler"""
     s = line(x - 40, ybot, x + 40, ybot, "wire thick")
-    s += line(x, ybot, x, ybot - 18, ANT) + spoel_v(x, ybot - 18 - 56, 4, 7).replace('class="sym"', 'class="sym"')
+    s += line(x, ybot, x, ybot - 6, "wire") + line(x - 6, ybot - 6, x + 6, ybot - 6, "wire") + line(x - 6, ybot - 11, x + 6, ybot - 11, "wire")
+    s += line(x, ybot - 11, x, ybot - 18, ANT) + spoel_v(x, ybot - 18 - 56, 4, 7).replace('class="sym"', 'class="sym"')
     s += line(x, ybot - 18 - 56, x, ybot - hoogte, ANT)
     if label:
         s += t(x + 16, ybot - 40, "SPOEL", "lbl s b") + t(x, ybot + 22, "GRONDVLAK", "lbl s b", "middle")
     return s
 
 
-def gp(x, ytop, hoogte=110, rad=70):
+def gp(x, ytop, hoogte=110, rad=70, hoek=False):
+    """groundplane: straler + 4 radialen die 45 graden naar beneden hangen.
+    Links en rechts volle lijn (precies 45 graden), voor en achter lichter (perspectief)."""
     s = line(x, ytop, x, ytop + hoogte, ANT)
     yb = ytop + hoogte
-    for dx, dy in [(-rad, rad * 0.9), (rad, rad * 0.9), (-rad * 0.45, rad * 1.05), (rad * 0.45, rad * 1.05)]:
-        s += line(x, yb, x + dx, yb + dy, ANT)
+    c = rad * 0.7071
+    s += line(x, yb, x - c, yb + c, ANT) + line(x, yb, x + c, yb + c, ANT)
+    s += f'<line x1="{x}" y1="{yb}" x2="{x - c*0.42:.1f}" y2="{yb + c*1.12:.1f}" class="{ANT}" style="opacity:.5"/>'
+    s += f'<line x1="{x}" y1="{yb}" x2="{x + c*0.42:.1f}" y2="{yb + c*0.72:.1f}" class="{ANT}" style="opacity:.5"/>'
+    s += f'<circle cx="{x}" cy="{yb}" r="4" class="symfill"/>'
+    if hoek:
+        s += line(x, yb, x + c + 20, yb, "guide2")
+        r = 46
+        s += f'<path d="M{x + r},{yb} A{r},{r} 0 0 1 {x + r*0.7071:.1f},{yb + r*0.7071:.1f}" class="w-amber" style="fill:none"/>'
     return s
+
+
+def voed_h(x, y):
+    """voedingspunt in het midden van een horizontale dipool: twee korte draadjes naar beneden"""
+    return line(x - 5, y, x - 5, y + 10, "wire") + line(x + 5, y, x + 5, y + 10, "wire")
+
+
+def voed_v(x, y):
+    """voedingspunt in het midden van een verticale dipool: twee korte draadjes naar rechts"""
+    return line(x, y - 5, x + 10, y - 5, "wire") + line(x, y + 5, x + 10, y + 5, "wire")
 
 
 def yagi_persp(x, y, s=1.0):
@@ -164,7 +184,11 @@ def yagi_persp(x, y, s=1.0):
         cx = bx0 + (bx1 - bx0) * i / 3
         cy = by0 + (by1 - by0) * i / 3
         dx, dy = 75 * s * L, 30 * s * L
-        out += line(cx - dx, cy - dy, cx + dx, cy + dy, ANT)
+        if i == 1:  # gevoed element (dipool met voedingspunt op de boom)
+            out += line(cx - dx, cy - dy, cx - 4, cy - 1.6, ANT) + line(cx + 4, cy + 1.6, cx + dx, cy + dy, ANT)
+            out += line(cx - 3, cy - 1, cx - 3, cy + 9, "wire") + line(cx + 3, cy + 1, cx + 3, cy + 11, "wire")
+        else:
+            out += line(cx - dx, cy - dy, cx + dx, cy + dy, ANT)
     return out
 
 
@@ -172,8 +196,8 @@ def abcd1():
     w, h = 760, 260
     b = ""
     b += ant_58(80, 200, 170)
-    b += line(210, 110, 302, 110, ANT) + line(312, 110, 404, 110, ANT)
-    b += line(480, 40, 480, 106, ANT) + line(480, 116, 480, 182, ANT)
+    b += line(210, 110, 302, 110, ANT) + line(312, 110, 404, 110, ANT) + voed_h(307, 110)
+    b += line(480, 40, 480, 106, ANT) + line(480, 116, 480, 182, ANT) + voed_v(480, 111)
     b += yagi_persp(650, 110, 0.72)
     for x, l in [(80, "A"), (307, "B"), (480, "C"), (650, "D")]:
         b += t(x, 252, f"({l})", "lbl big", "middle")
@@ -190,8 +214,8 @@ def abcd2():
     b += f'<path d="M230,70 Q215,140 205,195" class="ant"/>'
     b += line(205, 195, 205, 205, "wire") + grond(205, 205, 22)
     b += t(240, 214, "MAST", "lbl s b") + t(410, 214, "MAST", "lbl s b", "end")
-    b += line(520, 50, 520, 136, ANT) + line(520, 146, 520, 232, ANT)
-    b += gp(660, 40, 100, 70)
+    b += line(520, 50, 520, 136, ANT) + line(520, 146, 520, 232, ANT) + voed_v(520, 141)
+    b += gp(660, 40, 110, 120)
     for x, l in [(80, "A"), (325, "B"), (520, "C"), (660, "D")]:
         b += t(x, 272, f"({l})", "lbl big", "middle")
     return svg(w, h, "Vier antennes A tot D (tweede reeks)", "A: antenne met spoel op grondvlak. B: draad tussen twee masten, aan één kant gevoed. C: verticale dipool. D: verticale staaf met vier schuine draden.", b)
@@ -222,18 +246,22 @@ def groundplane():
     w, h = 760, 320
     b = ARROW
     x = 230
-    b += gp(x, 30, 140, 110)
+    b += line(x, 140, x, 300, "feed")
+    b += gp(x, 30, 110, 150, hoek=True)
     b += t(x + 14, 60, "straler (λ/4)", "lbl b")
-    b += t(x + 115, 290, "radialen (elk λ/4)", "lbl b")
-    b += line(x, 170, x, 300, "feed") + t(x - 10, 315, "coax naar zender", "lbl s", "end")
-    b += f'<path d="M{x+40},{170+36} A50,50 0 0 0 {x+52},{170}" class="w-amber"/>'
-    b += t(x + 70, 200, "± 45°", "lbl s b accent2")
-    b += t(450, 70, "Een kwartgolf hoog op een mast.", "lbl b")
-    b += t(450, 96, "De grond is te ver weg, dus maken", "lbl")
-    b += t(450, 118, "schuine draden (radialen) het", "lbl")
-    b += t(450, 140, "grondvlak.", "lbl")
-    b += t(450, 176, "Rondstraler, verticaal gepolariseerd.", "lbl s")
-    return svg(w, h, "Groundplane-antenne", "Verticale straler van een kwart golflengte met schuin naar beneden hangende radialen, ongeveer 45 graden.", b)
+    b += t(x + 60, 166, "45°", "lbl s b accent2")
+    b += t(x + 40, 292, "radialen (elk λ/4)", "lbl b")
+    b += t(x - 10, 315, "coax naar zender", "lbl s", "end")
+    b += t(470, 70, "Een kwartgolf hoog op een mast.", "lbl b")
+    b += t(470, 96, "De grond is te ver weg, dus maken", "lbl")
+    b += t(470, 118, "schuine draden (radialen) het", "lbl")
+    b += t(470, 140, "grondvlak.", "lbl")
+    b += t(470, 176, "Radialen hangen ongeveer 45° onder", "lbl s")
+    b += t(470, 194, "de horizontale. Meestal 3 of 4 stuks.", "lbl s")
+    b += t(470, 222, "Kern van de coax aan de straler,", "lbl s")
+    b += t(470, 240, "mantel aan de radialen.", "lbl s")
+    b += t(470, 268, "Rondstraler, verticaal gepolariseerd.", "lbl s")
+    return svg(w, h, "Groundplane-antenne", "Verticale straler van een kwart golflengte met vier radialen die 45 graden onder de horizontale naar beneden hangen.", b)
 
 
 def vijfachtste():
