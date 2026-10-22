@@ -266,7 +266,7 @@
     nav("oefenen"); clearInterval(timerH);
     const O = oefS();
     if (O.lopend) return oefenBezig();
-    const hs = taal().hoofdstukken.filter((h) => h.beschikbaar && !h.info).map((h) => ({ h, ids: hoofdstukVragen(h.id) })).filter((x) => x.ids.length);
+    const hs = taal().hoofdstukken.filter((h) => h.beschikbaar && !h.info && h.id !== "h00").map((h) => ({ h, ids: hoofdstukVragen(h.id) })).filter((x) => x.ids.length);
     const geslaagd = hs.filter((x) => (O.best[x.h.id] || 0) >= 80).length;
     app.innerHTML = `<div class="hero compact"><div class="eyebrow">${T("oef_eyebrow")}</div><h1>${T("oef_titel")}</h1></div><div class="article" id="oa"></div>`;
     const a = $("#oa");
