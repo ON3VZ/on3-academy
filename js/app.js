@@ -302,8 +302,15 @@
       const id = E.ids[E.cur];
       renderVraag(id, $("#eq"), { mode: "examen", nummer: E.cur + 1, totaal: E.ids.length, gekozen: E.keuze[id], onKies: (i) => { E.keuze[id] = i; save(); tekenen(); } });
       app.querySelectorAll(".qnav button").forEach((b) => b.onclick = () => { E.cur = +b.dataset.i; save(); tekenen(); });
-      $("#ep").disabled = E.cur === 0; $("#en").disabled = E.cur === E.ids.length - 1;
-      $("#ep").onclick = () => { E.cur--; save(); tekenen(); }; $("#en").onclick = () => { E.cur++; save(); tekenen(); };
+      $("#ep").disabled = E.cur === 0;
+      $("#ep").onclick = () => { E.cur--; save(); tekenen(); };
+      if (E.cur === E.ids.length - 1) {
+        // laatste vraag: "Volgende" wordt "Examen indienen"
+        const open = E.ids.length - Object.keys(E.keuze).length;
+        $("#en").innerHTML = `<small>${open ? F("ex_open", { n: open }) : T("ex_alles")}</small><span>${T("ex_stop")} ✓</span>`;
+        $("#en").classList.add("indienen");
+        $("#en").onclick = () => { if (confirm(open ? T("ex_bevestig") : T("ex_bevestig_ok"))) examenKlaar(); };
+      } else $("#en").onclick = () => { E.cur++; save(); tekenen(); };
       $("#ind").onclick = () => { if (confirm(T("ex_bevestig"))) examenKlaar(); };
       const tik = () => { const rest = E.start + EX_MINUTEN * 60000 - Date.now(); if (rest <= 0) { examenKlaar(); return; } const m = Math.floor(rest / 60000), s = Math.floor((rest % 60000) / 1000); const t = $("#tm"); if (t) { t.textContent = `${String(m).padStart(2, "0")}:${String(s).padStart(2, "0")}`; t.classList.toggle("low", rest < 5 * 60000); } };
       tik(); timerH = setInterval(tik, 1000);

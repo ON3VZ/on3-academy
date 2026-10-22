@@ -126,5 +126,8 @@
  "vg_in_toast": "Voortgang ingeladen.",
  "vg_in_fout": "Dit bestand kan niet gelezen worden.",
  "disc_6": "Dit platform vervangt het UBA-handboek niet. Het is enkel een aanvulling: een samenvatting en een oefenplatform.",
- "zie_handboek": "zie handboek"
+ "zie_handboek": "zie handboek",
+ "ex_open": "nog {n} vraag/vragen open",
+ "ex_alles": "alles beantwoord",
+ "ex_bevestig_ok": "Examen indienen en je resultaat bekijken?"
 }

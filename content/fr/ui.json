@@ -129,5 +129,8 @@
  "fr_titel": "Une note sur la version française",
  "fr_melding": "La langue maternelle de l'auteur de cette plateforme est le <b>néerlandais</b>. La version française est une traduction, faite avec le plus grand soin pour être aussi correcte que possible. Des erreurs de traduction ou de terminologie restent toutefois possibles. <b>N'hésitez pas à les signaler</b>, par exemple via <a href=\"https://github.com/ON3VZ/on3-academy/issues\" target=\"_blank\" rel=\"noopener\">la page des signalements du projet</a> ou à votre formateur ou section UBA. Merci !",
  "fr_ok": "Compris",
- "zie_handboek": "voir le manuel"
+ "zie_handboek": "voir le manuel",
+ "ex_open": "encore {n} question(s) sans réponse",
+ "ex_alles": "tout est répondu",
+ "ex_bevestig_ok": "Remettre l'examen et voir votre résultat ?"
 }

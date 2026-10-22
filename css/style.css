@@ -361,3 +361,5 @@ td .figwrap .fig,.figwrap.klein .fig{min-width:0!important;width:100%;height:aut
 .disc-taal+.disc-taal{margin-top:22px;padding-top:14px;border-top:1px solid var(--border)}
 .disc-taal h2{margin:0 0 10px}
 .disc-taal .lbl-mono{font-size:12px;opacity:.7;vertical-align:middle}
+.pager .next.indienen{background:var(--primary);border-color:var(--primary);color:var(--on-primary)}
+.pager .next.indienen small{color:var(--on-primary);opacity:.85}
