@@ -129,5 +129,22 @@
  "zie_handboek": "zie handboek",
  "ex_open": "nog {n} vraag/vragen open",
  "ex_alles": "alles beantwoord",
- "ex_bevestig_ok": "Examen indienen en je resultaat bekijken?"
+ "ex_bevestig_ok": "Examen indienen en je resultaat bekijken?",
+ "nav_oefenen": "Oefenen",
+ "oef_eyebrow": "Oefenen per hoofdstuk",
+ "oef_titel": "Oefenreeksen",
+ "oef_info": "Kies hoeveel vragen je wilt en klik op een hoofdstuk. Je krijgt willekeurige vragen uit dat hoofdstuk. De uitleg zie je op het einde. Je beste score per hoofdstuk wordt bewaard. Vanaf 80 % ben je geslaagd, zoals op het examen.",
+ "oef_samen": "<b>{g} van {n}</b> hoofdstukken boven 80 %",
+ "oef_aantal": "aantal vragen",
+ "oef_alle": "alle",
+ "oef_vragen": "{n} vragen",
+ "oef_start": "start {n} →",
+ "oef_best": "beste score",
+ "oef_record": "Nieuwe beste score!",
+ "oef_zelfde": "Zelfde hoofdstuk opnieuw",
+ "oef_sluit": "Sluiten",
+ "oef_stop": "Stoppen",
+ "oef_stop_ok": "Deze oefenreeks stoppen? Je antwoorden tellen dan niet.",
+ "oef_klaar": "Reeks afronden",
+ "oef_legende": "Groen: 80 % of meer (geslaagd). Oranje: 60 tot 79 %. Rood: minder dan 60 %. Grijs: nog niet geoefend."
 }

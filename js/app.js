@@ -257,6 +257,82 @@
       <p>${fout.length ? F("qsl_fout", { n: fout.length }) : T("qsl_geen")}</p>`);
   }
 
+
+  /* ---------- oefenen per hoofdstuk ---------- */
+  const OEF_N = [10, 20, 30, 0]; // 0 = alle
+  const oefS = () => { S.oefen = S.oefen || { best: {}, n: 10, lopend: null, laatste: null }; return S.oefen; };
+  const kleur = (pct) => pct === undefined ? "grijs" : pct >= 80 ? "groen" : pct >= 60 ? "oranje" : "rood";
+  function oefenen() {
+    nav("oefenen"); clearInterval(timerH);
+    const O = oefS();
+    if (O.lopend) return oefenBezig();
+    const hs = taal().hoofdstukken.filter((h) => h.beschikbaar && !h.info).map((h) => ({ h, ids: hoofdstukVragen(h.id) })).filter((x) => x.ids.length);
+    const geslaagd = hs.filter((x) => (O.best[x.h.id] || 0) >= 80).length;
+    app.innerHTML = `<div class="hero compact"><div class="eyebrow">${T("oef_eyebrow")}</div><h1>${T("oef_titel")}</h1></div><div class="article" id="oa"></div>`;
+    const a = $("#oa");
+    if (O.laatste) {
+      const L = O.laatste, pct = Math.round((L.goed / L.totaal) * 100), meta = hs.find((x) => x.h.id === L.hid);
+      const kaart = qsl(L.goed, L.totaal, (meta ? meta.h.titel : L.hid).toUpperCase(), L.ids.filter((id) => L.keuze[id] === undefined || "ABCD"[L.keuze[id]] !== Q[id].juist), `<tr><td>${T("oef_best")}</td><td>${O.best[L.hid]} %</td></tr>`);
+      kaart.querySelector("p").innerHTML += L.nieuwRecord ? ` <b>${T("oef_record")}</b>` : "";
+      a.append(kaart);
+      const d = el("details", { class: "nakijk" }, `<summary>${T("ex_nakijken")}</summary>`);
+      const s = el("div", { class: "qset" }); L.ids.forEach((id, i) => renderVraag(id, s, { mode: "review", nummer: i + 1, totaal: L.ids.length, gekozen: L.keuze[id] }));
+      d.append(s); a.append(d);
+      const rb = el("div", { class: "row" });
+      const zelf = el("button", { class: "btn pri" }, T("oef_zelfde")); zelf.onclick = () => oefenStart(L.hid);
+      const sluit = el("button", { class: "btn" }, T("oef_sluit")); sluit.onclick = () => { O.laatste = null; save(); oefenen(); };
+      rb.append(zelf, sluit); a.append(rb);
+    }
+    a.append(el("p", { class: "ref" }, T("oef_info")));
+    a.append(el("div", { class: "oef-samen" }, F("oef_samen", { g: geslaagd, n: hs.length })));
+    const keuze = el("div", { class: "oef-n" }, `<span class="lbl-mono">${T("oef_aantal")}</span>` + OEF_N.map((n) => `<button class="btn klein ${O.n === n ? "on" : ""}" data-n="${n}">${n || T("oef_alle")}</button>`).join(""));
+    keuze.querySelectorAll("button").forEach((b) => b.onclick = () => { O.n = +b.dataset.n; save(); oefenen(); });
+    a.append(keuze);
+    const lijst = el("div", { class: "oef-lijst" });
+    hs.forEach(({ h, ids }) => {
+      const pct = O.best[h.id], k = kleur(pct);
+      const n = O.n ? Math.min(O.n, ids.length) : ids.length;
+      const r = el("button", { class: "oef-rij " + k }, `<span class="t"><b>${h.nummer ? T("Hfst") + " " + h.nummer + " · " : ""}${h.titel}</b><small>${F("oef_vragen", { n: ids.length })}</small></span>
+        <span class="bar"><i style="width:${pct || 0}%"></i><em></em></span><span class="pct">${pct === undefined ? "-" : pct + " %"}</span><span class="go">${F("oef_start", { n })}</span>`);
+      r.onclick = () => oefenStart(h.id);
+      lijst.append(r);
+    });
+    a.append(lijst);
+    a.append(el("p", { class: "ref" }, T("oef_legende")));
+  }
+  function oefenStart(hid) {
+    const O = oefS(), alle = shuffle(hoofdstukVragen(hid));
+    const ids = O.n ? alle.slice(0, Math.min(O.n, alle.length)) : alle;
+    O.laatste = null; O.lopend = { hid, ids, keuze: {}, cur: 0 }; save(); oefenBezig();
+  }
+  function oefenBezig() {
+    const O = oefS(), E = O.lopend, meta = taal().hoofdstukken.find((h) => h.id === E.hid) || { titel: E.hid };
+    window.scrollTo(0, 0);
+    app.innerHTML = `<div class="exbar"><span><b>${meta.titel}</b></span><span class="ref">${Object.keys(E.keuze).length} / ${E.ids.length} ${T("beantwoord")}</span><button class="btn" id="ostop">${T("oef_stop")}</button></div>
+      <div class="qnav">${E.ids.map((id, i) => `<button class="${E.keuze[id] !== undefined ? "ans" : ""} ${i === E.cur ? "cur" : ""}" data-i="${i}">${i + 1}</button>`).join("")}</div><div id="eq"></div>
+      <nav class="pager"><button class="prev" id="ep"><small>${T("vorige")}</small><span>←</span></button><button class="next" id="en"><small>${T("volgende")}</small><span>→</span></button></nav>`;
+    const id = E.ids[E.cur];
+    renderVraag(id, $("#eq"), { mode: "examen", nummer: E.cur + 1, totaal: E.ids.length, gekozen: E.keuze[id], onKies: (i) => { E.keuze[id] = i; save(); oefenBezig(); } });
+    app.querySelectorAll(".qnav button").forEach((b) => b.onclick = () => { E.cur = +b.dataset.i; save(); oefenBezig(); });
+    $("#ep").disabled = E.cur === 0; $("#ep").onclick = () => { E.cur--; save(); oefenBezig(); };
+    if (E.cur === E.ids.length - 1) {
+      const open = E.ids.length - Object.keys(E.keuze).length;
+      $("#en").innerHTML = `<small>${open ? F("ex_open", { n: open }) : T("ex_alles")}</small><span>${T("oef_klaar")} ✓</span>`;
+      $("#en").classList.add("indienen");
+      $("#en").onclick = () => { if (!open || confirm(T("ex_bevestig"))) oefenKlaar(); };
+    } else $("#en").onclick = () => { E.cur++; save(); oefenBezig(); };
+    $("#ostop").onclick = () => { if (confirm(T("oef_stop_ok"))) { O.lopend = null; save(); oefenen(); } };
+  }
+  function oefenKlaar() {
+    const O = oefS(), E = O.lopend; if (!E) return;
+    let goed = 0;
+    E.ids.forEach((id) => { const ok = E.keuze[id] !== undefined && L[E.keuze[id]] === Q[id].juist; if (ok) goed++; registreer(id, ok); });
+    const pct = Math.round((goed / E.ids.length) * 100);
+    const nieuw = O.best[E.hid] === undefined || pct > O.best[E.hid];
+    if (nieuw) O.best[E.hid] = pct;
+    O.laatste = { hid: E.hid, ids: E.ids, keuze: E.keuze, goed, totaal: E.ids.length, nieuwRecord: nieuw };
+    O.lopend = null; save(); oefenen();
+  }
   /* ---------- foutenlog ---------- */
   function fouten() {
     nav("fouten");
@@ -361,6 +437,7 @@
     const p = location.hash.replace(/^#\/?/, "").split("/");
     if (p[0] === "h" && p[1]) hoofdstuk(p[1], parseInt(p[2] || "0", 10));
     else if (p[0] === "examen") examen();
+    else if (p[0] === "oefenen") oefenen();
     else if (p[0] === "fouten") fouten();
     else if (p[0] === "voortgang") voortgang();
     else home();
