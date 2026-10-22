@@ -7,7 +7,7 @@ def schoon(g):
     # uitleg die het antwoord voorzegt weglaten: enkel wat in een bandplan staat
     g = re.sub(r"\s*\((hier|ici)[^)]*\)", "", g)
     g = re.sub(r"\s*:\s*(hier|ici)\b.*$", "", g)
-    return g
+    return re.sub(r"(\d) (\d{3})", "\\1\u00a0\\2", g)  # getallen niet afbreken
 def rijen(md):
     out = []
     for l in open(md, encoding="utf-8"):
