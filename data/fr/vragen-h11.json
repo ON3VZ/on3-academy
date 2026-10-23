@@ -25,11 +25,11 @@
    "trois, par un chiffre",
    "quatre, par Q"
   ],
-  "uitleg": "Toujours trois lettres, commençant par Q.",
+  "uitleg": "En règle générale trois lettres, et toujours en commençant par Q.",
   "waarom_fout": {
-   "A": "il y en a trois.",
+   "A": "en règle générale, il y en a trois.",
    "C": "les codes chiffrés sont autre chose.",
-   "D": "il y en a trois."
+   "D": "en règle générale, il y en a trois."
   },
   "onderwerp": "codes Q"
  },
@@ -216,7 +216,7 @@
   "waarom_fout": {
    "B": "c'est 88.",
    "C": "c'est 44.",
-   "D": "c'est SK."
+   "D": "c'est SK (arrêter d'émettre)."
   },
   "onderwerp": "73"
  },
@@ -233,7 +233,7 @@
   "waarom_fout": {
    "B": "c'est 73.",
    "C": "c'est 44.",
-   "D": "c'est SK."
+   "D": "c'est SK (arrêter d'émettre)."
   },
   "onderwerp": "88"
  },
@@ -267,7 +267,7 @@
   "waarom_fout": {
    "B": "c'est une XYL.",
    "C": "c'est un OM.",
-   "D": "non."
+   "D": "un report se donne avec RST."
   },
   "onderwerp": "abréviations"
  },
@@ -282,28 +282,28 @@
   ],
   "uitleg": "RST : intelligibilité, force, tonalité.",
   "waarom_fout": {
-   "B": "aucune signification existante.",
-   "C": "aucune signification existante.",
-   "D": "aucune signification existante."
+   "B": "RST signifie readability, signal, tone (intelligibilité, force, tonalité).",
+   "C": "RST signifie readability, signal, tone (intelligibilité, force, tonalité).",
+   "D": "RST signifie readability, signal, tone (intelligibilité, force, tonalité)."
   },
   "onderwerp": "abréviations"
  },
  {
   "id": "E-h11-01",
-  "vraag": "Quelle est la différence en pratique entre QRM et QRN ?",
+  "vraag": "Que signifie QRM ?",
   "opties": [
-   "QRM est un brouillage par d'autres stations ou par l'activité humaine, QRN par l'atmosphère",
-   "QRM est un brouillage atmosphérique, QRN un brouillage par des stations",
-   "QRM est du fading, QRN du brouillage",
-   "il n'y a pas de différence"
+   "du brouillage",
+   "du fading",
+   "augmentez la puissance d'émission",
+   "par qui suis-je appelé ?"
   ],
-  "uitleg": "QRM désigne un brouillage par des stations ou par l'activité humaine, QRN un brouillage atmosphérique (comme un orage).",
+  "uitleg": "Selon le tableau des codes Q du manuel, « QRM? » signifie : êtes-vous brouillé ? Sans point d'interrogation, QRM signifie : je suis brouillé.",
   "waarom_fout": {
-   "B": "c'est l'inverse.",
-   "C": "le fading, c'est QSB.",
-   "D": "il y a bien une différence."
+   "B": "le fading, c'est QSB.",
+   "C": "c'est QRO.",
+   "D": "c'est QRZ."
   },
-  "onderwerp": "QRM et QRN"
+  "onderwerp": "QRM"
  },
  {
   "id": "E-h11-02",
@@ -436,8 +436,8 @@
   "uitleg": "QSP : voulez-vous retransmettre à ... ?",
   "waarom_fout": {
    "B": "c'est QSL.",
-   "C": "ce n'est pas un code Q du tableau.",
-   "D": "c'est QRO."
+   "C": "le tableau du manuel ne contient pas de code Q pour répéter.",
+   "D": "augmenter la puissance, c'est QRO."
   },
   "onderwerp": "QSK et QSP"
  },
@@ -469,7 +469,7 @@
   ],
   "uitleg": "R5 signifie parfaitement lisible, S9 très fort.",
   "waarom_fout": {
-   "B": "ce serait par exemple 24.",
+   "B": "faible mais lisible serait par exemple 43 ou 53.",
    "C": "dans ce cas, R est bas.",
    "D": "le report ne dit rien sur la puissance."
   },

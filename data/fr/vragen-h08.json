@@ -348,7 +348,7 @@
    "on peut émettre en SSB dans toute la plage entre 14099 kHz et 14230 kHz",
    "on peut émettre en SSB dans toute la plage entre 14100 kHz et 14200 kHz"
   ],
-  "uitleg": "La phonie (SSB) est permise à partir de 14 101 kHz. Parmi les options, 14 100 à 14 200 est celle qui s'y trouve le mieux.",
+  "uitleg": "La phonie (SSB) est permise de 14 101 à 14 350 kHz. À strictement parler, 14 100 se trouve encore dans le segment des balises, mais D en est le plus proche et c'est la clé officielle. A, B et C débordent sur des segments CW, numériques ou de balises.",
   "waarom_fout": {
    "A": "en bas, c'est la CW et le numérique.",
    "B": "en bas, c'est la CW et le numérique.",
@@ -418,7 +418,7 @@
   ],
   "uitleg": "CW : 144 035 à 144 150 kHz.",
   "waarom_fout": {
-   "A": "il y a là aussi la SSB et l'EME.",
+   "A": "de 144 150 à 144 400 kHz, c'est la zone SSB, la CW n'y est pas mentionnée.",
    "C": "à partir de 144 150, c'est de la SSB.",
    "D": "toute la bande n'est pas pour la CW."
   },
@@ -437,7 +437,7 @@
   "waarom_fout": {
    "A": "il y a là aussi la CW, la SSB, les balises et les satellites.",
    "B": "au-dessus de 145 800 se trouvent les satellites.",
-   "D": "ce segment est aussi de la FM, mais ce n'est pas la plage FM complète."
+   "D": "ce segment se trouve lui aussi dans la zone FM, donc à strictement parler D n'est pas faux. La clé officielle choisit C, la plage la plus large qui est entièrement en FM. À l'examen, choisissez C."
   },
   "onderwerp": "plan de bandes"
  },
@@ -469,8 +469,8 @@
   ],
   "uitleg": "CQ = appel général.",
   "waarom_fout": {
-   "A": "non.",
-   "C": "non.",
+   "A": "CQ est un appel général, pas la fin d'une liaison.",
+   "C": "CQ est un appel général à tout le monde, pas un appel de détresse.",
    "D": "c'est QSY."
   },
   "onderwerp": "QSO"
@@ -486,9 +486,9 @@
   ],
   "uitleg": "QSY = changer de fréquence.",
   "waarom_fout": {
-   "B": "non.",
+   "B": "QSY signifie changer de fréquence, pas être occupé.",
    "C": "c'est CQ.",
-   "D": "non."
+   "D": "QSY signifie changer de fréquence, pas répéter."
   },
   "onderwerp": "QSO"
  },
@@ -503,9 +503,9 @@
   ],
   "uitleg": "Un sked est une liaison convenue à l'avance.",
   "waarom_fout": {
-   "B": "non.",
-   "C": "non.",
-   "D": "non."
+   "B": "un sked est un rendez-vous pour une liaison, pas une antenne.",
+   "C": "un report se compose de deux chiffres (lisibilité et force), ce n'est pas un sked.",
+   "D": "un relais est une station placée en hauteur qui reçoit et réémet, pas un rendez-vous."
   },
   "onderwerp": "QSO"
  },
@@ -520,9 +520,9 @@
   ],
   "uitleg": "Q = Quebec.",
   "waarom_fout": {
-   "A": "faux.",
-   "C": "faux.",
-   "D": "faux."
+   "A": "ne figure pas dans l'alphabet phonétique : pour Q, c'est Quebec.",
+   "C": "ne figure pas dans l'alphabet phonétique : pour Q, c'est Quebec.",
+   "D": "ne figure pas dans l'alphabet phonétique : pour Q, c'est Quebec."
   },
   "onderwerp": "épeler"
  },
@@ -555,8 +555,8 @@
   "uitleg": "F = Foxtrot.",
   "waarom_fout": {
    "A": "trop court : Foxtrot.",
-   "C": "faux.",
-   "D": "faux."
+   "C": "ne figure pas dans l'alphabet phonétique : pour F, c'est Foxtrot.",
+   "D": "ne figure pas dans l'alphabet phonétique : pour F, c'est Foxtrot."
   },
   "onderwerp": "épeler"
  },
@@ -573,7 +573,7 @@
   "waarom_fout": {
    "A": "c'est l'écart entre canaux.",
    "C": "c'est la tonalité d'accès.",
-   "D": "non."
+   "D": "beaucoup trop grand : toute la bande des 2 m ne fait que 2 MHz de large (144 à 146 MHz)."
   },
   "onderwerp": "relais"
  },
@@ -605,9 +605,9 @@
   ],
   "uitleg": "CTCSS : tonalité basse entre 67 et 254 Hz.",
   "waarom_fout": {
-   "B": "non.",
-   "C": "non.",
-   "D": "non."
+   "B": "le CTCSS est une tonalité, pas une antenne.",
+   "C": "le CTCSS est une tonalité basse entre 67 et 254 Hz, pas un mode numérique.",
+   "D": "un report se compose de deux chiffres ; le CTCSS est une tonalité."
   },
   "onderwerp": "relais"
  },
@@ -622,9 +622,9 @@
   ],
   "uitleg": "Ce segment est réservé aux balises (IBP).",
   "waarom_fout": {
-   "A": "non.",
-   "B": "non.",
-   "D": "non."
+   "A": "la CW non plus n'a pas sa place dans le segment des balises : seules les balises y émettent.",
+   "B": "la phonie (SSB) n'est permise qu'à partir de 14 101 kHz.",
+   "D": "la FM ne figure pas dans le plan de bandes des 14 MHz, et vous n'émettez pas dans le segment des balises."
   },
   "onderwerp": "plan de bandes"
  },
@@ -654,7 +654,7 @@
    "image",
    "données"
   ],
-  "uitleg": "Phonie = voix.",
+  "uitleg": "Phonie = voix. Le manuel utilise le mot phonie dans le tableau du plan de bandes pour la voix (SSB, AM, FM).",
   "waarom_fout": {
    "A": "c'est la CW.",
    "C": "c'est la SSTV.",
@@ -724,9 +724,9 @@
   ],
   "uitleg": "Push To Talk : enfoncer = émettre.",
   "waarom_fout": {
-   "A": "non.",
-   "C": "non.",
-   "D": "non."
+   "A": "le volume se règle avec le bouton de volume.",
+   "C": "la fréquence se choisit avec le bouton d'accord.",
+   "D": "le squelch a son propre bouton ; le PTT met l'émetteur en marche."
   },
   "onderwerp": "PTT"
  },
@@ -741,7 +741,7 @@
   ],
   "uitleg": "Bon niveau et un PTT qui fonctionne.",
   "waarom_fout": {
-   "B": "non.",
+   "B": "la couleur ne joue aucun rôle : ce qui compte, c'est le bon niveau et le raccordement du PTT.",
    "C": "trop fort donne de la distorsion.",
    "D": "sans PTT, l'appareil n'émet pas."
   },
@@ -758,8 +758,8 @@
   ],
   "uitleg": "Signal audio trop fort = surmodulation : distorsion et perturbations.",
   "waarom_fout": {
-   "A": "non.",
-   "C": "non.",
+   "A": "un signal audio trop fort provoque bel et bien une surmodulation.",
+   "C": "la conséquence est de la distorsion et des perturbations, pas moins de puissance.",
    "D": "le ROS dépend de l'antenne."
   },
   "onderwerp": "PTT"
@@ -775,9 +775,9 @@
   ],
   "uitleg": "Chaque point S = doublement de la tension.",
   "waarom_fout": {
-   "A": "non.",
-   "C": "non.",
-   "D": "non."
+   "A": "chaque point S correspond à un doublement de la tension, donc 2 fois.",
+   "C": "chaque point S correspond à un doublement de la tension, donc 2 fois.",
+   "D": "chaque point S correspond à un doublement de la tension, donc 2 fois."
   },
   "onderwerp": "S-mètre"
  },
@@ -793,7 +793,7 @@
   "uitleg": "8 pas de × 2 : 2⁸ = 256.",
   "waarom_fout": {
    "A": "non : on double, on n'additionne pas.",
-   "B": "non.",
+   "B": "2 × 9 est faux : on double 8 fois de suite, ce qui donne 256.",
    "D": "cela ferait 9 pas."
   },
   "onderwerp": "S-mètre"
@@ -802,12 +802,12 @@
   "id": "C-h08-7c",
   "vraag": "Que signifie le report 57 ?",
   "opties": [
-   "lisible avec difficulté, faible",
-   "parfaitement lisible, très fort",
-   "parfaitement lisible, force 7",
+   "tout juste lisible, faible",
+   "bien lisible, très fort",
+   "bien lisible, force 7",
    "lisible, force 5"
   ],
-  "uitleg": "5 = parfaitement lisible, 7 = force 7.",
+  "uitleg": "5 = bien lisible, 7 = force 7.",
   "waarom_fout": {
    "A": "c'est 33.",
    "B": "c'est 59.",
@@ -843,9 +843,9 @@
   ],
   "uitleg": "Le RIT corrige seulement la réception.",
   "waarom_fout": {
-   "A": "justement pas.",
-   "C": "non.",
-   "D": "non."
+   "A": "le RIT ne modifie justement pas la fréquence d'émission, seulement la réception.",
+   "C": "le RIT corrige la fréquence de réception, pas la puissance.",
+   "D": "la bande se choisit avec le bouton de bande."
   },
   "onderwerp": "RIT"
  },
@@ -877,9 +877,9 @@
   ],
   "uitleg": "Un gain micro trop élevé donne de la distorsion et des perturbations.",
   "waarom_fout": {
-   "A": "non.",
-   "C": "non.",
-   "D": "non."
+   "A": "un gain micro trop élevé donne de la distorsion et des perturbations.",
+   "C": "le gain micro concerne l'émission, pas la réception.",
+   "D": "le gain micro règle la force avec laquelle votre voix entre dans l'émetteur, pas le ROS."
   },
   "onderwerp": "SSB"
  },
@@ -895,7 +895,7 @@
   "uitleg": "En cas de ROS élevé, une faible puissance protège l'étage final.",
   "waarom_fout": {
    "B": "ce n'est pas la raison.",
-   "C": "non.",
+   "C": "l'instrument fonctionne aussi à plus forte puissance ; la faible puissance sert à protéger l'émetteur.",
    "D": "c'est bel et bien conseillé."
   },
   "onderwerp": "raccorder"
@@ -1038,7 +1038,7 @@
  },
  {
   "id": "E-h08-07",
-  "vraag": "Vous comprenez tout parfaitement et le S-mètre indique S9. Quel report donnez-vous ?",
+  "vraag": "Vous comprenez tout bien et le S-mètre indique S9. Quel report donnez-vous ?",
   "opties": [
    "95",
    "59",
@@ -1069,22 +1069,5 @@
    "D": "non."
   },
   "onderwerp": "raccorder"
- },
- {
-  "id": "E-h08-09",
-  "vraag": "Quelle bande latérale utilise-t-on généralement sur 40 m (7 MHz) ?",
-  "opties": [
-   "USB",
-   "LSB",
-   "FM",
-   "AM"
-  ],
-  "uitleg": "Sous 10 MHz, on utilise généralement la LSB.",
-  "waarom_fout": {
-   "A": "USB au-dessus de 10 MHz.",
-   "C": "pas une bande latérale.",
-   "D": "pas une bande latérale."
-  },
-  "onderwerp": "SSB"
  }
 ]

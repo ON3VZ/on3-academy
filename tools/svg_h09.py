@@ -60,7 +60,7 @@ def zekering():
     b += t(300, 70, "zekering", "lbl b", "middle")
     b += line(340, 100, 480, 100, "wire")
     b += blok(480, 70, 140, 60, "toestel")
-    b += t(380, 170, "De zekering zit in de toevoer, zo dicht mogelijk bij de bron.", "lbl", "middle")
+    b += t(380, 170, "De zekering zit in de stroomtoevoer, tussen de bron en het toestel.", "lbl", "middle")
     b += t(380, 190, "Bij een te grote stroom brandt of springt ze: de stroom stopt.", "lbl s", "middle")
     return svg(w, h, "Zekering", "Voeding, dan een zekering, dan het toestel.", b)
 

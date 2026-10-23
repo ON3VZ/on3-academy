@@ -1902,9 +1902,9 @@
    "het bedieningscertificaat samen met de stationsvergunning"
   ],
   "juist": "B",
-  "uitleg": "Na het examen krijg je eerst het getuigschrift. Daarna vraag je het bedieningscertificaat aan (met dossierrecht) en apart de stationsvergunning.",
+  "uitleg": "Na het examen krijg je eerst het getuigschrift. Je eerste bedieningscertificaat zit al in het dossierrecht dat je bij de inschrijving voor het examen betaalde (KB bijlage 1, art. 1). De stationsvergunning vraag je apart aan, met een eigen dossierrecht.",
   "waarom_fout": {
-   "A": "dat vraag je daarna aan.",
+   "A": "dat volgt pas na het getuigschrift; je betaalt er geen apart dossierrecht voor.",
    "C": "die komt pas na het certificaat.",
    "D": "twee aparte aanvragen, later."
   },
@@ -1978,12 +1978,12 @@
   "vraag": "Een radioclub wil haar vast station verplaatsen voor een contest. Wat geldt?",
   "opties": [
    "dat mag niet",
-   "dat mag maximaal een week, na het BIPT vooraf in te lichten, zonder aanpassing van de vergunning",
+   "dat mag maximaal een week, na het BIPT vooraf (schriftelijk) in te lichten, zonder aanpassing van de vergunning",
    "dat mag maximaal een maand, zonder melding",
    "dat mag enkel met een nieuwe vergunning"
   ],
   "juist": "B",
-  "uitleg": "Maximaal een week, BIPT vooraf inlichten, geen aanpassing van de vergunning.",
+  "uitleg": "Maximaal een week, BIPT vooraf inlichten, geen aanpassing van de vergunning. De Franse tekst van het KB zegt uitdrukkelijk schriftelijk.",
   "waarom_fout": {
    "A": "het mag wel.",
    "C": "te lang en melding is verplicht.",
@@ -3306,7 +3306,7 @@
    "50 tot 50 000 EUR, zonder gevangenis"
   ],
   "juist": "A",
-  "uitleg": "Art. 145, § 3bis: 50 tot 300 EUR en/of 15 dagen tot 2 jaar. Actuele wet: sinds 18 augustus 2022 is de boete van art. 145 § 1 50 tot 100 000 EUR. Actuele wet: § 3bis is opgeheven sinds 1 september 2026.",
+  "uitleg": "Art. 145, § 3bis: 50 tot 300 EUR en/of 15 dagen tot 2 jaar. Het handboek (Nederlandse tekst) zegt 50 EUR; de Franse tekst van het examenreglement 2021 zegt 20 EUR. Actuele wet: sinds 18 augustus 2022 is de boete van art. 145 § 1 50 tot 100 000 EUR. Actuele wet: § 3bis is opgeheven sinds 1 september 2026.",
   "waarom_fout": {
    "B": "houden zonder vergunning.",
    "C": "bedrieglijke communicatie.",
@@ -5110,12 +5110,12 @@
   "vraag": "Een radioclub verplaatst haar vast station tien dagen naar een velddag. Wat is juist?",
   "opties": [
    "dat mag zonder iets te doen",
-   "dat mag zonder aanpassing van de vergunning, maar enkel tot een week en na het BIPT vooraf in te lichten; voor tien dagen is een aanpassing nodig",
+   "dat mag zonder aanpassing van de vergunning enkel tot een week, na het BIPT vooraf (schriftelijk) in te lichten; tien dagen valt buiten die uitzondering",
    "dat mag tot een maand zonder melding",
    "clubstations mogen nooit verplaatst worden"
   ],
   "juist": "B",
-  "uitleg": "Zonder aanpassing kan het maximaal een week, met voorafgaande melding.",
+  "uitleg": "Art. 17/6 § 4 laat maximaal een week toe zonder aanpassing. Voor tien dagen geldt die uitzondering niet.",
   "waarom_fout": {
    "A": "melding is verplicht en een week is het maximum.",
    "C": "maximum een week.",

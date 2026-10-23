@@ -44,8 +44,8 @@
   ],
   "uitleg": "La HF va jusqu'à 30 MHz, au-dessus commence la VHF.",
   "waarom_fout": {
-   "A": "3 MHz est en plein dans la gamme HF (le 80 m se situe vers 3,5 MHz).",
-   "C": "300 MHz est la limite VHF/UHF.",
+   "A": "trop bas : à 3 MHz, vous êtes encore en pleine HF (par exemple le 80 m sur 3,5 MHz).",
+   "C": "trop haut : la limite HF/VHF se situe à 30 MHz.",
    "D": "beaucoup trop haut."
   },
   "onderwerp": "propagation"
@@ -89,7 +89,7 @@
   "vraag": "Pourquoi n'y a-t-il presque pas de zone d'ombre derrière une colline en HF ?",
   "opties": [
    "parce que les émetteurs HF sont plus puissants",
-   "parce que l'onde est beaucoup plus longue que la plupart des obstacles",
+   "parce que l'ombre ne se forme que derrière des obstacles grands par rapport à la longueur d'onde, et que les ondes HF sont longues",
    "parce que la HF est toujours horizontale",
    "parce que la HF ne va pas en ligne droite"
   ],
@@ -180,9 +180,9 @@
   ],
   "uitleg": "70 à 400 km.",
   "waarom_fout": {
-   "A": "c'est la troposphère.",
+   "A": "trop bas.",
    "C": "trop haut.",
-   "D": "c'est l'altitude des satellites géostationnaires."
+   "D": "beaucoup trop haut."
   },
   "onderwerp": "ionosphère"
  },
@@ -333,7 +333,7 @@
   ],
   "uitleg": "Les collines créent des zones d'ombre en VHF et en UHF.",
   "waarom_fout": {
-   "A": "justement pas en HF : l'onde y est beaucoup plus longue que la colline.",
+   "A": "en HF, la formation d'ombre ne joue que peu ou pas de rôle (manuel p. 24) ; les zones d'ombre sont typiques de la VHF et de l'UHF.",
    "B": "aussi en VHF.",
    "D": "aussi en UHF, et pas en HF."
   },
@@ -503,7 +503,7 @@
   ],
   "uitleg": "L'ionosphère se situe à environ 70 à 400 km d'altitude.",
   "waarom_fout": {
-   "A": "5 à 15 km, c'est la troposphère.",
+   "A": "trop bas : c'est là que se trouve la troposphère, la couche d'air de la météo. L'ionosphère se situe plus haut.",
    "B": "trop bas.",
    "D": "trop haut."
   },
@@ -675,7 +675,7 @@
   "waarom_fout": {
    "A": "la VHF traverse l'ionosphère.",
    "B": "l'UHF traverse l'ionosphère.",
-   "D": "l'UHF/SHF traverse l'ionosphère."
+   "D": "l'UHF traverse l'ionosphère."
   },
   "onderwerp": "ionosphère"
  },
@@ -688,7 +688,7 @@
    "couche F",
    "magnétosphère"
   ],
-  "uitleg": "La troposphère (jusqu'à environ 10 km).",
+  "uitleg": "La troposphère : la couche d'air où se passe notre météo (manuel p. 27).",
   "waarom_fout": {
    "A": "elle se trouve beaucoup plus haut.",
    "C": "fait partie de l'ionosphère.",
@@ -722,7 +722,7 @@
    "l'émetteur fonctionne moins bien dans le noir",
    "l'antenne rétrécit"
   ],
-  "uitleg": "La nuit, la couche F est plus mince : les fréquences au-dessus d'environ 12 MHz la traversent.",
+  "uitleg": "La nuit, la couche F n'est plus que faiblement présente et ne fonctionne plus pour les fréquences au-dessus d'environ 12 MHz (manuel p. 26). Le 20 m (14 MHz) se situe au-dessus.",
   "waarom_fout": {
    "B": "la couche D n'existe pas la nuit.",
    "C": "non.",

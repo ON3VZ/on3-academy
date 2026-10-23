@@ -91,7 +91,7 @@
   "waarom_fout": {
    "A": "VHF gaat door de ionosfeer.",
    "B": "UHF gaat door de ionosfeer.",
-   "D": "UHF/SHF gaat door de ionosfeer."
+   "D": "UHF gaat door de ionosfeer."
   },
   "moeilijkheid": 1,
   "svg": null,
@@ -112,7 +112,7 @@
    "magnetosfeer"
   ],
   "juist": "B",
-  "uitleg": "De troposfeer (tot ongeveer 10 km).",
+  "uitleg": "De troposfeer: de luchtlaag waar ons weer zich afspeelt (handboek p. 27).",
   "waarom_fout": {
    "A": "die ligt veel hoger.",
    "C": "deel van de ionosfeer.",
@@ -147,7 +147,7 @@
   "svg": null,
   "status": "ok",
   "examendeel": "techniek",
-  "in_examen": true
+  "in_examen": false
  },
  {
   "id": "E-h06-07",
@@ -162,7 +162,7 @@
    "de antenne krimpt"
   ],
   "juist": "A",
-  "uitleg": "'s Nachts is de F-laag dunner: frequenties boven ongeveer 12 MHz gaan erdoor.",
+  "uitleg": "'s Nachts is de F-laag nog maar dun aanwezig en laat ze frequenties boven ongeveer 12 MHz afweten (handboek p. 26). 20 m (14 MHz) ligt daarboven.",
   "waarom_fout": {
    "B": "de D-laag is er 's nachts niet.",
    "C": "nee.",

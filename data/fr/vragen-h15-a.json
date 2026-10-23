@@ -479,7 +479,7 @@
   "id": "E-h15-045",
   "vraag": "Vous détenez un émetteur sans autorisation. Quelle sanction la loi prévoit-elle ?",
   "opties": [
-   "50 à 300 EUR",
+   "20 à 300 EUR",
    "200 à 2 000 EUR et/ou 8 jours à 1 an d'emprisonnement",
    "500 à 50 000 EUR et/ou 1 à 4 ans",
    "uniquement un avertissement"
@@ -751,7 +751,7 @@
   "id": "E-h15-122",
   "vraag": "Quelle est l'amende pour avoir causé du brouillage préjudiciable (art. 15) ?",
   "opties": [
-   "50 à 300 EUR",
+   "20 à 300 EUR",
    "50 à 50 000 EUR",
    "200 à 2 000 EUR",
    "500 à 50 000 EUR"
@@ -768,12 +768,12 @@
   "id": "E-h15-123",
   "vraag": "Quelqu'un utilise un moyen de communications électroniques afin d'importuner son correspondant. Quelle sanction ?",
   "opties": [
-   "50 à 300 EUR et/ou 15 jours à 2 ans",
+   "20 à 300 EUR et/ou 15 jours à 2 ans",
    "200 à 2 000 EUR et/ou 8 jours à 1 an",
    "500 à 50 000 EUR et/ou 1 à 4 ans",
    "50 à 50 000 EUR, sans emprisonnement"
   ],
-  "uitleg": "Art. 145, § 3bis : 50 à 300 EUR et/ou 15 jours à 2 ans. Loi actuelle : depuis le 18 août 2022, l'amende de l'art. 145 § 1 est de 50 à 100 000 euros. Loi actuelle : le § 3bis est abrogé depuis le 1er septembre 2026.",
+  "uitleg": "Art. 145, § 3bis : 20 à 300 EUR et/ou 15 jours à 2 ans. Le manuel (texte néerlandais) mentionne 50 EUR ; le texte français du règlement d'examen 2021 mentionne 20 EUR. Loi actuelle : depuis le 18 août 2022, l'amende de l'art. 145 § 1 est de 50 à 100 000 euros. Loi actuelle : le § 3bis est abrogé depuis le 1er septembre 2026.",
   "waarom_fout": {
    "B": "détention sans autorisation.",
    "C": "communications frauduleuses.",

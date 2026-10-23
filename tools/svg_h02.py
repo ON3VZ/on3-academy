@@ -22,8 +22,8 @@ def facetten():
 def traject():
     w, h = 760, 360
     b = ARROW
-    st = [("1", "Cursus volgen", "bij een erkende vereniging (bv. UBA-sectie)"),
-          ("2", "Examen afleggen", "theorie bij het BIPT (30 vragen), praktisch deel"),
+    st = [("1", "Leren", "zelfstudie of cursus bij een erkende vereniging"),
+          ("2", "Examen afleggen", "praktische proef (erkende vereniging), daarna theorie bij het BIPT (30 vragen)"),
           ("3", "Getuigschrift", "je bent geslaagd"),
           ("4", "Bedieningscertificaat + roepnaam", "aanvragen bij het BIPT: je mag zenden (ON3...)"),
           ("5", "Stationsvergunning", "om zelf een station te hebben en te gebruiken")]
@@ -32,7 +32,7 @@ def traject():
         b += f'<rect x="90" y="{y}" width="620" height="54" rx="10" class="box"/>'
         b += f'<circle cx="55" cy="{y+27}" r="20" class="sb"/>' + t(55, y + 33, n, "lbl b", "middle")
         b += t(110, y + 24, a, "lbl b") + t(110, y + 44, s, "lbl s")
-    return svg(w, h, "Van kandidaat tot radioamateur", "Vijf stappen: cursus, examen, getuigschrift, bedieningscertificaat met roepnaam, stationsvergunning.", b)
+    return svg(w, h, "Van kandidaat tot radioamateur", "Vijf stappen: leren (zelfstudie of cursus), praktische proef en theorie-examen, getuigschrift, bedieningscertificaat met roepnaam, stationsvergunning.", b)
 
 
 def klassen():

@@ -22,7 +22,8 @@
   "svg": null,
   "status": "ok",
   "examendeel": "techniek",
-  "in_examen": true
+  "in_examen": false,
+  "niveau": "gevorderd"
  },
  {
   "id": "E-h04-02",
@@ -47,7 +48,8 @@
   "svg": null,
   "status": "ok",
   "examendeel": "techniek",
-  "in_examen": true
+  "in_examen": false,
+  "niveau": "gevorderd"
  },
  {
   "id": "E-h04-03",
@@ -72,7 +74,8 @@
   "svg": null,
   "status": "ok",
   "examendeel": "techniek",
-  "in_examen": true
+  "in_examen": false,
+  "niveau": "gevorderd"
  },
  {
   "id": "E-h04-04",
@@ -222,7 +225,8 @@
   "svg": null,
   "status": "ok",
   "examendeel": "techniek",
-  "in_examen": true
+  "in_examen": false,
+  "niveau": "gevorderd"
  },
  {
   "id": "E-h04-10",
@@ -247,7 +251,8 @@
   "svg": null,
   "status": "ok",
   "examendeel": "techniek",
-  "in_examen": true
+  "in_examen": false,
+  "niveau": "gevorderd"
  },
  {
   "id": "E-h04-11",

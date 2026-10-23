@@ -147,12 +147,11 @@ def ionosfeer():
     pts = [pt(a[0], R), pt((a[0] + a[1]) / 2, R + 150), pt(a[1], R), pt((a[1] + a[2]) / 2, R + 150), pt(a[2], R)]
     b += f'<path d="{path(pts)}" class="w-amber" style="stroke-width:3" marker-end="url(#pijl)"/>'
     b += t(pts[0][0], pts[0][1] + 24, "zender", "lbl s b", "middle")
-    b += t(pts[2][0], pts[2][1] + 24, "sprong", "lbl s", "middle")
     b += t(pts[4][0], pts[4][1] + 24, "ontvanger ver weg", "lbl s b", "middle")
     p0 = pts[0]
     b += f'<line x1="{p0[0]:.0f}" y1="{p0[1]:.0f}" x2="{p0[0]+40:.0f}" y2="30" class="w-green" style="stroke-dasharray:6 5" marker-end="url(#pijl)"/>'
     b += t(p0[0] + 50, 30, "VHF: gaat erdoor, de ruimte in", "lbl s green")
-    return svg(w, h, "Ionosfeer", "Een HF-golf kaatst terug op de ionosfeer en komt ver weg weer op aarde, eventueel in meerdere sprongen. Een VHF-golf gaat door de ionosfeer heen.", b)
+    return svg(w, h, "Ionosfeer", "Een HF-golf kaatst terug op de ionosfeer en komt ver weg weer op aarde, eventueel meerdere keren. Een VHF-golf gaat door de ionosfeer heen.", b)
 
 
 def dagnacht():

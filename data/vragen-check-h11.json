@@ -35,11 +35,11 @@
    "vier, met Q"
   ],
   "juist": "B",
-  "uitleg": "Altijd drie letters, beginnend met Q.",
+  "uitleg": "In de regel drie letters, en altijd beginnend met Q.",
   "waarom_fout": {
-   "A": "het zijn er drie.",
+   "A": "in de regel zijn het er drie.",
    "C": "cijfercodes zijn iets anders.",
-   "D": "het zijn er drie."
+   "D": "in de regel zijn het er drie."
   },
   "moeilijkheid": 1,
   "svg": null,
@@ -292,7 +292,7 @@
   "waarom_fout": {
    "B": "dat is 88.",
    "C": "dat is 44.",
-   "D": "dat is SK."
+   "D": "dat is SK (stoppen met zenden)."
   },
   "moeilijkheid": 1,
   "svg": null,
@@ -315,7 +315,7 @@
   "waarom_fout": {
    "B": "dat is 73.",
    "C": "dat is 44.",
-   "D": "dat is SK."
+   "D": "dat is SK (stoppen met zenden)."
   },
   "moeilijkheid": 1,
   "svg": null,
@@ -361,7 +361,7 @@
   "waarom_fout": {
    "B": "dat is een XYL.",
    "C": "dat is een OM.",
-   "D": "nee."
+   "D": "een rapport geef je met RST."
   },
   "moeilijkheid": 1,
   "svg": null,
@@ -382,9 +382,9 @@
   "juist": "A",
   "uitleg": "RST: leesbaarheid, sterkte, toon.",
   "waarom_fout": {
-   "B": "geen bestaande betekenis.",
-   "C": "geen bestaande betekenis.",
-   "D": "geen bestaande betekenis."
+   "B": "RST staat voor readability, signal, tone (leesbaarheid, sterkte, toon).",
+   "C": "RST staat voor readability, signal, tone (leesbaarheid, sterkte, toon).",
+   "D": "RST staat voor readability, signal, tone (leesbaarheid, sterkte, toon)."
   },
   "moeilijkheid": 1,
   "svg": null,

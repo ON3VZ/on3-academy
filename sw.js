@@ -1,5 +1,5 @@
 // Service worker: maakt de site offline bruikbaar. Gegenereerd door tools/build.py
-const VERSIE = "on3-5d71ad7dc0";
+const VERSIE = "on3-c38350506c";
 const FILES = ["./", "index.html", "css/style.css", "js/app.js", "js/omreken.js", "js/content.js", "manifest.webmanifest", "assets/icons/icon-192.png", "assets/icons/icon-512.png", "assets/foto/h05-connectoren-abcd-1.png", "assets/foto/h05-connectoren-abcd-2.png", "assets/foto/h05-connectoren-overzicht.jpg", "assets/foto/h05-dipool.png", "assets/foto/h05-dummyload.jpg", "assets/foto/h05-groundplane.png", "assets/foto/h05-pl259-fout-goed.jpg", "assets/foto/h05-yagi.png"];
 self.addEventListener("install", e => {
   e.waitUntil(caches.open(VERSIE).then(c => c.addAll(FILES)).then(() => self.skipWaiting()));

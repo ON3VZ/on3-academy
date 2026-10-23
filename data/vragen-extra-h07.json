@@ -7,12 +7,12 @@
   "vraag": "Welke stoorbron in huis kan je ontvanger storen?",
   "opties": [
    "een gloeilamp die uit staat",
-   "een lader of led-lamp",
+   "een computer",
    "een houten tafel",
    "een boek"
   ],
   "juist": "B",
-  "uitleg": "Laders, led-lampen en computers kunnen storing uitstralen.",
+  "uitleg": "Sommige huishoudtoestellen, vooral computers, stralen zelf een beetje radiostraling uit (handboek p. 28).",
   "waarom_fout": {
    "A": "een toestel dat uit staat, stoort niet.",
    "C": "geen elektronica.",
@@ -97,32 +97,7 @@
   "svg": null,
   "status": "ok",
   "examendeel": "techniek",
-  "in_examen": true
- },
- {
-  "id": "E-h07-05",
-  "bron": "extra",
-  "hoofdstuk": 7,
-  "onderwerp": "immuniteit",
-  "vraag": "Wat is een smoorspoel?",
-  "opties": [
-   "een spoel die HF-stroom op een kabel afremt",
-   "een spoel die het vermogen verhoogt",
-   "een soort microfoon",
-   "een antenne-element"
-  ],
-  "juist": "A",
-  "uitleg": "Een smoorspoel (vaak een ferrietring) remt HF-stroom af.",
-  "waarom_fout": {
-   "B": "nee.",
-   "C": "nee.",
-   "D": "nee."
-  },
-  "moeilijkheid": 1,
-  "svg": null,
-  "status": "ok",
-  "examendeel": "techniek",
-  "in_examen": true
+  "in_examen": false
  },
  {
   "id": "E-h07-06",
@@ -157,12 +132,12 @@
   "vraag": "Waarom moet de draad van een RF-aarding kort zijn?",
   "opties": [
    "omdat lange draden duurder zijn",
-   "omdat een lange draad zelf als antenne gaat werken en HF niet goed afvoert",
+   "omdat de kortste weg naar de aarde de kleinste weerstand heeft",
    "omdat het verplicht is in de gemeente",
    "omdat koper zwaar is"
   ],
   "juist": "B",
-  "uitleg": "Hoe korter, hoe beter de HF-stroom naar de grond gaat.",
+  "uitleg": "Een aparte aardingsleiding moet de kortste weg naar de aarde vormen: dan is de weerstand zo klein mogelijk (handboek p. 30).",
   "waarom_fout": {
    "A": "niet de reden.",
    "C": "nee.",

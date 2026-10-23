@@ -15,8 +15,8 @@
   "uitleg": "Hoge spanning stuurt stroom door je lichaam.",
   "waarom_fout": {
    "A": "grote stroom geeft brand.",
-   "C": "nee.",
-   "D": "nee."
+   "C": "radiostraling is niet de oorzaak van elektrocutie; dat is hoge spanning.",
+   "D": "de SWR gaat over de aanpassing van de antenne, niet over elektrocutie."
   },
   "moeilijkheid": 1,
   "svg": null,
@@ -62,7 +62,7 @@
   "waarom_fout": {
    "A": "dat is een zekering.",
    "C": "dat is een lamp.",
-   "D": "dat is een oud weerstandssymbool."
+   "D": "een zigzaglijn is het Amerikaanse symbool voor een weerstand."
   },
   "moeilijkheid": 1,
   "svg": null,
@@ -106,9 +106,9 @@
   "juist": "A",
   "uitleg": "Rechthoek met een lijn erdoor.",
   "waarom_fout": {
-   "B": "aarding.",
-   "C": "nee.",
-   "D": "nee."
+   "B": "drie streepjes die kleiner worden is het symbool voor aarding.",
+   "C": "een pijl is niet het symbool voor een zekering; dat is een rechthoek met een lijn erdoor.",
+   "D": "een spoel is een ander onderdeel met een eigen symbool."
   },
   "moeilijkheid": 1,
   "svg": null,
@@ -175,9 +175,9 @@
   "juist": "C",
   "uitleg": "Geel-groen.",
   "waarom_fout": {
-   "A": "nul.",
-   "B": "fase.",
-   "D": "oude kleur, nooit aarding."
+   "A": "blauw is de nul.",
+   "B": "bruin is een netspanningsdraad (fase).",
+   "D": "rood is volgens het handboek een kleur voor een netspanningsdraad, nooit voor de aarding."
   },
   "moeilijkheid": 1,
   "svg": null,
@@ -253,29 +253,6 @@
   "status": "ok"
  },
  {
-  "id": "C-h09-5b",
-  "bron": "check",
-  "hoofdstuk": 9,
-  "onderwerp": "ongeval",
-  "vraag": "Wat is het Europese noodnummer, dat ook in België werkt?",
-  "opties": [
-   "100",
-   "112",
-   "911",
-   "999"
-  ],
-  "juist": "B",
-  "uitleg": "112 werkt in heel Europa, ook vanaf een gsm.",
-  "waarom_fout": {
-   "A": "100 is een Belgisch nummer, maar niet het Europese noodnummer.",
-   "C": "Amerika.",
-   "D": "Verenigd Koninkrijk."
-  },
-  "moeilijkheid": 1,
-  "svg": null,
-  "status": "ok"
- },
- {
   "id": "C-h09-6a",
   "bron": "check",
   "hoofdstuk": 9,
@@ -290,9 +267,9 @@
   "juist": "B",
   "uitleg": "Contact met een hoogspanningslijn is dodelijk.",
   "waarom_fout": {
-   "A": "het gaat om veiligheid.",
-   "C": "nee.",
-   "D": "nee."
+   "A": "het gaat om veiligheid: een antenne die de lijn raakt, komt onder levensgevaarlijke spanning.",
+   "C": "het uitzicht is geen veiligheidsreden.",
+   "D": "het gaat niet om bereik of een verbod, maar om levensgevaar als de antenne de lijn raakt."
   },
   "moeilijkheid": 1,
   "svg": null,
@@ -336,9 +313,9 @@
   "juist": "B",
   "uitleg": "Draagbare toestellen met laag vermogen vormen de uitzondering.",
   "waarom_fout": {
-   "A": "nee.",
-   "C": "nee.",
-   "D": "nee."
+   "A": "een vaste antenne met 100 W mag je tijdens het zenden niet aanraken.",
+   "C": "een yagi is geen draagbaar toestel met laag vermogen: niet aanraken tijdens het zenden.",
+   "D": "ook een langedraad mag je tijdens het zenden niet aanraken."
   },
   "moeilijkheid": 1,
   "svg": null,
@@ -359,9 +336,9 @@
   "juist": "A",
   "uitleg": "Gehoorschade, en die is blijvend.",
   "waarom_fout": {
-   "B": "nee.",
-   "C": "nee.",
-   "D": "wel degelijk."
+   "B": "storing is hier niet het gevaar; het gaat om je gehoor.",
+   "C": "het volume van je hoofdtelefoon heeft niets met de SWR te maken.",
+   "D": "een te luid volume kan je gehoor beschadigen."
   },
   "moeilijkheid": 1,
   "svg": null,

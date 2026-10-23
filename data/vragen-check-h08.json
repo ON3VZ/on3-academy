@@ -14,8 +14,8 @@
   "juist": "B",
   "uitleg": "CQ = algemene oproep.",
   "waarom_fout": {
-   "A": "nee.",
-   "C": "nee.",
+   "A": "CQ is een algemene oproep, geen afsluiting van een verbinding.",
+   "C": "CQ is een algemene oproep aan iedereen, geen noodoproep.",
    "D": "dat is QSY."
   },
   "moeilijkheid": 1,
@@ -37,9 +37,9 @@
   "juist": "A",
   "uitleg": "QSY = van frequentie veranderen.",
   "waarom_fout": {
-   "B": "nee.",
+   "B": "QSY betekent van frequentie veranderen, niet bezet zijn.",
    "C": "dat is CQ.",
-   "D": "nee."
+   "D": "QSY betekent van frequentie veranderen, niet herhalen."
   },
   "moeilijkheid": 1,
   "svg": null,
@@ -60,9 +60,9 @@
   "juist": "A",
   "uitleg": "Een sked is een vooraf afgesproken verbinding.",
   "waarom_fout": {
-   "B": "nee.",
-   "C": "nee.",
-   "D": "nee."
+   "B": "een sked is een afspraak voor een verbinding, geen antenne.",
+   "C": "een rapport bestaat uit twee cijfers (verstaanbaarheid en sterkte), dat is geen sked.",
+   "D": "een repeater is een station op een hoge plaats dat ontvangt en opnieuw uitzendt, geen afspraak."
   },
   "moeilijkheid": 1,
   "svg": null,
@@ -83,9 +83,9 @@
   "juist": "B",
   "uitleg": "Q = Quebec.",
   "waarom_fout": {
-   "A": "fout.",
-   "C": "fout.",
-   "D": "fout."
+   "A": "staat niet in het fonetisch alfabet: voor Q is dat Quebec.",
+   "C": "staat niet in het fonetisch alfabet: voor Q is dat Quebec.",
+   "D": "staat niet in het fonetisch alfabet: voor Q is dat Quebec."
   },
   "moeilijkheid": 1,
   "svg": null,
@@ -130,8 +130,8 @@
   "uitleg": "F = Foxtrot.",
   "waarom_fout": {
    "A": "te kort: Foxtrot.",
-   "C": "fout.",
-   "D": "fout."
+   "C": "staat niet in het fonetisch alfabet: voor F is dat Foxtrot.",
+   "D": "staat niet in het fonetisch alfabet: voor F is dat Foxtrot."
   },
   "moeilijkheid": 1,
   "svg": null,
@@ -154,7 +154,7 @@
   "waarom_fout": {
    "A": "dat is de kanaalafstand.",
    "C": "dat is de toegangstoon.",
-   "D": "nee."
+   "D": "veel te groot: de hele 2 m-band is maar 2 MHz breed (144 tot 146 MHz)."
   },
   "moeilijkheid": 1,
   "svg": null,
@@ -198,9 +198,9 @@
   "juist": "A",
   "uitleg": "CTCSS: lage toon tussen 67 en 254 Hz.",
   "waarom_fout": {
-   "B": "nee.",
-   "C": "nee.",
-   "D": "nee."
+   "B": "CTCSS is een toon, geen antenne.",
+   "C": "CTCSS is een lage toon tussen 67 en 254 Hz, geen digitale mode.",
+   "D": "een rapport bestaat uit twee cijfers; CTCSS is een toon."
   },
   "moeilijkheid": 1,
   "svg": null,
@@ -221,9 +221,9 @@
   "juist": "C",
   "uitleg": "Dat stuk is gereserveerd voor bakens (IBP).",
   "waarom_fout": {
-   "A": "nee.",
-   "B": "nee.",
-   "D": "nee."
+   "A": "ook CW hoort niet in het bakensegment: daar zenden enkel de bakens.",
+   "B": "fonie (SSB) mag pas vanaf 14 101 kHz.",
+   "D": "FM staat niet in het 14 MHz-bandplan, en in het bakensegment zend je niet."
   },
   "moeilijkheid": 1,
   "svg": "h08-bandplan-14-vol",
@@ -265,7 +265,7 @@
    "data"
   ],
   "juist": "B",
-  "uitleg": "Fonie = spraak.",
+  "uitleg": "Fonie = spraak. Het handboek gebruikt het woord fonie in de bandplantabel voor spraak (SSB, AM, FM).",
   "waarom_fout": {
    "A": "dat is CW.",
    "C": "dat is SSTV.",
@@ -359,9 +359,9 @@
   "juist": "B",
   "uitleg": "Push To Talk: indrukken = zenden.",
   "waarom_fout": {
-   "A": "nee.",
-   "C": "nee.",
-   "D": "nee."
+   "A": "het volume regel je met de volumeknop.",
+   "C": "de frequentie kies je met de afstemknop.",
+   "D": "de squelch heeft een eigen knop; de PTT schakelt de zender in."
   },
   "moeilijkheid": 1,
   "svg": null,
@@ -382,7 +382,7 @@
   "juist": "A",
   "uitleg": "Juiste sterkte en een werkende PTT.",
   "waarom_fout": {
-   "B": "nee.",
+   "B": "de kleur speelt geen rol: het gaat om de juiste sterkte en de PTT-aansluiting.",
    "C": "te luid geeft vervorming.",
    "D": "zonder PTT zendt het toestel niet."
   },
@@ -405,8 +405,8 @@
   "juist": "B",
   "uitleg": "Te sterk audiosignaal = overmodulatie: vervorming en storing.",
   "waarom_fout": {
-   "A": "nee.",
-   "C": "nee.",
+   "A": "een te sterk audiosignaal geeft wel degelijk overmodulatie.",
+   "C": "het gevolg is vervorming en storing, niet minder vermogen.",
    "D": "de SWR hangt van de antenne af."
   },
   "moeilijkheid": 1,
@@ -428,9 +428,9 @@
   "juist": "B",
   "uitleg": "Elk S-punt = verdubbeling van de spanning.",
   "waarom_fout": {
-   "A": "nee.",
-   "C": "nee.",
-   "D": "nee."
+   "A": "elk S-punt is een verdubbeling van de spanning, dus 2 keer.",
+   "C": "elk S-punt is een verdubbeling van de spanning, dus 2 keer.",
+   "D": "elk S-punt is een verdubbeling van de spanning, dus 2 keer."
   },
   "moeilijkheid": 1,
   "svg": null,
@@ -452,7 +452,7 @@
   "uitleg": "8 stappen van × 2: 2⁸ = 256.",
   "waarom_fout": {
    "A": "nee: het is verdubbelen, niet optellen.",
-   "B": "nee.",
+   "B": "2 × 9 is fout: je verdubbelt 8 keer na elkaar, dat geeft 256.",
    "D": "dat zijn 9 stappen."
   },
   "moeilijkheid": 2,
@@ -466,13 +466,13 @@
   "onderwerp": "rapport",
   "vraag": "Wat betekent rapport 57?",
   "opties": [
-   "met moeite verstaanbaar, zwak",
-   "perfect verstaanbaar, zeer luid",
-   "perfect verstaanbaar, sterkte 7",
+   "net verstaanbaar, zwak",
+   "goed verstaanbaar, zeer luid",
+   "goed verstaanbaar, sterkte 7",
    "verstaanbaar, sterkte 5"
   ],
   "juist": "C",
-  "uitleg": "5 = perfect verstaanbaar, 7 = sterkte 7.",
+  "uitleg": "5 = goed verstaanbaar, 7 = sterkte 7.",
   "waarom_fout": {
    "A": "dat is 33.",
    "B": "dat is 59.",
@@ -520,9 +520,9 @@
   "juist": "B",
   "uitleg": "RIT regelt alleen de ontvangst bij.",
   "waarom_fout": {
-   "A": "net niet.",
-   "C": "nee.",
-   "D": "nee."
+   "A": "de RIT verandert juist niet de zendfrequentie, enkel de ontvangst.",
+   "C": "de RIT regelt de ontvangstfrequentie bij, niet het vermogen.",
+   "D": "de band kies je met de bandknop."
   },
   "moeilijkheid": 1,
   "svg": null,
@@ -566,9 +566,9 @@
   "juist": "B",
   "uitleg": "Te hoge microfoonversterking geeft vervorming en storing.",
   "waarom_fout": {
-   "A": "nee.",
-   "C": "nee.",
-   "D": "nee."
+   "A": "een te hoge microfoonversterking geeft vervorming en storing.",
+   "C": "de microfoonversterking hoort bij het zenden, niet bij de ontvangst.",
+   "D": "de microfoonversterking regelt hoe sterk je stem de zender binnengaat, niet de SWR."
   },
   "moeilijkheid": 1,
   "svg": null,
@@ -590,7 +590,7 @@
   "uitleg": "Bij een hoge SWR beschermt laag vermogen de eindtrap.",
   "waarom_fout": {
    "B": "niet de reden.",
-   "C": "nee.",
+   "C": "de meter werkt ook bij hoger vermogen; laag vermogen dient om de zender te beschermen.",
    "D": "het is wel aangeraden."
   },
   "moeilijkheid": 1,

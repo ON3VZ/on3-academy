@@ -59,7 +59,7 @@
   "waarom_fout": {
    "A": "spanning is de druk (hoogte van de toren).",
    "B": "stroom is het water dat doorloopt.",
-   "D": "vermogen is druk maal hoeveelheid."
+   "D": "vermogen is druk maal de hoeveelheid water per seconde."
   },
   "moeilijkheid": 1,
   "svg": null,

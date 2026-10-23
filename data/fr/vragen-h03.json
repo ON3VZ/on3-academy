@@ -44,7 +44,7 @@
   "waarom_fout": {
    "A": "la tension est la pression (la hauteur du château d'eau).",
    "B": "le courant est l'eau qui passe.",
-   "D": "la puissance est la pression multipliée par la quantité."
+   "D": "la puissance est la pression multipliée par la quantité d'eau par seconde."
   }
  },
  {
@@ -411,7 +411,7 @@
   "uitleg": "Une résistance s'oppose au courant (objectif 3b.2).",
   "waarom_fout": {
    "A": "la tension vient d'une source de tension, comme une pile.",
-   "C": "c'est le rôle d'une pile ou d'un condensateur.",
+   "C": "une résistance ne stocke rien ; dans une pile, de l'énergie est emmagasinée.",
    "D": "c'est le rôle d'un onduleur, pas d'une résistance."
   }
  },
@@ -544,22 +544,6 @@
   }
  },
  {
-  "id": "E-h03-10",
-  "vraag": "Quelle est la tension du réseau électrique belge ?",
-  "opties": [
-   "12 V",
-   "110 V",
-   "230 V",
-   "400 V"
-  ],
-  "uitleg": "La prise de courant donne 230 V en tension alternative, 50 Hz.",
-  "waarom_fout": {
-   "A": "12 V, c'est une batterie de voiture.",
-   "B": "110 V, c'est notamment aux États-Unis.",
-   "D": "400 V, c'est le courant triphasé (force motrice), pas la prise de courant ordinaire."
-  }
- },
- {
   "id": "E-h03-11",
   "vraag": "La période d'une sinusoïde est de 0,02 s. Quelle est sa fréquence ?",
   "opties": [
@@ -637,22 +621,6 @@
    "B": "300 ÷ 80 ne donne pas 24.",
    "C": "le nom de la bande n'est pas une fréquence.",
    "D": "multiplié au lieu de divisé."
-  }
- },
- {
-  "id": "E-h03-16",
-  "vraag": "Pourquoi l'examen insiste-t-il sur l'unité (par ex. W ou mW) dans les questions de calcul ?",
-  "opties": [
-   "Parce que les mêmes chiffres avec une autre unité apparaissent souvent comme mauvaise réponse",
-   "Parce que l'unité n'est pas importante",
-   "Parce qu'il faut toujours répondre en mW",
-   "Parce que l'examen ne contient pas de questions de calcul"
-  ],
-  "uitleg": "Les distracteurs utilisent souvent le bon nombre avec la mauvaise unité. Faites donc toujours attention à k, m et M.",
-  "waarom_fout": {
-   "B": "l'unité est au contraire déterminante.",
-   "C": "l'unité dépend de la question.",
-   "D": "il y a bel et bien des questions de calcul."
   }
  },
  {
@@ -795,7 +763,7 @@
   ],
   "uitleg": "I = P ÷ U. D'abord convertir : 500 mV = 0,5 V. I = 10 ÷ 0,5 = 20 A (diviser par 0,5, c'est multiplier par 2).",
   "waarom_fout": {
-   "A": "50 mA provient d'une mauvaise conversion des unités.",
+   "A": "50 mA s'obtient en inversant la division : 0,5 / 10 = 0,05 A.",
    "C": "5 A s'obtient en calculant 10 × 0,5 : multiplier au lieu de diviser.",
    "D": "200 mA, c'est cent fois trop peu."
   },
@@ -857,7 +825,7 @@
   ],
   "uitleg": "I = U ÷ R. D'abord convertir : 10 kΩ = 10 000 Ω. I = 5 ÷ 10 000 = 0,0005 A = 0,5 mA.",
   "waarom_fout": {
-   "A": "2 mA s'obtient en calculant 10 ÷ 5 : la division est inversée.",
+   "A": "2 mA est faux : la division est inversée et l'unité ne correspond pas. Le bon calcul est 5 / 10 000 = 0,0005 A.",
    "C": "50 kA, c'est une multiplication (5 × 10 k) : beaucoup trop.",
    "D": "2 A : division inversée et kilo oublié."
   },
@@ -1343,7 +1311,7 @@
   ],
   "uitleg": "Le spectre est réparti par type de service : radiodiffusion, aviation, navigation maritime, radioamateurs, ...",
   "waarom_fout": {
-   "A": "pas par pays : tous les pays utilisent la même répartition par service.",
+   "A": "le manuel décrit une répartition par type de service (radiodiffusion, aviation, navigation maritime, radioamateurs), pas par pays.",
    "C": "il n'y a pas de blocs fixes de 1 MHz par utilisateur.",
    "D": "il n'y a pas de blocs fixes de 0,1 MHz par utilisateur."
   },
@@ -1360,7 +1328,7 @@
   ],
   "uitleg": "λ = 300 ÷ f = 300 ÷ 50 = 6 m.",
   "waarom_fout": {
-   "A": "multiplier au lieu de diviser.",
+   "A": "150000 mètres correspondent à 0,002 MHz (2 kHz), beaucoup trop long pour 50 MHz.",
    "B": "150 mètres correspondent à 2 MHz.",
    "C": "un facteur 10 de travers : 60 mètres correspondent à 5 MHz."
   },
@@ -1462,7 +1430,7 @@
   ],
   "uitleg": "λ = 300 ÷ f = 300 ÷ 1 = 300 m.",
   "waarom_fout": {
-   "A": "multiplier au lieu de diviser.",
+   "A": "un facteur 10 de trop : 3000 mètres correspondent à 0,1 MHz.",
    "C": "un facteur 10 de travers : 30 mètres correspondent à 10 MHz.",
    "D": "3 mètres correspondent à 100 MHz."
   },
@@ -1498,7 +1466,7 @@
   "waarom_fout": {
    "A": "6 MHz correspond à 50 m.",
    "C": "21 MHz correspond à environ 14,3 m.",
-   "D": "6000 MHz correspond à environ 0,1 m."
+   "D": "6000 MHz correspond à 0,05 m (5 cm)."
   },
   "onderwerp": "calcul de la longueur d'onde"
  },
@@ -1515,7 +1483,7 @@
   "waarom_fout": {
    "A": "6 MHz correspond à 50 m.",
    "B": "14 MHz correspond à environ 21,4 m.",
-   "D": "6000 MHz correspond à environ 0,1 m."
+   "D": "6000 MHz correspond à 0,05 m (5 cm)."
   },
   "onderwerp": "calcul de la longueur d'onde"
  },
@@ -1532,7 +1500,7 @@
   "waarom_fout": {
    "B": "6 MHz correspond à 50 m.",
    "C": "21 MHz correspond à environ 14,3 m.",
-   "D": "6000 MHz correspond à environ 0,1 m."
+   "D": "6000 MHz correspond à 0,05 m (5 cm)."
   },
   "onderwerp": "calcul de la longueur d'onde"
  },
@@ -1549,7 +1517,7 @@
   "waarom_fout": {
    "B": "40 MHz correspond à environ 7,5 m.",
    "C": "144 MHz correspond à environ 2,1 m.",
-   "D": "6000 MHz correspond à environ 0,1 m."
+   "D": "6000 MHz correspond à 0,05 m (5 cm)."
   },
   "onderwerp": "calcul de la longueur d'onde"
  }

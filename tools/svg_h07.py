@@ -115,18 +115,18 @@ def aarding():
     b += f'<rect x="60" y="80" width="320" height="200" class="cell" style="opacity:.5"/>'
     b += t(220, 70, "shack", "lbl s", "middle")
     b += blok(120, 160, 140, 56, "zender")
-    # goede RF-aarding: kort, dik, recht naar aardpen buiten
+    # goede RF-aarding: kort, dik, kortste weg naar de aarde
     b += line(260, 200, 420, 200, "wire thick") + line(420, 200, 420, 300, "wire thick")
     b += line(420, 280, 420, 315, "wire thick")
     b += f'<path d="M435,215 L435,268" class="w-green" style="stroke-width:3" marker-end="url(#pijl)"/>'
-    b += t(458, 236, "eigen RF-aarding:", "lbl b green") + t(458, 256, "kort en dik naar een aardpen", "lbl s green")
+    b += t(458, 236, "eigen RF-aarding:", "lbl b green") + t(458, 256, "kortste weg naar de aarde", "lbl s green")
     # lichtnet aarding
     b += line(160, 216, 160, 250, "wire") + line(160, 250, 80, 250, "wire") + f'<rect x="66" y="240" width="16" height="20" class="box"/>'
     b += t(90, 272, "stopcontact (aarding lichtnet)", "lbl s red")
     b += t(450, 100, "Zonder RF-aarding zoekt HF-stroom", "lbl")
     b += t(450, 122, "een weg via de aarding van het", "lbl")
     b += t(450, 144, "lichtnet, naar andere toestellen.", "lbl")
-    return svg(w, h, "RF-aarding", "De zender heeft een eigen korte en dikke aardingsdraad naar een aardpen. Zo gaat HF-stroom niet via de aarding van het lichtnet.", b)
+    return svg(w, h, "RF-aarding", "De zender heeft een eigen korte en dikke aardingsdraad: de kortste weg naar de aarde. Zo gaat HF-stroom niet via de aarding van het lichtnet.", b)
 
 
 def stappen():

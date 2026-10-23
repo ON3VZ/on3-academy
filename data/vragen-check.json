@@ -119,19 +119,19 @@
   "bron": "check",
   "hoofdstuk": 4,
   "onderwerp": "AM/FM",
-  "vraag": "Op een tekening blijven de toppen overal even hoog, maar de golven liggen afwisselend dicht bij elkaar en ver uit elkaar. Wat zie je?",
+  "vraag": "Op een tekening is de afstand tussen de golven overal gelijk, maar de toppen worden afwisselend hoger en lager. Wat zie je?",
   "opties": [
-   "AM",
    "FM",
+   "AM",
    "CW",
    "een ongemoduleerde draaggolf"
   ],
   "juist": "B",
-  "uitleg": "De afstand tussen de golven verandert: de frequentie verandert. Dat is FM.",
+  "uitleg": "De hoogte (amplitude) van de toppen verandert, de afstand tussen de golven blijft gelijk. Dat is AM.",
   "waarom_fout": {
-   "A": "bij AM verandert de hoogte van de toppen.",
-   "C": "bij CW valt het signaal af en toe weg.",
-   "D": "een draaggolf heeft overal dezelfde afstand tussen de golven."
+   "A": "bij FM blijven de toppen even hoog en verandert de afstand tussen de golven.",
+   "C": "bij CW valt het signaal af en toe helemaal weg.",
+   "D": "bij een ongemoduleerde draaggolf zijn alle toppen even hoog."
   },
   "moeilijkheid": 1,
   "svg": null,
@@ -173,9 +173,9 @@
    "100 W"
   ],
   "juist": "C",
-  "uitleg": "Bij AM gaat maar 1/6 van het vermogen naar de zijband die je nodig hebt. 6 × 10 W = 60 W.",
+  "uitleg": "Het handboek leert: SSB is ongeveer 6 keer efficiënter dan AM. 10 W SSB komt even sterk over als 6 × 10 = 60 W AM.",
   "waarom_fout": {
-   "A": "dan heb je in AM maar 10 × 1/6 ≈ 1,7 W nuttig vermogen.",
+   "A": "dan is je AM-signaal ongeveer 6 keer zwakker dan je SSB-signaal.",
    "B": "het verschil is groter dan een factor 2.",
    "D": "te veel; factor 6 volstaat."
   },

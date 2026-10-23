@@ -1313,11 +1313,11 @@
   "vraag": "Un radio-club déplace sa station fixe pendant dix jours pour un field day. Qu'est-ce qui est correct ?",
   "opties": [
    "c'est permis sans rien faire",
-   "c'est permis sans adaptation de l'autorisation, mais seulement jusqu'à une semaine et après avoir informé préalablement l'IBPT ; pour dix jours, une adaptation est nécessaire",
+   "c'est permis sans adaptation de l'autorisation seulement jusqu'à une semaine, après avoir informé préalablement l'IBPT (par écrit) ; dix jours sortent de cette exception",
    "c'est permis jusqu'à un mois sans notification",
    "les stations de radio-club ne peuvent jamais être déplacées"
   ],
-  "uitleg": "Sans adaptation, c'est possible pendant une semaine au maximum, avec information préalable.",
+  "uitleg": "L'art. 17/6 § 4 permet une semaine au maximum sans adaptation. Pour dix jours, cette exception ne s'applique pas.",
   "waarom_fout": {
    "A": "l'information est obligatoire et une semaine est le maximum.",
    "C": "une semaine au maximum.",

@@ -15,33 +15,8 @@
   "uitleg": "Te groot = geen bescherming bij een defect.",
   "waarom_fout": {
    "A": "dat gebeurt bij een te kleine zekering.",
-   "C": "niet de reden.",
-   "D": "nee."
-  },
-  "moeilijkheid": 2,
-  "svg": null,
-  "status": "ok",
-  "examendeel": "procedures",
-  "in_examen": true
- },
- {
-  "id": "E-h09-02",
-  "bron": "extra",
-  "hoofdstuk": 9,
-  "onderwerp": "zekering",
-  "vraag": "Waar zit de zekering van een toestel op 13,8 V meestal?",
-  "opties": [
-   "in de plusdraad, dicht bij de voeding of batterij",
-   "in de coax",
-   "in de antenne",
-   "nergens"
-  ],
-  "juist": "A",
-  "uitleg": "Volgens de fabrikant, meestal in de plusdraad bij de bron.",
-  "waarom_fout": {
-   "B": "nee.",
-   "C": "nee.",
-   "D": "elk toestel heeft een zekering nodig."
+   "C": "de prijs heeft niets met veiligheid te maken.",
+   "D": "een zekering veroorzaakt geen storing; het gaat om brandgevaar."
   },
   "moeilijkheid": 2,
   "svg": null,
@@ -64,9 +39,9 @@
   "juist": "A",
   "uitleg": "Hij vergelijkt heen- en terugstroom en schakelt uit bij een verschil.",
   "waarom_fout": {
-   "B": "nee.",
-   "C": "nee.",
-   "D": "nee."
+   "B": "een verliesstroomschakelaar verandert niets aan het vermogen.",
+   "C": "de SWR meet je met een SWR-meter.",
+   "D": "storing filter je met een filter, niet met een verliesstroomschakelaar."
   },
   "moeilijkheid": 2,
   "svg": null,
@@ -79,19 +54,19 @@
   "bron": "extra",
   "hoofdstuk": 9,
   "onderwerp": "ongeval",
-  "vraag": "Waarom giet je geen water over iemand die geëlektrocuteerd is?",
+  "vraag": "Wanneer mag je een slachtoffer van een elektrisch ongeval aanraken?",
   "opties": [
-   "omdat water elektriciteit geleidt",
-   "omdat het koud is",
-   "omdat het slachtoffer dan nat wordt",
-   "dat mag wel"
+   "pas nadat de elektriciteit uitgeschakeld is",
+   "meteen, als je rubberen schoenen draagt",
+   "pas als de hulpdiensten er zijn",
+   "nooit"
   ],
   "juist": "A",
-  "uitleg": "Water geleidt: gevaar voor iedereen.",
+  "uitleg": "Het handboek is duidelijk: eerst de netspanning uitschakelen. Toestellen en personen raak je pas aan nadat de elektriciteit uitgeschakeld is.",
   "waarom_fout": {
-   "B": "niet de reden.",
-   "C": "niet de reden.",
-   "D": "nee."
+   "B": "zolang de elektriciteit aan staat, kan de stroom ook door jou lopen: eerst uitschakelen.",
+   "C": "op de hulpdiensten wachten is niet nodig: zodra de elektriciteit uit is, mag je het slachtoffer aanraken.",
+   "D": "na het uitschakelen van de elektriciteit mag je het slachtoffer wel aanraken."
   },
   "moeilijkheid": 1,
   "svg": null,
@@ -114,9 +89,9 @@
   "juist": "A",
   "uitleg": "Nooit aan een antenne werken terwijl er gezonden wordt.",
   "waarom_fout": {
-   "B": "gevaarlijk.",
-   "C": "niet nodig.",
-   "D": "gevaarlijk."
+   "B": "meer vermogen geeft net meer spanning op de antenne: gevaarlijk.",
+   "C": "de SWR-meter loskoppelen maakt het werk aan de antenne niet veilig.",
+   "D": "als er gezonden wordt, staat er spanning op de antenne: gevaarlijk."
   },
   "moeilijkheid": 1,
   "svg": null,
@@ -139,9 +114,9 @@
   "juist": "A",
   "uitleg": "Hoge antennes trekken bliksem aan: bliksembeveiliging nodig.",
   "waarom_fout": {
-   "B": "niet het gevaar.",
-   "C": "niet het gevaar.",
-   "D": "wel degelijk."
+   "B": "de SWR is hier niet het gevaar; bliksem wel.",
+   "C": "slechtere propagatie is geen veiligheidsgevaar.",
+   "D": "bliksem slaat vooral in op hoge, uitstekende punten, zoals een hoge antenne."
   },
   "moeilijkheid": 1,
   "svg": null,

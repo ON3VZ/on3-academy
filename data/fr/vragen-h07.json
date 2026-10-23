@@ -242,11 +242,11 @@
   "vraag": "Quelle source dans la maison peut perturber votre récepteur ?",
   "opties": [
    "une ampoule à incandescence éteinte",
-   "un chargeur ou une lampe LED",
+   "un ordinateur",
    "une table en bois",
    "un livre"
   ],
-  "uitleg": "Les chargeurs, les lampes LED et les ordinateurs peuvent rayonner des perturbations.",
+  "uitleg": "Certains appareils ménagers, surtout les ordinateurs, émettent eux-mêmes un faible rayonnement radio (manuel p. 28).",
   "waarom_fout": {
    "A": "un appareil éteint ne perturbe pas.",
    "C": "pas d'électronique.",
@@ -306,23 +306,6 @@
   "onderwerp": "immunité"
  },
  {
-  "id": "E-h07-05",
-  "vraag": "Qu'est-ce qu'une self de choc ?",
-  "opties": [
-   "une bobine qui freine le courant HF sur un câble",
-   "une bobine qui augmente la puissance",
-   "une sorte de microphone",
-   "un élément d'antenne"
-  ],
-  "uitleg": "Une self de choc (souvent un tore de ferrite) freine le courant HF.",
-  "waarom_fout": {
-   "B": "non.",
-   "C": "non.",
-   "D": "non."
-  },
-  "onderwerp": "immunité"
- },
- {
   "id": "E-h07-06",
   "vraag": "Qui est responsable si la perturbation vient d'un appareil mal protégé du voisin ?",
   "opties": [
@@ -344,11 +327,11 @@
   "vraag": "Pourquoi le fil d'une terre HF doit-il être court ?",
   "opties": [
    "parce que les fils longs coûtent plus cher",
-   "parce qu'un fil long se comporte lui-même comme une antenne et évacue mal la HF",
+   "parce que le chemin le plus court vers la terre a la plus faible résistance",
    "parce que la commune l'impose",
    "parce que le cuivre est lourd"
   ],
-  "uitleg": "Plus il est court, mieux le courant HF va vers le sol.",
+  "uitleg": "Un conducteur de terre séparé doit former le chemin le plus court vers la terre : la résistance est alors la plus faible possible (manuel p. 30).",
   "waarom_fout": {
    "A": "ce n'est pas la raison.",
    "C": "non.",
@@ -450,11 +433,11 @@
    "la perturbation due au fait qu'un câble de haut-parleur capte le signal radio",
    "le rayonnement direct dans l'appareil perturbé"
   ],
-  "uitleg": "Rayonnement direct : l'onde entre directement dans l'appareil, sans câble. C'est typique des ondes radio.",
+  "uitleg": "Rayonnement direct : le signal entre directement dans l'appareil, sans passer par un câble raccordé (manuel p. 28, surtout en VHF/UHF). A à C sont des perturbations par un câblage qui fait office d'antenne.",
   "waarom_fout": {
-   "A": "le réseau peut aussi conduire d'autres perturbations (par exemple d'appareils à découpage).",
-   "B": "un câble de téléphone peut aussi conduire d'autres perturbations.",
-   "C": "un câble de haut-parleur aussi."
+   "A": "perturbation par le réseau électrique : un câblage qui fait office d'antenne, pas un rayonnement direct.",
+   "B": "perturbation par un câble de téléphone : un câblage qui fait office d'antenne, pas un rayonnement direct.",
+   "C": "perturbation par un câble de haut-parleur : un câblage qui fait office d'antenne, pas un rayonnement direct."
   },
   "onderwerp": "bases de la CEM"
  },

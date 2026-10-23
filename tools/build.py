@@ -29,9 +29,9 @@ TALEN = ["nl", "fr"]
 BLOK = {"kern": ("card kern", "Kern"), "vergelijk": ("card ana", "Vergelijk met"),
         "valkuil": ("card trap", "Valkuil"), "geheugensteun": ("card kern", "Geheugensteun"),
         "weetje": ("card", "Weetje"), "tekst": ("card wettekst", "Zo staat het er"),
-        "impact": ("card impact", "Wat betekent dit voor jou?"), "actueel": ("card actueel", "Actuele wet (stand oktober 2026)")}
+        "impact": ("card impact", "Wat betekent dit voor jou?"), "actueel": ("card actueel", "Actuele wet (stand oktober 2026)"), "gevorderd": ("card gevorderd", "★ Voor gevorderden (niet in het handboek)")}
 BLOK_FR = {"kern": "L'essentiel", "vergelijk": "Comparaison", "valkuil": "Piège", "geheugensteun": "Aide-mémoire",
-           "weetje": "Bon à savoir", "tekst": "Le texte dit", "impact": "Qu'est-ce que cela signifie pour vous ?", "actueel": "Loi actuelle (état octobre 2026)"}
+           "weetje": "Bon à savoir", "tekst": "Le texte dit", "impact": "Qu'est-ce que cela signifie pour vous ?", "actueel": "Loi actuelle (état octobre 2026)", "gevorderd": "★ Pour avancés (pas dans le manuel)"}
 TAAL = "nl"  # taal die nu gebouwd wordt
 
 

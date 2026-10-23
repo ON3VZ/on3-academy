@@ -561,17 +561,6 @@
   "onderwerp": "classes"
  },
  {
-  "id": "O001",
-  "vraag": "Les différentes licences belges pour radioamateurs sont :",
-  "opties": [
-   "la licence A et la licence de base",
-   "la licence complète, la licence restreinte et la licence de base",
-   "la licence de base",
-   "la licence restreinte et la licence de base"
-  ],
-  "onderwerp": "classes de certificat d'opérateur"
- },
- {
   "id": "O002",
   "vraag": "la licence A vous permet :",
   "opties": [
@@ -669,7 +658,7 @@
   "waarom_fout": {
    "A": "ON est belge.",
    "B": "OT est belge.",
-   "D": "OR est belge (OR0 : station spéciale)."
+   "D": "OR est un préfixe belge (série ON à OT)."
   },
   "onderwerp": "structure des indicatifs"
  },
@@ -1044,49 +1033,5 @@
    "C": "il peut aussi fermer."
   },
   "onderwerp": "contrôle par l'IBPT"
- },
- {
-  "id": "O032",
-  "vraag": "Le carnet de trafic doit mentionner au moins les données suivantes :",
-  "opties": [
-   "la date et l'heure de l'émission, l'indicatif d'appel de la station correspondante, la bande de fréquences et la classe d'émission utilisées, et le nom ou l'indicatif de tout autre utilisateur",
-   "la date et l'heure de l'émission, l'indicatif d'appel et le domicile de la station correspondante, le nom ou l'indicatif de tout autre utilisateur",
-   "la date et l'heure de l'émission, l'indicatif d'appel de la station correspondante, la bande de fréquences et la puissance d'émission utilisées, le nom ou l'indicatif de tout autre utilisateur",
-   "la date et l'heure de l'émission, l'indicatif d'appel de la station correspondante, la classe d'émission et la puissance d'émission, le nom ou l'indicatif de tout autre utilisateur"
-  ],
-  "onderwerp": "carnet de trafic (journal)"
- },
- {
-  "id": "O033",
-  "vraag": "Chaque radioamateur est obligé de tenir un carnet de trafic dans lequel il :",
-  "opties": [
-   "note toutes les liaisons radio établies avec sa ou ses stations fixes",
-   "note toutes les liaisons radio établies avec sa ou ses stations mobiles",
-   "note toutes les liaisons radio établies avec sa ou ses stations portables",
-   "note toutes les liaisons radio établies avec toutes ses stations"
-  ],
-  "onderwerp": "carnet de trafic (journal)"
- },
- {
-  "id": "O034",
-  "vraag": "Chaque radioamateur est obligé de tenir un carnet de trafic sous la forme suivante :",
-  "opties": [
-   "uniquement par écrit",
-   "par écrit ou sous la forme d'un fichier informatique",
-   "uniquement sous la forme d'un fichier informatique",
-   "par écrit et sous la forme d'un fichier informatique"
-  ],
-  "onderwerp": "carnet de trafic (journal)"
- },
- {
-  "id": "O035",
-  "vraag": "Chaque radioamateur est obligé de conserver le carnet de trafic au moins jusqu'à :",
-  "opties": [
-   "ce que l'IBPT lui donne l'autorisation de le détruire",
-   "au moins deux ans après la première émission enregistrée",
-   "aussi longtemps qu'il est titulaire d'une licence de radioamateur",
-   "au moins deux ans après la dernière émission enregistrée"
-  ],
-  "onderwerp": "carnet de trafic (journal)"
  }
 ]

@@ -83,14 +83,14 @@
   "opties": [
    "13 W",
    "40 W",
-   "3 W",
+   "8 W",
    "0,6 W"
   ],
   "juist": "B",
   "uitleg": "5 × 8 = 40 W.",
   "waarom_fout": {
    "A": "optellen.",
-   "C": "aftrekken.",
+   "C": "dat is enkel de winst, zonder het vermogen.",
    "D": "delen."
   },
   "moeilijkheid": 1,
@@ -216,7 +216,7 @@
   "waarom_fout": {
    "A": "nee.",
    "C": "nee.",
-   "D": "de antenne raakt niet beschadigd door SWR."
+   "D": "het handboek noemt de eindtrap van de zender als wat beschadigd kan raken, niet de antenne."
   },
   "moeilijkheid": 1,
   "svg": null,
@@ -254,7 +254,7 @@
   "bron": "extra",
   "hoofdstuk": 5,
   "onderwerp": "connector",
-  "vraag": "Welke connector wordt vooral bij VHF en UHF gebruikt, ook buiten?",
+  "vraag": "Welke connector komt meestal voor bij VHF- en UHF-installaties?",
   "opties": [
    "cinch",
    "N",
@@ -262,7 +262,7 @@
    "jack"
   ],
   "juist": "B",
-  "uitleg": "De N-connector is waterdicht en geschikt voor VHF en UHF.",
+  "uitleg": "Volgens het handboek wordt de N-connector meestal bij VHF en UHF gebruikt.",
   "waarom_fout": {
    "A": "audio.",
    "C": "data/audio.",

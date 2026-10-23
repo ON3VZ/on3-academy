@@ -154,7 +154,7 @@
   "bron": "extra",
   "hoofdstuk": 8,
   "onderwerp": "S-meter",
-  "vraag": "Je verstaat alles perfect en de S-meter wijst S9 aan. Welk rapport geef je?",
+  "vraag": "Je verstaat alles goed en de S-meter wijst S9 aan. Welk rapport geef je?",
   "opties": [
    "95",
    "59",
@@ -194,31 +194,6 @@
    "D": "nee."
   },
   "moeilijkheid": 1,
-  "svg": null,
-  "status": "ok",
-  "examendeel": "procedures",
-  "in_examen": true
- },
- {
-  "id": "E-h08-09",
-  "bron": "extra",
-  "hoofdstuk": 8,
-  "onderwerp": "SSB",
-  "vraag": "Welke zijband gebruik je meestal op 40 m (7 MHz)?",
-  "opties": [
-   "USB",
-   "LSB",
-   "FM",
-   "AM"
-  ],
-  "juist": "B",
-  "uitleg": "Onder 10 MHz gebruikt men meestal LSB.",
-  "waarom_fout": {
-   "A": "USB boven 10 MHz.",
-   "C": "geen zijband.",
-   "D": "geen zijband."
-  },
-  "moeilijkheid": 2,
   "svg": null,
   "status": "ok",
   "examendeel": "procedures",

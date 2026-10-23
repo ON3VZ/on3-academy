@@ -138,7 +138,7 @@ def aansluiten():
 def main():
     files = {"h08-qso": qso(), "h08-repeater": repeater(),
              "h08-bandplan-14": bandplan(SEG14, "Bandplan 20 m (14 MHz)", 14000, 14350, [14000, 14060, 14099, 14125, 14230, 14300, 14350]),
-             "h08-bandplan-144": bandplan(SEG144, "Bandplan 2 m (144 MHz)", 144000, 146000, [144000, 144150, 144400, 144800, 145200, 145600, 146000]),
+             "h08-bandplan-144": bandplan(SEG144, "Bandplan 2 m (144 MHz)", 144000, 146000, [144000, 144150, 144400, 144800, 144990, 145194, 145594, 145800, 146000]),
              "h08-smeter": smeter(), "h08-ptt": ptt(), "h08-aansluiten": aansluiten()}
     for k, v in files.items():
         open(os.path.join(OUT, k + ".svg"), "w", encoding="utf-8").write(v)

@@ -52,6 +52,7 @@
     const box = el("div", { class: "q" });
     if (!opt.mode && S.antwoorden[id]) { const a = S.antwoorden[id]; box.append(el("div", { class: "vorig " + (a.laatst === "juist" ? "ok" : "bad") }, F(a.laatst === "juist" ? "vk_juist" : "vk_fout", { n: a.pogingen }))); }
     if (opt.nummer) box.append(el("div", { class: "meta" }, `<span>${opt.nummer} / ${opt.totaal || ""}</span>`));
+    if (q.niveau === "gevorderd") box.append(el("div", { class: "gevorderd-label" }, T("gevorderd")));
     box.append(el("div", { class: "txt" }, q.vraag));
     if (q.svg) { const f = el("div", { class: "figwrap" }); f.innerHTML = svg(q.svg); box.append(f); }
     if (q.foto) { const f = el("div", { class: "figwrap foto" }); f.innerHTML = `<img src="assets/foto/${q.foto}" alt="${T("foto_alt")}" loading="lazy">`; box.append(f); }

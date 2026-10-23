@@ -14,7 +14,7 @@
   "uitleg": "Een weerstand werkt de stroom tegen (doelstelling 3b.2).",
   "waarom_fout": {
    "A": "spanning komt van een spanningsbron, zoals een batterij.",
-   "C": "dat doet een batterij of een condensator.",
+   "C": "een weerstand slaat niets op; in een batterij zit opgestapelde energie.",
    "D": "dat doet een omvormer, geen weerstand."
   },
   "moeilijkheid": 1,
@@ -216,30 +216,6 @@
   "in_examen": true
  },
  {
-  "id": "E-h03-10",
-  "bron": "extra",
-  "hoofdstuk": 3,
-  "vraag": "Welke spanning heeft het Belgische lichtnet?",
-  "opties": [
-   "12 V",
-   "110 V",
-   "230 V",
-   "400 V"
-  ],
-  "juist": "C",
-  "uitleg": "Het stopcontact geeft 230 V wisselspanning, 50 Hz.",
-  "waarom_fout": {
-   "A": "12 V is een autobatterij.",
-   "B": "110 V is onder meer in de Verenigde Staten.",
-   "D": "400 V is driefasige krachtstroom, niet het gewone stopcontact."
-  },
-  "moeilijkheid": 1,
-  "svg": null,
-  "status": "ok",
-  "examendeel": "techniek",
-  "in_examen": true
- },
- {
   "id": "E-h03-11",
   "bron": "extra",
   "hoofdstuk": 3,
@@ -354,30 +330,6 @@
    "D": "vermenigvuldigd in plaats van gedeeld."
   },
   "moeilijkheid": 2,
-  "svg": null,
-  "status": "ok",
-  "examendeel": "techniek",
-  "in_examen": true
- },
- {
-  "id": "E-h03-16",
-  "bron": "extra",
-  "hoofdstuk": 3,
-  "vraag": "Waarom vraagt het examen bij rekenvragen naar de eenheid (bv. W of mW)?",
-  "opties": [
-   "Omdat dezelfde cijfers met een andere eenheid vaak als fout antwoord staan",
-   "Omdat de eenheid niet belangrijk is",
-   "Omdat je altijd in mW moet antwoorden",
-   "Omdat het examen geen rekenvragen heeft"
-  ],
-  "juist": "A",
-  "uitleg": "De afleiders gebruiken vaak het juiste getal met de verkeerde eenheid. Let daarom altijd op k, m en M.",
-  "waarom_fout": {
-   "B": "de eenheid is net doorslaggevend.",
-   "C": "de eenheid hangt af van de vraag.",
-   "D": "er zijn wel rekenvragen."
-  },
-  "moeilijkheid": 1,
   "svg": null,
   "status": "ok",
   "examendeel": "techniek",

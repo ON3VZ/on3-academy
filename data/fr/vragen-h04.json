@@ -468,7 +468,11 @@
    "un signal CW (morse)"
   ],
   "uitleg": "Les sommets montent et descendent, la distance entre les ondes reste la même : AM.",
-  "waarom_fout": {},
+  "waarom_fout": {
+   "A": "une porteuse non modulée a partout des sommets de même hauteur, à la même distance.",
+   "B": "en FM, les sommets restent à la même hauteur et la distance entre les ondes change.",
+   "D": "en CW, le signal disparaît complètement par moments."
+  },
   "onderwerp": "reconnaître les signaux"
  },
  {
@@ -481,7 +485,11 @@
    "un signal CW (morse)"
   ],
   "uitleg": "Tous les sommets sont à la même hauteur et à la même distance : une porteuse non modulée.",
-  "waarom_fout": {},
+  "waarom_fout": {
+   "B": "en FM, les sommets restent à la même hauteur et la distance entre les ondes change.",
+   "C": "en AM, les sommets montent et descendent, la distance entre les ondes reste la même.",
+   "D": "en CW, le signal disparaît complètement par moments."
+  },
   "onderwerp": "reconnaître les signaux"
  },
  {
@@ -494,7 +502,11 @@
    "un signal CW (morse)"
   ],
   "uitleg": "Les sommets sont à la même hauteur, les ondes se rapprochent et s'écartent : FM.",
-  "waarom_fout": {},
+  "waarom_fout": {
+   "A": "une porteuse non modulée a partout des sommets de même hauteur, à la même distance.",
+   "C": "en AM, les sommets montent et descendent, la distance entre les ondes reste la même.",
+   "D": "en CW, le signal disparaît complètement par moments."
+  },
   "onderwerp": "reconnaître les signaux"
  },
  {
@@ -507,7 +519,11 @@
    "un signal CW (morse)"
   ],
   "uitleg": "Le signal est alternativement présent et complètement absent : CW (morse).",
-  "waarom_fout": {},
+  "waarom_fout": {
+   "A": "une porteuse non modulée a partout des sommets de même hauteur, à la même distance.",
+   "B": "en FM, les sommets restent à la même hauteur et la distance entre les ondes change.",
+   "C": "en AM, les sommets montent et descendent, la distance entre les ondes reste la même."
+  },
   "onderwerp": "reconnaître les signaux"
  },
  {
@@ -876,7 +892,13 @@
    "l'amplification audio",
    "absolument rien"
   ],
-  "onderwerp": "récepteur"
+  "onderwerp": "récepteur",
+  "uitleg": "Dans l'étage d'entrée (premier étage), le signal souhaité est filtré : c'est l'accord.",
+  "waarom_fout": {
+   "A": "la démodulation est le deuxième étage.",
+   "C": "l'amplification audio est le troisième étage, l'étage de sortie.",
+   "D": "l'étage d'entrée fait bel et bien quelque chose : l'accord et l'amplification HF."
+  }
  },
  {
   "id": "O135",
@@ -921,7 +943,13 @@
    "se fait l'amplification audio",
    "il ne se passe absolument rien"
   ],
-  "onderwerp": "récepteur"
+  "onderwerp": "récepteur",
+  "uitleg": "L'étage de sortie (troisième étage) est l'amplificateur audio qui alimente le haut-parleur ou le casque.",
+  "waarom_fout": {
+   "A": "la démodulation est le deuxième étage.",
+   "B": "l'accord est le premier étage.",
+   "D": "l'étage de sortie amplifie l'audio."
+  }
  },
  {
   "id": "C-h04-1a",
@@ -1010,18 +1038,18 @@
  },
  {
   "id": "C-h04-2c",
-  "vraag": "Sur un dessin, les sommets restent partout à la même hauteur, mais les ondes sont tantôt rapprochées, tantôt écartées. Que voyez-vous ?",
+  "vraag": "Sur un dessin, la distance entre les ondes est partout la même, mais les sommets deviennent tantôt plus hauts, tantôt plus bas. Que voyez-vous ?",
   "opties": [
-   "AM",
    "FM",
+   "AM",
    "CW",
    "une porteuse non modulée"
   ],
-  "uitleg": "La distance entre les ondes change : la fréquence change. C'est de la FM.",
+  "uitleg": "La hauteur (amplitude) des sommets change, la distance entre les ondes reste la même. C'est de l'AM.",
   "waarom_fout": {
-   "A": "en AM, c'est la hauteur des sommets qui change.",
-   "C": "en CW, le signal disparaît par moments.",
-   "D": "une porteuse a partout la même distance entre les ondes."
+   "A": "en FM, les sommets restent à la même hauteur et la distance entre les ondes change.",
+   "C": "en CW, le signal disparaît complètement par moments.",
+   "D": "avec une porteuse non modulée, tous les sommets sont à la même hauteur."
   },
   "onderwerp": "AM/FM"
  },
@@ -1051,9 +1079,9 @@
    "60 W",
    "100 W"
   ],
-  "uitleg": "En AM, seul 1/6 de la puissance va dans la bande latérale dont vous avez besoin. 6 × 10 W = 60 W.",
+  "uitleg": "Le manuel l'enseigne : la SSB est environ 6 fois plus efficace que l'AM. 10 W en SSB sont reçus aussi fort que 6 × 10 = 60 W en AM.",
   "waarom_fout": {
-   "A": "en AM, vous n'avez alors que 10 × 1/6 ≈ 1,7 W de puissance utile.",
+   "A": "votre signal AM est alors environ 6 fois plus faible que votre signal SSB.",
    "B": "la différence est plus grande qu'un facteur 2.",
    "D": "trop ; un facteur 6 suffit."
   },

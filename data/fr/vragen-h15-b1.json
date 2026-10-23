@@ -1313,17 +1313,17 @@
   "vraag": "Que recevez-vous d'abord lorsque vous réussissez l'examen ?",
   "opties": [
    "le certificat d'opérateur",
-   "l'attestation de réussite",
+   "le certificat d'aspirant radiotéléphoniste privé",
    "l'autorisation de station",
    "le certificat d'opérateur avec l'autorisation de station"
   ],
-  "uitleg": "Après l'examen, vous recevez d'abord l'attestation de réussite. Ensuite, vous demandez le certificat d'opérateur (avec droit de dossier) et, séparément, l'autorisation de station.",
+  "uitleg": "Après l'examen, vous recevez d'abord le certificat d'aspirant radiotéléphoniste privé. Votre premier certificat d'opérateur est déjà compris dans le droit de dossier que vous avez payé lors de l'inscription à l'examen (AR annexe 1, art. 1). L'autorisation de station se demande séparément, avec son propre droit de dossier.",
   "waarom_fout": {
-   "A": "vous le demandez ensuite.",
+   "A": "il ne vient qu'après le certificat d'aspirant ; vous ne payez pas de droit de dossier séparé pour celui-ci.",
    "C": "elle ne vient qu'après le certificat.",
    "D": "deux demandes séparées, plus tard."
   },
-  "onderwerp": "attestation de réussite"
+  "onderwerp": "certificat d'aspirant radiotéléphoniste privé"
  },
  {
   "id": "E-h15-072",
@@ -1364,11 +1364,11 @@
   "vraag": "Un radio-club veut déplacer sa station fixe pour un concours. Qu'est-ce qui s'applique ?",
   "opties": [
    "c'est interdit",
-   "c'est permis pendant une semaine au maximum, après avoir informé préalablement l'IBPT, sans adaptation de l'autorisation",
+   "c'est permis pendant une semaine au maximum, après avoir informé préalablement l'IBPT (par écrit), sans adaptation de l'autorisation",
    "c'est permis pendant un mois au maximum, sans notification",
    "c'est permis uniquement avec une nouvelle autorisation"
   ],
-  "uitleg": "Une semaine au maximum, informer l'IBPT au préalable, pas d'adaptation de l'autorisation.",
+  "uitleg": "Une semaine au maximum, informer l'IBPT au préalable, pas d'adaptation de l'autorisation. Le texte français de l'AR dit expressément « par écrit » (le texte néerlandais du manuel ne le précise pas).",
   "waarom_fout": {
    "A": "c'est bien permis.",
    "C": "trop long, et l'information est obligatoire.",

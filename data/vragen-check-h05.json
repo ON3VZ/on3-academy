@@ -222,7 +222,7 @@
   "uitleg": "Naar de kant van de directoren.",
   "waarom_fout": {
    "A": "de reflector zit achteraan.",
-   "C": "dat is bij een dipool.",
+   "C": "een yagi straalt langs de drager, naar de directoren. Dwars op de draad stralen is typisch voor een dipool.",
    "D": "dat is een rondstraler."
   },
   "moeilijkheid": 1,
@@ -257,7 +257,7 @@
   "bron": "check",
   "hoofdstuk": 5,
   "onderwerp": "rondstraler",
-  "vraag": "Welke antenne straalt in alle richtingen even sterk?",
+  "vraag": "Welke antenne straalt in alle richtingen van de windroos (horizontaal) even sterk?",
   "opties": [
    "horizontale dipool",
    "yagi",
@@ -449,7 +449,7 @@
    "SMA"
   ],
   "juist": "B",
-  "uitleg": "BNC heeft een bajonetsluiting.",
+  "uitleg": "BNC heeft een bajonetsluiting: duwen en een kwartslag draaien (handboek, hoofdstuk 12, p. 46).",
   "waarom_fout": {
    "A": "PL259 heeft een schroefring.",
    "C": "N heeft een schroefring.",

@@ -211,8 +211,10 @@ def abcd2():
     # eindgevoede draad
     b += line(230, 70, 230, 220, "wire thick") + line(420, 70, 420, 220, "wire thick")
     b += line(230, 70, 420, 70, ANT)
-    b += f'<path d="M230,70 Q215,140 205,195" class="ant"/>'
-    b += line(205, 195, 205, 205, "wire") + grond(205, 205, 22)
+    b += f'<path d="M230,70 Q215,140 205,186" class="ant"/>'
+    # voedingspunt tussen draaduiteinde en aarding (twee korte streepjes, zoals in het origineel)
+    b += line(197, 186, 213, 186, "wire") + line(197, 194, 213, 194, "wire")
+    b += line(205, 194, 205, 205, "wire") + grond(205, 205, 22)
     b += t(240, 214, "MAST", "lbl s b") + t(410, 214, "MAST", "lbl s b", "end")
     b += line(520, 50, 520, 136, ANT) + line(520, 146, 520, 232, ANT) + voed_v(520, 141)
     b += gp(660, 40, 110, 120)
@@ -259,7 +261,7 @@ def groundplane():
     b += t(470, 176, "Radialen hangen ongeveer 45° onder", "lbl s")
     b += t(470, 194, "de horizontale. Meestal 3 of 4 stuks.", "lbl s")
     b += t(470, 222, "Kern van de coax aan de straler,", "lbl s")
-    b += t(470, 240, "mantel aan de radialen.", "lbl s")
+    b += t(470, 240, "afscherming aan de radialen.", "lbl s")
     b += t(470, 268, "Rondstraler, verticaal gepolariseerd.", "lbl s")
     return svg(w, h, "Groundplane-antenne", "Verticale straler van een kwart golflengte met vier radialen die 45 graden onder de horizontale naar beneden hangen.", b)
 

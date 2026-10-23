@@ -164,7 +164,7 @@
   "uitleg": "Du côté des directeurs.",
   "waarom_fout": {
    "A": "le réflecteur est à l'arrière.",
-   "C": "c'est le cas d'un dipôle.",
+   "C": "une yagi rayonne le long du support, vers les directeurs. Rayonner perpendiculairement au fil est typique d'un dipôle.",
    "D": "c'est une antenne omnidirectionnelle."
   },
   "onderwerp": "yagi"
@@ -188,7 +188,7 @@
  },
  {
   "id": "C-h05-4c",
-  "vraag": "Quelle antenne rayonne avec la même force dans toutes les directions ?",
+  "vraag": "Quelle antenne rayonne avec la même force dans toutes les directions de la rose des vents (à l'horizontale) ?",
   "opties": [
    "dipôle horizontal",
    "yagi",
@@ -331,7 +331,7 @@
    "N",
    "SMA"
   ],
-  "uitleg": "La BNC a une fixation à baïonnette.",
+  "uitleg": "Le BNC a une fermeture à baïonnette : on pousse et on tourne d'un quart de tour (manuel, chapitre 12, p. 46).",
   "waarom_fout": {
    "A": "la PL259 a une bague à visser.",
    "C": "la N a une bague à visser.",
@@ -600,13 +600,13 @@
   "opties": [
    "13 W",
    "40 W",
-   "3 W",
+   "8 W",
    "0,6 W"
   ],
   "uitleg": "5 × 8 = 40 W.",
   "waarom_fout": {
    "A": "addition.",
-   "C": "soustraction.",
+   "C": "c'est seulement le gain, sans la puissance.",
    "D": "division."
   },
   "onderwerp": "PAR"
@@ -692,7 +692,7 @@
   "waarom_fout": {
    "A": "non.",
    "C": "non.",
-   "D": "l'antenne n'est pas endommagée par le ROS."
+   "D": "le manuel cite l'étage final de l'émetteur comme ce qui peut être endommagé, pas l'antenne."
   },
   "onderwerp": "ROS"
  },
@@ -715,14 +715,14 @@
  },
  {
   "id": "E-h05-11",
-  "vraag": "Quel connecteur est surtout utilisé en VHF et UHF, aussi à l'extérieur ?",
+  "vraag": "Quel connecteur trouve-t-on le plus souvent dans les installations VHF et UHF ?",
   "opties": [
    "cinch",
    "N",
    "DIN",
    "jack"
   ],
-  "uitleg": "Le connecteur N est étanche et convient pour la VHF et l'UHF.",
+  "uitleg": "Selon le manuel, le connecteur N est le plus souvent utilisé en VHF et en UHF.",
   "waarom_fout": {
    "A": "audio.",
    "C": "données/audio.",
@@ -901,23 +901,6 @@
   "onderwerp": "ligne de transmission et connecteurs"
  },
  {
-  "id": "O144",
-  "vraag": "Quelle est la partie châssis (femelle) pour un connecteur PL-259 ?",
-  "opties": [
-   "connecteur A",
-   "connecteur B",
-   "connecteur C",
-   "connecteur D"
-  ],
-  "uitleg": "B est la partie châssis (SO-239) dans laquelle on visse une PL-259.",
-  "waarom_fout": {
-   "A": "A est une prise jack (audio).",
-   "C": "C est une partie châssis BNC.",
-   "D": "D est une partie châssis DIN."
-  },
-  "onderwerp": "ligne de transmission et connecteurs"
- },
- {
   "id": "O145",
   "vraag": "Lequel des connecteurs est un connecteur BNC ?",
   "opties": [
@@ -1011,7 +994,13 @@
    "utiliser une antenne placée à l'horizontale",
    "utiliser une ligne de transmission placée à l'horizontale"
   ],
-  "onderwerp": "polarisation"
+  "onderwerp": "polarisation",
+  "uitleg": "On obtient une polarisation horizontale avec une antenne placée à l'horizontale ; la polarisation suit la position de l'antenne.",
+  "waarom_fout": {
+   "A": "une antenne verticale donne une polarisation verticale.",
+   "B": "la ligne de transmission ne détermine pas la polarisation.",
+   "D": "la ligne de transmission ne détermine pas la polarisation."
+  }
  },
  {
   "id": "O151",
@@ -1022,7 +1011,13 @@
    "utiliser une antenne placée à l'horizontale",
    "utiliser une ligne de transmission placée à l'horizontale"
   ],
-  "onderwerp": "polarisation"
+  "onderwerp": "polarisation",
+  "uitleg": "On obtient une polarisation verticale avec une antenne placée à la verticale.",
+  "waarom_fout": {
+   "B": "la ligne de transmission ne détermine pas la polarisation.",
+   "C": "une antenne horizontale donne une polarisation horizontale.",
+   "D": "la ligne de transmission ne détermine pas la polarisation."
+  }
  },
  {
   "id": "O152",

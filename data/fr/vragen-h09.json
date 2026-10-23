@@ -25,7 +25,13 @@
    "courants élevés",
    "hautes tensions"
   ],
-  "onderwerp": "sécurité électrique"
+  "onderwerp": "sécurité électrique",
+  "uitleg": "Une haute tension peut faire passer un courant à travers votre corps : c'est l'électrocution.",
+  "waarom_fout": {
+   "A": "les champs magnétiques ne sont pas le danger ici.",
+   "B": "il s'agit d'électricité, pas de rayonnement.",
+   "C": "des courants élevés provoquent la surchauffe et l'incendie."
+  }
  },
  {
   "id": "O256",
@@ -53,7 +59,13 @@
    "courants élevés",
    "champs magnétiques intenses"
   ],
-  "onderwerp": "sécurité électrique"
+  "onderwerp": "sécurité électrique",
+  "uitleg": "Un courant élevé fait chauffer les fils et les appareils : surchauffe et incendie.",
+  "waarom_fout": {
+   "A": "une haute tension provoque l'électrocution.",
+   "B": "il ne s'agit pas de rayonnement.",
+   "D": "les champs magnétiques ne sont pas le danger ici."
+  }
  },
  {
   "id": "O258",
@@ -81,7 +93,13 @@
    "en les éteignant le moins souvent possible",
    "en ne les utilisant pas par temps d'orage"
   ],
-  "onderwerp": "sécurité électrique"
+  "onderwerp": "sécurité électrique",
+  "uitleg": "Avec une bonne terre de sécurité, en cas de défaut, le courant s'écoule par la terre et pas à travers vous.",
+  "waarom_fout": {
+   "A": "charger l'appareil n'est justement pas le but.",
+   "C": "cela ne protège pas contre l'électrocution.",
+   "D": "l'orage n'est pas la cause de cette électrocution."
+  }
  },
  {
   "id": "O260",
@@ -109,7 +127,13 @@
    "en prévoyant une bonne terre de sécurité",
    "en n'utilisant pas l'appareil à une température ambiante supérieure à 25 ºC"
   ],
-  "onderwerp": "sécurité électrique"
+  "onderwerp": "sécurité électrique",
+  "uitleg": "Un fusible coupe un courant trop élevé et évite ainsi la surchauffe et l'incendie.",
+  "waarom_fout": {
+   "A": "une terre HF sert contre les perturbations.",
+   "C": "la terre de sécurité sert contre l'électrocution.",
+   "D": "cette règle n'existe pas."
+  }
  },
  {
   "id": "O262",
@@ -292,8 +316,8 @@
   ],
   "uitleg": "Au moins un adulte doit toujours être présent.",
   "waarom_fout": {
-   "A": "il n'est pas nécessaire de prévenir l'IBPT.",
-   "B": "aucune autorisation de l'IBPT n'est nécessaire pour installer une antenne.",
+   "A": "ce n'est pas une règle de sécurité du manuel.",
+   "B": "une autorisation n'est pas la question ici ; il s'agit de sécurité pendant l'installation.",
    "D": "une échelle n'est pas toujours nécessaire."
   },
   "onderwerp": "installation et sécurité des antennes"
@@ -358,7 +382,13 @@
    "une antenne à grande hauteur",
    "une antenne UHF"
   ],
-  "onderwerp": "installation et sécurité des antennes"
+  "onderwerp": "installation et sécurité des antennes",
+  "uitleg": "La foudre frappe les points hauts et saillants. Une antenne élevée a donc besoin d'une protection contre la foudre.",
+  "waarom_fout": {
+   "A": "cette antenne ne dépasse pas nettement de son environnement.",
+   "B": "cette antenne ne dépasse pas nettement de son environnement.",
+   "D": "cette antenne ne dépasse pas nettement de son environnement."
+  }
  },
  {
   "id": "O277",
@@ -389,25 +419,8 @@
   "uitleg": "Trop grand = aucune protection en cas de défaut.",
   "waarom_fout": {
    "A": "cela arrive avec un fusible trop petit.",
-   "C": "ce n'est pas la raison.",
-   "D": "non."
-  },
-  "onderwerp": "fusible"
- },
- {
-  "id": "E-h09-02",
-  "vraag": "Où se trouve le plus souvent le fusible d'un appareil en 13,8 V ?",
-  "opties": [
-   "dans le fil positif, près de l'alimentation ou de la batterie",
-   "dans le câble coaxial",
-   "dans l'antenne",
-   "nulle part"
-  ],
-  "uitleg": "Selon le fabricant, le plus souvent dans le fil positif, près de la source.",
-  "waarom_fout": {
-   "B": "non.",
-   "C": "non.",
-   "D": "chaque appareil a besoin d'un fusible."
+   "C": "le prix n'a rien à voir avec la sécurité.",
+   "D": "un fusible ne provoque pas de perturbations ; il s'agit du risque d'incendie."
   },
   "onderwerp": "fusible"
  },
@@ -422,26 +435,26 @@
   ],
   "uitleg": "Il compare le courant aller et le courant retour, et coupe s'il y a une différence.",
   "waarom_fout": {
-   "B": "non.",
-   "C": "non.",
-   "D": "non."
+   "B": "un disjoncteur différentiel ne change rien à la puissance.",
+   "C": "le ROS se mesure avec un ROS-mètre.",
+   "D": "les perturbations se filtrent avec un filtre, pas avec un disjoncteur différentiel."
   },
   "onderwerp": "mise à la terre"
  },
  {
   "id": "E-h09-04",
-  "vraag": "Pourquoi ne verse-t-on pas d'eau sur une personne électrocutée ?",
+  "vraag": "Quand pouvez-vous toucher la victime d'un accident électrique ?",
   "opties": [
-   "parce que l'eau conduit l'électricité",
-   "parce qu'elle est froide",
-   "parce que la victime est alors mouillée",
-   "c'est permis"
+   "seulement après que l'électricité a été coupée",
+   "immédiatement, si vous portez des chaussures en caoutchouc",
+   "seulement quand les secours sont là",
+   "jamais"
   ],
-  "uitleg": "L'eau est conductrice : danger pour tout le monde.",
+  "uitleg": "Le manuel est clair : d'abord couper la tension du réseau. Vous ne touchez les appareils et les personnes qu'après que l'électricité a été coupée.",
   "waarom_fout": {
-   "B": "ce n'est pas la raison.",
-   "C": "ce n'est pas la raison.",
-   "D": "non."
+   "B": "tant que l'électricité est présente, le courant peut aussi passer à travers vous : d'abord couper.",
+   "C": "il n'est pas nécessaire d'attendre les secours : dès que l'électricité est coupée, vous pouvez toucher la victime.",
+   "D": "une fois l'électricité coupée, vous pouvez bel et bien toucher la victime."
   },
   "onderwerp": "accident"
  },
@@ -456,9 +469,9 @@
   ],
   "uitleg": "Ne jamais travailler sur une antenne pendant qu'on émet.",
   "waarom_fout": {
-   "B": "dangereux.",
-   "C": "pas nécessaire.",
-   "D": "dangereux."
+   "B": "plus de puissance donne justement plus de tension sur l'antenne : dangereux.",
+   "C": "débrancher le ROS-mètre ne rend pas le travail sur l'antenne plus sûr.",
+   "D": "pendant l'émission, l'antenne est sous tension : dangereux."
   },
   "onderwerp": "antenne"
  },
@@ -473,9 +486,9 @@
   ],
   "uitleg": "Les antennes élevées attirent la foudre : une protection contre la foudre est nécessaire.",
   "waarom_fout": {
-   "B": "ce n'est pas le danger.",
-   "C": "ce n'est pas le danger.",
-   "D": "si, c'est bel et bien dangereux."
+   "B": "le ROS n'est pas le danger ici ; la foudre, si.",
+   "C": "une moins bonne propagation n'est pas un danger pour la sécurité.",
+   "D": "la foudre frappe surtout les points hauts et saillants, comme une antenne élevée."
   },
   "onderwerp": "antenne"
  },
@@ -491,8 +504,8 @@
   "uitleg": "Une haute tension fait passer du courant à travers votre corps.",
   "waarom_fout": {
    "A": "un courant élevé provoque un incendie.",
-   "C": "non.",
-   "D": "non."
+   "C": "le rayonnement radio n'est pas la cause de l'électrocution ; c'est la haute tension.",
+   "D": "le ROS concerne l'adaptation de l'antenne, pas l'électrocution."
   },
   "onderwerp": "dangers"
  },
@@ -526,7 +539,7 @@
   "waarom_fout": {
    "A": "c'est un fusible.",
    "C": "c'est une lampe.",
-   "D": "c'est un ancien symbole de résistance."
+   "D": "une ligne en zigzag est le symbole américain d'une résistance."
   },
   "onderwerp": "mise à la terre"
  },
@@ -558,9 +571,9 @@
   ],
   "uitleg": "Un rectangle traversé par une ligne.",
   "waarom_fout": {
-   "B": "la terre.",
-   "C": "non.",
-   "D": "non."
+   "B": "trois traits de plus en plus courts, c'est le symbole de la terre.",
+   "C": "une flèche n'est pas le symbole d'un fusible ; c'est un rectangle traversé par une ligne.",
+   "D": "une bobine est un autre composant, avec son propre symbole."
   },
   "onderwerp": "fusible"
  },
@@ -609,9 +622,9 @@
   ],
   "uitleg": "Jaune-vert.",
   "waarom_fout": {
-   "A": "le neutre.",
-   "B": "la phase.",
-   "D": "ancienne couleur, jamais la terre."
+   "A": "le bleu est le neutre.",
+   "B": "le brun est un fil de tension du réseau (phase).",
+   "D": "selon le manuel, le rouge est une couleur de fil de tension du réseau, jamais de la terre."
   },
   "onderwerp": "cordon secteur"
  },
@@ -667,23 +680,6 @@
   "onderwerp": "accident"
  },
  {
-  "id": "C-h09-5b",
-  "vraag": "Quel est le numéro d'urgence européen, qui fonctionne aussi en Belgique ?",
-  "opties": [
-   "100",
-   "112",
-   "911",
-   "999"
-  ],
-  "uitleg": "Le 112 fonctionne dans toute l'Europe, aussi depuis un GSM.",
-  "waarom_fout": {
-   "A": "le 100 est un numéro belge, mais ce n'est pas le numéro d'urgence européen.",
-   "C": "l'Amérique.",
-   "D": "le Royaume-Uni."
-  },
-  "onderwerp": "accident"
- },
- {
   "id": "C-h09-6a",
   "vraag": "Pourquoi pas d'antenne à proximité d'une ligne électrique aérienne ?",
   "opties": [
@@ -694,9 +690,9 @@
   ],
   "uitleg": "Un contact avec une ligne à haute tension est mortel.",
   "waarom_fout": {
-   "A": "il s'agit de sécurité.",
-   "C": "non.",
-   "D": "non."
+   "A": "il s'agit de sécurité : une antenne qui touche la ligne se retrouve sous une tension mortelle.",
+   "C": "l'aspect n'est pas une raison de sécurité.",
+   "D": "il ne s'agit ni de portée ni d'interdiction, mais d'un danger de mort si l'antenne touche la ligne."
   },
   "onderwerp": "antenne"
  },
@@ -728,9 +724,9 @@
   ],
   "uitleg": "Les appareils portatifs de faible puissance sont l'exception.",
   "waarom_fout": {
-   "A": "non.",
-   "C": "non.",
-   "D": "non."
+   "A": "vous ne pouvez pas toucher une antenne fixe de 100 W pendant l'émission.",
+   "C": "une Yagi n'est pas un appareil portatif de faible puissance : ne pas la toucher pendant l'émission.",
+   "D": "un long fil ne peut pas non plus être touché pendant l'émission."
   },
   "onderwerp": "antenne"
  },
@@ -745,9 +741,9 @@
   ],
   "uitleg": "Une perte d'audition, et elle est définitive.",
   "waarom_fout": {
-   "B": "non.",
-   "C": "non.",
-   "D": "si, il y a bel et bien un danger."
+   "B": "les perturbations ne sont pas le danger ici ; il s'agit de votre audition.",
+   "C": "le volume de votre casque n'a rien à voir avec le ROS.",
+   "D": "un volume trop fort peut abîmer votre audition."
   },
   "onderwerp": "audition"
  }

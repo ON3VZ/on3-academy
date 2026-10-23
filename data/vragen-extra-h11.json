@@ -3,20 +3,20 @@
   "id": "E-h11-01",
   "bron": "extra",
   "hoofdstuk": 11,
-  "onderwerp": "QRM en QRN",
-  "vraag": "Wat is het verschil tussen QRM en QRN in de praktijk?",
+  "onderwerp": "QRM",
+  "vraag": "Wat betekent QRM?",
   "opties": [
-   "QRM is storing door andere stations of mensenwerk, QRN door de atmosfeer",
-   "QRM is atmosferische storing, QRN is storing door stations",
-   "QRM is fading, QRN is storing",
-   "er is geen verschil"
+   "storing",
+   "fading",
+   "verhoog het zendvermogen",
+   "wie roept mij aan?"
   ],
   "juist": "A",
-  "uitleg": "QRM staat voor storing van stations of mensenwerk, QRN voor atmosferische storing (zoals onweer).",
+  "uitleg": "Volgens de Q-codetabel van het handboek betekent \"QRM?\": hebt u last van storing? Zonder vraagteken betekent QRM: ik heb last van storing.",
   "waarom_fout": {
-   "B": "omgekeerd.",
-   "C": "fading is QSB.",
-   "D": "er is wel een verschil."
+   "B": "fading is QSB.",
+   "C": "dat is QRO.",
+   "D": "dat is QRZ."
   },
   "moeilijkheid": 2,
   "svg": null,
@@ -215,8 +215,8 @@
   "uitleg": "QSP: wilt u doorgeven aan ...?",
   "waarom_fout": {
    "B": "dat is QSL.",
-   "C": "geen Q-code in de tabel.",
-   "D": "dat is QRO."
+   "C": "voor herhalen staat er geen Q-code in de tabel van het handboek.",
+   "D": "verhogen van het vermogen is QRO."
   },
   "moeilijkheid": 3,
   "svg": null,
@@ -264,7 +264,7 @@
   "juist": "A",
   "uitleg": "R5 betekent perfect leesbaar, S9 heel sterk.",
   "waarom_fout": {
-   "B": "dat zou bijvoorbeeld 24 zijn.",
+   "B": "zwak maar leesbaar zou bijvoorbeeld 43 of 53 zijn.",
    "C": "dan is R laag.",
    "D": "het rapport zegt niets over het vermogen."
   },
