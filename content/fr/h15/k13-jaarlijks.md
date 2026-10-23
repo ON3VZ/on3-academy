@@ -15,7 +15,7 @@ En plus du droit de dossier, vous payez **chaque année** une **redevance annuel
 
 <!-- actueel -->
 :::actueel
-L'art. 43 a été remplacé (2014 et 2020). La règle de la **fin du mois n'existe plus**. La mise hors service est effective à la **date de la résiliation**. L'Institut établit une **note de crédit** pour les jours restants, un **minimum de trente jours** restant dû. Ce minimum ne s'applique pas en cas de **modification ou de remplacement** d'une station.
+L'art. 43 a été remplacé (2014 et 2020). La règle de la **fin du mois n'existe plus**. La mise hors service est effective à la **date de la résiliation**. L'Institut établit une **note de crédit** pour les jours restants, un **minimum de trente jours** restant dû. Depuis le 1er janvier 2020, ce minimum de trente jours n'est pas d'application en cas de **modification ou de remplacement** d'une station, ni pour la facturation (art. 41), ni pour les autorisations temporaires (art. 42).
 :::
 ### Art. 37 : quoi et qui ?
 | Alinéa | Contenu |
@@ -29,7 +29,7 @@ L'art. 43 a été remplacé (2014 et 2020). La règle de la **fin du mois n'exis
 |---|---|---|
 | station **en service le 1er janvier** | **l'année entière** | au plus tard **30 jours** après la réception de la facture |
 | mise en service **en cours d'année** | **au prorata** des jours restants jusqu'au **31 décembre**, **minimum trente jours** | au plus tard **30 jours** après la facture |
-| autorisation **temporaire** (art. 42) | au prorata de la **durée de validité**, **minimum trente jours** | idem |
+| autorisation **temporaire** (art. 42) | au prorata de la **durée de validité**, **minimum trente jours** (le texte français du règlement d'examen 2021 compte encore ici toute fraction de mois comme un mois entier) | idem |
 
 ### Art. 43 : résiliation
 | Règle | Contenu |
@@ -43,8 +43,8 @@ L'art. 43 a été remplacé (2014 et 2020). La règle de la **fin du mois n'exis
 Tous les montants sont adaptés **chaque année au 1er janvier** à l'**indice des prix à la consommation** : l'indice d'**octobre** de l'année précédente, divisé par l'indice d'**octobre 2006**.
 
 :::impact
-- Votre autorisation de station court **par année civile** : chaque année, vous recevez une facture.
-- Vous arrêtez le hobby fin avril : résiliez **au plus tard le 30 avril**, sinon vous payez aussi **mai**.
+- La redevance annuelle est facturée **par année civile** : chaque année, vous recevez une facture.
+- Vous arrêtez le hobby fin avril : résiliez **au plus tard le 30 avril**, sinon vous payez aussi **mai** (texte d'examen 2021 ; voir le cadre violet).
 - Vous ne payez **pas** la redevance annuelle : l'IBPT **peut** suspendre ou révoquer l'autorisation (art. 10), et les montants restent dus.
 :::
 

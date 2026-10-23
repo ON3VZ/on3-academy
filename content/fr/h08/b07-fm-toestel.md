@@ -29,28 +29,31 @@ Squelch trop ouvert : vous entendez du bruit en permanence. Trop fermé : vous n
 - L'échelle va de **S1** (très faible) à **S9** (fort).
 - Chaque point S en plus signifie **2 × plus de tension** à l'entrée du récepteur.
 - De S1 à S9, il y a 8 pas : 2 × 2 × 2 × 2 × 2 × 2 × 2 × 2 = **256**. Un signal S9 a donc **256 fois** la tension de S1.
-- Au-dessus de S9, il est écrit « +10 », « +20 » ... c'est le nombre de **dB** au-dessus de S9.
+
+:::weetje Pas matière d'examen
+Au-dessus de S9, l'échelle indique encore « +10 », « +20 » ... C'est le nombre de **dB** au-dessus de S9.
+:::
 
 ### Le report de signal (deux chiffres)
 | 1er chiffre : lisibilité (R) | 2e chiffre : force (S) |
 |---|---|
-| 1 = illisible | 1 = à peine audible |
-| 2 = lisible par moments | 2 = très faible |
-| 3 = lisible avec difficulté | 3 = faible |
+| 1 = pas lisible | 1 = à peine audible |
+| 2 = partiellement lisible | 2 = très faible |
+| 3 = tout juste lisible | 3 = faible |
 | 4 = lisible | 4 = suffisant |
-| 5 = parfaitement lisible | 5 = bon |
+| 5 = bien lisible | 5 = bon |
 | | 6 = fort |
 | | 7 = très fort au casque, compréhensible au haut-parleur |
 | | 8 = bien compréhensible au haut-parleur |
 | | 9 = très fort au haut-parleur |
 
-Le 2e chiffre se lit généralement sur le **S-mètre**. « Vous êtes 59 » signifie : parfaitement lisible et S9.
+Le 2e chiffre se lit généralement sur le **S-mètre**. « Vous êtes 59 » signifie : bien lisible et S9.
 
 ### Exemple résolu
 Vous comprenez tout bien et le S-mètre est sur S7. Votre report est **57** (« cinq sept »).
 
-<details class="zelf" markdown="1"><summary>À vous : vous comprenez l'autre avec difficulté et le S-mètre est sur S3. Quel report ?</summary>
+<details class="zelf" markdown="1"><summary>À vous : vous comprenez l'autre tout juste et le S-mètre est sur S3. Quel report ?</summary>
 
-**33** : lisibilité 3 (avec difficulté), force 3.
+**33** : lisibilité 3 (tout juste lisible), force 3.
 
 </details>

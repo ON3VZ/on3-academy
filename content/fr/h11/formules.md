@@ -47,7 +47,7 @@ examenvragen: []
 <tr><th>Abréviation</th><th>Signification</th></tr>
 <tr><td>K</td><td>à vous</td></tr>
 <tr><td>KN</td><td>à vous, seulement la station nommée</td></tr>
-<tr><td>SK</td><td>fin du contact (aussi : silent key)</td></tr>
+<tr><td>SK</td><td>cesser d'émettre (informel : silent key)</td></tr>
 <tr><td>FB</td><td>fine business, parfait</td></tr>
 <tr><td>YL</td><td>radioamatrice</td></tr>
 <tr><td>XYL</td><td>épouse d'un radioamateur</td></tr>

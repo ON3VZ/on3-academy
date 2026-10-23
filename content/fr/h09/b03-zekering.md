@@ -20,7 +20,7 @@ Un **fusible** coupe le courant quand celui-ci devient **trop élevé**. Vous é
 | Appareil | Fusible |
 |---|---|
 | sur le réseau électrique (230 V) | dans l'arrivée du secteur |
-| en basse tension (par exemple 13,8 V) | comme le prescrit le fabricant, le plus souvent dans le fil positif, près de l'alimentation ou de la batterie |
+| en basse tension (par exemple 13,8 V) | comme le prescrit le fabricant |
 
 ### La bonne valeur
 | Fusible | Conséquence |

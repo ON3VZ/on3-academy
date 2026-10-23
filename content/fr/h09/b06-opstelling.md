@@ -31,7 +31,7 @@ Pensez à une échelle posée contre votre maison pour nettoyer la gouttière. V
 :::valkuil
 - Les fils qui traînent sont dangereux à cause du **risque de trébucher** et de l'**isolant abîmé**. Pas à cause des perturbations, du vol ou du diagramme de rayonnement.
 - Lors du montage, il s'agit de **sécurité** : bien fixé et loin des lignes électriques. La couleur, le bruit ou l'urbanisme ne sont pas la question ici.
-- Vous ne devez pas prévenir l'IBPT ni lui demander une autorisation pour installer une antenne (pour la sécurité). Par contre, **un adulte** doit être présent.
+- Prévenir l'IBPT ou lui demander une autorisation n'est pas la question ici : il s'agit de sécurité pendant l'installation, et **au moins un adulte** doit alors être présent.
 - Travailler seul « pour que les objets qui tombent ne blessent personne » est faux : vous avez justement besoin d'aide.
 - Installer une antenne un jour de grand vent : dangereux.
 - Pour une antenne à 30 m de hauteur, la réponse est : **protection contre la foudre**.

@@ -35,7 +35,7 @@ La **phonie**, c'est la voix. Sur 20 m, il s'agit de la SSB.
 « Dans quelle plage complète pouvez-vous émettre en CW ? »
 1. La CW figure dans les segments 1, 2, 3, et aussi de 5 à 8.
 2. De 14 000 à 14 099, la CW est permise partout.
-3. Ensuite viennent les balises (14 099 à 14 101) : personne ne peut y émettre. Toute plage qui passe par 14 100 est donc fausse.
+3. Ensuite viennent les balises (14 099 à 14 101) : seules les balises y émettent, vous n'y émettez pas. Toute plage qui va au-delà de 14 099 kHz est donc fausse.
 4. Réponse : **14 000 à 14 099 kHz**.
 
 :::valkuil

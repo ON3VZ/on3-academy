@@ -14,12 +14,11 @@ Une **terre HF** (terre RF) est une liaison **séparée et courte** entre votre 
 {{svg:h07-aarding|Avec sa propre terre HF, le courant HF ne doit pas passer par la prise de courant.}}
 
 ### À quoi ressemble une bonne terre HF ?
-1. Un **piquet de terre** (tige métallique) dans le sol, le plus près possible du shack.
-2. Un fil **court et épais** ou une bande de cuivre plate entre la station et ce piquet. Plus c'est court, mieux c'est.
-3. Tous les appareils du shack sont reliés entre eux et à ce fil.
+1. Un conducteur de terre **séparé**, indépendant de la terre du réseau électrique.
+2. Un fil **court et épais** qui forme le **chemin le plus court** vers la terre. Ainsi, la résistance est la plus faible possible (manuel p. 30).
 
 :::valkuil Sécurité
-Une terre HF ne **remplace jamais** la terre de sécurité de votre installation électrique. Confiez toute liaison avec la terre de la maison à un électricien agréé, car l'installation doit rester conforme au règlement sur les installations électriques (RGIE).
+Une terre HF ne **remplace jamais** la terre de sécurité de votre installation électrique.
 :::
 
 :::vergelijk Comparaison

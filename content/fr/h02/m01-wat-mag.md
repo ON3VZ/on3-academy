@@ -32,7 +32,7 @@ Posez-vous la question : **est-ce une conversation en langage clair entre radioa
 
 ### Exemple détaillé
 « Vous êtes dans le train avec votre talkie-walkie et vous lancez un appel sur 145,500 MHz. Comment vous identifiez-vous, et avec quelle puissance maximale ? »
-1. Train = **mobile** : ON3XYZ/M.
+1. Un talkie-walkie est une station **portable**, même dans le train : ON3XYZ/P.
 2. Indicatif au début, à la fin et au moins toutes les 5 minutes.
 3. 145,500 MHz, c'est le 2 m : maximum **50 W** (un talkie-walkie émet généralement beaucoup moins).
 

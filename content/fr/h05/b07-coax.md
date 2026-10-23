@@ -5,7 +5,7 @@ kort: Coaxial et connecteurs
 titel: Le câble vers l'antenne : coaxial et connecteurs
 uba_ref: hfst. 5.3, p. 20
 checkvragen: [C-h05-7a, C-h05-7b, C-h05-7c]
-examenvragen: [O138, O139, O140, O141, O142, O143, O144, O145]
+examenvragen: [O138, O139, O140, O141, O142, O143, O145]
 ---
 :::kern
 L'émetteur est à l'intérieur, l'antenne à l'extérieur. Le câble entre les deux s'appelle la **ligne de transmission** (ou ligne d'alimentation). Elle doit amener la puissance à l'antenne avec **le moins de pertes possible** et ne doit **pas rayonner elle-même**. Pour cela, on utilise presque toujours du **câble coaxial** (en bref : du coaxial), parce qu'il est bien **blindé**.
@@ -35,7 +35,7 @@ Aux extrémités du coaxial, on met des **connecteurs** (fiches). Utilisez uniqu
 
 | Connecteur | Se reconnaît à | Usage |
 |---|---|---|
-| **PL259** | fiche épaisse avec une **bague à visser** et une broche au milieu. La partie châssis (SO239) est carrée avec quatre petits trous | HF, le plus utilisé dans la station (shack) |
+| **PL259** | fiche épaisse avec une **bague à visser** et une broche au milieu. La partie châssis s'appelle SO239 | HF, le plus utilisé dans la station (shack) |
 | **BNC** | plus petit, avec une **fixation à baïonnette** : pousser et tourner d'un quart de tour | appareils de mesure, portatifs |
 | **N** | plus grand, bague à visser, étanche | VHF et UHF, à l'extérieur |
 | **SMA / RP SMA** | très petit, avec un filetage | récepteurs SDR, portatifs |

@@ -21,14 +21,17 @@ En HF, on utilise presque toujours la **SSB** pour la voix : elle prend peu de p
 | **gain micro** (mic gain) | avec quelle force votre voix entre dans l'émetteur. **Pas trop haut** : sinon distorsion et perturbations |
 | **gain HF** (RF gain) | sensibilité du récepteur. Avec des signaux forts, le mettre **plus bas** : moins de bruit |
 | **volume** (AF gain) | puissance sonore |
-| **puissance HF** (power) | la puissance que vous émettez |
 
 ### S'accorder sur une station SSB, pas à pas
-1. Choisissez la **bande** et le bon **mode** : sous 10 MHz généralement **LSB**, au-dessus de 10 MHz **USB**.
+1. Choisissez la **bande** et le bon **mode** (LSB ou USB).
 2. Tournez **lentement** le bouton de fréquence.
 3. Si la voix sonne trop aiguë ou trop grave, corrigez très finement jusqu'à ce qu'elle sonne **naturelle**.
 4. Lisez le S-mètre. En SSB, l'aiguille bouge avec la voix : prenez la position la **plus haute** pour votre report.
 5. Si l'autre station est un peu à côté de vous et que vous ne voulez pas déplacer votre propre fréquence d'émission, utilisez le **RIT**.
+
+:::weetje Pratique, pas matière d'examen
+En pratique, on utilise généralement la **LSB** sous 10 MHz et l'**USB** au-dessus de 10 MHz.
+:::
 
 :::vergelijk Comparaison
 Une vieille radio avec un bouton rotatif : la voix ne sonne normalement qu'au bon endroit. Quelques millimètres à côté, et elle sonne comme un personnage de dessin animé.

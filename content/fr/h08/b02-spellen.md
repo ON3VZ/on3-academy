@@ -36,7 +36,7 @@ ON3XYZ = **Oscar November 3 X-ray Yankee Zulu**.
 :::
 
 :::weetje Orthographe
-Officiellement, on écrit **Zulu** et **Whiskey**. Dans le manuel et dans certaines questions d'examen, on trouve **Zoulou** (c'est ainsi qu'on le prononce) et **Whisky**. Il s'agit du même mot.
+Dans le manuel, on trouve **Zoulou** (prononciation « zou-lou »), et dans certaines questions d'examen **Whisky**. Ce sont les mêmes mots que **Zulu** et **Whiskey**.
 :::
 
 <details class="zelf" markdown="1"><summary>À vous : épelez ON4ABC.</summary>

@@ -8,7 +8,7 @@ checkvragen: [C-h11-1a, C-h11-1b]
 examenvragen: []
 ---
 :::kern
-Un **code Q** est une convention courte de **trois lettres**, qui commence toujours par **Q**. Il existe sous forme de question et sous forme de réponse. S'il est suivi d'un **point d'interrogation**, c'est une **question**. **Sans** point d'interrogation, c'est une **affirmation**.
+Un **code Q** est une convention courte de **trois lettres en règle générale**, qui commence toujours par **Q**. Il existe sous forme de question et sous forme de réponse. S'il est suivi d'un **point d'interrogation**, c'est une **question**. **Sans** point d'interrogation, c'est une **affirmation**.
 :::
 
 {{svg:h11-vraagmededeling|Le même code, deux sens : c'est le point d'interrogation qui décide.}}
@@ -25,7 +25,7 @@ Les abréviations de SMS que tout le monde connaît, comme « stp » ou « asap 
 
 :::valkuil
 - Avec **?** c'est une **question**, sans **?** une **affirmation**. N'oubliez pas cette différence.
-- Ce sont **trois** lettres et elles commencent toujours par **Q**.
+- Ce sont **en règle générale trois** lettres et elles commencent toujours par **Q**.
 :::
 
 <details class="zelf" markdown="1"><summary>À vous d'essayer : que signifie « QSY? »</summary>

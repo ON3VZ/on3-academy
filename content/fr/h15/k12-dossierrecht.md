@@ -26,7 +26,7 @@ Un droit de dossier est dû pour :
 |---|---|
 | examen (1) | **au moment de l'inscription** |
 | certificat, analyse de réseau (2, 3) | **anticipativement**, avant la délivrance ou l'analyse |
-| autorisation, droit d'utilisation, licence de détention (3, 4, 5) | **endéans les 30 jours** à compter de l'émission de la facture (d'avance s'il existe un risque de non-recouvrement en Belgique) |
+| analyse de réseau, autorisation, droit d'utilisation, licence de détention (3, 4, 5) ; l'AR cite le 3 dans les deux lignes | **endéans les 30 jours** à compter de l'émission de la facture (d'avance s'il existe un risque de non-recouvrement en Belgique) |
 
 ### Art. 35 : règles particulières
 | Règle | Conséquence |
@@ -47,7 +47,7 @@ Pour les autorisations relatives aux **stations de radiocommunications individue
 - les personnes auxquelles une **réduction d'autonomie de 12 points au moins** ou une **réduction de la capacité de gain à un tiers ou moins** a été reconnue, sur présentation d'un **certificat** de l'autorité compétente (ou d'une copie).
 
 :::impact
-- Vous prévoyez une **activation** la semaine prochaine et demandez une autorisation **3 jours ouvrables** à l'avance : **cinq fois** le droit de dossier. Et à moins de **2 jours ouvrables**, l'IBPT peut même **refuser** (art. 6/2).
+- Vous demandez une autorisation de station ordinaire **3 jours ouvrables** avant la date souhaitée : **cinq fois** le droit de dossier. S'il s'agit d'une autorisation **temporaire** (par exemple pour une activation), les délais sont de **5 et 2** jours ouvrables : 3 jours ouvrables donnent alors **le double**. Et à moins de **2 jours ouvrables**, l'IBPT peut même **refuser** (art. 6/2).
 - Vous **retirez** votre demande : le droit de dossier **n'est pas** remboursé.
 - Vous avez **plus de 65 ans** ou vous êtes **mineur** : pas de droit de dossier pour votre autorisation de station. La **redevance annuelle**, elle, reste due.
 :::

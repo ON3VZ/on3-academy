@@ -10,7 +10,7 @@ examenvragen: [E-h15-139, E-h15-140, E-h15-141, E-h15-142]
 ---
 <!-- actueel -->
 :::actueel
-**Amende de l'art. 145 § 1** : depuis le 18 août 2022, elle est de **50 à 100 000 euros** (et non plus 50 à 50 000). Le règlement d'examen de 2021 mentionne encore 50 000. Le **§ 3bis** est abrogé depuis le 1er septembre 2026. **AR art. 43** : la règle de la fin du mois n'existe plus (le minimum de trente jours reste).
+**Amende de l'art. 145 § 1** : depuis le 18 août 2022, elle est de **50 à 100 000 euros** (et non plus 50 à 50 000). Le règlement d'examen de 2021 mentionne encore 50 000. Le **§ 3bis** est abrogé depuis le 1er septembre 2026. **AR art. 42 et 43** : le manuel et l'AR actuel calculent par jour, avec un minimum de trente jours ; le texte français du règlement d'examen 2021 y compte encore par mois entamé. La règle de la fin du mois (art. 43) figure dans le manuel et dans le règlement d'examen de 2021, mais plus dans l'AR actuel.
 :::
 
 Beaucoup de questions de réglementation tournent autour d'**un seul nombre**. Les distracteurs sont alors d'autres nombres qui figurent aussi quelque part dans la loi. Cette carte les place tous côte à côte. Lisez-les par groupe, et regardez chaque fois le **mot qui les accompagne**.
@@ -21,7 +21,7 @@ Beaucoup de questions de réglementation tournent autour d'**un seul nombre**. L
 | **plus de 12 ans** | certificat d'opérateur et autorisation de 5e catégorie | AR 5/1 § 3, 17/1 § 3 |
 | **12 ans** | âge minimum pour participer à l'examen | AR 17/2 § 3 |
 | **plus de 18 ans** | autres autorisations (personnes physiques) | AR 5/1 § 3 |
-| **plus de 65 ans, mineurs** | exonération du droit de dossier, 5e catégorie | AR 36 |
+| **plus de 65 ans, mineurs** | exonération du droit de dossier pour l'autorisation d'une station individuelle de 5e catégorie (pas pour l'examen ni le certificat, pas pour la redevance annuelle) | AR 36 |
 
 ### Délais en jours
 | Nombre | De quoi s'agit-il ? | Article |
@@ -52,10 +52,10 @@ Beaucoup de questions de réglementation tournent autour d'**un seul nombre**. L
 |---|---|---|
 | **3000 GHz** | limite supérieure des ondes radioélectriques | loi 2, 31° |
 | **5e** | catégorie des radioamateurs | AR 4 |
-| **2** | mandataires titulaires de la **classe A** dans une association reconnue ou un radio-club | AR 17/4, 17/6 |
+| **au moins 2** | mandataires titulaires de la **classe A** dans une association reconnue ou un radio-club | AR 17/4, 17/6 |
 | **5 provinces** (ou **4 + Bruxelles**) | stations fixes d'une association reconnue | AR 17/4 |
-| **12 points** | réduction d'autonomie : examen **à domicile** et exonération du droit de dossier | AR 17/2, 36 |
-| **un tiers** | réduction de la capacité de gain : exonération du droit de dossier | AR 36 |
+| **12 points** | réduction d'autonomie : examen **à domicile** (17/2) et exonération du droit de dossier pour l'autorisation d'une station individuelle de 5e catégorie (36) | AR 17/2, 36 |
+| **un tiers** | réduction de la capacité de gain : exonération du droit de dossier pour l'autorisation d'une station individuelle de 5e catégorie | AR 36 |
 | **la moitié** | droit de dossier en cas de **modification** d'une autorisation | AR 35 |
 | **1er janvier 2019** | ancienne autorisation belge de 5e catégorie : droit au certificat | AR 17/1 |
 | **13 juin 2017** | anciens appareils, mis sur le marché avant cette date | loi 37 |
@@ -67,7 +67,7 @@ Beaucoup de questions de réglementation tournent autour d'**un seul nombre**. L
 | brouillage, équipements, signaux de détresse, écoute, vente | 50 à 50 000 EUR | |
 | **sans autorisation** (13/1) | **200 à 2 000 EUR** | **8 jours à 1 an** |
 | communications frauduleuses | 500 à 50 000 EUR | 1 à 4 ans |
-| importuner son correspondant | 50 à 300 EUR | 15 jours à 2 ans |
+| importuner son correspondant | 20 à 300 EUR | 15 jours à 2 ans |
 
 ### Comment étudier cette carte
 1. Cachez la colonne du milieu et dites pour chaque nombre de quoi il s'agit.

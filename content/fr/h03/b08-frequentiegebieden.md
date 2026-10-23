@@ -22,13 +22,13 @@ Le son et les ondes radio sont tous deux des oscillations, mais avec des fréque
 | UHF (ultra hautes fréquences) | 300 MHz | 3000 MHz |
 
 :::geheugensteun
-**3, 30, 300, 3000** : la HF commence à 3 MHz, et chaque bande suivante commence 10 fois plus haut. HF, VHF, UHF : chaque fois, une lettre s'ajoute **devant**, et la bande est plus haute.
+**3, 30, 300, 3000** : la HF commence à 3 MHz, et chaque bande suivante commence 10 fois plus haut. H = high, V = very high, U = ultra high : plus le mot est fort, plus la bande est haute.
 :::
 
 :::kern Qui peut utiliser quelle fréquence ?
-Le spectre est découpé en **morceaux par service** : radiodiffusion, aviation, navigation maritime, radioamateurs, etc. Ainsi, ils ne se gênent pas. Ce n'est pas par pays, ni en blocs fixes de 1 MHz.
+Le spectre est découpé en **morceaux par service** : radiodiffusion, aviation, navigation maritime, radioamateurs, etc. Ainsi, ils ne se gênent pas. Le manuel décrit une répartition par service, pas en blocs fixes de 1 MHz.
 :::
 
 :::valkuil
-La parole (300 Hz à 3 kHz) n'est qu'un **petit morceau** de ce que vous entendez (100 Hz à 15 kHz). Les radioamateurs n'émettent que la partie parole, car cela suffit pour comprendre. Ne confondez pas les deux gammes.
+La parole (300 Hz à 3 kHz) n'est qu'un **petit morceau** de ce que vous entendez (100 Hz à 15 kHz). Pour une parole compréhensible, 300 Hz à 3 kHz suffisent ; les sons plus aigus et plus graves servent surtout à la musique (manuel p. 12). Ne confondez pas les deux gammes.
 :::

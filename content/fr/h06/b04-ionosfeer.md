@@ -19,8 +19,7 @@ Haut au-dessus de la Terre, d'environ **70 à 400 km**, se trouvent des couches 
 | **ionosphère** | couches de gaz ionisé entre 70 et 400 km d'altitude |
 | **ionisé** | rendu électriquement chargé (ici par le rayonnement du soleil) |
 | **réflexion** | renvoi, rebond |
-| **bond** (hop) | un aller-retour entre la Terre et l'ionosphère. Après un bond, l'onde peut à nouveau rebondir sur la Terre et faire un bond suivant |
-| **troposphère** | la couche d'air la plus basse, où se passe la météo (jusqu'à environ 10 km). Ce n'est **pas** l'ionosphère |
+| **troposphère** | la couche d'air la plus basse, où se passe notre météo (manuel p. 27). Ce n'est **pas** l'ionosphère |
 
 :::vergelijk Comparaison
 Un caillou qui fait des ricochets sur l'eau. Il touche l'eau, rebondit et retombe plus loin. Une onde HF fait la même chose entre l'ionosphère et la Terre, et parcourt ainsi des milliers de kilomètres.
@@ -36,5 +35,5 @@ Un caillou qui fait des ricochets sur l'eau. Il touche l'eau, rebondit et retomb
 :::valkuil
 - Les liaisons à grande distance en HF passent par l'**ionosphère**. Pas par la troposphère, pas en vue directe et pas parce que l'onde se courbe le long de la surface terrestre.
 - L'ionosphère est du **gaz**, pas du métal, et ce n'est pas non plus le vide.
-- L'altitude est de **70 à 400 km**. De 5 à 15 km, c'est la troposphère (là où volent les avions).
+- L'altitude est de **70 à 400 km**. La troposphère, la couche d'air de la météo, se trouve beaucoup plus bas.
 :::

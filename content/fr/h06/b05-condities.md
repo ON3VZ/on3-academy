@@ -22,7 +22,7 @@ La qualité du renvoi par l'ionosphère dépend du **soleil**. C'est pourquoi le
 {{svg:h06-dagnacht|Le jour et la nuit, l'ionosphère se comporte différemment.}}
 
 - **Couche D** (la couche la plus basse) : n'existe **que le jour** et **absorbe les basses fréquences**. C'est pour cela que le jour, on ne va pas loin sur 160 m et 80 m.
-- **Couche F** (la couche la plus haute) : **renvoie** l'onde. Le jour, elle renvoie aussi les fréquences plus hautes (jusque vers 28 MHz quand les conditions sont bonnes). La nuit, elle est plus mince et les fréquences au-dessus d'environ 12 MHz la traversent sans plus.
+- **Couche F** (la couche extérieure) : **renvoie les fréquences plus hautes** vers la Terre. Le jour, à la lumière du soleil, elle se divise en deux couches épaisses et la plus haute fréquence utilisable (MUF) monte beaucoup, vers 28 MHz. Dans l'obscurité, elle n'est plus que faiblement présente et ne fonctionne plus pour les fréquences au-dessus d'environ 12 MHz (manuel p. 26).
 
 ### Le cycle des taches solaires
 {{svg:h06-zonnecyclus|Le nombre de taches solaires monte et descend, environ tous les 11 ans.}}
@@ -38,20 +38,20 @@ Le soleil connaît des périodes avec beaucoup et avec peu de **taches solaires*
 | Bande | Le jour | La nuit |
 |---|---|---|
 | 160 m | seulement à courte distance (la couche D absorbe) | loin |
-| 80 m | jusqu'à quelques centaines de km | loin |
+| 80 m | jusqu'à environ 500 km | loin |
 | 40 m et 30 m | quelques milliers de km | le mieux d'avant le coucher du soleil jusqu'après le lever du soleil |
 | 20 m | généralement ouverte, le jour et souvent aussi la nuit | |
-| 17 m et 15 m | dépend fortement des taches solaires | généralement fermée |
+| 17 m et 15 m | dépend fortement des taches solaires | au maximum jusque tard dans la nuit, au minimum généralement fermée |
 | 12 m et 10 m | dépend encore plus fortement des taches solaires | généralement fermée |
 :::
 
-:::weetje Hors matière d'examen : les chiffres des sites de propagation
+:::weetje Hors matière d'examen : les chiffres des sites de propagation (manuel p. 27)
 | Chiffre | Que mesure-t-il ? | Bon si |
 |---|---|---|
-| **SFI** (Solar Flux Index) | à quel point le soleil « charge » l'ionosphère | **élevé** |
-| **SSN** (nombre de taches solaires) | nombre de taches solaires | **élevé** |
-| **Indice K** (0 à 9) | agitation du champ magnétique terrestre, sur les 3 dernières heures | **bas** (1 ou 2). À partir de 4, les bandes sont mauvaises |
-| **Indice A** (0 à environ 150) | la même agitation, sur les dernières 24 heures | **bas** |
+| **SFI** (Solar Flux Index) | le degré d'ionisation de l'ionosphère | **élevé** |
+| **SSN** (Smoothed Sunspot Number, nombre de taches solaires) | nombre de taches solaires | **élevé** |
+| **Indice K** (0 à 9) | agitation du champ magnétique terrestre, sur les 3 dernières heures | **bas** (1 ou 2). Au-dessus de 4 : les bandes ne sont probablement pas vraiment ouvertes |
+| **Indice A** (0 à 150) | la même agitation, sur les dernières 24 heures | **bas** |
 
-Sur 6 m (50 MHz) et parfois plus haut, une **sporadique E** peut apparaître entre avril et août : soudain, une couche de l'ionosphère renvoie aussi la VHF et vous portez tout à coup à des centaines, voire des milliers de kilomètres.
+À partir de 50 MHz aussi, l'ionosphère joue souvent un rôle. D'avril à août inclus, une **sporadique E** peut apparaître : les signaux dans la bande des 6 m, parfois dans la bande des 4 m et très rarement dans la bande des 2 m sont alors renvoyés.
 :::

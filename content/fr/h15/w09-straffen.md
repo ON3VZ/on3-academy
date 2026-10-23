@@ -24,7 +24,7 @@ Le **§ 3bis** (importuner son correspondant) est **abrogé depuis le 1er septem
 | **1** | art. **15** (brouillage), **32, 33, 35** (équipements), **41** (signaux de détresse, écoute), **42** (vente, déclaration) et les arrêtés pris en exécution | **50 à 50 000 EUR** | |
 | **2** | art. **13/1** : détenir ou utiliser **sans autorisation** | **200 à 2 000 EUR** | **8 jours à 1 an** |
 | **3** | réaliser **frauduleusement** des communications électroniques pour se procurer ou procurer à autrui un **avantage illicite**, ou installer un appareil à cette fin | **500 à 50 000 EUR** | **1 à 4 ans** |
-| **3bis** | utiliser les communications électroniques pour **importuner son correspondant** ou provoquer des **dommages** | **50 à 300 EUR** | **15 jours à 2 ans** |
+| **3bis** | utiliser les communications électroniques pour **importuner son correspondant** ou provoquer des **dommages** | **20 à 300 EUR** | **15 jours à 2 ans** |
 | **3ter** | reprendre ou utiliser **avec une intention frauduleuse** des données de l'art. 126 connues à l'occasion de l'exercice de ses **fonctions** | **50 à 50 000 EUR** | **6 mois à 3 ans** |
 | **4** | appareils ne satisfaisant pas aux art. **32, 33, 35 et 37** | **confiscation : toujours** | |
 

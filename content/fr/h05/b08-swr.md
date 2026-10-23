@@ -23,7 +23,7 @@ De l'eau que vous versez avec un tuyau d'arrosage dans un seau. Si le seau est b
 | **1 : 1** (1/1) | parfait : rien ne revient |
 | **1,5 : 1 ou moins** | très bon : les émetteurs modernes délivrent toute leur puissance |
 | **jusqu'à 2 : 1** | encore acceptable en pratique (mesuré à la sortie de l'émetteur) |
-| plus de 2 : 1 | trop élevé : beaucoup d'émetteurs modernes réduisent eux-mêmes leur puissance pour éviter les dégâts |
+| plus de 2 : 1 | au-delà d'environ 1,5 : 1, beaucoup d'émetteurs modernes réduisent déjà automatiquement leur puissance ; au-delà de 2 : 1, le ROS est trop élevé en pratique |
 | **infini** | tout revient |
 
 ### Pourquoi un ROS élevé est-il mauvais ?

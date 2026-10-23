@@ -7,6 +7,9 @@ uba_ref: hfst. 4, p. 14 tot 16
 checkvragen: []
 examenvragen: []
 ---
+<p>Le manuel dit : la SSB est environ <b>6 fois plus efficace</b> que l'AM. 10 W en SSB sont reçus aussi fort que 60 W en AM. C'est ce que vous devez connaître. Si vous voulez savoir d'où vient ce facteur 6, vous trouverez le contexte ci-dessous.</p>
+
+:::gevorderd
 <h3>Étape par étape</h3>
 <ol class="steps">
 <li><span>Prenez un émetteur AM de <b>60 W</b>, modulé à fond (100 %).</span></li>
@@ -40,3 +43,4 @@ examenvragen: []
 <div class="formula"><div class="f">B<small>AM</small> = 2 × f<small>audio,max</small></div>
 <div class="f">B<small>SSB</small> ≈ f<small>audio,max</small></div>
 <div class="leg">Voix jusqu'à 3 kHz : l'AM fait 6 kHz de large, la SSB environ 3 kHz. La SSB prend donc la moitié de la place.</div></div>
+:::

@@ -9,7 +9,7 @@ checkvragen: [C-h15-b10a]
 examenvragen: [E-h15-078, E-h15-079, E-h15-080, E-h15-085, E-h15-086, E-h15-087]
 ---
 :::kern
-Vous transmettez **en langage clair** des informations au sujet de **recherches techniques** et de sujets s'y rapportant. Le **chiffrement** n'est permis que dans trois exceptions. Votre indicatif d'appel se donne **au début, à la fin** et **au moins une fois toutes les cinq minutes**.
+Vous transmettez **en langage clair** des informations au sujet de **recherches techniques** et de sujets s'y rapportant. Le **chiffrement** n'est permis que dans **deux** cas : pour la gestion d'une station automatique ou commandée à distance (après autorisation de l'IBPT) et en cas de crise, sur demande des autorités compétentes en matière de gestion de crise. Lors d'un exercice organisé par un service de secours belge, vous pouvez, avec l'accord préalable de l'IBPT, communiquer sur des sujets relatifs à cet exercice ; le chiffrement n'y est pas prévu. Votre indicatif d'appel se donne **au début, à la fin** et **au moins une fois toutes les cinq minutes**.
 :::
 
 ### Art. 17/7 : contenu des émissions

@@ -66,7 +66,7 @@
   },
   {
    "voor": "USB et LSB",
-   "achter": "Bande latérale supérieure et inférieure. USB : additionner, LSB : soustraire."
+   "achter": "USB : la bande latérale supérieure est conservée. LSB : la bande latérale inférieure est conservée."
   },
   {
    "voor": "Modulateur",

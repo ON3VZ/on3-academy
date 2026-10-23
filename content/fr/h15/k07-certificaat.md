@@ -45,7 +45,7 @@ Pour utiliser une station de la **4e, 5e ou 6e catégorie**, vous avez besoin d'
 | 2 | **fraude ou tentative de fraude** : examen **annulé**, **trois ans** sans pouvoir représenter aucun examen de l'IBPT, et **révocation de tous les certificats et de toutes les autorisations** basés sur cet examen |
 
 :::impact
-- Après l'examen, vous recevez d'abord l'**attestation de réussite**. Ensuite, vous demandez le **certificat d'opérateur** (droit de dossier) et, séparément, l'**autorisation de station**.
+- Après l'examen, vous recevez d'abord le **certificat d'aspirant radiotéléphoniste privé**. Votre premier **certificat d'opérateur** est déjà compris dans le droit de dossier de votre examen (AR annexe 1, art. 1). L'**autorisation de station**, vous la demandez séparément.
 - Vous déménagez ou vos données changent : signalez-le **immédiatement** et demandez un nouveau certificat. Sinon votre certificat est **réputé inexistant** : vous émettez alors en fait sans certificat.
 - Pour l'examen : **12 ans**. Un ingénieur ou un électricien n'obtient **aucune** dispense.
 :::

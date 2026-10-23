@@ -43,7 +43,7 @@ Nul ne peut, **dans le Royaume** ou **à bord d'un navire, d'un bateau, d'un aé
 
 :::impact
 - Même un émetteur **rangé dans une armoire** sans autorisation est déjà punissable.
-- Sanction : **200 à 2 000 euros** et/ou **8 jours à 1 an** d'emprisonnement (loi art. 145, § 2). C'est la seule infraction de cette liste punie d'**emprisonnement** pour les utilisateurs ordinaires.
+- Sanction : **200 à 2 000 euros** et/ou **8 jours à 1 an** d'emprisonnement (loi art. 145, § 2). En plus d'une amende, vous risquez ici aussi une **peine d'emprisonnement**.
 :::
 
 :::valkuil

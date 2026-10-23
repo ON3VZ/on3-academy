@@ -38,7 +38,7 @@ Si la porteuse est réduite ou supprimée en l'absence de modulation (par exempl
 ### Groupe 3 : types de fréquences
 | Point | Type | Formulation |
 |---|---|---|
-| 19° | **exclusive** | dans une zone déterminée, pour **un seul titulaire** (ou pour une forme spécifique de radiocommunications) |
+| 19° | **exclusive** | dans une zone déterminée, pour **un seul titulaire** (ou pour une ou plusieurs formes spécifiques de radiocommunications) |
 | 20° | **commune** | dans une **même zone** pour **plusieurs titulaires**, **en tenant compte de la densité d'occupation** |
 | 21° | **collective** | dans **n'importe quelle zone** pour **plusieurs titulaires**, **sans tenir compte de la densité d'occupation** |
 | 22° | **rayonnement non essentiel** | rayonnement **en dehors de la fréquence assignée**, dont le niveau **peut être réduit sans affecter la qualité** |

@@ -12,9 +12,8 @@ examenvragen: []
 <tr><td>30 MHz</td><td>limite entre HF et VHF</td></tr>
 <tr><td>70 à 400 km</td><td>altitude de l'ionosphère</td></tr>
 <tr><td>environ 11 ans</td><td>durée d'un cycle des taches solaires</td></tr>
-<tr><td>± 12 MHz</td><td>au-dessus, la nuit, l'onde traverse généralement la couche F</td></tr>
-<tr><td>± 28 MHz</td><td>le jour, par bonnes conditions, la plus haute fréquence utilisable</td></tr>
-<tr><td>50 MHz</td><td>à partir d'ici, rarement de réflexion dans l'ionosphère</td></tr>
+<tr><td>± 12 MHz</td><td>la nuit, la couche F est mince et ne fonctionne plus pour les fréquences au-dessus d'environ 12 MHz (manuel p. 26)</td></tr>
+<tr><td>± 28 MHz</td><td>le jour, la couche F se divise en deux couches épaisses : la plus haute fréquence utilisable (MUF) se situe alors vers 28 MHz (manuel p. 26)</td></tr>
 </table></div>
 <div class="tbl"><table>
 <tr><th>Situation</th><th>À retenir</th></tr>

@@ -16,7 +16,7 @@ examenvragen: []
 <tr><td>12,5 kHz</td><td>écart entre les canaux FM sur 2 m</td></tr>
 <tr><td>× 2</td><td>tension par point S en plus</td></tr>
 <tr><td>256</td><td>S9 a 256 × la tension de S1</td></tr>
-<tr><td>59</td><td>report : parfaitement lisible, S9</td></tr>
+<tr><td>59</td><td>report : bien lisible, S9</td></tr>
 <tr><td>1,5 : 1</td><td>ROS généralement suffisant</td></tr>
 </table></div>
 <div class="tbl"><table>

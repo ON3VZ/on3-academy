@@ -28,7 +28,7 @@ Une corde de guitare. Quand vous la pincez, elle donne toujours la même note. U
 {{svg:h05-resonantie|L'onde ne tient exactement sur l'antenne que si la longueur est la bonne.}}
 
 - La plage autour de la fréquence de résonance où les pertes restent faibles s'appelle la **bande passante** de l'antenne.
-- Si vous voulez émettre bien en dehors de cette bande passante, il vous faut un **réseau d'adaptation** (une boîte d'accord, voir plus loin) ou une antenne conçue spécialement pour cela.
+- Si vous voulez émettre bien en dehors de cette bande passante, il vous faut un **réseau d'adaptation** (une boîte d'accord, voir plus loin) ou vous utilisez une antenne non résonante.
 
 ### Pourquoi les antennes HF sont-elles si grandes et les antennes VHF si petites ?
 La longueur d'une antenne dépend de la **longueur d'onde**. Fréquence basse (HF, ondes courtes) = onde longue = grande antenne. Fréquence haute (VHF, UHF) = onde courte = petite antenne.

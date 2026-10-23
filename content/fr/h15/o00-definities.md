@@ -10,7 +10,7 @@ examenvragen: [E-h15-164, E-h15-165, E-h15-166, E-h15-167, E-h15-168, E-h15-169,
 ---
 <!-- actueel -->
 :::actueel
-Depuis le 10 janvier 2022, les définitions **32° (radiofréquences)** et **35° à 37° (appareil émetteur, appareil émetteur-récepteur, appareil récepteur)** de l'art. 2 sont abrogées. Elles sont remplacées par le **42° équipement hertzien**. Au 31°, « ou ondes hertziennes » a été supprimé, et au 34°, la liste d'exemples. Le règlement d'examen de 2021 utilise encore les définitions de cette page : apprenez-les pour l'examen.
+Depuis le 10 janvier 2022, les définitions **32° (radiofréquences)** et **35° à 37° (appareil émetteur, appareil émetteur-récepteur, appareil récepteur)** de l'art. 2 sont abrogées ; la loi utilise à leur place la notion d'**équipement hertzien** (42°, qui existe déjà depuis le 13 juin 2016). Les 31° (sans « ondes hertziennes »), 33° (« l'ensemble des ondes radioélectriques »), 33/1°, 34° (sans énumération, les services de médias sonores étant aussi exclus), 38°, 38/1° et 39° (aussi les services de médias sonores) ont également été réécrits. Le règlement d'examen de 2021 utilise encore les définitions de cette page : apprenez-les pour l'examen.
 :::
 
 À l'examen, vous recevez souvent une **description** et quatre notions, ou une **notion** et quatre descriptions qui se ressemblent fort. Vous trouvez ci-dessous **toutes les définitions** qui sont matière d'examen, dans l'ordre du texte. Le manuel le dit lui-même : seules ces définitions sont pertinentes pour les radioamateurs et doivent être connues. La loi et l'AR contiennent encore d'autres définitions, qui ne sont pas matière d'examen.

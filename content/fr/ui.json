@@ -149,5 +149,6 @@
  "oef_stop": "Arrêter",
  "oef_stop_ok": "Arrêter cette série ? Vos réponses ne compteront pas.",
  "oef_klaar": "Terminer la série",
- "oef_legende": "Vert : 80 % ou plus (réussi). Orange : 60 à 79 %. Rouge : moins de 60 %. Gris : pas encore entraîné."
+ "oef_legende": "Vert : 80 % ou plus (réussi). Orange : 60 à 79 %. Rouge : moins de 60 %. Gris : pas encore entraîné.",
+ "gevorderd": "★ Pour avancés : pas dans le manuel, ne compte pas dans l'examen blanc"
 }

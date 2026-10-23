@@ -25,8 +25,8 @@ examenvragen: []
 <div class="tbl"><table>
 <tr><th>Par où entre la perturbation ?</th><th>Solution</th></tr>
 <tr><td>réseau électrique</td><td>filtre secteur (adapté au 230 V !) ou tore de ferrite</td></tr>
-<tr><td>câble d'antenne télévision ou radio</td><td>filtre ou tore de ferrite</td></tr>
+<tr><td>câble d'antenne télévision ou radio</td><td>filtre</td></tr>
 <tr><td>câble de haut-parleur</td><td>tore de ferrite ou filtre</td></tr>
-<tr><td>câble de téléphone</td><td>filtre téléphonique ou tore de ferrite</td></tr>
+<tr><td>câble de téléphone</td><td>filtre téléphonique</td></tr>
 <tr><td>toujours</td><td>le plus près possible de l'appareil perturbé</td></tr>
 </table></div>

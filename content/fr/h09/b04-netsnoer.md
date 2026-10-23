@@ -33,6 +33,6 @@ Vous allez travailler **à l'intérieur** d'un appareil ? **Retirez d'abord la f
 - Laisser la fiche dans la prise « pour garder la terre » est extrêmement dangereux.
 :::
 
-:::weetje Anciennes couleurs
-Le manuel indique que les fils de tension du réseau sont le plus souvent rouges, noirs ou bruns. Le **rouge** est une **ancienne** couleur. Aujourd'hui, les fils de phase sont **bruns**, **noirs** ou **gris**, le neutre est **bleu** et la terre **jaune-vert**. Si vous trouvez d'autres couleurs dans un vieil appareil, faites-le contrôler.
+:::weetje Les couleurs du manuel
+Selon le manuel, les fils de tension du réseau sont le plus souvent **rouges**, **noirs** ou **bruns**, le neutre est **bleu** et la terre **jaune-vert**. Sur la figure du manuel, les fils de phase sont représentés en **noir**, **rouge** et **gris**.
 :::

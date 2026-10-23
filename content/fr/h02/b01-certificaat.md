@@ -17,7 +17,7 @@ Il existe deux documents différents. Le **certificat d'opérateur** dit que **v
 | vous l'obtenez | après un examen réussi | si vous avez déjà un certificat d'opérateur |
 | validité | **5 ans**, renouvelable | **une année civile**, renouvelable (chaque année) |
 | vous pouvez alors | émettre, aussi depuis une station de club ou la station d'un autre radioamateur | détenir et utiliser vous-même une station fixe, mobile et portable |
-| source légale | AR 18-12-2009, art. 17/1 | AR 18-12-2009, art. 17/5 |
+| source légale | AR 18-12-2009, art. 17/1 | demande : AR 18-12-2009, art. 17/5 ; validité : manuel de l'UBA p. 3 |
 
 ### De candidat à radioamateur
 {{svg:h02-traject|Le parcours en cinq étapes. Les détails se trouvent dans le chapitre Législation.}}

@@ -15,7 +15,7 @@ examenvragen: []
 |---|---|
 | **K** | à vous : vous pouvez répondre |
 | **KN** | à vous, mais **seule** la station nommée peut répondre |
-| **SK** | fin du contact, je cesse d'émettre |
+| **SK** | cesser d'émettre (de manière informelle aussi : silent key, un collègue décédé) |
 | **FB** | fine business : parfait, excellent |
 | **YL** | young lady : radioamatrice (femme radioamateur) |
 | **XYL** | l'épouse d'un radioamateur |

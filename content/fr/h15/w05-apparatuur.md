@@ -56,11 +56,11 @@ L'utilisateur des équipements hertziens les utilise **conformément aux informa
 :::
 
 ### Art. 37 : anciens appareils
-Autorisés s'ils satisfont à l'**AR du 26 septembre 2000**, ont été mis sur le marché **avant le 13 juin 2017** et satisfaisaient à l'ancienne version des art. 32 à 35. Selon le manuel, les très anciens appareils commerciaux (d'avant le marquage CE) doivent porter un **numéro d'agrément RTT ou IBPT**.
+Autorisés s'ils satisfont à l'**AR du 26 septembre 2000**, ont été mis sur le marché **avant le 13 juin 2017** et satisfaisaient aux art. 32, 34 et 35 dans leur version d'avant la loi du 18 décembre 2015. Selon le manuel, les très anciens appareils commerciaux (d'avant le marquage CE) doivent porter un **numéro d'agrément RTT ou IBPT**.
 
 :::impact
 - La classe **A** (HAREC = « l'autorisation la plus élevée ») peut **construire, modifier et utiliser des kits**.
-- Les classes **B et C** utilisent uniquement des équipements **commerciaux**, **non modifiés**, avec **marquage CE**, conformément au **mode d'emploi**.
+- Les classes **B et C** utilisent uniquement des équipements **commerciaux**, **non modifiés**, avec **marquage CE** (ou d'anciens appareils qui satisfont à l'art. 37), conformément au **mode d'emploi**.
 - Si vous utilisez des équipements qui ne satisfont pas aux art. 32, 33, 35 ou 37, ils sont, en cas de condamnation, **toujours confisqués** (art. 145, § 4).
 :::
 

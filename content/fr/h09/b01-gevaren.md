@@ -19,7 +19,7 @@ L'électricité présente deux grands dangers. Une **haute tension** peut faire 
 | **surchauffe et incendie** | courant **élevé** | les fils et les composants chauffent, l'isolant fond, incendie |
 
 ### Comment se produit une électrocution ?
-Vous touchez quelque chose qui est sous tension, alors que vous êtes vous-même **en contact avec la terre** (vous êtes debout sur le sol, vous touchez une canalisation). Le courant cherche le chemin le plus court vers la terre, et ce chemin passe alors **par vous**.
+Vous touchez quelque chose qui est sous tension, alors que vous êtes vous-même **en contact avec la terre** (vous êtes debout sur le sol, vous touchez une canalisation). Le courant s'écoule vers la terre par tout chemin conducteur, et si vous touchez cette terre, une partie de ce courant passe **par vous**.
 
 :::vergelijk Comparaison
 Pensez à de l'eau sous pression dans un tuyau (la tension) et à la quantité d'eau qui y circule (le courant). Une forte pression fait gicler l'eau par chaque fuite, et aussi à travers vous. Beaucoup d'eau dans un tuyau trop étroit le fait éclater (en électricité : il chauffe).

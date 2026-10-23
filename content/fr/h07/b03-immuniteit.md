@@ -8,14 +8,13 @@ checkvragen: [C-h07-3a, C-h07-3b, C-h07-3c]
 examenvragen: [O217, O218, O219, O220, O221]
 ---
 :::kern
-L'**immunité** est la capacité d'un appareil à **continuer à fonctionner normalement**, même quand il y a de fortes ondes radio dans le voisinage. Un appareil avec une mauvaise immunité peut être protégé avec des **filtres** ou des **selfs de choc** dans ses câbles. Placez-les **le plus près possible de l'appareil perturbé**.
+L'**immunité** est la capacité d'un appareil à **continuer à fonctionner normalement**, même quand il y a de fortes ondes radio dans le voisinage. Un appareil avec une mauvaise immunité peut être protégé avec des **filtres** dans ses câbles. Placez-les **le plus près possible de l'appareil perturbé**.
 :::
 
 | Mot | Signification |
 |---|---|
 | **immunité** | un appareil continue à bien fonctionner au milieu de fortes ondes radio |
 | **filtre** | laisse passer le signal normal et bloque la HF |
-| **self de choc** | une bobine (souvent un tore de ferrite) qui freine le courant HF sur un câble |
 
 ### Où placer un filtre ?
 Dans le câble par lequel la perturbation entre : le **cordon secteur**, le **câble de haut-parleur**, le **câble d'antenne** ou le **câble de téléphone**.

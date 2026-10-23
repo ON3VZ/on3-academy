@@ -21,8 +21,7 @@
   {"voor": "QRK", "achter": "Quelle est l'intelligibilité de mon signal ?"},
   {"voor": "QSA", "achter": "Quelle est la force de mon signal ?"},
   {"voor": "QSB", "achter": "Fading : votre signal faiblit puis revient."},
-  {"voor": "QRM", "achter": "Brouillage (en pratique par d'autres stations ou par l'activité humaine)."},
-  {"voor": "QRN", "achter": "Brouillage atmosphérique (absent du tableau du manuel)."},
+  {"voor": "QRM", "achter": "Êtes-vous brouillé ? Je suis brouillé."},
   {"voor": "QRO", "achter": "Augmentez la puissance d'émission."},
   {"voor": "QRP", "achter": "Diminuez la puissance d'émission."},
   {"voor": "QRL", "achter": "Êtes-vous occupé ? Je suis occupé."},
@@ -45,7 +44,7 @@
   {"voor": "44", "achter": "Salutation lors des activations flore et faune (WWFF) et POTA."},
   {"voor": "K", "achter": "À vous, vous pouvez répondre."},
   {"voor": "KN", "achter": "À vous, seulement la station nommée."},
-  {"voor": "SK", "achter": "Fin du contact. Aussi : silent key, un collègue décédé."},
+  {"voor": "SK", "achter": "Cesser d'émettre. De manière informelle : silent key, un collègue décédé."},
   {"voor": "FB", "achter": "Fine business : parfait."},
   {"voor": "YL", "achter": "Radioamatrice (femme radioamateur)."},
   {"voor": "XYL", "achter": "Épouse d'un radioamateur."},
@@ -53,12 +52,12 @@
   {"voor": "RST", "achter": "Readability, signal, tone : le report."}
  ],
  "samenvatting": [
-  "Code Q : trois lettres, commençant par Q. Avec ? c'est une question, sans ? une affirmation.",
+  "Code Q : en règle générale trois lettres, toujours en commençant par Q. Avec ? c'est une question, sans ? une affirmation.",
   "QRA nom, QTH position, QRB distance, QRG fréquence, QRH fréquence constante, QTR heure.",
   "QRK intelligibilité, QSA force, QSB fading, QRM brouillage, QRO plus de puissance, QRP moins de puissance.",
   "QRL occupé, QRZ qui appelle, QSL accuser réception, QSY autre fréquence, QRX attendre, QRT cesser, QRV prêt.",
   "73 amitiés, 88 affectueusement et bises, 44 salutation flore et faune et POTA.",
-  "K à vous, KN à vous pour une seule station, SK fin, FB parfait, YL radioamatrice, XYL épouse, OM collègue, RST report."
+  "K à vous, KN à vous pour une seule station, SK cesser d'émettre, FB parfait, YL radioamatrice, XYL épouse, OM collègue, RST report."
  ],
  "opmerking": "Ce chapitre contient des informations pratiques et pas de matière d'examen. Il n'y a pas de questions d'examen originales."
 }

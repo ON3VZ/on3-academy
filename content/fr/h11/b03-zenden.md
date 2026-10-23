@@ -20,9 +20,6 @@ Voici les codes qui disent **comment ça se passe** : **QRK** (intelligibilité)
 | **QRO** | Dois-je augmenter ma puissance d'émission ? | Augmentez votre puissance d'émission |
 | **QRP** | Dois-je diminuer la puissance d'émission ? | Diminuez la puissance d'émission |
 
-### QRM en pratique
-En pratique, **QRM** désigne un brouillage causé par **d'autres stations ou par l'activité humaine** (par exemple un appareil défectueux dans le voisinage). **QRN** est un brouillage causé par **l'atmosphère** (orage). QRN ne figure pas dans le tableau du manuel, mais vous l'entendrez souvent.
-
 ### QRP et QRO
 Un amateur expérimenté dit aussi « je travaille en **QRP** » pour **peu de puissance**, et « **QRO** » pour **beaucoup de puissance**. Retenez la paire : **QRO** = plus de puissance, **QRP** = moins de puissance.
 
@@ -33,7 +30,7 @@ Un amateur expérimenté dit aussi « je travaille en **QRP** » pour **peu de p
 :::valkuil
 - **QRK** concerne l'**intelligibilité**, **QSA** la **force**. Ne les confondez pas.
 - **QRO** = **plus** de puissance, **QRP** = **moins** de puissance.
-- **QRM** = brouillage par **d'autres** émetteurs ou par l'activité humaine, **QRN** = atmosphère.
+- **QRM** concerne le **brouillage**, **QSB** le **fading**. Ne les confondez pas.
 :::
 
 <details class="zelf" markdown="1"><summary>À vous d'essayer : votre signal faiblit sans cesse puis revient. Quel code est-ce ?</summary>

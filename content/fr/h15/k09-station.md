@@ -26,20 +26,22 @@ D'abord le **certificat d'opérateur**, ensuite l'**autorisation de station**. U
 | 1 | demande introduite par une **association reconnue de radioamateurs** ou par un **radio-club** constitué sous forme d'**ASBL** pour promouvoir la 5e catégorie. Dans les deux cas, **au moins deux mandataires** sont titulaires de la **classe A**. |
 | 2 | l'autorisation concerne une **station fixe**, y compris une station **commandée à distance** depuis le territoire belge et une station **sans opérateur** |
 | 3 | une station **sans opérateur** peut être utilisée **gratuitement** par **tout titulaire** d'un certificat d'opérateur de 5e catégorie. Les **normes techniques** d'accès sont publiées sur le site internet de l'IBPT et sont disponibles **gratuitement**. |
-| 4 | la **station fixe** peut être déplacée **pendant une semaine au maximum** pour un **concours** ou une **activité radioamateur collective**, après avoir **informé préalablement** l'IBPT par écrit. **Aucune adaptation** de l'autorisation n'est nécessaire. |
+| 4 | la **station fixe** peut être déplacée **pendant une semaine au maximum** pour un **concours** ou une **activité radioamateur collective**, après avoir **informé préalablement** l'IBPT **par écrit**. **Aucune adaptation** de l'autorisation n'est nécessaire. |
+
+À propos du § 4 : le texte français dit expressément « par écrit » ; le texte néerlandais du manuel ne le précise pas.
 
 ### Certificat d'opérateur ou autorisation de station ?
 | | Certificat d'opérateur | Autorisation de station |
 |---|---|---|
 | concerne | **vous** | votre **station** |
 | article | 17/1 | 17/5 |
-| validité | **5 ans**, renouvelable | **par année civile**, avec la **redevance annuelle** (art. 37, 41) |
+| validité | **5 ans**, renouvelable | **aucune durée de validité** fixée par l'AR ; tant que la station est en service, vous payez par année civile la **redevance annuelle** (art. 37, 41) |
 | indicatif d'appel | oui, par titulaire (art. 6/1) | |
 
 :::impact
 - Vous voulez installer un **relais** ou une **balise** : cela passe uniquement par un **radio-club** ou une **association reconnue**.
 - Vous voulez commander votre station de la maison **via internet** depuis votre maison de vacances en **France** : **pas** autorisé (uniquement depuis le territoire belge, et uniquement en classe A).
-- Un **field day** d'un radio-club qui dure **dix jours** : plus d'une semaine, donc une **adaptation** de l'autorisation est bien nécessaire.
+- Un **field day** d'un radio-club qui dure **dix jours** : plus d'une semaine, cela sort donc **de l'exception** du § 4.
 :::
 
 :::valkuil

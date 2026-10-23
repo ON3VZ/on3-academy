@@ -19,7 +19,7 @@ examenvragen: []
 </table></div>
 <div class="tbl"><table>
 <tr><th>Couleur</th><th>Fil</th></tr>
-<tr><td>brun (aussi noir ou gris)</td><td>phase</td></tr>
+<tr><td>brun (aussi rouge, noir ou gris)</td><td>phase</td></tr>
 <tr><td>bleu</td><td>neutre</td></tr>
 <tr><td>jaune-vert</td><td>terre</td></tr>
 </table></div>

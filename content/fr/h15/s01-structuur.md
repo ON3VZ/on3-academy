@@ -61,7 +61,7 @@ Pour chaque article, vous trouvez trois niveaux :
 | **Qu'est-ce que cela signifie pour vous ?** | l'**impact** dans la pratique |
 
 :::weetje
-La réglementation est **la même** pour les classes A, B et C. Ici, il faut surtout apprendre **par cœur**. La source est le chapitre 15 du manuel HAREC de l'UBA, que l'UBA publie toujours comme matière d'examen. Les textes officiels se trouvent sur ejustice.just.fgov.be.
+La réglementation est **la même** pour les classes A, B et C. Ici, il faut surtout apprendre **par cœur**. La source est le chapitre 15 du manuel de l'UBA (version de septembre 2021), qui rassemble les articles à connaître pour l'examen de l'IBPT. L'IBPT fixe la matière d'examen dans le règlement d'examen. Les textes officiels se trouvent sur ejustice.just.fgov.be.
 :::
 
 :::valkuil

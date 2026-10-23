@@ -19,7 +19,7 @@ La Belgique connaît **trois classes** de certificats d'opérateur : **C** (base
 | **B** | CEPT Novice | 12 | 100 W | non, uniquement des appareils du commerce, sans les modifier | dans un certain nombre de pays |
 | **A** | HAREC | 26 ou plus | 1500 W | **oui** | dans la plupart des pays |
 
-Source légale : AR 18-12-2009, art. 17/1 § 3.
+Classes : AR art. 17/1 § 3. Bandes, puissance et construction : manuel de l'UBA p. 3.
 
 ### Qu'est-ce que cela signifie pour vous en tant qu'ON3 ?
 - Vous pouvez quand même atteindre **le monde entier** : 8 bandes et 25 W suffisent avec une bonne antenne et de bonnes conditions.
@@ -32,5 +32,5 @@ Source légale : AR 18-12-2009, art. 17/1 § 3.
 :::
 
 :::weetje Anciens noms
-Autrefois, on parlait de la licence A, de la licence restreinte et de la licence de base. Dans la loi, ils s'appellent maintenant certificat d'opérateur de classe A, B et C. Dans les anciennes questions d'examen, vous rencontrez parfois encore les anciens noms.
+Dans d'anciennes questions d'examen, vous rencontrez encore d'anciens noms comme licence A et licence de base. Aujourd'hui, ils s'appellent certificat d'opérateur de classe A, B et C.
 :::

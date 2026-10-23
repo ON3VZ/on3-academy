@@ -49,7 +49,7 @@ Pensez à la **lumière** et à la **vue**.
 
 :::valkuil Deux mots qui se ressemblent
 - **ionosphère** : haute (70 à 400 km), gaz ionisé, renvoie la HF.
-- **troposphère** : basse (jusqu'à environ 10 km), c'est là que se trouve la météo. Joue parfois un rôle en VHF, jamais pour les liaisons HF ordinaires à grande distance.
+- **troposphère** : basse, c'est là que se passe notre météo. Joue parfois un rôle en VHF, jamais pour les liaisons HF ordinaires à grande distance.
 :::
 
 <details class="zelf" markdown="1"><summary>À vous d'essayer : vous voulez porter plus loin avec votre portatif 2 m. Que faites-vous d'abord ?</summary>

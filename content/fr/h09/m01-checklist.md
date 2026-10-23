@@ -37,7 +37,6 @@ Les questions de sécurité sont des points faciles, si vous retenez une seule c
 ### En cas d'accident
 1. **Couper la tension.**
 2. Ensuite seulement, toucher.
-3. Appeler le **112**.
 
 ### Comment reconnaître la bonne réponse à l'examen ?
 La bonne réponse est presque toujours la **plus prudente** : couper, mettre à la terre, protéger, ne pas travailler seul, ne pas toucher. Les réponses qui parlent de tradition, d'économie d'énergie, de couleur, de bruit, de vol ou de perturbations sont presque toujours fausses pour les questions de sécurité.

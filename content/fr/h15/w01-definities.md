@@ -15,7 +15,7 @@ L'article 2 de la loi contient les **définitions**. Onze d'entre elles sont imp
 
 <!-- actueel -->
 :::actueel
-Depuis le 10 janvier 2022, les définitions **32° (radiofréquences)** et **35° à 37° (appareil émetteur, appareil émetteur-récepteur, appareil récepteur)** de l'art. 2 sont abrogées. Elles sont remplacées par le **42° équipement hertzien**. Au 31°, « ou ondes hertziennes » a été supprimé, et au 34°, la liste d'exemples. Le règlement d'examen de 2021 utilise encore les définitions de cette page : apprenez-les pour l'examen.
+Depuis le 10 janvier 2022, les définitions **32° (radiofréquences)** et **35° à 37° (appareil émetteur, appareil émetteur-récepteur, appareil récepteur)** de l'art. 2 sont abrogées ; la loi utilise à leur place la notion d'**équipement hertzien** (42°, qui existe déjà depuis le 13 juin 2016). Les 31° (sans « ondes hertziennes »), 33° (« l'ensemble des ondes radioélectriques »), 33/1°, 34° (sans énumération, les services de médias sonores étant aussi exclus), 38°, 38/1° et 39° (aussi les services de médias sonores) ont également été réécrits. Le règlement d'examen de 2021 utilise encore les définitions de cette page : apprenez-les pour l'examen.
 :::
 Texte complet : [loi du 13 juin 2005 sur Justel](https://www.ejustice.just.fgov.be/cgi_loi/change_lg.pl?language=fr&la=F&cn=2005061332&table_name=loi). Ce résumé ne montre que les articles qui sont matière d'examen.
 
@@ -54,7 +54,7 @@ Il y a donc deux sortes de brouillage préjudiciable :
 :::impact
 - Un signal **dans un câble coaxial** n'est pas une onde radioélectrique : il y a un guide artificiel.
 - Votre **station** n'est pas seulement l'émetteur-récepteur : l'**antenne**, les câbles et l'alimentation en font aussi partie. Un **récepteur avec antenne** est déjà une station de radiocommunications.
-- La radiodiffusion (émissions de radio et de télévision) ne tombe **pas** sous la notion de « radiocommunication » dans cette loi.
+- La transmission exclusive de signaux de services de médias audiovisuels (télédiffusion) ne relève **pas** de la radiocommunication. Depuis 2022, les services de médias sonores (radiodiffusion sonore) sont aussi exclus.
 - La **source** d'un brouillage préjudiciable peut être un émetteur, mais aussi un appareil ménager. Selon le commentaire du manuel, la perturbation d'un **appareil (ménager) ordinaire par une station** (un système d'alarme, des haut-parleurs de PC) ne tombe **pas** sous cette définition. Cela reste toutefois un problème de CEM pour lequel l'IBPT peut intervenir (AR art. 51).
 :::
 

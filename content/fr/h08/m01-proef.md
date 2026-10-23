@@ -21,9 +21,9 @@ Selon le manuel, vous devez **pouvoir montrer** ou expliquer un certain nombre d
 ### Liste de contrôle HF (SSB)
 | Savez-vous le faire ? | Où est-ce expliqué ? |
 |---|---|
-| s'accorder sur un signal SSB et sur un signal morse | page appareil HF |
+| s'accorder sur un signal SSB | page appareil HF |
 | lire le S-mètre | pages appareil FM et appareil HF |
-| régler la fréquence, le RIT, le volume, le gain HF, le gain micro et la puissance HF | page appareil HF |
+| régler la fréquence, le RIT, le volume, le gain HF et le gain micro | page appareil HF |
 | utiliser la boîte d'accord | page appareil HF |
 | établir une liaison et donner un report | pages QSO et appareil FM |
 

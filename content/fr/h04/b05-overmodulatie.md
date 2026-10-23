@@ -16,9 +16,11 @@ examenvragen: [O115, O116, O117, O118, O119, O120]
 </table></div>
 
 <div class="card kern"><b class="k">L'essentiel</b>
-La cause est toujours un <b>signal audio ou de données trop fort</b>, donc le plus souvent un <b>amplificateur de microphone</b> réglé trop haut. Ce n'est pas l'antenne, ni le générateur de fréquence, ni l'amplificateur de puissance RF. L'émetteur n'est pas endommagé non plus : le problème, ce sont les perturbations pour les autres.
+La cause est toujours un <b>signal audio ou de données trop fort</b>, donc le plus souvent un <b>amplificateur de microphone</b> réglé trop haut. Ce n'est pas l'antenne, ni le générateur de fréquence, ni l'amplificateur de puissance RF.
 </div>
 
+:::gevorderd
+<p>L'émetteur n'est pas endommagé non plus : le problème, ce sont les perturbations pour les autres.</p>
 <h3>Voici comment bien régler (SSB)</h3>
 <ol class="steps">
 <li><span>Réglez d'abord le bouton <b>MIC GAIN</b> (gain du microphone) au minimum. Sur beaucoup d'appareils, c'est un bouton en façade ; sur d'autres, il se trouve dans le menu.</span></li>
@@ -28,3 +30,4 @@ La cause est toujours un <b>signal audio ou de données trop fort</b>, donc le p
 <li><span>Demandez à une station correspondante un rapport honnête sur votre modulation, ou écoutez-vous vous-même avec un deuxième récepteur.</span></li>
 </ol>
 <div class="card"><span class="extra-tag" style="color:var(--red);border-color:var(--red)">à vérifier</span>Le nom des boutons et la zone ALC diffèrent selon la marque. Consultez le mode d'emploi de votre propre appareil.</div>
+:::

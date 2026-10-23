@@ -33,7 +33,7 @@ Un récepteur fait l'inverse d'un émetteur. L'antenne capte les ondes radio, le
 Vous êtes à une fête bruyante et vous voulez comprendre un ami. D'abord, vous concentrez votre attention sur lui et vous ignorez le reste : c'est **l'accord**. Ensuite, vous extrayez ses mots du brouhaha : c'est **la démodulation**. Si votre voisin n'entend pas bien, vous répétez plus fort : c'est **l'amplification audio**.
 :::
 
-{{svg:zender-ontvanger|Le démodulateur fait l'inverse du modulateur.}}
+{{svg:zender-ontvanger|Simplifié : le générateur de fréquence, le microphone et la ligne de transmission de l'émetteur sont omis. Le schéma complet de l'émetteur se trouve dans « L'émetteur ». Le démodulateur fait l'inverse du modulateur.}}
 
 :::valkuil
 L'accord se fait **à l'avant** (étage d'entrée), pas dans le démodulateur ni dans l'amplificateur audio. Et l'antenne est reliée **uniquement** à la ligne de transmission, jamais directement à un autre bloc.

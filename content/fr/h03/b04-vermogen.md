@@ -22,7 +22,7 @@ P = puissance en watts (W) · U = tension en volts (V) · I = courant en ampère
 {{svg:h03-driehoek-p|Le même truc du doigt, cette fois avec P en haut.}}
 
 :::vergelijk Comparaison avec l'eau
-Un tuyau d'arrosage avec beaucoup de pression (la tension) et beaucoup d'eau par seconde (le courant) peut fournir beaucoup de travail : faire tourner une roue, laver une voiture. La pression multipliée par la quantité, c'est ce qui est « fourni » : la puissance.
+Un tuyau d'arrosage avec beaucoup de pression (la tension) et beaucoup d'eau par seconde (le courant) peut fournir beaucoup de travail : faire tourner une roue, laver une voiture. La pression multipliée par la quantité d'eau par seconde, c'est la puissance.
 :::
 
 ### Exemple résolu 1

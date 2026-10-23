@@ -19,8 +19,8 @@ Chaque appareil branché sur le réseau électrique (230 V) doit être relié à
 ### Deux sortes de mise à la terre (pas de matière d'examen en détail)
 | Sorte | De quoi s'agit-il ? |
 |---|---|
-| terre du réseau électrique | le fil jaune-vert dans vos prises de courant |
-| **terre de protection** | un piquet métallique enfoncé profondément dans le sol (électrode de terre) ou un conducteur autour du bâtiment (boucle de terre) |
+| terre du réseau électrique (mise à la terre d'exploitation) | la mise à la terre du réseau électrique lui-même, chez le gestionnaire de réseau |
+| **terre de protection** | un piquet métallique enfoncé profondément dans le sol (électrode de terre) ou un conducteur autour du bâtiment (boucle de terre). Le fil jaune-vert de vos prises de courant y est raccordé. |
 
 Vous voulez en savoir plus sur votre propre mise à la terre ? Renseignez-vous auprès du gestionnaire de réseau ou d'un électricien agréé.
 

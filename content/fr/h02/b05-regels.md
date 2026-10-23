@@ -35,7 +35,7 @@ Avec un permis B, vous ne pouvez pas conduire le camion d'un ami, même s'il a l
 :::
 
 :::valkuil
-- Les émissions sans valeur technique ou sur des sujets personnels ne sont **pas** interdites. Ce qui est interdit : la radiodiffusion, la musique, les codes secrets, les faux messages de détresse.
+- À l'examen, les émissions sans valeur technique ou sur des sujets personnels ne sont **pas** considérées comme interdites. Ce qui est interdit : la radiodiffusion, la musique, les codes secrets, les faux messages de détresse.
 - Les vrais **messages de détresse** ne sont pas interdits, seulement les messages **faux** ou trompeurs.
 - Vous ne pouvez pas non plus émettre un code secret si vous le notez dans votre carnet de trafic ou si vous le répétez ensuite en clair.
 :::

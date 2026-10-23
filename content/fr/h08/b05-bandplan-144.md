@@ -38,7 +38,7 @@ Les canaux FM sont espacés de **12,5 kHz**.
 2. Ils se suivent : de 144 990 à 145 800 kHz.
 3. La réponse qui décrit le mieux ce segment : **145 000 à 145 800 kHz**.
 4. 144 000 à 146 000 est faux (il y a aussi la CW, la SSB et les satellites), 145 000 à 146 000 aussi (satellites).
-5. Attention : 145 000 à 145 500 se trouve aussi entièrement dans le segment FM, mais ce n'en est qu'une partie. La question demande la plage FM **complète**, vous choisissez donc la réponse correcte la plus large.
+5. Attention : 145 000 à 145 500 se trouve aussi entièrement dans le segment FM, donc cette option n'est, à strictement parler, pas fausse. La clé officielle choisit la plage la plus large qui est entièrement en FM : **145 000 à 145 800**. Choisissez celle-là à l'examen.
 
 :::valkuil
 - 145,700 MHz est une **sortie** de relais : vous n'émettez pas là.
