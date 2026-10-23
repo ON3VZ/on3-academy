@@ -22,13 +22,13 @@ Geluid en radiogolven zijn allebei trillingen, maar met heel andere frequenties.
 | UHF (ultra hoge frequenties) | 300 MHz | 3000 MHz |
 
 :::geheugensteun
-**3, 30, 300, 3000**: HF begint bij 3 MHz, en elke volgende band begint 10 keer hoger. HF, VHF, UHF: er komt telkens een letter **voor**, en de band ligt hoger.
+**3, 30, 300, 3000**: HF begint bij 3 MHz, en elke volgende band begint 10 keer hoger. H = high, V = very high, U = ultra high: hoe sterker het woord, hoe hoger de band.
 :::
 
 :::kern Wie mag welke frequentie gebruiken?
-Het spectrum is verdeeld in **stukken per dienst**: omroep, luchtvaart, scheepvaart, radioamateurs, enzovoort. Zo storen ze elkaar niet. Niet per land en niet in vaste blokjes van 1 MHz.
+Het spectrum is verdeeld in **stukken per dienst**: omroep, luchtvaart, scheepvaart, radioamateurs, enzovoort. Zo storen ze elkaar niet. Het handboek beschrijft een verdeling per dienst, niet in vaste blokjes van 1 MHz.
 :::
 
 :::valkuil
-Spraak (300 Hz tot 3 kHz) is een **klein stukje** van wat je hoort (100 Hz tot 15 kHz). Radioamateurs zenden alleen het spraakstuk uit, want dat volstaat om te verstaan. Verwar de twee bereiken niet.
+Spraak (300 Hz tot 3 kHz) is een **klein stukje** van wat je hoort (100 Hz tot 15 kHz). Voor verstaanbare spraak volstaat 300 Hz tot 3 kHz; hogere en lagere tonen dienen vooral voor muziek (handboek p. 12). Verwar de twee bereiken niet.
 :::

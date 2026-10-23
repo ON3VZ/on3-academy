@@ -14,12 +14,11 @@ Een **RF-aarding** (HF-aarding) is een **aparte, korte** verbinding van je stati
 {{svg:h07-aarding|Met een eigen RF-aarding hoeft de HF-stroom niet langs het stopcontact.}}
 
 ### Hoe ziet een goede RF-aarding eruit?
-1. Een **aardpen** (metalen staaf) in de grond, zo dicht mogelijk bij de shack.
-2. Een **korte en dikke** draad of vlakke koperen band van het station naar die pen. Hoe korter, hoe beter.
-3. Alle toestellen in de shack zijn met elkaar en met die draad verbonden.
+1. Een **aparte** aardingsleiding, los van de aarding van het lichtnet.
+2. Een **korte en dikke** draad die de **kortste weg** naar de aarde vormt. Zo is de weerstand zo klein mogelijk (handboek p. 30).
 
 :::valkuil Veiligheid
-Een RF-aarding **vervangt nooit** de veiligheidsaarding van je elektrische installatie. Laat elke verbinding met de aarding van het huis over aan een erkend elektricien, want de installatie moet in orde blijven met de regels voor elektrische installaties (AREI).
+Een RF-aarding **vervangt nooit** de veiligheidsaarding van je elektrische installatie.
 :::
 
 :::vergelijk Vergelijk met

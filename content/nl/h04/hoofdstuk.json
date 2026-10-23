@@ -66,7 +66,7 @@
   },
   {
    "voor": "USB en LSB",
-   "achter": "Bovenste en onderste zijband. USB: optellen, LSB: aftrekken."
+   "achter": "USB: de bovenste zijband blijft over. LSB: de onderste zijband blijft over."
   },
   {
    "voor": "Modulator",

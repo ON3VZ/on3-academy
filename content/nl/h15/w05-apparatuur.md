@@ -56,11 +56,11 @@ De gebruiker van radioapparatuur gebruikt die **overeenkomstig de informatie** d
 :::
 
 ### Art. 37: oude toestellen
-Toegestaan als ze voldoen aan het **KB van 26 september 2000**, **vóór 13 juni 2017** in de handel kwamen en aan de oude versie van art. 32 tot 35 voldeden. Volgens het handboek moeten heel oude commerciële toestellen (van vóór de CE-markering) een **RTT- of BIPT-typekeuringsnummer** dragen.
+Toegestaan als ze voldoen aan het **KB van 26 september 2000**, **vóór 13 juni 2017** in de handel kwamen en aan de versie van art. 32, 34 en 35 van vóór de wet van 18 december 2015 voldeden. Volgens het handboek moeten heel oude commerciële toestellen (van vóór de CE-markering) een **RTT- of BIPT-typekeuringsnummer** dragen.
 
 :::impact
 - Klasse **A** (HAREC = "de hoogste vergunning") mag **bouwen, ombouwen en bouwpakketten** gebruiken.
-- Klasse **B en C** gebruiken enkel **commerciële**, **niet gewijzigde** apparatuur met **CE-markering**, volgens de **handleiding**.
+- Klasse **B en C** gebruiken enkel **commerciële**, **niet gewijzigde** apparatuur met **CE-markering** (of oude toestellen die aan art. 37 voldoen), volgens de **handleiding**.
 - Gebruik je apparatuur die niet aan art. 32, 33, 35 of 37 voldoet, dan wordt ze bij een veroordeling **altijd verbeurd verklaard** (art. 145, § 4).
 :::
 

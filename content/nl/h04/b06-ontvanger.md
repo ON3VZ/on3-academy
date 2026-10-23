@@ -33,7 +33,7 @@ Een ontvanger doet het omgekeerde van een zender. De antenne vangt radiogolven o
 Je staat op een druk feest en wilt één vriend verstaan. Eerst richt je je aandacht op hem en negeer je de rest: dat is **afstemmen**. Dan haal je de woorden uit het geroezemoes: dat is **demoduleren**. Hoort je buur het niet goed, dan herhaal je het luider: dat is **audioversterking**.
 :::
 
-{{svg:zender-ontvanger|De demodulator doet het omgekeerde van de modulator.}}
+{{svg:zender-ontvanger|Vereenvoudigd: de frequentiegenerator, de microfoon en de transmissielijn van de zender zijn weggelaten. Het volledige blokschema van de zender staat bij "De zender". De demodulator doet het omgekeerde van de modulator.}}
 
 :::valkuil
 Afstemmen gebeurt **vooraan** (ingangstrap), niet in de demodulator en niet in de audioversterker. En de antenne hangt **enkel** aan de transmissielijn, nooit rechtstreeks aan een ander blok.

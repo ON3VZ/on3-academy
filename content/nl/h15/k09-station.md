@@ -26,20 +26,22 @@ Eerst het **certificaat**, dan de **stationsvergunning**. Eén vergunning voor e
 | 1 | aanvraag door een **erkende radioamateurvereniging** of een **radioclub** opgericht als **vzw** die de 5e categorie bevordert. In beide gevallen **ten minste twee gevolmachtigden** met **klasse A**. |
 | 2 | de vergunning gaat over een **vast station**, ook een **remote** station vanop Belgisch grondgebied en een **onbemand** station |
 | 3 | een **onbemand** station mag **gratis** gebruikt worden door **elke houder** van een certificaat van de 5e categorie. De **technische normen** voor de toegang staan op de website van het BIPT en zijn **gratis** beschikbaar. |
-| 4 | het **vaste station** mag **maximaal een week** verplaatst worden voor een **wedstrijd** of **collectieve activiteit**, na het BIPT **vooraf te hebben ingelicht**. **Geen aanpassing** van de vergunning nodig. |
+| 4 | het **vaste station** mag **maximaal een week** verplaatst worden voor een **wedstrijd** of **collectieve activiteit**, na het BIPT **vooraf (schriftelijk) te hebben ingelicht**. **Geen aanpassing** van de vergunning nodig. |
+
+Over § 4: de Franse tekst zegt uitdrukkelijk schriftelijk (par écrit); de tekst in het handboek niet.
 
 ### Bedieningscertificaat of stationsvergunning?
 | | Bedieningscertificaat | Stationsvergunning |
 |---|---|---|
 | gaat over | **jou** | je **station** |
 | artikel | 17/1 | 17/5 |
-| geldig | **5 jaar**, verlengbaar | **per kalenderjaar**, met het **jaarlijks recht** (art. 37, 41) |
+| geldig | **5 jaar**, verlengbaar | **geen geldigheidsduur** vastgelegd in het KB; zolang het station in dienst is, betaal je per kalenderjaar het **jaarlijks recht** (art. 37, 41) |
 | roepnaam | ja, per houder (art. 6/1) | |
 
 :::impact
 - Je wilt een **repeater** of **baken** plaatsen: dat gaat enkel via een **club** of een **erkende vereniging**.
 - Je wilt je station thuis **via internet** bedienen vanuit je vakantiehuis in **Frankrijk**: **niet** toegelaten (enkel vanop Belgisch grondgebied, en enkel klasse A).
-- Een **velddag** van een club die **tien dagen** duurt: langer dan een week, dus wel een **aanpassing** van de vergunning nodig.
+- Een **velddag** van een club die **tien dagen** duurt: langer dan een week, dus dat valt **buiten de uitzondering** van § 4.
 :::
 
 :::valkuil

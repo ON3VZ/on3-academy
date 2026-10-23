@@ -31,7 +31,7 @@ Een ladder tegen je huis zetten om de dakgoot te kuisen. Je doet dat niet alleen
 :::valkuil
 - Rondslingerende draden zijn gevaarlijk door **struikelen** en **beschadigde isolatie**. Niet door storing, diefstal of het stralingsdiagram.
 - Bij het monteren gaat het om **veiligheid**: stevig vast en ver van elektriciteitslijnen. Kleur, geluid of stedenbouw zijn hier niet de vraag.
-- Je hoeft het BIPT niet te verwittigen en geen toelating te vragen om een antenne op te zetten (voor de veiligheid). Wel moet er **een volwassene** bij zijn.
+- Het BIPT verwittigen of een toelating vragen is hier niet de vraag: het gaat om veiligheid tijdens het opzetten, en dan moet er **minstens één volwassene** bij zijn.
 - Alleen werken "zodat vallende voorwerpen niemand raken" is fout: je hebt net hulp nodig.
 - Een antenne opzetten op een dag met veel wind: gevaarlijk.
 - Bij een antenne op 30 m hoogte is de vraag: **bliksembeveiliging**.

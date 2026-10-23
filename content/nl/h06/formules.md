@@ -12,9 +12,8 @@ examenvragen: []
 <tr><td>30 MHz</td><td>grens tussen HF en VHF</td></tr>
 <tr><td>70 tot 400 km</td><td>hoogte van de ionosfeer</td></tr>
 <tr><td>ongeveer 11 jaar</td><td>duur van een zonnevlekkencyclus</td></tr>
-<tr><td>± 12 MHz</td><td>daarboven gaat de golf 's nachts meestal door de F-laag</td></tr>
-<tr><td>± 28 MHz</td><td>overdag bij goede condities de hoogste bruikbare frequentie</td></tr>
-<tr><td>50 MHz</td><td>vanaf hier zelden reflectie in de ionosfeer</td></tr>
+<tr><td>± 12 MHz</td><td>'s nachts is de F-laag dun en laat ze frequenties boven ongeveer 12 MHz afweten (handboek p. 26)</td></tr>
+<tr><td>± 28 MHz</td><td>overdag splitst de F-laag zich in twee dikke lagen: de hoogste bruikbare frequentie (MUF) ligt dan rond 28 MHz (handboek p. 26)</td></tr>
 </table></div>
 <div class="tbl"><table>
 <tr><th>Situatie</th><th>Onthoud</th></tr>

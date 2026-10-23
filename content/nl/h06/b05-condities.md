@@ -22,7 +22,7 @@ Hoe goed de ionosfeer terugkaatst, hangt af van de **zon**. Daarom verschillen d
 {{svg:h06-dagnacht|Overdag en 's nachts gedraagt de ionosfeer zich anders.}}
 
 - **D-laag** (de onderste laag): bestaat **alleen overdag** en **slokt lage frequenties op**. Daarom kom je overdag op 160 m en 80 m niet ver.
-- **F-laag** (de bovenste laag): **kaatst terug**. Overdag ook de hogere frequenties (tot rond 28 MHz bij goede condities). 's Nachts is ze dunner en gaan frequenties boven ongeveer 12 MHz er gewoon door.
+- **F-laag** (de buitenste laag): **buigt de hogere frequenties terug** naar de aarde. Overdag, in het zonlicht, splitst ze zich in twee dikke lagen en ligt de hoogste bruikbare frequentie (MUF) veel hoger, rond 28 MHz. In het donker is ze nog maar dun aanwezig en laat ze frequenties boven ongeveer 12 MHz afweten (handboek p. 26).
 
 ### De zonnevlekkencyclus
 {{svg:h06-zonnecyclus|Het aantal zonnevlekken gaat op en neer, ongeveer elke 11 jaar.}}
@@ -38,20 +38,20 @@ De zon heeft periodes met veel en met weinig **zonnevlekken** (donkere vlekken o
 | Band | Overdag | 's Nachts |
 |---|---|---|
 | 160 m | enkel dichtbij (D-laag slokt op) | ver |
-| 80 m | tot een paar honderd km | ver |
+| 80 m | tot ongeveer 500 km | ver |
 | 40 m en 30 m | een paar duizend km | het best van voor zonsondergang tot na zonsopgang |
 | 20 m | meestal open, dag en vaak ook nacht | |
-| 17 m en 15 m | sterk afhankelijk van de zonnevlekken | meestal dicht |
+| 17 m en 15 m | sterk afhankelijk van de zonnevlekken | bij maximum tot laat in de nacht, bij minimum meestal dicht |
 | 12 m en 10 m | nog sterker afhankelijk van de zonnevlekken | meestal dicht |
 :::
 
-:::weetje Geen examenstof: de getallen op propagatiesites
+:::weetje Geen examenstof: de getallen op propagatiesites (handboek p. 27)
 | Getal | Wat meet het? | Goed als |
 |---|---|---|
-| **SFI** (Solar Flux Index) | hoeveel de zon de ionosfeer laadt | **hoog** |
-| **SSN** (zonnevlekkengetal) | aantal zonnevlekken | **hoog** |
-| **K-index** (0 tot 9) | onrust in het magnetisch veld van de aarde, laatste 3 uur | **laag** (1 of 2). Vanaf 4 zijn de banden slecht |
-| **A-index** (0 tot ongeveer 150) | dezelfde onrust, over de laatste 24 uur | **laag** |
+| **SFI** (Solar Flux Index) | hoe sterk de ionosfeer geïoniseerd is | **hoog** |
+| **SSN** (Smoothed Sunspot Number, zonnevlekkengetal) | aantal zonnevlekken | **hoog** |
+| **K-index** (0 tot 9) | onrust in het magnetisch veld van de aarde, laatste 3 uur | **laag** (1 of 2). Hoger dan 4: de banden zijn waarschijnlijk niet echt open |
+| **A-index** (0 tot 150) | dezelfde onrust, over de laatste 24 uur | **laag** |
 
-Op 6 m (50 MHz) en soms hoger kan tussen april en augustus **sporadische E** optreden: plots kaatst een laag in de ionosfeer ook VHF terug en kom je ineens honderden tot duizenden kilometer ver.
+Ook op 50 MHz en hoger speelt de ionosfeer vaak mee. Van april tot en met augustus kan **sporadische E** optreden: signalen in de 6 m-band, soms in de 4 m-band en heel soms in de 2 m-band worden dan teruggekaatst.
 :::

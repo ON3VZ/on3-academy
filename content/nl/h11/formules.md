@@ -47,7 +47,7 @@ examenvragen: []
 <tr><th>Afkorting</th><th>Betekenis</th></tr>
 <tr><td>K</td><td>over</td></tr>
 <tr><td>KN</td><td>over, enkel het genoemde station</td></tr>
-<tr><td>SK</td><td>einde van het contact (ook: silent key)</td></tr>
+<tr><td>SK</td><td>stoppen met zenden (informeel: silent key)</td></tr>
 <tr><td>FB</td><td>fine business, prima</td></tr>
 <tr><td>YL</td><td>vrouwelijke zendamateur</td></tr>
 <tr><td>XYL</td><td>echtgenote van een zendamateur</td></tr>

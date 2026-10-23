@@ -15,7 +15,7 @@ Naast Q-codes gebruik je **gewone afkortingen**, meestal uit het Engels: **K**, 
 |---|---|
 | **K** | over: je mag antwoorden |
 | **KN** | over, maar **enkel** het genoemde station mag antwoorden |
-| **SK** | einde van het contact, ik stop met zenden |
+| **SK** | stoppen met zenden (informeel ook: silent key, een overleden collega) |
 | **FB** | fine business: prima, uitstekend |
 | **YL** | young lady: vrouwelijke zendamateur |
 | **XYL** | de echtgenote van een zendamateur |

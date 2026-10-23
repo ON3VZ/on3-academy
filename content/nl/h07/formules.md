@@ -25,8 +25,8 @@ examenvragen: []
 <div class="tbl"><table>
 <tr><th>Waarlangs komt storing binnen?</th><th>Oplossing</th></tr>
 <tr><td>elektriciteitsnet</td><td>netfilter (geschikt voor 230 V!) of ferrietring</td></tr>
-<tr><td>antennekabel tv of radio</td><td>filter of ferrietring</td></tr>
+<tr><td>antennekabel tv of radio</td><td>filter</td></tr>
 <tr><td>luidsprekerkabel</td><td>ferrietring of filter</td></tr>
-<tr><td>telefoonkabel</td><td>telefoonfilter of ferrietring</td></tr>
+<tr><td>telefoonkabel</td><td>telefoonfilter</td></tr>
 <tr><td>altijd</td><td>zo dicht mogelijk bij het gestoorde toestel</td></tr>
 </table></div>

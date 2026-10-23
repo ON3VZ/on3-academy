@@ -23,7 +23,7 @@ Water dat je door een tuinslang in een emmer giet. Is de emmer goed onder de sla
 | **1 : 1** (1/1) | perfect: er komt niets terug |
 | **1,5 : 1 of lager** | zeer goed: moderne zenders geven hun volle vermogen |
 | **tot 2 : 1** | in de praktijk nog aanvaardbaar (gemeten aan de uitgang van de zender) |
-| hoger dan 2 : 1 | te hoog: veel moderne zenders regelen hun vermogen zelf terug om schade te vermijden |
+| hoger dan 2 : 1 | boven ongeveer 1,5 : 1 regelen veel moderne zenders hun vermogen al automatisch terug; boven 2 : 1 is de SWR in de praktijk te hoog |
 | **oneindig** | alles komt terug |
 
 ### Waarom is een hoge SWR slecht?

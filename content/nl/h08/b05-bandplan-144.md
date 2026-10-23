@@ -38,7 +38,7 @@ FM-kanalen liggen **12,5 kHz** uit elkaar.
 2. Die liggen aan elkaar: van 144 990 tot 145 800 kHz.
 3. Het antwoord dat dit stuk het best beschrijft: **145 000 tot 145 800 kHz**.
 4. 144 000 tot 146 000 is fout (daar zitten ook CW, SSB en satellieten), 145 000 tot 146 000 ook (satellieten).
-5. Opgelet: 145 000 tot 145 500 ligt ook helemaal in het FM-stuk, maar het is maar een deel ervan. De vraag zoekt het **volledige** FM-bereik, dus kies je het ruimste juiste antwoord.
+5. Opgelet: ook 145 000 tot 145 500 ligt helemaal in het FM-stuk, dus die optie is strikt genomen niet fout. De officiële sleutel kiest het ruimste bereik dat volledig FM is: **145 000 tot 145 800**. Kies dat op het examen.
 
 :::valkuil
 - 145,700 MHz is een repeater**uitgang**: daar zend je niet naartoe.

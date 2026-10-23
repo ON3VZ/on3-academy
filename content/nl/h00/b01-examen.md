@@ -21,9 +21,9 @@ Slaag je voor de praktische proef, dan krijg je een **attest** waarmee je je kun
 ### De 30 theorievragen
 | Onderdeel | Aantal vragen |
 |---|---|
-| **techniek** (elektriciteit, zenders, antennes, propagatie, EMC) | 12 |
+| **techniek** (indeling van dit platform: elektriciteit, zenders, antennes, propagatie, EMC) | 12 |
 | **wetgeving** | 10 |
-| **procedures** (operating en veiligheid) | 8 |
+| **procedures** (indeling van dit platform: operating en veiligheid) | 8 |
 
 Een goed antwoord geeft **1 punt**. Een fout of geen antwoord geeft **0 punten**. Raden kost dus niets: beantwoord altijd alle vragen.
 

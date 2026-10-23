@@ -37,7 +37,6 @@ Veiligheidsvragen zijn makkelijke punten, als je één ding onthoudt: **eerst aa
 ### Bij een ongeval
 1. **Spanning uit.**
 2. Pas dan aanraken.
-3. **112** bellen.
 
 ### Hoe herken je het juiste antwoord op het examen?
 Het juiste antwoord is bijna altijd het **voorzichtigste**: uitschakelen, aarden, beveiligen, niet alleen werken, niet aanraken. Antwoorden over traditie, energie besparen, kleur, geluid, diefstal of storing zijn bij veiligheidsvragen zo goed als altijd fout.

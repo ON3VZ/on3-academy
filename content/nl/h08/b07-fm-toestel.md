@@ -29,28 +29,31 @@ Squelch te ver open gedraaid: je hoort de hele tijd ruis. Te ver dichtgedraaid: 
 - De schaal loopt van **S1** (heel zwak) tot **S9** (sterk).
 - Elk S-punt hoger betekent **2 × zoveel spanning** aan de ingang van de ontvanger.
 - Van S1 naar S9 zijn het 8 stappen: 2 × 2 × 2 × 2 × 2 × 2 × 2 × 2 = **256**. Een signaal van S9 heeft dus **256 keer** de spanning van S1.
-- Boven S9 staat er "+10", "+20" ... dat is het aantal **dB** boven S9.
+
+:::weetje Geen examenstof
+Boven S9 staat op de schaal nog "+10", "+20" ... Dat is het aantal **dB** boven S9.
+:::
 
 ### Het signaalrapport (twee cijfers)
 | 1e cijfer: verstaanbaarheid (R) | 2e cijfer: sterkte (S) |
 |---|---|
-| 1 = onverstaanbaar | 1 = nauwelijks hoorbaar |
-| 2 = soms verstaanbaar | 2 = zeer zwak |
-| 3 = met moeite verstaanbaar | 3 = zwak |
+| 1 = niet verstaanbaar | 1 = nauwelijks hoorbaar |
+| 2 = gedeeltelijk verstaanbaar | 2 = zeer zwak |
+| 3 = net verstaanbaar | 3 = zwak |
 | 4 = verstaanbaar | 4 = voldoende |
-| 5 = perfect verstaanbaar | 5 = goed |
+| 5 = goed verstaanbaar | 5 = goed |
 | | 6 = luid |
 | | 7 = zeer luid met hoofdtelefoon, verstaanbaar met luidspreker |
 | | 8 = goed verstaanbaar met luidspreker |
 | | 9 = zeer luid met luidspreker |
 
-Het 2e cijfer lees je meestal af op de **S-meter**. "Je bent 59" betekent: perfect verstaanbaar en S9.
+Het 2e cijfer lees je meestal af op de **S-meter**. "Je bent 59" betekent: goed verstaanbaar en S9.
 
 ### Uitgewerkt voorbeeld
 Je verstaat alles goed en de S-meter staat op S7. Je rapport is **57** ("vijf zeven").
 
-<details class="zelf" markdown="1"><summary>Zelf proberen: je verstaat de ander met moeite en de S-meter staat op S3. Welk rapport?</summary>
+<details class="zelf" markdown="1"><summary>Zelf proberen: je verstaat de ander maar net en de S-meter staat op S3. Welk rapport?</summary>
 
-**33**: verstaanbaarheid 3 (met moeite), sterkte 3.
+**33**: verstaanbaarheid 3 (net verstaanbaar), sterkte 3.
 
 </details>

@@ -16,7 +16,7 @@ examenvragen: []
 <tr><td>12,5 kHz</td><td>afstand tussen FM-kanalen op 2 m</td></tr>
 <tr><td>× 2</td><td>spanning per S-punt hoger</td></tr>
 <tr><td>256</td><td>S9 heeft 256 × de spanning van S1</td></tr>
-<tr><td>59</td><td>rapport: perfect verstaanbaar, S9</td></tr>
+<tr><td>59</td><td>rapport: goed verstaanbaar, S9</td></tr>
 <tr><td>1,5 : 1</td><td>SWR die meestal goed genoeg is</td></tr>
 </table></div>
 <div class="tbl"><table>

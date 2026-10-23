@@ -20,7 +20,7 @@ Een **zekering** onderbreekt de stroom als die **te groot** wordt. Zo voorkom je
 | Toestel | Zekering |
 |---|---|
 | op het lichtnet (230 V) | in de netspanningstoevoer |
-| op lage spanning (bijvoorbeeld 13,8 V) | zoals de fabrikant voorschrijft, meestal in de plusdraad, dicht bij de voeding of batterij |
+| op lage spanning (bijvoorbeeld 13,8 V) | zoals de fabrikant voorschrijft |
 
 ### De juiste waarde
 | Zekering | Gevolg |

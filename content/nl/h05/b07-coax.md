@@ -5,7 +5,7 @@ kort: Coax en connectoren
 titel: De kabel naar de antenne: coax en connectoren
 uba_ref: hfst. 5.3, p. 20
 checkvragen: [C-h05-7a, C-h05-7b, C-h05-7c]
-examenvragen: [O138, O139, O140, O141, O142, O143, O144, O145]
+examenvragen: [O138, O139, O140, O141, O142, O143, O145]
 ---
 :::kern
 De zender staat binnen, de antenne buiten. De kabel ertussen heet de **transmissielijn** (ook voedingslijn). Die moet het vermogen met **zo weinig mogelijk verlies** naar de antenne brengen en mag **zelf niet uitstralen**. Daarvoor gebruiken we bijna altijd **coaxkabel** (kort: coax), omdat die goed **afgeschermd** is.
@@ -35,7 +35,7 @@ Aan de uiteinden van de coax komen **connectoren** (stekkers). Je gebruikt allee
 
 | Connector | Herken je aan | Gebruik |
 |---|---|---|
-| **PL259** | dikke stekker met een **schroefring** en een pin in het midden. Het chassisdeel (SO239) is vierkant met vier gaatjes | HF, meest gebruikt in de shack |
+| **PL259** | dikke stekker met een **schroefring** en een pin in het midden. Het chassisdeel heet SO239 | HF, meest gebruikt in de shack |
 | **BNC** | kleiner, met een **bajonetsluiting**: duwen en een kwartslag draaien | meetapparatuur, portofoons |
 | **N** | groter, schroefring, waterdicht | VHF en UHF, buiten |
 | **SMA / RP SMA** | heel klein, met schroefdraad | SDR-ontvangers, portofoons |

@@ -8,14 +8,13 @@ checkvragen: [C-h07-3a, C-h07-3b, C-h07-3c]
 examenvragen: [O217, O218, O219, O220, O221]
 ---
 :::kern
-**Immuniteit** is het vermogen van een toestel om **gewoon goed te blijven werken**, ook als er sterke radiogolven in de buurt zijn. Een toestel met een slechte immuniteit kun je beschermen met **filters** of **smoorspoelen** in zijn kabels. Zet die **zo dicht mogelijk bij het gestoorde toestel**.
+**Immuniteit** is het vermogen van een toestel om **gewoon goed te blijven werken**, ook als er sterke radiogolven in de buurt zijn. Een toestel met een slechte immuniteit kun je beschermen met **filters** in zijn kabels. Zet die **zo dicht mogelijk bij het gestoorde toestel**.
 :::
 
 | Woord | Betekenis |
 |---|---|
 | **immuniteit** | een toestel blijft goed werken tussen sterke radiogolven |
 | **filter** | laat het gewone signaal door en houdt de HF tegen |
-| **smoorspoel** | een spoel (vaak een ferrietring) die HF-stroom op een kabel afremt |
 
 ### Waar komt een filter?
 In de kabel waarlangs de storing binnenkomt: het **netsnoer**, de **luidsprekerkabel**, de **antennekabel** of de **telefoonkabel**.

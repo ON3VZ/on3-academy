@@ -21,9 +21,9 @@ Volgens het handboek moet je een aantal handelingen **kunnen tonen** of uitlegge
 ### Checklist HF (SSB)
 | Kun je dit? | Waar staat het? |
 |---|---|
-| afstemmen op een SSB-signaal en een morsesignaal | pagina HF-toestel |
+| afstemmen op een SSB-signaal | pagina HF-toestel |
 | de S-meter aflezen | pagina's FM- en HF-toestel |
-| frequentie, RIT, volume, HF-versterking, microfoonversterking en RF-vermogen instellen | pagina HF-toestel |
+| frequentie, RIT, volume, HF-versterking en microfoonversterking instellen | pagina HF-toestel |
 | de antennetuner bedienen | pagina HF-toestel |
 | een verbinding maken en een rapport geven | pagina's QSO en FM-toestel |
 

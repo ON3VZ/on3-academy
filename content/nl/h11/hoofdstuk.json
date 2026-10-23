@@ -21,8 +21,7 @@
   {"voor": "QRK", "achter": "Hoe is de leesbaarheid van mijn signaal?"},
   {"voor": "QSA", "achter": "Wat is de sterkte van mijn signaal?"},
   {"voor": "QSB", "achter": "Fading: je signaal zakt weg en komt terug."},
-  {"voor": "QRM", "achter": "Storing (in de praktijk door andere stations of mensenwerk)."},
-  {"voor": "QRN", "achter": "Atmosferische storing (niet in de handboektabel)."},
+  {"voor": "QRM", "achter": "Hebt u last van storing? Ik heb last van storing."},
   {"voor": "QRO", "achter": "Verhoog het zendvermogen."},
   {"voor": "QRP", "achter": "Verminder het zendvermogen."},
   {"voor": "QRL", "achter": "Bent u bezig? Ik ben bezig."},
@@ -45,7 +44,7 @@
   {"voor": "44", "achter": "Groet bij fauna en flora (WWFF) en POTA-activaties."},
   {"voor": "K", "achter": "Over, je mag antwoorden."},
   {"voor": "KN", "achter": "Over, enkel het genoemde station."},
-  {"voor": "SK", "achter": "Einde contact. Ook: silent key, een overleden collega."},
+  {"voor": "SK", "achter": "Stoppen met zenden. Informeel: silent key, een overleden collega."},
   {"voor": "FB", "achter": "Fine business: prima."},
   {"voor": "YL", "achter": "Vrouwelijke zendamateur."},
   {"voor": "XYL", "achter": "Echtgenote van een zendamateur."},
@@ -53,12 +52,12 @@
   {"voor": "RST", "achter": "Readability, signal, tone: het rapport."}
  ],
  "samenvatting": [
-  "Q-code: drie letters, beginnend met Q. Met ? is het een vraag, zonder ? een mededeling.",
+  "Q-code: in de regel drie letters, altijd beginnend met Q. Met ? is het een vraag, zonder ? een mededeling.",
   "QRA naam, QTH locatie, QRB afstand, QRG frequentie, QRH constante frequentie, QTR tijd.",
   "QRK leesbaarheid, QSA sterkte, QSB fading, QRM storing, QRO meer vermogen, QRP minder vermogen.",
   "QRL bezig, QRZ wie roept, QSL bevestigen, QSY andere frequentie, QRX wachten, QRT stoppen, QRV klaar.",
   "73 groetjes, 88 liefs en kusjes, 44 groet bij fauna en flora en POTA.",
-  "K over, KN over naar één station, SK einde, FB prima, YL vrouwelijke amateur, XYL echtgenote, OM collega, RST rapport."
+  "K over, KN over naar één station, SK stoppen met zenden, FB prima, YL vrouwelijke amateur, XYL echtgenote, OM collega, RST rapport."
  ],
  "opmerking": "Dit hoofdstuk bevat weetjes en geen examenstof. Er zijn geen originele examenvragen."
 }

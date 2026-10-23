@@ -9,7 +9,7 @@ checkvragen: [C-h15-b10a]
 examenvragen: [E-h15-078, E-h15-079, E-h15-080, E-h15-085, E-h15-086, E-h15-087]
 ---
 :::kern
-Je zendt **in duidelijke taal** over **technische onderzoekingen** en verwante onderwerpen. **Encryptie** mag enkel in drie uitzonderingen. Je roepnaam geef je **aan het begin, aan het einde** en **minstens om de vijf minuten**.
+Je zendt **in duidelijke taal** over **technische onderzoekingen** en verwante onderwerpen. **Encryptie** mag enkel in **twee** gevallen: voor het beheer van een automatisch of van op afstand bediend station (na toestemming van het BIPT) en bij een crisis, op verzoek van de crisisautoriteiten. Bij een oefening van een Belgische nooddienst mag je, met voorafgaand akkoord van het BIPT, over die oefening communiceren; encryptie is daar niet voorzien. Je roepnaam geef je **aan het begin, aan het einde** en **minstens om de vijf minuten**.
 :::
 
 ### Art. 17/7: inhoud van de uitzendingen

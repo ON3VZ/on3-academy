@@ -43,7 +43,7 @@ Niemand mag **in het Rijk** noch **aan boord van een zeeschip, een binnenschip, 
 
 :::impact
 - Zelfs een zender **in de kast** zonder vergunning is al strafbaar.
-- Straf: **200 tot 2 000 euro** en/of **8 dagen tot 1 jaar** gevangenis (wet art. 145, § 2). Dat is de enige overtreding uit deze lijst met **gevangenisstraf** voor gewone gebruikers.
+- Straf: **200 tot 2 000 euro** en/of **8 dagen tot 1 jaar** gevangenis (wet art. 145, § 2). Naast een geldboete riskeer je hier ook een **gevangenisstraf**.
 :::
 
 :::valkuil

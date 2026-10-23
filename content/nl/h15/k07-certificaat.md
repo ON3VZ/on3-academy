@@ -45,7 +45,7 @@ Om een station van de **4e, 5e of 6e categorie** te gebruiken, heb je een **bedi
 | 2 | **bedrog of poging tot bedrog**: examen **nietig**, **drie jaar** geen enkel BIPT-examen, en **intrekking van alle certificaten en vergunningen** die op dat examen gebaseerd zijn |
 
 :::impact
-- Na het examen krijg je eerst het **getuigschrift van aspirant privaat radiotelefonist**. Daarna vraag je het **bedieningscertificaat** aan (dossierrecht) en apart de **stationsvergunning**.
+- Na het examen krijg je eerst het **getuigschrift van aspirant privaat radiotelefonist**. Je eerste **bedieningscertificaat** zit al in het dossierrecht van je examen (KB bijlage 1, art. 1). De **stationsvergunning** vraag je apart aan.
 - Verhuis je of veranderen je gegevens: **meteen** melden en een nieuw certificaat aanvragen. Anders is je certificaat **onbestaande**: je zendt dan eigenlijk zonder certificaat.
 - Voor het examen: **12 jaar**. Een ingenieur of elektricien krijgt **geen** vrijstelling.
 :::

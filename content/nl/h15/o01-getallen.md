@@ -10,7 +10,7 @@ examenvragen: [E-h15-139, E-h15-140, E-h15-141, E-h15-142]
 ---
 <!-- actueel -->
 :::actueel
-**Boete art. 145 § 1**: sinds 18 augustus 2022 is dat **50 tot 100 000 EUR** (niet meer 50 tot 50 000). Het examenreglement van 2021 vermeldt nog 50 000. **§ 3bis** is opgeheven sinds 1 september 2026. **KB art. 43**: de regel van het einde van de maand bestaat niet meer (minimum 30 dagen blijft).
+**Boete art. 145 § 1**: sinds 18 augustus 2022 is dat **50 tot 100 000 EUR** (niet meer 50 tot 50 000). Het examenreglement van 2021 vermeldt nog 50 000. **§ 3bis** is opgeheven sinds 1 september 2026. **KB art. 42 en 43**: het handboek en de actuele KB rekenen per dag met minimum 30 dagen; de Franse tekst van het examenreglement 2021 rekent daar nog per begonnen maand. De regel van het einde van de maand (art. 43) staat in het handboek en het examenreglement van 2021, maar niet meer in de actuele KB.
 :::
 
 Veel wetgevingsvragen draaien om **één getal**. De afleiders zijn dan andere getallen die ook ergens in de wet staan. Deze kaart zet ze allemaal naast elkaar. Lees ze per groep, en kijk telkens naar het **woord ernaast**.
@@ -21,7 +21,7 @@ Veel wetgevingsvragen draaien om **één getal**. De afleiders zijn dan andere g
 | **ouder dan 12 jaar** | bedieningscertificaat en vergunning 5e categorie | KB 5/1 § 3, 17/1 § 3 |
 | **12 jaar** | minimumleeftijd om deel te nemen aan het examen | KB 17/2 § 3 |
 | **ouder dan 18 jaar** | andere vergunningen (natuurlijke personen) | KB 5/1 § 3 |
-| **65-plussers, minderjarigen** | vrijstelling dossierrecht 5e categorie | KB 36 |
+| **65-plussers, minderjarigen** | vrijstelling dossierrecht voor de vergunning van een individueel station 5e categorie (niet voor examen of certificaat, niet voor het jaarlijks recht) | KB 36 |
 
 ### Termijnen in dagen
 | Getal | Waarover? | Artikel |
@@ -52,10 +52,10 @@ Veel wetgevingsvragen draaien om **één getal**. De afleiders zijn dan andere g
 |---|---|---|
 | **3000 GHz** | bovengrens radiogolven | wet 2, 31° |
 | **5e** | categorie van de radioamateurs | KB 4 |
-| **2** | gevolmachtigden met **klasse A** in een erkende vereniging of club | KB 17/4, 17/6 |
+| **minstens 2** | gevolmachtigden met **klasse A** in een erkende vereniging of club | KB 17/4, 17/6 |
 | **5 provincies** (of **4 + Brussel**) | vaste stations van een erkende vereniging | KB 17/4 |
-| **12 punten** | vermindering zelfredzaamheid: examen **thuis** en vrijstelling dossierrecht | KB 17/2, 36 |
-| **een derde** | verminderd verdienvermogen: vrijstelling dossierrecht | KB 36 |
+| **12 punten** | vermindering zelfredzaamheid: examen **thuis** (17/2) en vrijstelling dossierrecht voor de vergunning van een individueel station 5e categorie (36) | KB 17/2, 36 |
+| **een derde** | verminderd verdienvermogen: vrijstelling dossierrecht voor de vergunning van een individueel station 5e categorie | KB 36 |
 | **de helft** | dossierrecht bij **wijziging** van een vergunning | KB 35 |
 | **1 januari 2019** | oude Belgische vergunning 5e cat.: recht op certificaat | KB 17/1 |
 | **13 juni 2017** | oude toestellen, vóór die datum in de handel | wet 37 |
@@ -67,7 +67,7 @@ Veel wetgevingsvragen draaien om **één getal**. De afleiders zijn dan andere g
 | storing, apparatuur, noodseinen, afluisteren, verkoop | 50 tot 50 000 EUR | |
 | **zonder vergunning** (13/1) | **200 tot 2 000 EUR** | **8 dagen tot 1 jaar** |
 | bedrieglijke communicatie | 500 tot 50 000 EUR | 1 tot 4 jaar |
-| overlast aan je correspondent | 50 tot 300 EUR | 15 dagen tot 2 jaar |
+| overlast aan je correspondent | 50 tot 300 EUR (Franse tekst: 20 EUR) | 15 dagen tot 2 jaar |
 
 ### Zo studeer je deze kaart
 1. Dek de middelste kolom af en zeg bij elk getal waarover het gaat.

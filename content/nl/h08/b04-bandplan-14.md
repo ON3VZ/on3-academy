@@ -35,7 +35,7 @@ Radioamateurs gebruiken veel soorten modulatie: CW, SSB, FM, digitaal, beeld. Ee
 "In welk volledig bereik mag je CW zenden?"
 1. CW staat in stuk 1, 2, 3, en ook in 5 tot 8.
 2. Van 14 000 tot 14 099 is CW overal toegelaten.
-3. Daarna komen de bakens (14 099 tot 14 101): daar mag niemand zenden. Elk bereik dat over 14 100 heen loopt, is dus fout.
+3. Daarna komen de bakens (14 099 tot 14 101): daar zenden enkel de bakens, jij zendt er niet. Elk bereik dat voorbij 14 099 kHz loopt, is dus fout.
 4. Antwoord: **14 000 tot 14 099 kHz**.
 
 :::valkuil

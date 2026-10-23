@@ -19,7 +19,7 @@ België kent **drie klassen** bedieningscertificaten: **C** (basis), **B** (Novi
 | **B** | CEPT Novice | 12 | 100 W | nee, enkel gekochte toestellen, niet wijzigen | in een aantal landen |
 | **A** | HAREC | 26 of meer | 1500 W | **ja** | in de meeste landen |
 
-Wettelijke bron: KB 18-12-2009, art. 17/1 § 3.
+Klassen: KB art. 17/1 § 3. Banden, vermogen en bouwen: UBA-handboek p. 3.
 
 ### Wat betekent dat voor jou als ON3?
 - Je kunt toch de **hele wereld** bereiken: 8 banden en 25 W is genoeg met een goede antenne en goede condities.
@@ -32,5 +32,5 @@ Wettelijke bron: KB 18-12-2009, art. 17/1 § 3.
 :::
 
 :::weetje Oude namen
-Vroeger sprak men van de A-vergunning, de beperkte vergunning en de basisvergunning. In de wet heten ze nu klasse A-, B- en C-bedieningscertificaat. In oude examenvragen kom je soms nog de oude namen tegen.
+In oude examenvragen kom je nog oude namen tegen zoals A-vergunning en basisvergunning. Nu heten ze klasse A-, B- en C-bedieningscertificaat.
 :::

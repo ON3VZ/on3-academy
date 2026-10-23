@@ -146,5 +146,6 @@
  "oef_stop": "Stoppen",
  "oef_stop_ok": "Deze oefenreeks stoppen? Je antwoorden tellen dan niet.",
  "oef_klaar": "Reeks afronden",
- "oef_legende": "Groen: 80 % of meer (geslaagd). Oranje: 60 tot 79 %. Rood: minder dan 60 %. Grijs: nog niet geoefend."
+ "oef_legende": "Groen: 80 % of meer (geslaagd). Oranje: 60 tot 79 %. Rood: minder dan 60 %. Grijs: nog niet geoefend.",
+ "gevorderd": "★ Voor gevorderden: niet in het handboek, telt niet mee in het proefexamen"
 }

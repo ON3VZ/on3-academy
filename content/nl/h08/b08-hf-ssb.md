@@ -21,14 +21,17 @@ Op HF gebruik je voor spraak bijna altijd **SSB**: het neemt weinig plaats in en
 | **microfoonversterking** (mic gain) | hoe sterk je stem de zender binnengaat. **Niet te hoog**: anders vervorming en storing |
 | **HF-versterking** (RF gain) | gevoeligheid van de ontvanger. Bij sterke signalen **lager** zetten: minder ruis |
 | **volume** (AF gain) | luidsterkte |
-| **RF-vermogen** (power) | hoeveel vermogen je zendt |
 
 ### Afstemmen op een SSB-station, stap voor stap
-1. Kies de **band** en de juiste **mode**: onder 10 MHz meestal **LSB**, boven 10 MHz **USB**.
+1. Kies de **band** en de juiste **mode** (LSB of USB).
 2. Draai **langzaam** aan de frequentieknop.
 3. Klinkt de stem te hoog of te laag, draai dan heel fijn bij tot ze **natuurlijk** klinkt.
 4. Lees de S-meter af. Bij SSB springt de naald met de spraak mee: neem de **hoogste** stand voor je rapport.
 5. Zit de ander een beetje naast jou en wil je je eigen zendfrequentie niet verplaatsen, gebruik dan de **RIT**.
+
+:::weetje Praktijk, geen examenstof
+In de praktijk gebruikt men onder 10 MHz meestal **LSB** en boven 10 MHz **USB**.
+:::
 
 :::vergelijk Vergelijk met
 Een oude radio met een draaiknop: alleen op de juiste plek klinkt de stem normaal. Een paar millimeter ernaast en het klinkt als een tekenfilmfiguur.

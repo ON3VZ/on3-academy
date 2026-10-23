@@ -8,7 +8,7 @@ checkvragen: [C-h11-1a, C-h11-1b]
 examenvragen: []
 ---
 :::kern
-Een **Q-code** is een korte afspraak van **drie letters**, altijd beginnend met **Q**. Ze bestaat voor een vraag én voor het antwoord. Staat er een **vraagteken** achter, dan is het een **vraag**. Staat het er **zonder**, dan is het een **mededeling**.
+Een **Q-code** is een korte afspraak van **in de regel drie letters**, altijd beginnend met **Q**. Ze bestaat voor een vraag én voor het antwoord. Staat er een **vraagteken** achter, dan is het een **vraag**. Staat het er **zonder**, dan is het een **mededeling**.
 :::
 
 {{svg:h11-vraagmededeling|Dezelfde code, twee betekenissen: het vraagteken beslist.}}
@@ -25,7 +25,7 @@ De sms-afkortingen die iedereen kent, zoals "mvg" of "asap". Een Q-code is hetze
 
 :::valkuil
 - Met **?** is het een **vraag**, zonder **?** een **mededeling**. Vergeet dit verschil niet.
-- Het zijn **drie** letters en ze beginnen altijd met **Q**.
+- Het zijn **in de regel drie** letters en ze beginnen altijd met **Q**.
 :::
 
 <details class="zelf" markdown="1"><summary>Zelf proberen: wat betekent "QSY?"</summary>

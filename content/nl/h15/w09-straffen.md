@@ -24,7 +24,7 @@ Artikel 145 koppelt elke overtreding aan een **straf**. Onthoud vooral twee lijn
 | **1** | art. **15** (storing), **32, 33, 35** (apparatuur), **41** (noodseinen, afluisteren), **42** (verkoop, aangifte) en de besluiten die ze uitvoeren | **50 tot 50 000 EUR** | |
 | **2** | art. **13/1**: **zonder vergunning** houden of gebruiken | **200 tot 2 000 EUR** | **8 dagen tot 1 jaar** |
 | **3** | **bedrieglijk** elektronische communicatie tot stand brengen om jezelf of een ander **wederrechtelijk een voordeel** te geven, of een toestel daarvoor opstellen | **500 tot 50 000 EUR** | **1 tot 4 jaar** |
-| **3bis** | elektronische communicatie gebruiken om je **correspondent overlast** of **schade** te bezorgen | **50 tot 300 EUR** | **15 dagen tot 2 jaar** |
+| **3bis** | elektronische communicatie gebruiken om je **correspondent overlast** of **schade** te bezorgen | **50 tot 300 EUR** (de Franse tekst van het examenreglement 2021 vermeldt 20 EUR) | **15 dagen tot 2 jaar** |
 | **3ter** | gegevens van art. 126 die je via je **functie** kent, met **bedrieglijk opzet** overnemen of gebruiken | **50 tot 50 000 EUR** | **6 maanden tot 3 jaar** |
 | **4** | apparaten die niet voldoen aan art. **32, 33, 35 en 37** | **verbeurdverklaring: altijd** | |
 

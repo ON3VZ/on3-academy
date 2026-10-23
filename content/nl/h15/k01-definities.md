@@ -38,7 +38,7 @@ Is er zonder modulatie geen draaggolf (bv. **SSB**), dan telt het gemiddeld verm
 ### Groep 3: soorten frequenties
 | Punt | Soort | Formulering |
 |---|---|---|
-| 19° | **exclusief** | in een bepaalde zone voor **één enkele houder** (of één specifieke vorm van radiocommunicatie) |
+| 19° | **exclusief** | in een bepaalde zone voor **één enkele houder** (of voor een of meerdere specifieke vormen van radiocommunicatie) |
 | 20° | **gemeenschappelijk** | in een **zelfde zone** voor **verscheidene houders**, **rekening houdend met de dichtheid van de bezetting** |
 | 21° | **collectief** | in **om het even welke zone** voor **verscheidene houders**, **zonder rekening te houden met de dichtheid van de bezetting** |
 | 22° | **niet-essentiële uitstraling** | uitstraling **buiten de toegewezen frequentie**, waarvan het peil **verminderd kan worden zonder de kwaliteit** aan te tasten |

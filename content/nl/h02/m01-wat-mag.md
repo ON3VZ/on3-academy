@@ -32,7 +32,7 @@ Stel jezelf de vraag: **is dit een gesprek in duidelijke taal tussen radioamateu
 
 ### Uitgewerkt voorbeeld
 "Je zit met je portofoon in de trein en roept op 145,500 MHz. Hoe identificeer je je, en met welk maximum vermogen?"
-1. Trein = **mobiel**: ON3XYZ/M.
+1. Een portofoon is een **draagbaar** station, ook in de trein: ON3XYZ/P.
 2. Roepnaam aan het begin, aan het einde en minstens om de 5 minuten.
 3. 145,500 MHz is 2 m: maximum **50 W** (een portofoon zendt meestal veel minder).
 

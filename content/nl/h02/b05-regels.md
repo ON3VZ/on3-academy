@@ -35,7 +35,7 @@ Met je rijbewijs B mag je de vrachtwagen van een vriend niet besturen, ook al he
 :::
 
 :::valkuil
-- Uitzendingen zonder technische waarde of over persoonlijke onderwerpen zijn **niet** verboden. Verboden zijn: omroep, muziek, geheime codes, valse noodberichten.
+- Op het examen gelden uitzendingen zonder technische waarde of over persoonlijke onderwerpen **niet** als verboden. Verboden zijn: omroep, muziek, geheime codes, valse noodberichten.
 - Echte **noodberichten** zijn niet verboden, alleen **valse** of bedrieglijke.
 - Een geheime code mag je ook niet uitzenden als je ze in je logboek zet of daarna in klare taal herhaalt.
 :::

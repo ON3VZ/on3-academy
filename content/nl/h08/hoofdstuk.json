@@ -28,7 +28,7 @@
   {"voor": "20 m: CW en fonie", "achter": "CW 14 000 tot 14 099 (contest tot 14 060). Bakens 14 099 tot 14 101. Fonie vanaf 14 101 (contest 14 125 tot 14 300)."},
   {"voor": "2 m: waar zend je naar een repeater?", "achter": "Op de ingang: 144 990 tot 145 194 kHz, bijvoorbeeld 145,100 MHz."},
   {"voor": "S-meter", "achter": "S1 tot S9. Elk S-punt = 2 × de spanning. S9 = 256 × S1."},
-  {"voor": "Rapport 59", "achter": "5 = perfect verstaanbaar, 9 = zeer sterk."},
+  {"voor": "Rapport 59", "achter": "5 = goed verstaanbaar, 9 = zeer sterk."},
   {"voor": "Squelch", "achter": "Zet de ruis af als er geen signaal is. Instellen tot de ruis net wegvalt."},
   {"voor": "RIT / clarifier", "achter": "Ontvangstfrequentie fijn bijregelen zonder je zendfrequentie te veranderen."}
  ],

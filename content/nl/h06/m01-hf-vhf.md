@@ -49,7 +49,7 @@ Denk aan **licht** en **zicht**.
 
 :::valkuil Twee woorden die op elkaar lijken
 - **ionosfeer**: hoog (70 tot 400 km), geïoniseerd gas, kaatst HF terug.
-- **troposfeer**: laag (tot ongeveer 10 km), daar zit het weer. Speelt soms een rol op VHF, nooit bij gewone HF-verbindingen over grote afstand.
+- **troposfeer**: laag, daar speelt ons weer zich af. Speelt soms een rol op VHF, nooit bij gewone HF-verbindingen over grote afstand.
 :::
 
 <details class="zelf" markdown="1"><summary>Zelf proberen: je wilt met je 2 m-handheld verder komen. Wat doe je eerst?</summary>

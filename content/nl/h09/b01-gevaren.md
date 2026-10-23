@@ -19,7 +19,7 @@ Elektriciteit heeft twee grote gevaren. **Hoge spanning** kan een stroom door je
 | **oververhitting en brand** | grote **stroom** | draden en onderdelen worden heet, isolatie smelt, brand |
 
 ### Hoe ontstaat elektrocutie?
-Je raakt iets aan dat onder spanning staat, terwijl je zelf **contact hebt met de aarde** (je staat op de grond, je raakt een leiding aan). De stroom zoekt de kortste weg naar de aarde, en die weg loopt dan **door jou**.
+Je raakt iets aan dat onder spanning staat, terwijl je zelf **contact hebt met de aarde** (je staat op de grond, je raakt een leiding aan). De stroom vloeit via elke geleidende weg naar de aarde, en als jij die aarde raakt, loopt een deel van die stroom **door jou**.
 
 :::vergelijk Vergelijk met
 Water onder druk in een leiding (spanning) en de hoeveelheid water die erdoor stroomt (stroom). Hoge druk spuit door elk lek, ook door jou. Veel water door een te smalle buis doet die buis barsten (bij elektriciteit: heet worden).

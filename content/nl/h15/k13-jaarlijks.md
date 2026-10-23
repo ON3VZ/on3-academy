@@ -15,7 +15,7 @@ Naast het dossierrecht betaal je **elk jaar** een **jaarlijks recht** voor de **
 
 <!-- actueel -->
 :::actueel
-Art. 43 is vervangen (2014 en 2020). De regel van het **einde van de maand bestaat niet meer**. De buitendienststelling geldt vanaf de **datum van opzegging**. Het BIPT maakt een **creditnota** voor de resterende dagen, met een **minimum van 30 dagen** dat verschuldigd blijft. Dat minimum geldt niet bij **wijziging of vervanging** van een station.
+Art. 43 is vervangen (2014 en 2020). De regel van het **einde van de maand bestaat niet meer**. De buitendienststelling geldt vanaf de **datum van opzegging**. Het BIPT maakt een **creditnota** voor de resterende dagen, met een **minimum van 30 dagen** dat verschuldigd blijft. Dat minimum van 30 dagen geldt sinds 1 januari 2020 niet bij **wijziging of vervanging** van een station, ook niet bij de aanrekening (art. 41) en bij tijdelijke vergunningen (art. 42).
 :::
 ### Art. 37: wat en wie?
 | Lid | Inhoud |
@@ -29,7 +29,7 @@ Art. 43 is vervangen (2014 en 2020). De regel van het **einde van de maand besta
 |---|---|---|
 | station **in dienst op 1 januari** | **het hele jaar** | uiterlijk **30 dagen** na ontvangst van de factuur |
 | in dienst **in de loop van het jaar** | **naar rata** van de dagen tot **31 december**, **minimum dertig dagen** | uiterlijk **30 dagen** na de factuur |
-| **tijdelijke** vergunning (art. 42) | naar rata van de **geldigheidsduur**, **minimum dertig dagen** | idem |
+| **tijdelijke** vergunning (art. 42) | naar rata van de **geldigheidsduur**, **minimum dertig dagen** (de Franse tekst van het examenreglement 2021 rekent hier nog per begonnen maand) | idem |
 
 ### Art. 43: opzegging
 | Regel | Inhoud |
@@ -43,8 +43,8 @@ Art. 43 is vervangen (2014 en 2020). De regel van het **einde van de maand besta
 Alle bedragen worden **jaarlijks op 1 januari** aangepast aan de **index van de consumptieprijzen**: de index van **oktober** van het jaar voordien, gedeeld door de index van **oktober 2006**.
 
 :::impact
-- Je stationsvergunning loopt **per kalenderjaar**: elk jaar krijg je een factuur.
-- Je stopt eind april met de hobby: zeg **uiterlijk 30 april** op, anders betaal je ook **mei**.
+- Het jaarlijks recht wordt **per kalenderjaar** aangerekend: elk jaar krijg je een factuur.
+- Je stopt eind april met de hobby: zeg **uiterlijk 30 april** op, anders betaal je ook **mei** (examentekst 2021; zie het paarse kader).
 - Je betaalt het jaarlijks recht **niet**: het BIPT **kan** schorsen of intrekken (art. 10), en de bedragen blijven verschuldigd.
 :::
 

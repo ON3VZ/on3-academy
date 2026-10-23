@@ -17,7 +17,7 @@ Er zijn twee verschillende papieren. Het **bedieningscertificaat** zegt dat **ji
 | je krijgt het | na een geslaagd examen | als je al een bedieningscertificaat hebt |
 | geldig | **5 jaar**, verlengbaar | **één kalenderjaar**, verlengbaar (jaarlijks) |
 | je mag dan | zenden, ook op een clubstation of het station van een andere radioamateur | zelf een vast, mobiel en draagbaar station hebben en gebruiken |
-| wettelijke bron | KB 18-12-2009, art. 17/1 | KB 18-12-2009, art. 17/5 |
+| wettelijke bron | KB 18-12-2009, art. 17/1 | aanvraag: KB 18-12-2009, art. 17/5; geldigheid: UBA-handboek p. 3 |
 
 ### Van kandidaat tot radioamateur
 {{svg:h02-traject|De weg in vijf stappen. De details staan in het hoofdstuk Wetgeving.}}

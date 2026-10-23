@@ -22,7 +22,7 @@ P = vermogen in watt (W) · U = spanning in volt (V) · I = stroom in ampère (A
 {{svg:h03-driehoek-p|Dezelfde vingertruc, nu met P bovenaan.}}
 
 :::vergelijk Vergelijk met water
-Een tuinslang met veel druk (spanning) en veel water per seconde (stroom) kan veel werk doen: een rad doen draaien, een auto wassen. Druk maal hoeveelheid is wat er "gedaan" wordt: het vermogen.
+Een tuinslang met veel druk (spanning) en veel water per seconde (stroom) kan veel werk doen: een rad doen draaien, een auto wassen. Druk maal hoeveelheid water per seconde is het vermogen.
 :::
 
 ### Uitgewerkt voorbeeld 1

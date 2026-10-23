@@ -36,7 +36,7 @@ Op het examen staan foute woorden die "logisch" klinken: Peter, Amerika, Eric, R
 :::
 
 :::weetje Schrijfwijze
-Officieel schrijft men **Zulu** en **Whiskey**. In het handboek en in sommige examenvragen staat **Zoulou** (zo spreek je het uit: "zoe-loe") en **Whisky**. Dat bedoelt hetzelfde woord.
+In het handboek staat **Zoulou** (uitspraak "zoe-loe"), en in sommige examenvragen **Whisky**. Dat zijn dezelfde woorden als **Zulu** en **Whiskey**.
 :::
 
 <details class="zelf" markdown="1"><summary>Zelf proberen: spel ON4ABC.</summary>

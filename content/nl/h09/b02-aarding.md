@@ -19,8 +19,8 @@ Elk toestel op het lichtnet (230 V) moet aan de **veiligheidsaarding** hangen. G
 ### Twee soorten aarding (geen examenstof in detail)
 | Soort | Wat is het? |
 |---|---|
-| aarding van het lichtnet | de geel-groene draad in je stopcontacten |
-| **beveiligingsaarding** | een metalen staaf diep in de grond (aardelektrode) of een draad rond het gebouw (ringaarding) |
+| aarding van het lichtnet (exploitatie-aarding) | de aarding van het elektriciteitsnet zelf, bij de netbeheerder |
+| **beveiligingsaarding** | een metalen staaf diep in de grond (aardelektrode) of een draad rond het gebouw (ringaarding). Daarop is de geel-groene draad van je stopcontacten aangesloten. |
 
 Meer weten over je eigen aarding? Vraag het aan de netbeheerder of aan een erkend elektricien.
 

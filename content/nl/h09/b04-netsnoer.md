@@ -33,6 +33,6 @@ Ga je **in** een toestel werken, **trek dan eerst de stekker uit**. De aan/uit-k
 - De stekker in het stopcontact laten "voor de aarding" is levensgevaarlijk.
 :::
 
-:::weetje Oude kleuren
-In het handboek staat dat netspanningsdraden meestal rood, zwart of bruin zijn. **Rood** is een **oude** kleur. Vandaag zijn de fasedraden **bruin**, **zwart** of **grijs**, de nul is **blauw** en de aarding **geel-groen**. Kom je in een oud toestel andere kleuren tegen, laat het dan nakijken.
+:::weetje Kleuren in het handboek
+Volgens het handboek zijn de netspanningsdraden meestal **rood**, **zwart** of **bruin**, de nul is **blauw** en de aarding **geel-groen**. In de figuur van het handboek staan **zwart**, **rood** en **grijs** als kleuren voor de fasedraden.
 :::

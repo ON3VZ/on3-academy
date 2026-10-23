@@ -10,7 +10,7 @@ examenvragen: [E-h15-164, E-h15-165, E-h15-166, E-h15-167, E-h15-168, E-h15-169,
 ---
 <!-- actueel -->
 :::actueel
-Sinds 10 januari 2022 zijn in art. 2 de definities **32° (radiofrequenties)** en **35° tot 37° (zendtoestel, zend-ontvangtoestel, ontvangtoestel)** opgeheven. Ze zijn vervangen door **42° radioapparatuur**. In 31° is "of hertzgolven" geschrapt, in 34° de opsomming van voorbeelden. Het examenreglement van 2021 gebruikt nog de definities op deze pagina: leer die voor het examen.
+Sinds 10 januari 2022 zijn in art. 2 de definities **32° (radiofrequenties)** en **35° tot 37° (zendtoestel, zend-ontvangtoestel, ontvangtoestel)** opgeheven; de wet gebruikt daarvoor het begrip **radioapparatuur** (42°, bestaat al sinds 13 juni 2016). Ook 31° (zonder "hertzgolven"), 33° ("het geheel van de radiogolven"), 33/1°, 34° (zonder opsomming, ook audiodiensten uitgesloten), 38°, 38/1° en 39° (ook audiodiensten) zijn herschreven. Het examenreglement van 2021 gebruikt nog de definities op deze pagina: leer die voor het examen.
 :::
 
 Op het examen krijg je vaak een **omschrijving** en vier begrippen, of een **begrip** en vier omschrijvingen die sterk op elkaar lijken. Hieronder staan **alle definities** die examenstof zijn, in de volgorde van de tekst. Het handboek zegt het zelf: enkel deze definities zijn relevant voor radioamateurs en moeten gekend zijn. De wet en het KB bevatten nog andere definities, die zijn geen examenstof.

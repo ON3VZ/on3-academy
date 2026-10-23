@@ -20,9 +20,6 @@ Hier staan de codes voor **hoe goed het gaat**: **QRK** (leesbaarheid), **QSA** 
 | **QRO** | Zal ik mijn zendvermogen verhogen? | Verhoog uw zendvermogen |
 | **QRP** | Zal ik het zendvermogen verminderen? | Verminder het zendvermogen |
 
-### QRM in de praktijk
-In de praktijk betekent **QRM** storing door **andere stations of mensenwerk** (bijvoorbeeld een slecht toestel in de buurt). **QRN** is storing door **de atmosfeer** (onweer). QRN staat niet in de tabel van het handboek, maar je hoort het veel.
-
 ### QRP en QRO
 Een ervaren amateur zegt ook "ik werk **QRP**" voor **weinig vermogen**, en "**QRO**" voor **veel vermogen**. Onthoud het paar: **QRO** = meer vermogen, **QRP** = minder vermogen.
 
@@ -33,7 +30,7 @@ Een ervaren amateur zegt ook "ik werk **QRP**" voor **weinig vermogen**, en "**Q
 :::valkuil
 - **QRK** gaat over **verstaanbaarheid**, **QSA** over **sterkte**. Niet door elkaar halen.
 - **QRO** = **meer** vermogen, **QRP** = **minder** vermogen.
-- **QRM** = storing door **andere** zenders of mensenwerk, **QRN** = atmosfeer.
+- **QRM** gaat over **storing**, **QSB** over **fading**. Niet door elkaar halen.
 :::
 
 <details class="zelf" markdown="1"><summary>Zelf proberen: je signaal zwakt voortdurend af en komt terug. Welke code is dat?</summary>

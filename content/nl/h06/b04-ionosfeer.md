@@ -19,8 +19,7 @@ Hoog boven de aarde, van ongeveer **70 tot 400 km**, liggen lagen gas die door d
 | **ionosfeer** | lagen geïoniseerd gas op 70 tot 400 km hoogte |
 | **geïoniseerd** | elektrisch geladen gemaakt (hier door de straling van de zon) |
 | **reflectie** | terugkaatsen |
-| **sprong** (hop) | één keer op en neer tussen aarde en ionosfeer. Na een sprong kan de golf op de aarde weer terugkaatsen en een volgende sprong maken |
-| **troposfeer** | de onderste luchtlaag, waar het weer zich afspeelt (tot ongeveer 10 km). Dat is **niet** de ionosfeer |
+| **troposfeer** | de onderste luchtlaag, waar ons weer zich afspeelt (handboek p. 27). Dat is **niet** de ionosfeer |
 
 :::vergelijk Vergelijk met
 Een steen die over het water ketst. Hij raakt het water, springt weer op en komt verder neer. Een HF-golf doet hetzelfde tussen de ionosfeer en de aarde, en komt zo duizenden kilometers ver.
@@ -36,5 +35,5 @@ Een steen die over het water ketst. Hij raakt het water, springt weer op en komt
 :::valkuil
 - Verbindingen over grote afstand op HF gaan via de **ionosfeer**. Niet via de troposfeer, niet via rechtstreeks zicht en niet doordat de golf langs het aardoppervlak buigt.
 - De ionosfeer is **gas**, geen metaal, en ook niet luchtledig.
-- De hoogte is **70 tot 400 km**. 5 tot 15 km is de troposfeer (waar vliegtuigen vliegen).
+- De hoogte is **70 tot 400 km**. De troposfeer, de luchtlaag van het weer, ligt veel lager.
 :::

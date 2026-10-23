@@ -28,7 +28,7 @@ Een gitaarsnaar. Tokkel je eraan, dan klinkt altijd dezelfde toon. Een **langere
 {{svg:h05-resonantie|Alleen bij de juiste lengte past de golf precies op de antenne.}}
 
 - Het stuk rond de resonantiefrequentie waar de verliezen nog klein blijven, heet de **bandbreedte** van de antenne.
-- Wil je ver buiten die bandbreedte zenden, dan heb je een **aanpassingsnetwerk** nodig (een ATU, zie verder) of een antenne die daar speciaal voor gemaakt is.
+- Wil je ver buiten die bandbreedte zenden, dan heb je een **aanpassingsnetwerk** nodig (een ATU, zie verder) of gebruik je een niet-resonante antenne.
 
 ### Waarom zijn HF-antennes zo groot en VHF-antennes zo klein?
 De lengte van een antenne hangt af van de **golflengte**. Lage frequentie (HF, kortegolf) = lange golf = grote antenne. Hoge frequentie (VHF, UHF) = korte golf = kleine antenne.

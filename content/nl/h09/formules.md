@@ -19,7 +19,7 @@ examenvragen: []
 </table></div>
 <div class="tbl"><table>
 <tr><th>Kleur</th><th>Draad</th></tr>
-<tr><td>bruin (ook zwart of grijs)</td><td>fase</td></tr>
+<tr><td>bruin (ook rood, zwart of grijs)</td><td>fase</td></tr>
 <tr><td>blauw</td><td>nul</td></tr>
 <tr><td>geel-groen</td><td>aarding</td></tr>
 </table></div>

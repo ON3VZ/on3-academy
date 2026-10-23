@@ -7,6 +7,9 @@ uba_ref: hfst. 4, p. 14 tot 16
 checkvragen: []
 examenvragen: []
 ---
+<p>Het handboek zegt: SSB is ongeveer <b>6 keer efficiënter</b> dan AM. 10 W SSB komt even sterk over als 60 W AM. Dat moet je kennen. Wie wil weten waar die factor 6 vandaan komt, vindt hieronder de achtergrond.</p>
+
+:::gevorderd
 <h3>Stap voor stap</h3>
 <ol class="steps">
 <li><span>Neem een AM-zender van <b>60 W</b> die volledig gemoduleerd is (100 %).</span></li>
@@ -40,4 +43,4 @@ examenvragen: []
 <div class="formula"><div class="f">B<small>AM</small> = 2 × f<small>audio,max</small></div>
 <div class="f">B<small>SSB</small> ≈ f<small>audio,max</small></div>
 <div class="leg">Spraak tot 3 kHz: AM is 6 kHz breed, SSB ongeveer 3 kHz. SSB neemt dus de helft van de plaats in.</div></div>
-
+:::

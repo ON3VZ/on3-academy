@@ -4,7 +4,7 @@ type: brokje
 kort: Bij een ongeval
 titel: Wat doe je bij een ongeval met elektriciteit?
 uba_ref: hfst. 9.2, p. 40
-checkvragen: [C-h09-5a, C-h09-5b]
+checkvragen: [C-h09-5a]
 examenvragen: [O265, O266]
 ---
 :::kern
@@ -24,9 +24,8 @@ Zolang het slachtoffer onder spanning staat, ben je zelf deel van de stroomkring
 Weet daarom op voorhand waar die zitten. Dat is ook de reden voor de centrale noodschakelaar.
 
 :::valkuil
-- Eerst de hulpdiensten bellen kost tijd terwijl de stroom blijft lopen: **eerst uitschakelen**, dan bellen (112).
+- Eerst de hulpdiensten bellen kost tijd terwijl de stroom blijft lopen: **eerst uitschakelen**, dan bellen.
 - Het slachtoffer wegtrekken terwijl de spanning nog aan staat: levensgevaarlijk.
-- Water over het slachtoffer gieten: water geleidt, dat is gevaarlijk.
 - Iedereen mag de spanning uitschakelen, niet alleen het slachtoffer. En na het uitschakelen mag je het slachtoffer wél aanraken.
 - Een ongeval noteer je niet eerst in je logboek.
 :::

@@ -61,7 +61,7 @@ Bij elk artikel vind je drie lagen:
 | **Wat betekent dit voor jou?** | de **impact** in de praktijk |
 
 :::weetje
-De wetgeving is **dezelfde** voor klasse A, B en C. Hier moet je vooral **vanbuiten** leren. De bron is hoofdstuk 15 van het UBA-handboek, dat de UBA nog altijd als examenstof uitgeeft. De officiële teksten staan op ejustice.just.fgov.be.
+De wetgeving is **dezelfde** voor klasse A, B en C. Hier moet je vooral **vanbuiten** leren. De bron is hoofdstuk 15 van het UBA-handboek (versie september 2021), dat de artikels bundelt die je voor het BIPT-examen moet kennen. Het BIPT legt de examenstof vast in het examenreglement. De officiële teksten staan op ejustice.just.fgov.be.
 :::
 
 :::valkuil

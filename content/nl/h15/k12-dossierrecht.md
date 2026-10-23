@@ -26,7 +26,7 @@ Een dossierrecht is verschuldigd voor:
 |---|---|
 | examen (1) | **op het ogenblik van de inschrijving** |
 | certificaat, netwerkanalyse (2, 3) | **voorafgaand** aan de afgifte of het onderzoek |
-| vergunning, gebruiksrecht, houdersvergunning (3, 4, 5) | **binnen 30 dagen** na de factuur (vooraf als inning in België niet zeker is) |
+| netwerkanalyse, vergunning, gebruiksrecht, houdersvergunning (3, 4, 5); het KB noemt 3 in beide rijen | **binnen 30 dagen** na de factuur (vooraf als inning in België niet zeker is) |
 
 ### Art. 35: bijzondere regels
 | Regel | Gevolg |
@@ -47,7 +47,7 @@ Voor vergunningen van **individuele radiostations van de 5e categorie** zijn **v
 - personen met een **vermindering van zelfredzaamheid van ten minste 12 punten** of een **verdienvermogen verminderd tot een derde of minder**, op vertoon van een **certificaat** van de bevoegde overheid (of een kopie).
 
 :::impact
-- Je plant een **activatie** volgende week en vraagt een vergunning aan **3 werkdagen** op voorhand: **vijf keer** het dossierrecht. En bij minder dan **2 werkdagen** mag het BIPT zelfs **weigeren** (art. 6/2).
+- Je vraagt een gewone stationsvergunning aan **3 werkdagen** voor de gewenste datum: **vijf keer** het dossierrecht. Is het een **tijdelijke** vergunning (bv. voor een activatie), dan gelden de grenzen **5 en 2** werkdagen: 3 werkdagen is dan **het dubbele**. En bij minder dan **2 werkdagen** mag het BIPT zelfs **weigeren** (art. 6/2).
 - Je **trekt** je aanvraag **in**: het dossierrecht krijg je **niet** terug.
 - Ben je **65+** of **minderjarig**: geen dossierrecht voor je stationsvergunning. Het **jaarlijks recht** betaal je wel.
 :::
